@@ -1,0 +1,3515 @@
+{
+  "1": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Haarmann",
+    "author": "Peer Meter, Szenario und Text ; Isabel Kreitz, Zeichnungen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K67H3 2010",
+    "library has": "",
+    "publication info": {
+      "place": "Hamburg",
+      "publisher": "Carlsen Verlag",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "175 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Carlsen Graphic Novel)",
+      "Biographical genre, about German serial murderer Fritz Haarmann (1879-1925)."
+    ]
+  },
+  "2": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Happy Warrior : the Life of Sir Winston Churchill as told through Great Britain's Eagle Comic of the 1950s",
+    "author": "told by Clifford Makins ; drawn by Frank Bellamy ; commentary by Richard M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Langworth.",
+    "call number": "DA566.9.C5M23 2008",
+    "library has": "",
+    "publication info": {
+      "place": "Delray Beach, Fla.",
+      "publisher": "Levenger Press",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "3": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Happy Warrior : the Life of Sir Winston Churchill in picture-strip as told in Eagle",
+    "author": "told by Clifford Makins ; drawn by Frank Bellamy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "folio DA566.9.C5M23 1958",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Hulton Press",
+      "date": "1958"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"An Eagle book.\""
+    ]
+  },
+  "4": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Heroes and Heroines of Maryknoll : They Gave Their Lives",
+    "author": "art work and story, William J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Donnelly.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Maryknoll, N.Y.",
+      "publisher": "Maryknoll Fathers and Brothers",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "22 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Bishop Patrick Byrne"
+      },
+      {
+        "title": "Sister Agneta Chang"
+      },
+      {
+        "title": "Brother Gonzaga"
+      },
+      {
+        "title": "Bishop Francis X. Ford"
+      },
+      {
+        "title": "Vincent R. Capodanno"
+      },
+      {
+        "title": "Ita Ford and Carla Piette."
+      }
+    ],
+    "notes": [
+      "By and about the Catholic Foreign Mission Society of America.",
+      "PN6728.25.M33H4 1995"
+    ]
+  },
+  "5": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Highlights from the Lives of 48 Famous Americans whose Deeds have Made History",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.P38H5 1947",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Biographical genre.",
+    "contents": [
+      {
+        "title": "Jane Addams"
+      },
+      {
+        "title": "John J. Audubon"
+      },
+      {
+        "title": "P.T. Barnum"
+      },
+      {
+        "title": "Alexander Graham Bell"
+      },
+      {
+        "title": "Irving Berlin"
+      },
+      {
+        "title": "Daniel Boone"
+      },
+      {
+        "title": "Luther Burbank"
+      },
+      {
+        "title": "Admiral Byrd"
+      },
+      {
+        "title": "Buffalo Bill"
+      },
+      {
+        "title": "George Washington Carver"
+      },
+      {
+        "title": "James Fenimore Cooper"
+      },
+      {
+        "title": "Jack Dempsey"
+      },
+      {
+        "title": "Amelia Earhart"
+      },
+      {
+        "title": "Thomas A. Edison"
+      },
+      {
+        "title": "Dwight D. Eisenhower"
+      },
+      {
+        "title": "Henry Ford"
+      },
+      {
+        "title": "Stephen Foster"
+      },
+      {
+        "title": "Benjamin Franklin"
+      },
+      {
+        "title": "Robert Fulton"
+      },
+      {
+        "title": "Henry Louis Gehrig"
+      },
+      {
+        "title": "George W. Goethals"
+      },
+      {
+        "title": "Ulysses S. Grant"
+      },
+      {
+        "title": "Nathan Hale"
+      },
+      {
+        "title": "Patrick Henry"
+      },
+      {
+        "title": "Herbert Hoover"
+      },
+      {
+        "title": "Charles Evans Hughes"
+      },
+      {
+        "title": "Cordell Hull"
+      },
+      {
+        "title": "Thomas Jefferson"
+      },
+      {
+        "title": "John Paul Jones"
+      },
+      {
+        "title": "Helen Keller"
+      },
+      {
+        "title": "Gen. William S. Knudsen"
+      },
+      {
+        "title": "Robert E. Lee"
+      },
+      {
+        "title": "Abraham Lincoln"
+      },
+      {
+        "title": "George C. Marshall"
+      },
+      {
+        "title": "Mayo brothers"
+      },
+      {
+        "title": "Douglas MacArthur"
+      },
+      {
+        "title": "Chester W. Nimitz"
+      },
+      {
+        "title": "Thomas Paine"
+      },
+      {
+        "title": "James Cash Penney"
+      },
+      {
+        "title": "Joseph Pulitzer"
+      },
+      {
+        "title": "Ernie Pyle"
+      },
+      {
+        "title": "Paul Revere"
+      },
+      {
+        "title": "Franklin Delano Roosevelt"
+      },
+      {
+        "title": "Theodore Roosevelt"
+      },
+      {
+        "title": "Betsy Ross"
+      },
+      {
+        "title": "George Washington"
+      },
+      {
+        "title": "Thomas Woodrow Wilson"
+      },
+      {
+        "title": "The Wright brothers."
+      }
+    ],
+    "notes": [
+      "J.C. Penney Co., 1947.",
+      "1 v. : col. ill., col. ports. ; 19 cm.",
+      "\"Jason Comic Art\".",
+      "\"...designed and produced as a gift for our young customers and their parents.\""
+    ]
+  },
+  "6": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Hillary Clinton",
+    "author": "Neal Bailey, writer ; Ryan Howe, art.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E887.C55B3 2009",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Bluewater Comics, 2009.",
+      "(Female Force)",
+      "Numbered \"1, Jan. '09\"."
+    ]
+  },
+  "7": {
+    "heading": "BIOGRAPICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Hombres y Heroes.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44H58",
+    "library has": "no. 82, 101, 119, 187, 285, 294, 308, 322, 325, 351 (1989-1994).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "15 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México : Novedades, .",
+      "Topic: Biography."
+    ]
+  },
+  "8": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Il Était une Fois Mobutu : Histoire du Zaire",
+    "author": "scénario, Serge Saint-Michel et Alain Gouttman ; dessins, Dominique Fages.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "DT663.S3 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "ABC Afrique Biblio Club",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical and historical genres.",
+    "contents": [],
+    "notes": []
+  },
+  "9": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "JD Samson.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6734.L48J2 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "B&amp;D Press",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "13 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "(The Life and Times of Butch Dykes ; v. 1, issue 2)",
+      "By Eloisa Aquino."
+    ]
+  },
+  "10": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "J. Edgar Hoover : a Graphic Biography",
+    "author": "by Rick Geary.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HV7911.H6G43 2008",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Hill and Wang",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "102 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"Further reading\" 1 p. at end."
+    ]
+  },
+  "11": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Jackie Chan : the Fastest Kick",
+    "author": "Blind Spot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790 .I57 B55J3 2010",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Elex Media Komputindo, 2010.",
+      "(Seri Tokoh Populer ; 03)",
+      "In Indonesian."
+    ]
+  },
+  "12": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Jackie Joyner-Kersee in High Hurdles.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.D3J3 1992",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Tony's Sports Comics)",
+      "\"Presented by Sports Illustrated.\"",
+      "Breakfast cereal giveaway about the African American woman track and field athlete.",
+      "Genres: Biographical, sports."
+    ]
+  },
+  "13": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Jackie Robinson : The Ballplayer Who Made History",
+    "author": "story, John Harrington ; art, Manuel Villalovos III ; letters, Mike Sagara ; edits, Todd Loren.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R4B34no.6",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Baseball Legends Comics ; no. 6)",
+      "Story of the African American baseball player.",
+      "Genres: Biographical, sports."
+    ]
+  },
+  "14": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Janis Alive!",
+    "author": "story, Persophone Longueuiel ; pencils, Randall M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Silverman ; inks, Bill Williams ; letters, Chris Barnett ; edits, Herb Shapiro ; supervising editor, Jay Allen Sanford.",
+    "call number": "PN6728.55.R453R6no.63",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rock n' Roll Comics ; no. 63).",
+      "Cover title: Janis Joplin.",
+      "Singer and rock musician.",
+      "Genre: Biography."
+    ]
+  },
+  "15": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Jésus et son Message de Libération : Bandes Dessinées sur l'Evangile",
+    "author": "écrit par Pierre Thivollier ; dessiné et peint par Pierre Rousseau.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.T47J4 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Editions Cheminements Canada",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "116 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "La naissance et l'enfance de Jésus: Bethléem. Nazareth"
+      },
+      {
+        "title": "L'annonce de l'Evangile: Autour du lac. En Galilée"
+      },
+      {
+        "title": "Accueil ou refus du message: Jérusalem. En Judée"
+      },
+      {
+        "title": "Repas d'adieux, passion, mort et résurrection."
+      }
+    ],
+    "notes": []
+  },
+  "16": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Jésus, le Messie",
+    "author": "Régine et Bruno Le Sourd, dessinateurs.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6732.B5J4 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Ottawa",
+      "publisher": "Novalis",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection La Bible ; 3)",
+      "\"Cette production a été rendue possible grâce à la collaboration de: Univers-Media de Paris, Office de catéchèse du Québec à Montréal, Novalis d'Ottawa\".",
+      "Publié aussi en anglais sous le titre: Jesus, the Messiah."
+    ]
+  },
+  "17": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Joe Louis, Champion of Champions.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.2.F3J6",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Greenwich, Conn.",
+      "publisher": "Fawcett Publications",
+      "date": "1950"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Sports and biographical genres.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Sept. 1950) - no. 2 (Nov. 1950).",
+      "\"Undefeated heavyweight champion of the world!\""
+    ]
+  },
+  "18": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "John McCain",
+    "author": "written by Andy Helfer ; art by Stephen Thompson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E840.8.M467H4 2008",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "IDW Publishing",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "(Presidential Material)"
+    ]
+  },
+  "19": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Johnny Cash : I See a Darkness : a Graphic Novel",
+    "author": "by Reinhard Kleist ; translated from the German edition by Michael Waaler.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K55C313 2009",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "SelfMadeHero",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "221 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Translated from the German title which was: Cash: I See a Darkness.",
+      "Includes bibliographic resources."
+    ]
+  },
+  "20": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Julius Caesar : the Life of a Roman General",
+    "author": "by Gary Jeffrey &amp; Kate Petty ; illustrated by Sam Hadley.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.G67J8 2005",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Rosen Classroom Books &amp; Materials",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical and historical genres.",
+    "contents": [],
+    "notes": [
+      "(Graphic Nonfiction)",
+      "Summary: The life of Julius Caesar, the Roman general and leader who conquered Gaul and defeated his fellow Romans in civil war.",
+      "Includes bibliographical references (p. 47) and index."
+    ]
+  },
+  "21": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "K-milo 100fuegos : Criollo como las Palmas",
+    "author": "Francisco Blanco Hernández ; Francisco Blanco Ávila.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.C93 B55K2 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Havana, Cuba",
+      "publisher": "Pablo de la Torriente",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references.",
+      "Biographical genre (title should be read \"Camillo Cienfuegos\")."
+    ]
+  },
+  "22": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Kafka",
+    "author": "David Zane Mairowitz and Robert Crumb.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PT2621.A26 Z5M45 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "175 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"Originally published as Kafka for Beginners in 1993 by Icon Books.\"",
+      "Includes pages of comics."
+    ]
+  },
+  "23": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Kafka",
+    "author": "by Robert Crumb &amp; David Zane Mairowitz.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PT2621.A26 Z5M45 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Seattle, Wash.",
+      "publisher": "Fantagraphics Books",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "176 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "24": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Kalpana Chawla",
+    "author": "script, Margie Sastry ; illustrations, Shyam Desai.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790 .I54A5 no.736",
+    "library has": "",
+    "publication info": {
+      "place": "Mumbai, India",
+      "publisher": "India Book House",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Amar Chitra Katha ; no. 736)",
+      "Biography of Kalpana Chawla (1961-2003), first Indian born American woman astronaut."
+    ]
+  },
+  "25": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "King David",
+    "author": "by Kyle Baker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B33K5 2002",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "2002"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 28 cm.",
+      "Format places the dialogue in captions outside the panels.",
+      "Biographical and historical genres, about David the king of Israel."
+    ]
+  },
+  "26": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Lawrence of Arabia",
+    "author": "Elliot Dooley ; adapted by Anne Mueser.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.K5L33 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Bruguera",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "(King Classics)",
+      "(Illustrated Classics ; no. 24)"
+    ]
+  },
+  "27": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Legend of Wild Man Fischer",
+    "author": "by Dennis P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Eichhorn and J.R. Williams.",
+    "call number": "PN6727.W494L4 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Atlanta",
+      "publisher": "Top Shelf Productions",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical genre, alternative rock music setting."
+    ]
+  },
+  "28": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "El Libertador : Vie et Aventures de Simon Bolivar",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "P. Gourmelen, A.H. Palacios.",
+    "call number": "F2235.3.G6 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical, against the background of the wars of independence in Latin America, 1806-1830."
+    ]
+  },
+  "29": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Libro Fantástico : Vidas Ejemplares.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44V4873 1979",
+    "library has": "",
+    "publication info": {
+      "place": "México",
+      "publisher": "Organización Editorial Novaro",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "224 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Fray Martín de Porres, el Beato Prodigioso (p. 1-32)"
+      },
+      {
+        "title": "Su Santidad Juan XXIII, Patriarca del Mundo (p. 33-64)"
+      },
+      {
+        "title": "Santa Teresita del Niño Jesús (p. 65-96)"
+      },
+      {
+        "title": "San Ignacio de Loyola, el Gran Batallador (p. 97-128)"
+      },
+      {
+        "title": "Santa Bernardita, el Milagro de Lourdes (p. 129-160)"
+      },
+      {
+        "title": "San Francisco de Asís (p. 161-192)"
+      },
+      {
+        "title": "San Juan Bosco, Protector de los Niños (p. 193-224)."
+      }
+    ],
+    "notes": [
+      "Collects issues of the biographical comic book Vidas ejemplares (serie águila)."
+    ]
+  },
+  "30": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Life Stories of American Presidents.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.2.D4L48 1957",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Dell Publishing Co.",
+      "date": "1957"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "\"No. 1\"."
+    ]
+  },
+  "31": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Lily Renée, Escape Artist : From Holocaust Survivor to Comic Book Pioneer",
+    "author": "Trina Robbins ; illustrated by Anne Timmons and Mo Oh.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.P453 Z5 2011",
+    "library has": "",
+    "publication info": {
+      "place": "Minneapolis, MN",
+      "publisher": "Graphic Universe",
+      "date": "2011"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "96 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Summary (from SkyRiver): Presents the story of Lily Renée Wilheim, the Jewish girl who escaped from the Nazis through the Kindertransport operation, leaving her parents behind and traveling alone to England, later becoming a comic book artist in New York."
+    ]
+  },
+  "32": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Logicomix : an Epic Search for Truth",
+    "author": "Apostolos Doxiadis, Christos H",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Papadimitriou.",
+    "call number": "B1649.R94D66 2009",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Bloomsbury",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "347 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Summary (from OCLC): This innovative, dramatic graphic novel recounts the spiritual odyssey of philosopher Bertrand Russell. In his agonized search for absolute truth, Russell crosses paths with legendary thinkers and finds a passionate student in the great Ludwig Wittgenstein."
+    ]
+  },
+  "33": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Louis Cyr dans les Pattes de McSohmer",
+    "author": "textes et dessins, Yves Poissant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.P6L6 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Baloune : Intrinsèque",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical comic about Louis Cyr (1863-1912) who was famous for his great strength."
+    ]
+  },
+  "34": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Louis Riel",
+    "author": "written and drawn by Chester Brown.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F1060.9.R53B7 1999",
+    "library has": "no. 1-4, 6-7.",
+    "publication info": {
+      "place": "Montreal, Que.",
+      "publisher": "Drawn and Quarterly Publications",
+      "date": "1999-"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in \"approximately ten\" comic books.",
+      "Includes bibliographical references.",
+      "Biographical and historical work on 19th century Canada."
+    ]
+  },
+  "35": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Louis Riel : a Comic-Strip Biography",
+    "author": "Chester Brown.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F1060.9.R53B7 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Drawn and Quarterly",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "260 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About Louis Riel (1844-1885), the Red River Rebellion (1869-1870), and the Riel Rebellion (1885)."
+    ]
+  },
+  "36": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Louis Riel en Bande Dessinée",
+    "author": "Robert Freynet.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F1060.8.F7 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Saint-Boniface, Man.",
+      "publisher": "Éditions des Plaines",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "58 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical and historical."
+    ]
+  },
+  "37": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Magic Life of Milarepa, Tibet's Great Yogi",
+    "author": "Eva Van Dam.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43V25M3 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Boston",
+      "publisher": "Shambhala Publications",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "78 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Settings: Tibet, Buddhism.",
+      "Life of Mi-la-ras-pa (1040-1123 A.D.).",
+      "Genres: Biographical, religious."
+    ]
+  },
+  "38": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Malcolm X : a Graphic Biography",
+    "author": "written by Andrew Helfer ; art by Randy DuBurke.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "BP223.Z8L5744 2006",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Hill and Wang",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "102 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "39": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Malcolm X for Beginners",
+    "author": "written by Abdul Alkalimat ; designed &amp; illustrated by The Harlem Trucking Co.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E185.97.L5A44 1990",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Writers and Readers Pub.",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Writers and Readers Beginners Documentary Comic Book ; 45)",
+      "Includes bibliography."
+    ]
+  },
+  "40": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Les Malheurs de Marine",
+    "author": "scénario de Bob Stone ; dessins de Julien David ; préface de Mouloud.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D3524M3 2007",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Political and biographical genres.",
+    "contents": [],
+    "notes": [
+      "Editions du Seuil, 2007.",
+      "(Politics)",
+      "\"Une biographie satirique de Marine Le Pen.\""
+    ]
+  },
+  "41": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Manga Messiah",
+    "author": "script writer, Hidenori Kumai ; artist, Kozumi Shinozawa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 S459M3 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Carol Stream, IL",
+      "publisher": "Tyndale House",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "287 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical and religious genres.",
+    "contents": [],
+    "notes": [
+      "The story of Jesus Christ told in comics format."
+    ]
+  },
+  "42": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Manuelita : una Mujer toda Mujer",
+    "author": "guión, Víctor Joaquín Ortega ; dibujos, Maikel Luis García.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.C93 L8M3 2010",
+    "library has": "",
+    "publication info": {
+      "place": "La Habana",
+      "publisher": "Editorial Gente Nueva",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical genre, about Manuela Sáenz."
+    ]
+  },
+  "43": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Marcelle Mallet : don du coeur de Dieu aux pauvres, fondatrice des Soeurs de la Charité de Québec",
+    "author": "réalisation, Yvonne Ward, et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " ; script, Pierre Dhombre ; illustrations, Alain d'Orange.",
+    "call number": "BX4534.2.M3M3 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Strasbourg, France",
+      "publisher": "Éditions Sadifa Media",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Grands Moments de l'Église Canadienne)",
+      "Includes bibliographical references.",
+      "Biographical comic about the nun who founded the Soeurs Grises."
+    ]
+  },
+  "44": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Marguerite Bourgeoys, Fondatrice de la Congrégation de Notre-Dame de Montréal et co-fondatrice de l'Église canadienne, 1620-1700",
+    "author": "réalisation, une équipe de Soeurs de la Congrégation de Notre-Dame ; scénario, Pierre Dhombre ; illustrations, Alain d'Orange.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "BX4705.B73M3 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions Fleurus",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Grands Moments de l'Église Canadienne)",
+      "Biographical comic."
+    ]
+  },
+  "45": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Marie Fitzbach : à la suite du Bon Pasteur",
+    "author": "script, Pierre Dhombre ; illustration, Alain d'Orange.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "BX4446.76.M3 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Strasbourg, France",
+      "publisher": "Éditions Sadifa C2L",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Grands Moments de l'Église Canadienne)",
+      "Biographical comic about Marie du Sacré-Coeur, mère (1806-1885) and her Sisters of the Good Shepherd of Quebec."
+    ]
+  },
+  "46": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Marilyn, the Story of a Woman",
+    "author": "Kathryn Hyatt.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN2287.M69H93 1996",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Seven Stories Press",
+      "date": "1996"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 23 cm.",
+      "Comic about Marilyn Monroe (1926-1962)."
+    ]
+  },
+  "47": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Martin Luther King, Jr.",
+    "author": "editor, Ruchir Shah.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E185.97.K5M252 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Barrington, RI",
+      "publisher": "EZ Comics",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "33 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "(A Story from American History)"
+    ]
+  },
+  "48": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Me and the Devil Blues : the Unreal Life of Robert Johnson",
+    "author": "Akira Hiramoto ; translated and adapted by David Ury ; lettering by North Market Street Graphics.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 H55M413 2008",
+    "library has": "v. 1-2.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Ballantine Books",
+      "date": "2008-"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"Del Rey.\"",
+      "\"A phantasmagoric reimaginging of the life of legendary blues great Robert Johnson, Me and the devil blues follows the journey of a man who really did sell his soul to the devil.\""
+    ]
+  },
+  "49": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Medal of Honor.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D34M368 1994",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "Milwaukie, Oregon",
+      "publisher": "Dark Horse Comics",
+      "date": "1994-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "no. 1: Richard Bong (Civil War), Julius Langbein (WWII)"
+      },
+      {
+        "title": "no. 2: Jimmie Howard (Vietnam), Maurice Britt (WWII)"
+      },
+      {
+        "title": "no. 3: Andrews Raid (Civil War), Donald T. Ross (WWII)"
+      },
+      {
+        "title": "no. 4: Tommy Hudner (Korea); Holderman, McMurtry and Whittlesey (WWI)."
+      }
+    ],
+    "notes": [
+      "To be complete in 5 nos.",
+      "Various artists; written by Doug Murray.",
+      "Genres: War, biography."
+    ]
+  },
+  "50": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Metallica's Greatest Hits.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R4M4",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1993-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Sept. 1993).",
+      "Biographical."
+    ]
+  },
+  "51": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Michelle Obama",
+    "author": "Neal Bailey, writer ; Joshua LaBello, penciller.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E901.1 .O24B3 2009",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Bluewater Comics, 2009.",
+      "(Female Force)",
+      "Numbered \"1, April '09.\""
+    ]
+  },
+  "52": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Mickey Mantle.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M225M5",
+    "library has": "no. 1-2 (1991).",
+    "publication info": {
+      "place": "Buffalo, N.Y.",
+      "publisher": "Magnum Comics",
+      "date": "1991-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Dec. 1991)",
+      "(Baseball's Greatest Heroes)",
+      "Genres: Sports, biography."
+    ]
+  },
+  "53": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Minute Biographies : intimate glimpses into the lives of 150 famous men and women",
+    "author": "by Samuel Nisenson and Alfred Parker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Grosset &amp; Dunlap",
+      "date": "1931"
+    },
+    "physical description": {
+      "dimensions": "26 cm. 1. Biography",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "160 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Dictionaries. I. Nisenson, Samuel. II. Parker, Alfred. III. Grosset &amp; Dunlap. Call no.: CT103.N5 1931"
+    ]
+  },
+  "54": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Mujeres Célebres.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44M775",
+    "library has": "no. 128, 136, 139 (1971-1972).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México, D.F. : Organización Editorial Novaro, .",
+      "Biographical comics, about women."
+    ]
+  },
+  "55": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Mujeres Inmortales.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44M783",
+    "library has": "no. 4 (198-?).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "México, D.F. : Editorial Meridiano, ."
+    ]
+  },
+  "56": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Musical Legends",
+    "author": "by Justin Green ; foreword by Marc Weidenbaum ; afterword by Joel Selvin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.G715M8 2003",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Last Gasp",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "112 p.",
+      "illustrationTypes": "ill. (part col.)"
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"The collected comics from Pulse! magazine.\""
+    ]
+  },
+  "57": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "My Friend Dahmer : a True Story",
+    "author": "by Derf.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.D437M9 2002",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Derfcity Comics, 2002.",
+      "Title from cover and caption inside front cover.",
+      "Indicia and splash page title: Young Jeffrey Dahmer.",
+      "Biographical."
+    ]
+  },
+  "58": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Napoleón",
+    "author": "Javier Covo Torres.",
+    "title_type": "official",
+    "series": "a la Mignón",
+    "call number": "DC203.4.C64 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Bogotá",
+      "publisher": "El Ancora Editores",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "121 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "2. ed",
+      "Includes bibliographical references (p. 121).",
+      "Cover artwork signed: Covo.",
+      "Biographical comic book about Napoleon I."
+    ]
+  },
+  "59": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Nat Turner",
+    "author": "Kyle Baker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F232.S7B345 2007",
+    "library has": "v. 2.",
+    "publication info": {
+      "place": "Berkley, CA",
+      "publisher": "Image Comics",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Historical and biographical genres.",
+    "contents": [],
+    "notes": []
+  },
+  "60": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Nat Turner",
+    "author": "Kyle Baker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F232.S7B345 2008",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Abrams",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "207 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical and historical genres.",
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references (p. 203).",
+      "About Nat Turner and the Southampton Insurrection (slave rebellion) of 1831."
+    ]
+  },
+  "61": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Nelson Mandela",
+    "author": "Kerri O'Hern and Gini Holland ; illustrations, D",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " McHargue.",
+    "call number": "DT1974 .O38 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Milwaukee, WI",
+      "publisher": "World Almanac Library",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "(Graphic Biographies)",
+      "Includes bibliographical references.",
+      "Summary (from SkyRiver): Biography of a man determined to end apartheid in South Africa, who went to jail for twenty-seven years."
+    ]
+  },
+  "62": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Nelson Mandela : Rolihlahla",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nelson) Mandela.",
+    "call number": "DT1974.N457 2008",
+    "library has": "",
+    "publication info": {
+      "place": "Singapore",
+      "publisher": "Y.kids",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "151 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "(Great Figures in History)",
+      "Includes bibliographical references (p. 150-151).",
+      "Summary (from SkyRiver): An educational comic on the life of the famous activist leader and former President of South Africa."
+    ]
+  },
+  "63": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Nelson Mandela : the Authorised Comic Book",
+    "author": "Nelson Mandela Foundation with Umlando Wezithombe.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "DT1974.N455 2008",
+    "library has": "",
+    "publication info": {
+      "place": "Johannesburg",
+      "publisher": "Jonathan Ball",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "193 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Includes index.",
+      "\"The Umlando Wezithombe team has been marshalled by Nic Buchanan and has comprised : scriptwriting and research: Santa Buchanan and Andrew Smith ; storyboarding, Santa Buchanan and Pitshou Mampa ; illustrating, Pitshou Mampa, Pascal 'Freehand' Nzoni and Sivuyile Matwa ; inking and colouring, Richie Orphan, Pascal Nzoni, Sivuyile Matwa, Jose 'King' Jungo, Pitshou Mampa, and Sean Abbood.\""
+    ]
+  },
+  "64": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Nolan Ryan #1 : the Unauthorized Biography",
+    "author": "writer, Michele Howell ; illustrated by John Tartaglione.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.P43N6 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Northport, N.Y.",
+      "publisher": "Celebrity Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"#1, April 1992.\"",
+      "Illustrated prose format."
+    ]
+  },
+  "65": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Une Nuit chez les Marx",
+    "author": "Claude Jean-Philippe, Patrick Lesueur.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN2297.M3J4 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Portraits Souvenirs)",
+      "Biography of the family of comedians and actors."
+    ]
+  },
+  "66": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Original Johnson",
+    "author": "by Trevor Von Eeden ; with George Freeman, color art.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.V62 O7 2008",
+    "library has": "v. 2.",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "IDW Publishing",
+      "date": "2008-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical genre, about the African American boxer Jack Johnson (1878-1946)."
+    ]
+  },
+  "67": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Ozzie Smith in The Kid Who Could.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.D3 O9 1992",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Tony's Sports Comics)",
+      "\"Presented by Sports Illustrated.\"",
+      "Baseball biography."
+    ]
+  },
+  "68": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Ozzy Osbourne.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M25 O9",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Westlake Village, CA",
+      "publisher": "Rock-It Comix",
+      "date": "1993-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Dec. 1993).",
+      "Rock and roll biography."
+    ]
+  },
+  "69": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Pamela Anderson Uncovered : the Unauthorized Biography.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.P625P3 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Westport, CT",
+      "publisher": "Pop Comics",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Vol. 1, no. 1, 1995 issue.\""
+    ]
+  },
+  "70": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Pandit Basdeo Bissoondoyal : Pioneer of Mauritian Jan-Andolan",
+    "author": "concept &amp; script, Suresh Rituparna ; illustration, Atul Vardhan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M373V3 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Delhi",
+      "publisher": "Gaurav Prakashn (India)",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Other title: Pt. Basdeo Bissondoyal.",
+      "Biographical comic about Basdeo Bissoondoyal (1906-1991) and the history of Mauritius."
+    ]
+  },
+  "71": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Paul, le Converti",
+    "author": "comité de rédaction, René Berthier, et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " ; comité de lecture (éd. canadienne) Paul-André Giguère, et al.",
+    "call number": "BS2506.5.P3 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Hull, Québec",
+      "publisher": "Novalis",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection La Bible ; 8)",
+      "Biographical comic about Paul the Apostle."
+    ]
+  },
+  "72": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Père de la Nation : Chacha Ramgoolam : Biographie Illustrée de Sir Seewoosagur Ramgoolam à l'Occasion de son 100e Anniversaire",
+    "author": "conçu et écrit en anglais par Suresh Rituparna ; illustrations, Sandeep Dutta.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M373D8 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Delhi",
+      "publisher": "Gaurav Prakashan (Inde)",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "73": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Pink Floyd Experience.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R4 P5 1991",
+    "library has": "no. 4 (Dec. 1991).",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1991-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in 5 nos.",
+      "Genre: Biographical."
+    ]
+  },
+  "74": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Poets and Thinkers",
+    "author": "editor, Anant Pai.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790 .I54 A5P6 2010",
+    "library has": "",
+    "publication info": {
+      "place": "Mumbai, India",
+      "publisher": "Amar Chitra Katha Pvt Ltd",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Biographical genre.",
+    "contents": [
+      {
+        "title": "Kabir"
+      },
+      {
+        "title": "Marabai"
+      },
+      {
+        "title": "Ekanath"
+      },
+      {
+        "title": "Soordas"
+      },
+      {
+        "title": "Narayana Guru."
+      }
+    ],
+    "notes": [
+      "ca. 160 p. : col. ill. ; 25 cm.",
+      "(Amar Chitra Katha 5-in-1 ; v. 1027)"
+    ]
+  },
+  "75": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Los Presidenciables, o, en Otras Palabras : El que no Conoce a Díos a Cualquier Barbón se le Hinca",
+    "author": "por Rene Eclaire ; monos de Rumor.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F1234.E25 1980z",
+    "library has": "t. 2.",
+    "publication info": {
+      "place": "México, D.F.",
+      "publisher": "Ediciones Latinoamericanas",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Best Sellers ELSA)",
+      "Complete in 2 v.",
+      "Biographical comic strips about Mexican politicians occupy p. 533-567 of t. 2."
+    ]
+  },
+  "76": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Presidential Material : Barack Obama",
+    "author": "written by Jeff Mariotte ; art by Tom Morgan ; color by Len O'Grady ; letters by Robbie Robbins",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Presidential Material : John McCain",
+    "call number": "JK1030.M27 2008",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "IDW Publishing",
+      "date": "2008"
+    },
+    "physical description": null,
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "28, 32 p. : col. ill. (chiefly col.) ; 26 cm.",
+      "Titles from separate title pages; works bound back-to-back and inverted.",
+      "Includes bibliographical references.",
+      "Summary (from OCLC): Presents the lives and accomplishments of both the Republican and Democratic 2008 United States presidential candidates in comics format."
+    ]
+  },
+  "77": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Price of Freedom : Life of Kotoka from Birth to Death",
+    "author": "author &amp; illustrator, Yaw Boakye Ghanatta.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "DT510.6.K68G49 1967",
+    "library has": "",
+    "publication info": {
+      "place": "Accra-Tema, Ghana",
+      "publisher": "State Pub. Corp.",
+      "date": "1967"
+    },
+    "physical description": {
+      "dimensions": "21 x 28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "40 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Photocopy of original."
+    ]
+  },
+  "78": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Princess Diana",
+    "author": "Chris Arrant, writer ; Andrew Yerrakadu, art.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "DA591.A45A7 2009",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Bluewater Comics, 2009.",
+      "(Female Force)",
+      "Numbered \"1, July '09\"."
+    ]
+  },
+  "79": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Quién fue ...?",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44Q49",
+    "library has": "no. 3, 8 (2002).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "México, D.F. : Editorial Vid, ."
+    ]
+  },
+  "80": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "¿Quién fue...? Edición Especial.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44Q52",
+    "library has": "no. 5 (1982).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "México, D.F. : Editorial Vid, ."
+    ]
+  },
+  "81": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Rebecca Lord.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R395R4 1998",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Re-Visionary Press",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Erotic and biographical genres.",
+    "contents": [],
+    "notes": [
+      "(True Stories of Adult Film Stars)",
+      "(Carnal Comics)",
+      "\"#1\".",
+      "\"Adults only.\""
+    ]
+  },
+  "82": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Reich.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.S62R4",
+    "library has": "no. 5 (2008).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Portland, Ore. : Sparkplug Comic Books, .",
+      "By Elijah J. Brubaker.",
+      "Biographical genre, about Wilhelm Reich (1897-1957)."
+    ]
+  },
+  "83": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Richard Speck : the Unauthorized Biography of a Serial Killer",
+    "author": "Wayne Allen Sallee, writer ; Ralph Horsely, artist/letterer.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.B6R5 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Champaign, IL",
+      "publisher": "Boneyard Press",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"No. 1, March 1993.\"",
+      "\"Mature readers.\""
+    ]
+  },
+  "84": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Rock n' Roll Comics.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.R453R6",
+    "library has": "no. 1-2, 6-7, 9-11, 14, 17, 25-27, 32, 36, 39, 48, 51, 53-58, 60, 62-65 (1989-1993).",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1989-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (June 1989)."
+    ]
+  },
+  "85": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Rolling Stones",
+    "author": "script, Todd Loren ; art &amp; letters, Andy Kuhn.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.R453R6no.6",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rock n' Roll Comics ; no. 6)",
+      "Genre: Biography."
+    ]
+  },
+  "86": {
+    "heading": "BIOGRAHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Ronald Reagan : a Graphic Biography",
+    "author": "written by Andrew Helfer ; art by Steve Buccellato and Joe Staton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E877.2.H45 2007",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Hill and Wang",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "102 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "",
+      "\"A novel graphic from Hill and Wang.\"",
+      "Includes bibliographical references (p. 103)."
+    ]
+  },
+  "87": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Rosa Parks : the Life of a Civil Rights Heroine",
+    "author": "Rob Shone ; illustrated by Nick Spender.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.G67R6 2007",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Rosen Classroom Books &amp; Materials",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [
+      {
+        "title": "Slavery"
+      },
+      {
+        "title": "Living with \"Jim Crow\""
+      },
+      {
+        "title": "Rosa Parks, the life of a civil rights heroine"
+      },
+      {
+        "title": "The struggle continues."
+      }
+    ],
+    "notes": [
+      "(Graphic Biographies)",
+      "Includes bibliographical references (p. 47) and index."
+    ]
+  },
+  "88": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "SPX 2002 : Biographical Comics Issue.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6705.U5S6 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Bethesda, Maryland?",
+      "publisher": "Comic Book Legal Defense Fund",
+      "date": "2002"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"A.R. + Machines\" p. 3-9"
+      },
+      {
+        "title": "\"Duty Must Be Done\" p. 10-19"
+      },
+      {
+        "title": "\"Ivy Island\"* p.20-31"
+      },
+      {
+        "title": "\"Lester Beall, American Designer\" p. 32-38"
+      },
+      {
+        "title": "\"Bellocq\" p. 39-48"
+      },
+      {
+        "title": "\"Young Wm. Blake\" p. 49-52"
+      },
+      {
+        "title": "\"The Labyrinth\" p. 53-64"
+      },
+      {
+        "title": "\"Bourbaki for Beginners\" p. 65-76"
+      },
+      {
+        "title": "\"The Clown Presents 'An Artist'\" p. 77-82"
+      },
+      {
+        "title": "\"Neal Cassady is Diying\" p. 83-88"
+      },
+      {
+        "title": "\"Davey Crockett\" p. 89-95"
+      },
+      {
+        "title": "\"The Quiet Life of Henry Darger\" p. 96-99"
+      },
+      {
+        "title": "\"Francis of Assisi\" p. 100-106"
+      },
+      {
+        "title": "\"The Anomalous Author\" p. 107-110"
+      },
+      {
+        "title": "\"Harryhausen\" p. 111-114"
+      },
+      {
+        "title": "\"Hasan-i-Sabbah, Master of Assassins\" p. 115-119"
+      },
+      {
+        "title": "\"Invisibl Skratch Piklz 1995-2000\" p. 120-125"
+      },
+      {
+        "title": "\"Jaccuzzi Brothers\" p. 126-129"
+      },
+      {
+        "title": "\"Let's Just Call Her Jane\" p. 130-140"
+      },
+      {
+        "title": "\"Jocko Flocko\" p. 141-146"
+      },
+      {
+        "title": "\"Abba\" p. 147-157"
+      },
+      {
+        "title": "\"The Ghost of Carolyn Keene\" p. 158-166"
+      },
+      {
+        "title": "\"Hedy Lamarr\" p. 167-172"
+      },
+      {
+        "title": "\"Don Leslie\" p. 173-176"
+      },
+      {
+        "title": "\"Prairie Dogs\"* p. 177-181"
+      },
+      {
+        "title": "\"Graham Lowe\" p. 182-185"
+      },
+      {
+        "title": "\"Machiavelli\" p. 186-191"
+      },
+      {
+        "title": "\"Kasimir Malevich\" p. 192-195"
+      },
+      {
+        "title": "\"Mezz Kicks the Hop\" p. 196-201"
+      },
+      {
+        "title": "\"Henri Michaux\" p. 202-206"
+      },
+      {
+        "title": "\"Haruo Nakajima : The Man Inside of Godzilla\" p. 207-215"
+      },
+      {
+        "title": "\"Jack Nance\" p. 217-225"
+      },
+      {
+        "title": "\"Raz\" p. 226-231"
+      },
+      {
+        "title": "\"Terry Sawchuck\" p. 232-237"
+      },
+      {
+        "title": "\"The Perpetual Child\" p. 238-249"
+      },
+      {
+        "title": "\"Schultes in the Amazon\" p. 250-255"
+      },
+      {
+        "title": "\"Saint Clare of Assisi, the Patron Saint of Television\" p. 256-259"
+      },
+      {
+        "title": "\"The Two Dull Syllables\"* p. 260-263"
+      },
+      {
+        "title": "\"God Told Me Not To Cut My Hair\" p. 264-271"
+      },
+      {
+        "title": "\"Henri de Toulouse Lautrec\" p. 272-277"
+      },
+      {
+        "title": "\"Typhoid Mary\" p. 278-281"
+      },
+      {
+        "title": "\"Work : Gustav Vigeland in Short\" p. 282-287"
+      },
+      {
+        "title": "\"Game Over\" p. 288-291"
+      },
+      {
+        "title": "\"Young Webby\" p. 292-295"
+      },
+      {
+        "title": "\"Texas Tower Sniper\"* p. 296-307"
+      },
+      {
+        "title": "\"Hopi vs Happy\" p. 308-311"
+      },
+      {
+        "title": "\"Willy Higinbotham\" back cover."
+      }
+    ],
+    "notes": [
+      "ca. 400 p. : ill. ; 21 cm.",
+      "\"SPX2002 is the book companion to SPX, a festival of cartoonists and publishers held annually in Bethesda, Maryland.\""
+    ]
+  },
+  "89": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Die Sache mit Sorge : Stalins Spion in Tokio",
+    "author": "Isabel Kreitz ; mit einer Dokumentation von Frank Giese.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K67S3 2008",
+    "library has": "",
+    "publication info": {
+      "place": "Hamburg",
+      "publisher": "Carlsen",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "253 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical and spy genres.",
+    "contents": [],
+    "notes": [
+      "(Graphic Novel)"
+    ]
+  },
+  "90": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Santô e os Pais da Aviação : a jornada de Santos-Dumont e de outros homems que queriam voar",
+    "author": "Spacca.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.B73 S63S3 2004",
+    "library has": "",
+    "publication info": {
+      "place": "São Paulo",
+      "publisher": "Companhia das Letras",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "144 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical and historical genres, history of aviation in Brazil."
+    ]
+  },
+  "91": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Sarah Palin",
+    "author": "Neal Bailey, writer ; Ryan Howe, art.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F910.7.P35B3 2009",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "2nd ed.",
+      "Bluewater Comics, 2009.",
+      "(Female Force)",
+      "Numbered \"1, Feb. '09.\""
+    ]
+  },
+  "92": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Satchel Paige : Striking out Jim Crow",
+    "author": "by James Sturm &amp; Rich Tommaso ; with an introduction by Gerald Early.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.S79S75 2007",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Jump at the Sun : Hyperion",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "89 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "At head of title: Center for Cartoon Studies presents.",
+      "A Junior Library Guild selection.",
+      "Summary (from OCLC): Satchel Paige began his baseball career in the Negro Leagues in Alabama in the 1920s. For years, Jim Crow laws, which segregated blacks and whites, kept him out of the major leagues. But they couldn't stop him from becoming a world-class athlete."
+    ]
+  },
+  "93": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Serra : American Founding Father",
+    "author": "illustrated and coloring by John Tartaglione ; inking, Michael Esposito ; text, Roy Gasnick, ; lettering Bill Spicer.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F864.S44J86 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Los Angeles, CA",
+      "publisher": "Franciscan Communications",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(FC Comics)",
+      "Biographical genre ; about 18th century Franciscan missions in California."
+    ]
+  },
+  "94": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Shaquille O'Neal.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.S747S47 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Buffalo, N.Y.",
+      "publisher": "Stellar",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Basketball's Brightest Stars ; no. 1)",
+      "\"Vol. 1, no. 1\".",
+      "Publisher's name expressed as Stellar Comic News Publication (in publication statement); Stellar Comic Book Company (on cover); Stellar Comics (in mailing address).",
+      "Genres: Sports, biography."
+    ]
+  },
+  "95": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Shaquille O'Neal vs. Michael Jordan",
+    "author": "illustrations by Deborah Max ; script by John Di Meola.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "GV884 .O5 D5 1990z",
+    "library has": "pt. 1-2.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill., ports."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "199-?",
+      "Complete in 2 nos.",
+      "No publisher given.",
+      "Text and portraits; not comic strip format."
+    ]
+  },
+  "96": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Spartacus : the Life of a Roman Gladiator",
+    "author": "by Rob Shone &amp; Anita Ganeri ; illustrated by Nick Spender.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.G67S63 2005",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Rosen Classroom Books &amp; Materials",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Historical and biographical genres.",
+    "contents": [],
+    "notes": [
+      "(Graphic Nonfiction)",
+      "Summary: The life of Spartacus, a Thracian slave and gladiator who led a rebellion against the Romans from 73-71 B.C., part of the Servile Wars (135-71 B.C.).",
+      "Includes bibliographical references (p. 47) and index."
+    ]
+  },
+  "97": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Sports Legends Comics.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R4S6",
+    "library has": "no. 1-3 (1992).",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1992-"
+    },
+    "physical description": {
+      "dimensions": "26 cm. - Began with no. 1 (Sept. 1992).",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical."
+    ]
+  },
+  "98": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Strongest Man in the World : Louis Cyr",
+    "author": "Nicolas Debon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "GV545.52.C97D43 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Toronto",
+      "publisher": "Groundwood Books",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "28 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references: p. 28.",
+      "Summary (from OCLC): Louis Cyr astounded audiences throughout North America and Europe with his amazing feats and mammoth proportions. Discover the life and times of this extraordinary hero in this picture book biography.",
+      "Accelerated Reader/Renaissance Learning LG 4.8 0.5"
+    ]
+  },
+  "99": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Sunan Kalijaga",
+    "author": "U",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Syahbudin.",
+    "call number": "PN6790 .I57 S9S8 2000z",
+    "library has": "v. A-C.",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Bandung : Erlina, 200-?",
+      "3 v. (360 p.) : ill. ; 20 cm.",
+      "(Serial Wali Sanga)",
+      "Cover art signed: San Wilantara '02.",
+      "Vols. numbered A-C.",
+      "Biographical genre, about the 16th century \"Muslim saint\" Kalidjogo."
+    ]
+  },
+  "100": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Suspended in Language : Niels Bohr's Life, Discoveries, and the Century he Shaped",
+    "author": "written by Jim Ottaviani ; illustrated and lettered by Leland Purvis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "QC16.B63 O78 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Ann Arbor, MI",
+      "publisher": "G.T. Labs",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "318 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Additional art by Jay Hosler, Roger Langridge, Steve Leialoha, Linda Medley, and Jeff Parker.\"",
+      "Includes bibliographical references (p. 308-310) and index."
+    ]
+  },
+  "101": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Telling Tommy about Famous People in Their Youth",
+    "author": "by Paul Pim.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "CT107.P5 1940",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Cupples and Leon Co.",
+      "date": "1940"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "93 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Each famous person has one page of text and a page (5-6 panels) of illustrated facts."
+    ]
+  },
+  "102": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Two-Fisted Science : Safecracker",
+    "author": "written by Jim Ottaviani.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727 .O85T88 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "General Tektronics Labs, 1997.",
+      "About Richard P. Feynman. Art by Bernie Mireault."
+    ]
+  },
+  "103": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Two-Fisted Science : Stories about Scientists",
+    "author": "written by Jim Ottaviani and illustrated by Mark Badger, Donna Barr, Sean Bieri, Colleen Doran, David Lasky, Steve Lieber, Lin Lucas, Bernie Mireault, Scott Roberts, Scott Saavedra, and Rob Walton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727 .O85 T9 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "126 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "General Tektronics Labs, 1997.",
+      "Includes bibliographical references."
+    ]
+  },
+  "104": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Two Generals",
+    "author": "Scott Chantler.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "D756.5.N6C43 2010",
+    "library has": "",
+    "publication info": {
+      "place": "Toronto",
+      "publisher": "McClelland &amp; Stewart",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "137 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Biographical genre, about Canadian soldiers in World War II."
+    ]
+  },
+  "105": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "U2 in Paper 'n Pictures",
+    "author": "story, Jay Allen Sanford &amp; Michael Willis ; pencils, Dave Briggs ; inx, Tommy Simmons ; letters, Chrissie A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Barnett.",
+    "call number": "PN6728.55.R453R6no.54",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rock n' Roll Comics ; no. 54)",
+      "At head of title: Todd Loren Presents.",
+      "\"This is an unauthorized biography, part 1 of 2.\""
+    ]
+  },
+  "106": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Unauthorized Biography of the Six 3-Stooges : the True Story, Their Public &amp; Private Lives",
+    "author": "story and art, Ian Eddy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A83E28U5 1992",
+    "library has": "",
+    "publication info": {
+      "place": "East Doncaster, Victoria",
+      "publisher": "Fox Comics and Fantagraphics Books",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "21 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Fox Comics Legends Series ; no. 1)"
+    ]
+  },
+  "107": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Unsung Hero : the Story of Robert McNeill",
+    "author": "writer, Harvey Pekar ; artist, David Collier.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.P44U5 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "79 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Harvey Pekar's American Splendor)",
+      "\"This volume collects issues one through three of the Dark Horse comic-book series American Splendor : Unsung Hero.\"",
+      "Biographical comic about the Vietnam War."
+    ]
+  },
+  "108": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Vasco de Gama en la Ruta de las Especias",
+    "author": "dibujos de Eduardo Coelho",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Alburquerque Fundador de un Imperio",
+    "call number": "PN6746.D4N2517 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Madrid, Spain",
+      "publisher": "Planeta Comic",
+      "date": "1979"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 195-240 : col. ill. ; 28 cm.",
+      "(Grandes Heroes el Descubrimiento del Mundo ; no. 5)",
+      "Historical and biographical comic about Portuguese explorers."
+    ]
+  },
+  "109": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "La Vida de...",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44V474",
+    "library has": "no. 20, 27, 30 (2000).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "14 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "México, D.F. : Editorial Ejea, .",
+      "Other title: Una Historia una Vida Presenta La Vida de..."
+    ]
+  },
+  "110": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Vidas Ejemplares.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44V487",
+    "library has": "no. 403, 408 (1973).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México, D.F. : Organización Editorial Novaro, .",
+      "Biographical."
+    ]
+  },
+  "111": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Vidas Ejemplares. Segunda época.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44V4872",
+    "library has": "no. 96, 104 (1994-1995).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México, D.F. : Obra Nacional de la Buena Prensa, .",
+      "Biographical."
+    ]
+  },
+  "112": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Vidas Ilustres.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44V488",
+    "library has": "no. 14, 55, 142, 332 (1957-1974).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México, D.F. : Organización Editorial Novaro, .",
+      "Biographical."
+    ]
+  },
+  "113": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "La Vie de Salvador Dali en BD",
+    "author": "textes, Robert Descharnes, Jeanine Nevers ; dessins, Jean-Michel Renault.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "ND813.D3D432 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Olbia",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "114": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "White Devil : the Life and Legend of Hudson Taylor",
+    "author": "Tien Dao ; translated from the Chinese edition by K",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Meikle with Jan Greenough ; compiled and illustrated by Philadelphia.",
+    "call number": "BV3427.T3D313 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Oxford, UK ; Grand Rapids, Mich.",
+      "publisher": "Monarch Books",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "156 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "\"J. Hudson Taylor sails for China in 1853 at the age of 21. The journey takes five months. Dressing like the Chinese and learning their language, he starts to teach about Jesus. 'Bai Gui!' they shout at him. White Devil! Their hatred is clear. Steeped in the cultural traditions of ancestor worship and idolatry, the Chinese want nothing more than for this Westerner to leave. Criticised by English and Chinese alike and able to trust on-one, Hudson Taylor faces treacherous boat trips, terrifying nights on the street, poverty and even death. But one thing he knows: his God is trustworthy.\""
+    ]
+  },
+  "115": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "De Wildewegen van de Rolleweg : over de Journalistieke Periode van Guido Gezelle",
+    "author": "Mario Boon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43 B615W5 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Brugge",
+      "publisher": "De Striep",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "34 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "116": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "The Wings of Eagles.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.2.D4W465 1957",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Dell Publishing Co.",
+      "date": "1957"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Movie Classic)",
+      "\"W. of E. O.S. #790-574.\"",
+      "\"Based on the MGM motion picture The Wings of Eagles.\"",
+      "\"Dedicated to the men who brought air power to the United States Navy. One such man was Commander Frank 'Spig' Wead...\"",
+      "Biographical genre, about naval aviation."
+    ]
+  },
+  "117": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Women in Rock.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R4W6",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1993-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Dec. 1993).",
+      "Cover title: Rock 'n' Roll Women in Rock Special."
+    ]
+  },
+  "118": {
+    "heading": "BIOGRAPHICAL COMIC BOOKS, STRIPS, ETC.",
+    "title": "Yue Fei : Glory and Tragedy of China's Greatest War Hero",
+    "author": "illustrated by Xu Silin ; translated by Koh Kok Kian.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.C43 X8Y8 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Singapore",
+      "publisher": "Asiapac",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "335 p.",
+      "illustrationTypes": "ill., maps"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Asiapac Comic Series)"
+    ]
+  },
+  "119": {
+    "heading": "Biographical Comic Books, Strips, Etc.--Articles About.",
+    "title": "\"Portraits de Femmes : Figures Historiques dans la Bande Dessinée à l'Usage des Jeunes Filles\"",
+    "author": "Nicolas Dessaux",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 52-55 in 9e Art : les Cahiers du Musée de la Bande Dessinée, no. 6 (Jan. 2001).",
+    "call number": "folio PN6700.N44no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier : la Bande Dessinée des Filles)",
+      "Begins: \"Cette brève étude se donne pour objet d'esquisser l'analyse du choix des figures et du traitement historique des biographies de femmes illustres publiées sous formes de bandes dessinées dans la presse française à l'usage des jeunes filles dans la période 1945-1975, c'est-à-dire de la Libération à la raréfaction des titres non mixtes.\"",
+      "English summary (from p. 150): \"Portraits of Women. Many complete illustrated stories based on historical figures appeared in French girls' weeklies. Nicolas Dessaux shows how these characters from the Bible, the Revolution, the Resistance or the world of sport, presented as role models for the young readers, differed according to publication and period.\""
+    ]
+  },
+  "120": {
+    "heading": "Biographical Comic Books, Strips, Etc.--Articles About.",
+    "title": "\"Vincent, Frida, Alberto et les Autres\"",
+    "author": "Thierry Groensteen",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 110-111 in 9e Art : les Cahiers du Musée de la Bande Dessinée, no. 9 (Oct. 2003).",
+    "call number": "folio PN6700.N44no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comptes Rendus)",
+      "Reviews three biographies in comics format: Vincent et Van Gogh (Gradimir Smudja) ; Frida Kahlo, une Biographie Surréelle (Marco Corona) ; Alberto G. (Éric Lambé &amp; Philippe de Pierpont), the latter about Alberto Giacometti."
+    ]
+  },
+  "121": {
+    "heading": "Biographical Comic Books, Strips, Etc.--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "43"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "122": {
+    "heading": "Biographical Comic Books, Strips, Etc.--Miscellanea.",
+    "title": "\"Non-Red Asia to Hear of American Heroes.\" Associated Press item in the Los Angeles Times, Dec. 20, 1949.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6710.S35 1949",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The U.S. State Department is sending comic-book biographies of George Washington, et al., to South Korea, Thailand, Vietnam, and Indonesia. \"Wording is in the native languages.\""
+    ]
+  },
+  "123": {
+    "heading": "Biographical Comic Books, Strips, Etc.--Miscellanea.",
+    "title": "\"Princess Diana Comic Slips Through the Cracks : Topps Comic Raises Questions about Diamond Policy Regarding Unauthorized Biographies\"",
+    "author": "Greg Stump",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 10-12 in The Comics Journal, no. 201 (Jan. 1998)",
+    "call number": "PN6700.C62no.201",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(News Watch)"
+    ]
+  },
+  "124": {
+    "heading": "Biographical Comic Books, Strips, Etc.--Miscellanea.",
+    "title": "\"Publishing Groups Announce 'Classic' Series\" p. 40-41 in The Comics Journal, no. 264",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov./Dec. 2004).",
+    "call number": "PN6700.C62no.264",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch : Journal Datebook)",
+      "Rosen Publishing Group and Penguin USA will do biographies and literary adaptations respectively."
+    ]
+  }
+}

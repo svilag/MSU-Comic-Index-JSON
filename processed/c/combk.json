@@ -1,0 +1,2327 @@
+{
+  "1": {
+    "heading": null,
+    "title": "The Comic Block.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6700.C577",
+    "library has": "no. 2-4, 6 (1984).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Portland, Or. : Pastime Productions, .",
+      "Editor: Marcus L. Reed.",
+      "Adzine for new wave and other comics, with some reviews."
+    ]
+  },
+  "2": {
+    "heading": null,
+    "title": "Comic Book.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.C6C6",
+    "library has": "no. 9 (2002?).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Parody and superhero genres.",
+    "contents": [],
+    "notes": [
+      "Comics Conspiracy, 2001- .",
+      "Publisher and beginning date from The Slings &amp; Arrows Comic Guide (2003 ed.)"
+    ]
+  },
+  "3": {
+    "heading": null,
+    "title": "Comic Book.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.X4C6 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Lawrence, Kansas",
+      "publisher": "distributed by Xenophobia Enterprises",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "18 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Suitable for everyday use.\"",
+      "Features Skid Roach.",
+      "Genre: Funny animal."
+    ]
+  },
+  "4": {
+    "heading": null,
+    "title": "Comic Book.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.45.P73C6 1973",
+    "library has": "",
+    "publication info": {
+      "place": "St. Clair Shores, Mich.",
+      "publisher": "Progressive Energies Publishing Company",
+      "date": "1973"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Underground genre.",
+    "contents": [
+      {
+        "title": "\"Conway Gorilla\" 1 p."
+      },
+      {
+        "title": "\"Befuddle Hall\"* (Little Nemo in Slumberland) 1 p."
+      },
+      {
+        "title": "\"Jasper Gerbil\" 4 p."
+      },
+      {
+        "title": "\"Accident on the Job\"* 1 p."
+      },
+      {
+        "title": "\"The Adventure of the Dangerous Bird\" (The Upside Downs of Little Lady Lovekins and Old Man Muffaroo) 1/2 p."
+      },
+      {
+        "title": "\"The Fierce Tiger\"* (The Upside Downs of Little Lady Lovekins and Old Man Muffaroo) 1/2 p."
+      },
+      {
+        "title": "\"Judged by the Critic\"* 1/2 p."
+      },
+      {
+        "title": "\"A Dead Give-Away\" 1/2 p."
+      },
+      {
+        "title": "\"It's the Dreaded Brain Eater\" 1 p."
+      },
+      {
+        "title": "\"Now You Too Can Live To Be 143!\" 1 p."
+      },
+      {
+        "title": "\"Transmutations\" 1 p."
+      },
+      {
+        "title": "\"Our Engine is Working Again, Flip\"* (Little Nemo in Slumberland) 1 p."
+      },
+      {
+        "title": "\"The Return of Eyglip\" 1 p."
+      },
+      {
+        "title": "\"This is Entertainment\" 2 p."
+      },
+      {
+        "title": "\"King of the Hippies!\" 3 p."
+      },
+      {
+        "title": "\"Laff-Time!\" 1/2 p."
+      },
+      {
+        "title": "\"Modern Miracles!\" 1/2 p."
+      },
+      {
+        "title": "\"Now, All of You Animals Must Go To Bed!\"* (Little Nemo in Slumberland) 1 p."
+      },
+      {
+        "title": "\"Another Homer Sweetpants Adventure\" 1 p."
+      },
+      {
+        "title": "\"A Fish Story\" (The Upside-Downs of Little Lady Lovekins and Old Man Muffaroo) 1/2 p."
+      },
+      {
+        "title": "\"How Black Beauty Turns an Also-Ran into Video Vic!\" 1/2 p."
+      },
+      {
+        "title": "\"Universe Exploration Comix\" 1 p."
+      },
+      {
+        "title": "\"The Misadventures of Porp\" 1/2 p."
+      },
+      {
+        "title": "\"A Bed Walking\"* (Little Nemo in Slumberland) 1 p."
+      },
+      {
+        "title": "\"Strange Talk-Balloon Chuckles\" 1 p."
+      },
+      {
+        "title": "\"Berferd\" 1 p."
+      },
+      {
+        "title": "\"Mix 'em Up Mirth\" 1 p."
+      }
+    ],
+    "notes": [
+      "\"No. 1\"."
+    ]
+  },
+  "5": {
+    "heading": "Comic-Book.",
+    "entry type": "encyclopedic entry",
+    "title": "Das grosse Comic-Lexikon",
+    "author": "Marcel Feige",
+    "series": null,
+    "pages": {
+      "range": [
+        "115"
+      ]
+    },
+    "call number": "PN6707.F48 2001",
+    "publication info": {
+      "place": null,
+      "publisher": "Berlin: Lexikon Imprint Verlag",
+      "date": "2001"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": "Comic-Book.",
+    "entry type": "index entry",
+    "title": "La Bande Dessinée en 10 Leçons",
+    "author": "Henri Filippini, Michel Bourgeois.",
+    "series": null,
+    "pages": {
+      "range": [
+        "119"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "7": {
+    "heading": "Comic-Book.",
+    "entry type": "index entry",
+    "title": "La Historieta Argentina : una Historia",
+    "author": "Judith Gociol, Diego Rosemberg",
+    "series": null,
+    "pages": {
+      "range": [
+        "363"
+      ]
+    },
+    "call number": "PN6790.A7G6 2000",
+    "publication info": {
+      "place": "Buenos Aires",
+      "publisher": "Ediciones de la Flor",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "8": {
+    "heading": "Comic Book (Terme Technique).",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "150-151"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "9": {
+    "heading": "Comic Book--Reviews.",
+    "title": "\"Comic Book : John Kricfalusi &amp; Various Marvel Comics\"",
+    "author": "reviewed by Eric Reynolds",
+    "title_type": "incipit",
+    "series": "Firing Line",
+    "appears_in": " p. 45 in The Comics Journal, no. 181 (Oct. 1995) 1. Comic Book",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. 2. Krikfalusi, John. I. Reynolds, Eric. II. Firing Line. Call no.: PN6700.C62no.181"
+    ]
+  },
+  "10": {
+    "heading": null,
+    "title": "\"Comic Book : John Kricfalusi &amp; Various Marvel Comics\"",
+    "author": "reviewed by Eric Reynolds",
+    "title_type": "incipit",
+    "series": "Firing Line",
+    "appears_in": " p. 45 in The Comics Journal, no. 181 (Oct. 1995) 1. Comic Book",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. 2. Krikfalusi, John. I. Reynolds, Eric. II. Firing Line. Call no.: PN6700.C62no.181"
+    ]
+  },
+  "11": {
+    "heading": null,
+    "title": "The Comic Book : the one essential guide for comic book fans everywhere",
+    "author": "Paul Sassienie.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.S37 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Edison, N.J.",
+      "publisher": "Chartwell Books, Inc.",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "336 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references (p. 188) and index."
+    ]
+  },
+  "12": {
+    "heading": "Comic Book Act (Washington).",
+    "entry type": "index entry",
+    "title": "Seal of Approval, the History of the Comics Code",
+    "author": "A. Kiste Nyberg",
+    "series": null,
+    "pages": {
+      "range": [
+        "132-133"
+      ]
+    },
+    "call number": "PN6725.N953 1998",
+    "publication info": {
+      "place": "Jackson, Miss.",
+      "publisher": "University Press of Mississippi",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "13": {
+    "heading": null,
+    "title": "\"Comic Book Addict\"",
+    "author": "by George Metzger",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in Fog City Comics, no. 1 (Sept. 1977).",
+    "call number": "PN6728.45.S75F6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "14": {
+    "heading": null,
+    "title": "\"Comic Book Ads!\"",
+    "author": "art: W",
+    "title_type": "incipit",
+    "series": "Dep't: Cut Your Own Throat",
+    "appears_in": " Elder. in Mad, no. 21 (March 1955)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from index in Mad #350",
+      "Reprint call no.: PN6728.2.E15M3a 1986"
+    ]
+  },
+  "15": {
+    "heading": null,
+    "title": "Comic Book Anatomy. Book no. 1",
+    "author": "by Ken Landgraf.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "K. Landgraf",
+      "date": "1990"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "74 leaves : chiefly ill. ; 28 cm. 1. Drawing",
+      "Technique. 2. Anatomy, Artistic. I. Landgraf, Ken. Call no.: NC1764.L3 1990"
+    ]
+  },
+  "16": {
+    "heading": "The Comic Book Arab.",
+    "title": "Jack Shaheen Versus the Comic Book Arab",
+    "author": "by Jack G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Shaheen.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "11 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Detached from: The Link (Americans for Middle East Understanding, Inc.), v. 24, no. 5 (Nov./Dec. 1991) 1. Arabs in comic books, strips, etc. I. Shaheen, Jack G., 1935- II. The Comic Book Arab. III. The Link. IV. Americans for Middle East Understanding. Call no.: PN6725.S45 1991"
+    ]
+  },
+  "17": {
+    "heading": null,
+    "title": "\"The Comic Book Archer!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Green Arrow) 7 p. in Adventure Comics, no. 269",
+    "call number": "PN6728.1.N3A3no.269",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Appearance of Speedy."
+    ]
+  },
+  "18": {
+    "heading": null,
+    "title": "The Comic Book Art of Dick Briefer.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B65A4 1979",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Al Dellinges",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "19": {
+    "heading": null,
+    "title": "The Comic Book Art Series.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1300.C57",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Sacramento, CA",
+      "publisher": "Silverwolf Comics",
+      "date": "1987-"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Feb. 1987).",
+      "Periodical about drawing comics."
+    ]
+  },
+  "20": {
+    "heading": null,
+    "title": "Comic Book Artist.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6700.C58",
+    "library has": "no. 1-3, 7, 12-13 (1998-2001).",
+    "publication info": {
+      "place": "Raleigh, NC",
+      "publisher": "TwoMorrows",
+      "date": "1998-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Spring 1998).",
+      "Inverted at end, no. 1- : Alter Ego, v. 2, no. 1- ."
+    ]
+  },
+  "21": {
+    "heading": null,
+    "title": "Comic Book Artist, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1998) CONTENTS: \"The Era of Adams\" p. 1",
+    "call number": "PN6700.C58no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Welcome Back for the First Time\" (Editor's Rant) p. 2",
+      "\"Archie Goodwin, 1937-1998\" p. 3",
+      "\"Words &amp; Pictures Museum of Sequential Art\" p. 4",
+      "\"The Daring and the Different\" p. 5",
+      "\"Director Comments\" (Carmine Infantino) p. 6-14",
+      "\"Ruining the West &amp; Loving It\" (Bat Lash) p. 16-17",
+      "\"Orlando's Weird Adventures\" p. 19-26",
+      "\"A Tale from the Swamp\" p. 28-29",
+      "\"Along Came Giordano\" p. 30-40",
+      "\"The Story that Haunted Julius Schwartz\" p. 41-42",
+      "\"Cracking the Code: The Liberalization of the Comics Code\" p. 43-45, 63",
+      "\"Neal Adams Art Showcase\" p. 47-51",
+      "\"Takin' Ten with a Regular Joe\" (Joe Kubert) p. 52-56",
+      "\"The Battle over 'Jericho'\" p. 58-60",
+      "\"Can Lightning Strike Twice?\" (C.C. Beck) p. 61-63",
+      "\"The King &amp; the Director\" (Jack Kirby, Carmine Infantino) p. 64-67, 80",
+      "\"Archie's Comics\" (Archie Goodwin) p. 68-72",
+      "\"Who was Mike Sekowsky?\" p. 74-75",
+      "\"Mike Sekowsky's Mod\" p. 76-78",
+      "\"Can't We all Just Get Along?!\"* (Stripped) p. 80"
+    ]
+  },
+  "22": {
+    "heading": null,
+    "title": "Comic Book Artist, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Summer 1998) CONTENTS: \"Marvel's Amazing-Man : Celebrating Gil Kane, Our Great Cover Artist, and the Heroic Ideal\" p. 1",
+    "call number": "PN6700.C58no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Big Books, Small Minds\" p. 2 (editorial)",
+      "\"Letters to the Artist\" p. 3",
+      "\"Basically Just a Man in a Skin-Tight Lycra Flag\"* (Stripped) p. 4",
+      "\"Making Mine Marvel, 1970-77\" p. 5",
+      "\"Stan the Man &amp; Roy the Boy\" (interview) p. 6-18",
+      "\"The Heir Apparent : In Deep with Marvel's Writer/Editor, Roy Thomas\" (interview) p. 20-33, 72",
+      "\"William Blake Everett : A Conversation with the Great Cartoonist's Daughter\" p. 34-35, 61",
+      "\"A Friend of Bill : Talking to Mike Friedrich about the Not-So-Wild Bill Everett\" p. 36-37",
+      "\"The Mark of Kane : An Interview with Marvel's Cover Man, Gil Kane\" p. 38-41",
+      "\"Alias Barry Windsor-Smith\" (interview) p. 42-46",
+      "\"Barry Windsor-Smith Artist Showcase\" p. 47-50",
+      "\"The Uncensored Conan\" p. 51",
+      "\"The Man Called Ploog\" (interview) p. 52-56, 61",
+      "\"Steranko's Unknown Marvels\" p. 58-59",
+      "\"Starlin's Cosmic Books\" (interview) p. 62-65, 71",
+      "\"Nomad\"* (Fred Hembeck's Dateline: @!!?*) p. 67",
+      "\"Steve Englehart &amp; Soul\" (interview) p. 68-71",
+      "\"The Mutant Blackhawks : The Real Origin of the New X-Men\" p. 75"
+    ]
+  },
+  "23": {
+    "heading": null,
+    "title": "Comic Book Artist, no. 7",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 2000) CONTENTS: \"The Front Page\" p. 1",
+    "call number": "PN6700.C58no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"The Stories of Their Lives\" (editorial) p. 4",
+      "\"Give 'em the Finger (Award)\" p. 5",
+      "\"Mesmerizing Actus Tragicus\" (Small Press Spotlight) p. 6, 127",
+      "\"Before I Forget\" (Lou Fine) p. 7-8",
+      "\"The Twinkie Age of Comics\" p. 9, 126-127",
+      "\"The 300 Blows\" p. 10",
+      "\"The Daydream Time\" (Promethea) p. 10, 127",
+      "\"Wonky Beerbohm Article\" (letters) p. 11-15",
+      "\"Mark Hanerfeld\" p. 17-19",
+      "\"Thanos\"* (Dateline: @!!?*) p. 21",
+      "\"Everybody Was King Fu Watchin!\" p. 22-23",
+      "\"A Master of Comics Art\" (Paul Gulacy) p. 24-33",
+      "\"Doug Moench's Memories\" p. 34-48",
+      "\"Dan Adkins' Strange Tales\" p. 50-57",
+      "\"Jim Mooney Over Marvel\" p. 58-63",
+      "\"Clash of the Titans!\" (McGregor/Severin) p. 64-65",
+      "\"Steve Gerber's Crazy Days\" p. 66-79",
+      "\"Rich Buckler Breaks Out!\" p. 80-91",
+      "\"John Byrne's Early Marvel Years\" p. 92-94",
+      "\"The Blue-Jean Generation\" (Steve Mitchell) p. 96-100",
+      "\"Comix Book\" p. 102-108",
+      "\"Key to Marvel Staff Portraits in Sub-Mariner no. 19 (Nov. 1969)\"* p. 110-111",
+      "\"The Great Marvel Exodus\" p. 112-115",
+      "\"Secret Origins of the Direct Market, part 2\" p. 116-125",
+      "\"Gil Kane\" p. 128"
+    ]
+  },
+  "24": {
+    "heading": null,
+    "title": "Comic Book Artist, no. 12",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 2001) Special issue: Charlton Comics of the 1970s",
+    "call number": "PN6700.C58no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"The Front Page\" (misc.) p. 1"
+      }
+    ],
+    "notes": [
+      "\"Nice Guys Can Finish First\" (Nicola Cuti) p. 4",
+      "\"Dorothy Woolfolk Remembered\" p. 5-6",
+      "\"CBA Communiques\" (letters) p. 8-10",
+      "\"Howard the Mouse\"* (Dateline: @!!?*) p. 11",
+      "\"Charlton Comics, 1973\" p. 12-15",
+      "\"Alex Toth : Before I Forget\" p. 16-17",
+      "\"Wildman Times at Charlton\" p. 18-25",
+      "\"Cuti of the Cosmos\" p. 26-45, 110-111",
+      "\"Joe Staton, Man of Energy!\" p. 46-53",
+      "\"Byrne's Robotics\" p. 54-55",
+      "\"Come and Grow Old With Me\" (E-Man and Nova) p. 56-57",
+      "\"The Art of Don Newton\" p. 58-60",
+      "\"Sutton's Lovecraftian Horrors\" p. 62-69",
+      "\"Zeck in the House\" p. 70-76",
+      "\"Jack Keller on Wheels\" p. 78-83",
+      "\"PAM: Artist with a Vengeance\" (Peter A. Morisi) p. 84-85",
+      "\"Sattler in the Saddle\" p. 86-90",
+      "\"Layton and the CPL/Gangsters\" p. 92-97",
+      "\"Rog-2001 : Sterno Speaks!\" (Roger Stern) p. 98-99",
+      "\"Rich Larson, Charlton Cover Guy\" p. 101",
+      "\"An Offer They Couldn't Refuse\" (Dan Reed) p. 102-103",
+      "\"Charlton Twilight &amp; Afterlife\" p. 104-108",
+      "\"Bill Black Remembers\" p. 104",
+      "\"A False Start at Charlton Comics\" (T.C. Ford) p. 106",
+      "\"Celebrating Four that Got Away\" p. 112"
+    ]
+  },
+  "25": {
+    "heading": null,
+    "title": "Comic Book Artist, no. 13",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 2001) Special issue: The Marvel Horrorshow!",
+    "call number": "PN6700.C58no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"The Front Page\" p. 1"
+      },
+      {
+        "author": "Russ Heath. p. 69-72",
+        "title": "\"Son of Satan Portfolio\""
+      }
+    ],
+    "notes": [
+      "\"The Sinister Seventies : Revamping the Code and Marvel's Roulette of Terror in the '70s\" (Editor's Rant) p. 4",
+      "\"Return of the 'Used to' Man\" (Cochran's Corner) p. 5",
+      "\"Charlton Comments &amp; More on Toth\" (CBA Communiques) p. 6-9",
+      "\"Brother Voodoo\"* (Dateline: @!!?*) p. 13",
+      "\"Shadows &amp; the Darkness\" p. 14-17",
+      "\"Steranko : Master Storyteller\" p. 15",
+      "\"Son of Stan : Roy's Years of Horror\" (CBA Interview) p. 18-26",
+      "\"Wolfman by Day\" (CBA Interview) p. 30-47",
+      "\"The Colan Mystique\" (CBA Interview) p. 48-57",
+      "\"Giving Form to the Shadows\" (Tom Palmer) p. 55",
+      "\"The Incredible Herb\" (CBA Interview) p. 58-68",
+      "\"Groovy Gary &amp; the Marvel Years\" (CBA Interview) p. 74-87",
+      "\"Perlin's Wisdom\" (CBA Interview) p. 88-95",
+      "\"Tony's Terrors (and Tigra, Too!)\" (CBA Interview) p. 96-103",
+      "\"Pablo's Amazing Journey\" (CBA Interview) p. 104-108"
+    ]
+  },
+  "26": {
+    "heading": "Comic Book Artist--Reviews.",
+    "title": "\"Charlton Spotlight and the Charlton Issues of Comic Book Artist\"",
+    "author": "by Rich Kreiner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 98-99 in The Comics Journal, no. 234 (June 2001).",
+    "call number": "PN6700.C62no.234",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Meet the Comics Press)",
+      "Reviews the new Charlton Spotlight (2000- ), Comic Book Artist, no. 9 and 12."
+    ]
+  },
+  "27": {
+    "heading": "Comic Book Artist--Reviews.",
+    "title": "\"Comic Book Artist\"",
+    "author": "by Rich Kreiner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 91-93 in The Comics Journal, no. 225 (July 2000).",
+    "call number": "PN6700.C62no.225",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Meet the Comics Press)",
+      "Review."
+    ]
+  },
+  "28": {
+    "heading": null,
+    "title": "Comic Book Artist Collection.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6700.C583",
+    "library has": "v. 3 (2005).",
+    "publication info": {
+      "place": "Raleigh, NC",
+      "publisher": "TwoMorrows Pub.",
+      "date": "2000-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Periodical about comics."
+    ]
+  },
+  "29": {
+    "heading": null,
+    "title": "Comic Book Artist Special Edition.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6700.C582",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Raleigh, NC",
+      "publisher": "TwoMorrows",
+      "date": "1999-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Dec. 1999).",
+      "Periodical about comics."
+    ]
+  },
+  "30": {
+    "heading": null,
+    "title": "Comic Book Artists",
+    "author": "edited by Alex G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Malloy with Brian Kelly and Kevin Ohlandt.",
+    "call number": "PN6714.C6315 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Ridgefield, Conn.",
+      "publisher": "Attic Books, Ltd. ; Radnor, Pa. : Wallace-Homestead",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "346 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Comics values monthly presents\".",
+      "\"Profiles of 150 major illustrators with listings and values for their comics.\"",
+      "Includes bibliographical references (p. 343)."
+    ]
+  },
+  "31": {
+    "heading": null,
+    "title": "\"Comic Book Artists\" p. 39-40 in The Overstreet Comic Book Price Guide, 29th ed.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1999).",
+    "call number": "Z1000.C55no.29",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "32": {
+    "heading": "The Comic Book as Liminal Art Form / by Paul R. Kohl. -- 17 p.",
+    "title": "; 28 cm.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.K6C6 1992",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Presented at the 1992 PCA/ACA Conference, Louisville, Kentucky.",
+      "Includes bibliographical references."
+    ]
+  },
+  "33": {
+    "heading": null,
+    "title": "The Comic Book as Micro-Narrative : Superman and the Crisis at Hand",
+    "author": "B",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Keith Murphy, Jonathan David Tankel.",
+    "call number": "PN6725.M816C6 1992",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "32 leaves : ill. ; 28 cm.",
+      "Presented to Narrative Horizons, the first Kentucky conference on Narrative at Lexington, KY on October 3, 1992.",
+      "Includes bibliographical references.",
+      "\"This is a work in progress. Permission must be secured for any use of this research report.\""
+    ]
+  },
+  "34": {
+    "heading": null,
+    "title": "\"Comic Book Badlands",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Rated X)\" p. 5 in The Comics Journal, no. 40",
+    "call number": "PN6700.C62no.40",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "On ratings of comics.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "35": {
+    "heading": "The Comic-Book Book / edited by Don Thompson and Dick Lupoff.",
+    "call number": "PN6725.T5 1974",
+    "library has": "",
+    "publication info": {
+      "place": "New Rochelle, N.Y.",
+      "publisher": "Arlington House",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "360 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "D. Thompson (on Jack Cole's Plastic Man)",
+        "title": "The Rehabilitation of Eel O'Brian"
+      },
+      {
+        "author": "Bill Blackbeard (on Floyd Gottfredson)",
+        "title": "Mickey Mouse and the Phantom Artist"
+      },
+      {
+        "author": "D. Lupoff",
+        "title": "The Propwash Patrol"
+      },
+      {
+        "author": "Don F. Glut",
+        "title": "Frankenstein Meets the Comics"
+      },
+      {
+        "author": "Maggie Thompson (on Will Eisner's The Spirit)",
+        "title": "Blue Suit, Blue Mask, Blue Gloves, and No Socks"
+      },
+      {
+        "author": "Dick O'Donnell",
+        "title": "It's Magic (on comics magicians)"
+      },
+      {
+        "author": "D. Lupoff",
+        "title": "The Propwash Patrol Flies Again"
+      },
+      {
+        "author": "J. Michael Barrier (on Carl Barks)",
+        "title": "The Duck Man"
+      },
+      {
+        "author": "Juanita Coulson (on superheroines)",
+        "title": "Of (Super) Human Bondage"
+      },
+      {
+        "author": "Camille E. Cazedessus, Jr. (on jungle adventure comics)",
+        "title": "Lords of the Jungle"
+      },
+      {
+        "author": "D. Thompson (on E.C. Comics)",
+        "title": "The Spawn of the Son of M.C. Gaines"
+      },
+      {
+        "author": "Chris Steinbrunner",
+        "title": "Kill! Hissed the Villain as I Shuddered and Listened"
+      },
+      {
+        "author": "Ron Goulart.",
+        "title": "The Second Banana Strikes Again"
+      }
+    ],
+    "notes": [
+      "This collection of essays is a sequel to the editors' All in Color for a Dime (1970)."
+    ]
+  },
+  "36": {
+    "heading": null,
+    "title": "The Comic-Book Book",
+    "author": "edited by Don Thompson &amp; Dick Lupoff.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.T5 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Iola, Wis.",
+      "publisher": "Krause Publications",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "368 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "First edition published 1974.",
+      "Includes index."
+    ]
+  },
+  "37": {
+    "heading": "The Comic-Book Book--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "9"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "38": {
+    "heading": "The Comic-Book Book--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "12",
+        "18",
+        "36",
+        "60",
+        "136"
+      ]
+    },
+    "call number": "PN6725.T5 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "39": {
+    "heading": "The Comic-Book Book--Reviews.",
+    "title": "\"The Comic-Book Book\"",
+    "author": "Mark Evanier",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 29, 31 in Inside Comics, no. 2 (Summer 1974).",
+    "call number": "PN6700.I5no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Inside Books)",
+      "Reviews the book of essays edited by Don Thompson and Dick Lupoff."
+    ]
+  },
+  "40": {
+    "heading": null,
+    "title": "\"Comic Book Books\"",
+    "author": "Mike Barrier",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 85-90 in The Comics Journal, no. 104 (Jan. 1986)",
+    "call number": "PN6700.C62no.104",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews; about comics scholarship.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "41": {
+    "heading": "Comic Book Bubble Gum.",
+    "title": "Rugrats Printed Comic Book Bubble Gum.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.N48R83 1997",
+    "library has": "3 different portfolia.",
+    "publication info": {
+      "place": "Yorkville, IL",
+      "publisher": "Viacom International",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "17 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Collect all 4!\".",
+      "Each portfolio includes printed chewing gum and a page of comics to color.",
+      "\"Nickelodeon\".",
+      "Genre: Funny kid."
+    ]
+  },
+  "42": {
+    "heading": "The Comic Book Caper.",
+    "title": "\"The Case of the Golden Pulp, or, The Comic Book Caper\" p. 19 in The Nostalgia Journal, no. 26",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1976",
+    "call number": "PN6700.C62no.26",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About fiction.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "43": {
+    "heading": null,
+    "title": "\"The Comic Book Career of Ken Ernst\" p. 3-6 in Ron Goulart's Comics History Magazine, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Fall 1997).",
+    "call number": "PN6700.R6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "44": {
+    "heading": null,
+    "title": "\"Comic Book Censorship in the United States\"",
+    "author": "Amy Kiste Nyberg",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 42-68 in Pulp Demons : International Dimensions of the Postwar Anti-Comics Campaign, ed. by John A. Lent (Madison : Fairleigh Dickinson University Press, 1999).",
+    "call number": "PN6710.P85 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references."
+    ]
+  },
+  "45": {
+    "heading": null,
+    "title": "\"Comic Book Centennial Celebrated in Nation's Capital\"",
+    "author": "Ron Evry and Ken Roseman",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 26-29 in The Comics Journal, no. 177 (May 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch)",
+      "Exhibition at Library of Congress and National Gallery of Caricature and Cartoon Art ; Festival at Ohio State ; US commemorative stamps. 1. Library of Congress. 2. National Gallery of Caricature and Cartoon Art. 3. Ohio State University. 4. Postage stamps and comics. 5. Exhibitions of comics. I. Evry, Ron. II. Roseman, Ken. k. Centennials. Call no.: PN6700.C62no.177"
+    ]
+  },
+  "46": {
+    "heading": null,
+    "title": "Comic Book Character : Unleashing the Hero in Us All",
+    "author": "David A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Zimmerman.",
+    "call number": "BJ1251.Z56 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Downers Grove, Ill.",
+      "publisher": "InterVarsity Press",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "160 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Introduction : We could be heroes"
+      },
+      {
+        "title": "Let the weak say \"I am strong\" : Spider-man, Superman &amp; the Incredible Hulk"
+      },
+      {
+        "title": "Vengeance is mine : Batman, the Joker &amp; the Punisher"
+      },
+      {
+        "title": "X-cursus : heroes in the hands of a professional"
+      },
+      {
+        "title": "You cannot see my face : costumes &amp; secret identities"
+      },
+      {
+        "title": "Everyone was beautiful &amp; nothing hurt : body image, agelessness, death"
+      },
+      {
+        "title": "God loves, man kills : gender, race &amp; the X-Men"
+      },
+      {
+        "title": "X-cursus : superheroes &amp; grownup fanboys"
+      },
+      {
+        "title": "My country 'tis of thee : Captain America &amp; the truth"
+      },
+      {
+        "title": "Might makes right : the Justice League meets the Avengers"
+      },
+      {
+        "title": "Gods walk the earth : demi-gods, Daredevil &amp; the problem of religion"
+      },
+      {
+        "title": "Evil is as evil does : Lex Luthor, Magneto &amp; Galactus"
+      },
+      {
+        "title": "Holy case study! Superman versus Jesus"
+      },
+      {
+        "title": "Conclusion : Becoming super"
+      },
+      {
+        "title": "Appendix: How to read a comic book."
+      }
+    ],
+    "notes": [
+      "Includes bibliographical references and index.",
+      "Flip animation in foredge margin.",
+      "Book on superhero comic books and Christian ethics."
+    ]
+  },
+  "47": {
+    "heading": null,
+    "title": "\"Comic Book Character Memorabilia\"",
+    "author": "by John Snyder",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 10-17 in Comic Book Marketplace, no. 8 (Dec. 1991).",
+    "call number": "PN6714.C632no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Describes collectible premiums, figurines, giveaways, etc."
+    ]
+  },
+  "48": {
+    "heading": null,
+    "title": "\"Comic Book Character Memorabilia Price Update\"",
+    "author": "by John Snyder",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 32-33 in Comic Book Marketplace, no. 12 (Apr. 1992).",
+    "call number": "PN6714.C632no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "49": {
+    "heading": null,
+    "title": "\"Comic Book Characters You Can Eat : Pez!\"",
+    "author": "by David Welch",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 55-56 in Comic Book Marketplace, no. 21 (Jan./Feb. 1993).",
+    "call number": "PN6714.C632no.21",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "50": {
+    "heading": null,
+    "title": "Comic Book Checklist &amp; Price Guide.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6714.C655",
+    "library has": "ed. 6 (2000).",
+    "publication info": {
+      "place": "Iola, WI",
+      "publisher": "Krause Publications",
+      "date": "1994-"
+    },
+    "physical description": {
+      "dimensions": "24-26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with 1995 ed.",
+      "At head of title: Comics Buyer's Guide.",
+      "Covers 1961-present."
+    ]
+  },
+  "51": {
+    "heading": "Comic Book Checklist &amp; Price Guide.",
+    "title": "1995 Comic Book Checklist &amp; Price Guide, 1961 - Present : Comic Buyers Guide",
+    "author": "by Don and Maggie Thompson and Julie Stuempfig.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.C615 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Iola, WI",
+      "publisher": "Krause Publications",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "560 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "52": {
+    "heading": null,
+    "title": "\"Comic Book Chronicles Pope's Life, Adventures\"",
+    "author": "by Ellen Knickmeyer",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 20A in The Detroit Free Press, Dec. 8, 2000.",
+    "call number": "PN6710.S35 2000",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Associated press item on a biographical comic about Pope John Paul II being published in Italy in Il Giornalino."
+    ]
+  },
+  "53": {
+    "heading": "Comic Book Cliffhangers.",
+    "title": "Comic Book Heroes of the Screen",
+    "author": "by William Schoell.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Secaucus, N.J.",
+      "publisher": "Carol Pub. Group",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "239 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Krypton's Son, Superman. Gotham's Crusader, the Batman. Captain America, Conscience of the Country. The (Almost) Forgotten Hero, Captain Marvel. Other Heroes. Super-Heroic TV Shows. Comic Book Cliffhangers. Bring on the Heroes. 1. Comic strip characters in motion pictures. 2. Superman films. 3. Batman. 4. Captain America. 5. Captain Marvel. I. Schoell, William. II. Krypton's Son, Superman. III. Gotham's Crusader, the Batman. IV. Captain America, Conscience of the Country. V. The (Almost) Forgotten Hero, Captain Marvel. VI. Super-Heroic TV Shows. VII. Comic Book Cliffhangers. Call no.: PN1995.9.C36S35 1991"
+      }
+    ],
+    "notes": [
+      "Includes filmography and bibliography."
+    ]
+  },
+  "54": {
+    "heading": "Comic Book Club of Ithaca.",
+    "title": "Panel.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Ithaca, NY : Comic Book Club of Ithaca, .",
+      "Description based on v. 8, no. 2 (Mar. 1982); title from cover.",
+      "HOLDINGS: v. 8, no. 2, 7-11; v. 9; v. 10, no. 1, 3-8; v. 11, no. 3-7; v. 12, no. 1; v. 13, no. 3, 5-7; v. 14, no. 1-6, 9. 1. Reviews of comics",
+      "Periodicals. I. Comic Book Club of Ithaca. Call no.: PN6725.P34"
+    ]
+  },
+  "55": {
+    "heading": null,
+    "title": "Comic Book Collecting : clipping file.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 portfolio : ill. ; 25 x 38 cm.",
+      "Collected at Michigan State University in the Russel B. Nye Popular Culture Collection's Popular Culture Vertical File (PCVF). 1. Comic books, strips, etc.",
+      "Collectors and collecting."
+    ]
+  },
+  "56": {
+    "heading": null,
+    "title": "Comic Book Collecting : a valuation guide",
+    "author": "by Robert M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Overstreet.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm. 1. Comic books, strips, etc.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cleveland, TN : Overstreet Publications, c1984.",
+      "United States",
+      "Bibliography",
+      "Catalogs. I. Overstreet, Robert M. Call no.: PN6725.O4C6 1984"
+    ]
+  },
+  "57": {
+    "heading": null,
+    "title": "Comic Book Collecting for Fun and Profit",
+    "author": "by Mike Benton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "23 cm. 1. Comic books, strips, etc.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "149 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "New York : Crown, c1985.",
+      "Collectors and collecting. I. Benton, Mike. Call no.: PN6714.B4 1985"
+    ]
+  },
+  "58": {
+    "heading": null,
+    "title": "Comic Book Collection",
+    "author": "The University of Chicago Library Department of Special Collections.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Chicago, 1973?",
+      "22 leaves ; 28 cm.",
+      "Cover title.",
+      "Photocopy. 1. Comic books, strips, etc.",
+      "Library resources",
+      "Illinois",
+      "Chicago. I. University of Chicago. Library. Call no.: PN6714.U5"
+    ]
+  },
+  "59": {
+    "heading": null,
+    "title": "Comic Book Collector.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6714.C6317",
+    "library has": "no. 2, 12, 14-15, 17, 23-24 (1993-1994).",
+    "publication info": {
+      "place": "Evanston, IL",
+      "publisher": "Century Pub. Co.",
+      "date": "1992-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with: v. 1, no. 1 (Jan. 1993)."
+    ]
+  },
+  "60": {
+    "heading": null,
+    "title": "Comic Book Collector, no. 12",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1993) CONTENTS: \"CBC Mailbox\"",
+    "call number": "PN6714.C6317no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Through the Grapevine\" (news) p. 8, 10",
+      "\"What's New in Comics\" (announcements) p. 12-14, 16-17",
+      "\"Christmas Comics\" (From the Collector's Closet) p. 19-20",
+      "\"CBC Interview with Jim Valentino\" p. 22, 24, 26",
+      "\"Are Comics Good Investments?\" (pt. 3) p. 28-30",
+      "\"Women in Comics : A Gender Issue\" p. 32, 33-34",
+      "\"What I Learned at the San Diego Comic Con\" p. 36-37",
+      "\"Golden Age Extra\" p. 38-40",
+      "\"Building Universes in the Silver Age, pt. 2\" (Silver Bulletins) p. 42-43",
+      "\"McQuade, Hero\" (strip) p. 44-45",
+      "\"What's Hot in Comic Books : Fan Favorites\" p. 46",
+      "\"Comic Card Corner\" p. 48-49",
+      "\"Tooned In\" p. 50-51",
+      "\"Independent Review\" p. 52",
+      "\"Comic Card Prices\" p. 56",
+      "\"CBC Price Guide\" p. 58-88",
+      "\"CBC Convention Calendar &amp; Classifieds 1993\" p. 90"
+    ]
+  },
+  "61": {
+    "heading": "Comic Book Collectors.",
+    "title": "Wimbledon Green : the Greatest Comic Book Collector in the World",
+    "author": "Seth.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.S4W5 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Montreal",
+      "publisher": "Drawn and Quarterly",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "125 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": [
+      "\"A story from the sketchbook of the cartoonist 'Seth'\""
+    ]
+  },
+  "62": {
+    "heading": "\"Comic Book Color and the Digital Revolution\" / Clark Farmer.",
+    "title": "p. 330-346 in International Journal of Comic Art, v. 8, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Fall 2006).",
+    "call number": "PN6700.I54v.8no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes illustrations and bibliographical references."
+    ]
+  },
+  "63": {
+    "heading": "The Comic Book Con Caper.",
+    "title": "\"The Adventure Of The Golden Pulp Or The Comic Book Con Caper\" p. 20",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nostalgia Journal #26 May 1976",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. 1. Conventions and congresses. I. Gallagher, Peter B. II. The Comic Book Con Caper. Call no.: PN6700.C62no.26"
+    ]
+  },
+  "64": {
+    "heading": null,
+    "title": "\"Comic-Book Confidential\"",
+    "author": "by Colin Covert",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. E13 in the Star Tribune (Minneapolis), August 29, 2003.",
+    "call number": "PN6710.S35 2003",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of the film American Splendor."
+    ]
+  },
+  "65": {
+    "heading": null,
+    "title": "Comic Book Confidential.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6734.C614 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Toronto, Ont.",
+      "publisher": "Sphinx Productions",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Advertisement in comic book format for a documentary video of the same title."
+    ]
+  },
+  "66": {
+    "heading": null,
+    "title": "Comic Book Confidential [picture]",
+    "author": "poster artwork, Paul Mavrides.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cinecom Entertainment Group, 1989.",
+      "1 poster : col. ill. ; 114 x 69 cm. 1. Posters. I. Mavrides, Paul. Call no.: PN6725.C535 1989"
+    ]
+  },
+  "67": {
+    "heading": "Comic Book Confidential--Miscellanea.",
+    "title": "\"Comic Book Confidential Featured at AFI/LA Festival\" p. 16-17 in The Comics Journal, no. 129",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1989).",
+    "call number": "PN6700.C62no.129",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Documentary film; American Film Institute.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "68": {
+    "heading": "Comic Book Confidential--Miscellanea.",
+    "title": "\"Comic Book Confidential Opens in NYC\" p. 30 in The Comics Journal, no. 130",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1989).",
+    "call number": "PN6700.C62no.130",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About a documentary film; includes material on Doonesbury.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "69": {
+    "heading": "Comic Book Confidential--Miscellanea.",
+    "title": "Ron Mann interview",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "10 p.) in David Anthony Kraft's Comics Interview no. 70",
+    "call number": "PN6725.D28no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Topics: Comic Book Confidential, Mad, National Lampoon."
+    ]
+  },
+  "70": {
+    "heading": "Comic Book Confidential--Reviews.",
+    "title": "\"Dark Comix : On the Seamier Side of the Strip : A Short History\"",
+    "author": "by Bob Callahan",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 24 in Whole Earth, no. 92 (Spring 1998).",
+    "call number": "AP2.C653no.92",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: One-page essay introduces a review section. Reviews of Dick Tracy, The Spirit (p. 25) ; \"Master Race\" (Kriegstein) (p. 26) ; Introducing Kafka, Maus, The Cabbie (p. 27) ; Read Yourself Raw, Black Hole (Burns) (p. 28) ; Twisted Sisters, Perdita Durango, The Dark Hotel (p. 29) ; The R. Crumb Coffee Table Art Book, Comic Book Confidential, Cartooning the Head &amp; Figure, Comics &amp; Sequential Art (p. 30)"
+    ]
+  },
+  "71": {
+    "heading": "Comic Book Confidential--Reviews.",
+    "title": "\"Through Kitsch Colored Glasses\"",
+    "author": "Gary Groth",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 5-7 in The Comics Journal, no. 132 (Nov. 1989).",
+    "call number": "PN6700.C62no.132",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of Comic Book Confidential, discussing documentary films, creators of comics.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "72": {
+    "heading": "Comic Book Confidential--Reviews.",
+    "title": "\"To Speak Of Many Things\" p. 49-51",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #132 November 1989) 1. Comic Book Confidential",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. 2. Documentary films on comics. I. DeCandido, Keith R.A. Call no.: PN6700.C62no.132"
+    ]
+  },
+  "73": {
+    "heading": null,
+    "title": "\"Comic Book Confidential Featured at AFI/LA Festival\" p. 16-17 in The Comics Journal, no. 129",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1989).",
+    "call number": "PN6700.C62no.129",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Documentary film; American Film Institute.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "74": {
+    "heading": null,
+    "title": "\"Comic Book Confidential Opens in NYC\" p. 30 in The Comics Journal, no. 130",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1989).",
+    "call number": "PN6700.C62no.130",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About a documentary film; includes material on Doonesbury.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "75": {
+    "heading": "Comic Book Conspiracy.",
+    "title": "\"The Great Comic Book Conspiracy!\"",
+    "author": "Joel Beck",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 4 p. in Banzai!, no. 1 (Oct. 1978).",
+    "call number": "PN6728.45.K5B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "76": {
+    "heading": "Comic-Book Controversy Long Before Wertham.",
+    "title": "The Slaughter of the Innocents : Comic-Book Controversy Long Before Wertham",
+    "author": "by Steve Mitchell.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725f.M53 1989",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1985.",
+      "24 leaves : ill. ; 36 cm.",
+      "Caption title.",
+      "Articles about censorship of comics collected in photocopy from the Comics Buyer's Guide for May 17, June 21, June 28, July 19, 1985 and May 9, 1986. Article titles: \"Slaughter of the Innocents\" ; \"The Red-Hot Thrill\" ; \"The Best is the Worst\" ; \"Superman in Disguise.\""
+    ]
+  },
+  "77": {
+    "heading": "The Comic Book Controversy, 1948-1954.",
+    "title": "Conflicting Advice : Parents, the Popular Press and the Comic Book Controversy, 1948-1954",
+    "author": "by Amy Kiste Nyberg.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "28 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1991.",
+      "Paper presented to Qualitative Studies Division, Association for Education in Journalism and Mass Communication annual conference, August 1991, Boston, MA.",
+      "Includes bibliographical references. 1. Children and comic books. 2. The press and comic books, strips, etc. I. Nyberg, Amy Kiste. II. Parents, the Popular Press and the Comic Book Controversy, 1948-1954. III. The Popular Press and the Comic Book Controversy, 1948-1954. IV. The Comic Book Controversy, 1948-1954. Call no.: PN6725.N88C63 1991"
+    ]
+  },
+  "78": {
+    "heading": null,
+    "title": "\"Comic Book Controversy Rages in Publisher's Weekly\" p. 17-18 in The Comics Journal, no. 104",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1986).",
+    "call number": "PN6700.C62no.104",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Media coverage of comics, and literacy and illiteracy.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "79": {
+    "heading": null,
+    "title": "Comic Book Creativity as Displaced Aggression",
+    "author": "by Ronald Levitt Lanyi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6714.L33 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Photocopy of typescript. Ann Arbor, Mich.",
+      "publisher": "University Microfilms International",
+      "date": "1985"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "97 leaves",
+      "Thesis, University of California, 1977.",
+      "Bibliography: leaves 89-97.",
+      "Dissertation on psychological aspects of comics."
+    ]
+  },
+  "80": {
+    "heading": null,
+    "title": "\"Comic Book Creators\"",
+    "author": "Amanda Bede, John Clements, Annette Shiell and Ingrid Unger",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 111-127 (chapter 8) in Bonzer : Australian Comics 1900-1990s (Melbourne : Elgua Media, 1998)",
+    "call number": "PN6790.A8S47 1998",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Brief biographies. ."
+    ]
+  },
+  "81": {
+    "heading": "Comic Book Creators.",
+    "title": "Jack Kirby",
+    "author": "Sue Hamilton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.K53Z5 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Edina, Minn.",
+      "publisher": "ABDO Publishing Company",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comic Book Creators)",
+      "Includes bibliographical references and index.",
+      "Biography for young readers."
+    ]
+  },
+  "82": {
+    "heading": "Comic Book Creators Discuss Racial Identity.",
+    "title": "\"Do We Still Have to Be Black? : Comic Book Creators Discuss Racial Identity\"",
+    "author": "William H",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Foster III. p. 414-429 in International Journal of Comic Art, v. 8, no. 2 (Fall 2006).",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Racial Identity: A Mini Symposium)",
+      "Transcript of a panel discussion moderated by Foster, with the voices of Trevor Von Eeden, Jamal Igle, Mark Morales, and Alitha Martinez.",
+      "Includes illustrations. Call no.: PN6700.I54v.8no.2"
+    ]
+  },
+  "83": {
+    "heading": null,
+    "title": "\"The Comic Book Crisis: A Comics Journal Special Report\" insert p. 1-32 in The Comics Journal, no. 199",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1997).",
+    "call number": "PN6700.C62no.199",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "84": {
+    "heading": null,
+    "title": "\"The Comic Book Crisis and What Can Be Done About It\"",
+    "author": "by John Workman",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " insert p. 3-9 in The Comics Journal, no. 199 (Oct. 1997).",
+    "call number": "PN6700.C62no.199",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Part of: The Comic Book Crisis: A Comics Journal Special Report."
+    ]
+  },
+  "85": {
+    "heading": null,
+    "title": "Comic Book Culture : an Illustrated History",
+    "author": "Ron Goulart.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.G615 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Portland, Or.",
+      "publisher": "Collectors Press",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "204 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references (p. 200).",
+      "A history of American comic books through reprinted comic book covers."
+    ]
+  },
+  "86": {
+    "heading": "Comic Book Culture--Reviews.",
+    "title": "\"Comic Book Culture : An Illustrated History\"",
+    "author": "by Gregory Cwiklik",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 62-65 in The Comics Journal, no. 242 (Apr. 2002).",
+    "call number": "PN6700.C62no.242",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Reviews)",
+      "Review of the Ron Goulart book."
+    ]
+  },
+  "87": {
+    "heading": null,
+    "title": "Comic Book Culture : Fanboys and True Believers",
+    "author": "Matthew Pustz.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.P87 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "244 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Studies in Popular Culture)",
+      "Includes bibliographical references (p. 221-234) and index."
+    ]
+  },
+  "88": {
+    "heading": "Comic Book Culture--Reviews.",
+    "title": "\"Comic Book Culture : Fanboys and True Believers\"",
+    "author": "Marc Singer",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 312-314 in International Journal of Comic Art, v. 2, no. 2 (Fall 2000).",
+    "call number": "PN6700.I54v.2no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews the book by Matthew J. Pustz (University Press of Mississippi, 1999)."
+    ]
+  },
+  "89": {
+    "heading": null,
+    "title": "The Comic Book Custer : a bibliography of Custeriana in comic books and comic strips",
+    "author": "by Brian W",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Dippie and Paul A. Hutton",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1983?",
+      "(Brazos Corral of the Westerners ; no. 4) 1. Custer, George Armstrong, 1839-1876",
+      "Comic books, strips, etc.",
+      "Bibliography. 2. Western comic books, strips, etc.",
+      "Bibliography. I. Dippie, Brian W. II. Hutton, Paul Andrew, 1949- Call no.: E83.876.D5 1983"
+    ]
+  },
+  "90": {
+    "heading": "-",
+    "title": "Comic Book Dealer Directory",
+    "author": "Patrick R",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Dewey.",
+    "call number": "PN6714.D49 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Westport",
+      "publisher": "Meckler",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "203 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "91": {
+    "heading": "Comic Book Dept.",
+    "title": "\"Sound Effects \"",
+    "author": "art: W",
+    "title_type": "incipit",
+    "series": "Dep't: Comic Book",
+    "appears_in": " Wood. in Mad, no. 20 (Feb. 1955).",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Notes: Movies.",
+      "Data from index in Mad #350",
+      "Reprint call no.: PN6728.2.E15M3a 1986"
+    ]
+  },
+  "92": {
+    "heading": null,
+    "title": "The Comic Book Digest.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6700.C587",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "La Mesa, Calif.",
+      "publisher": "Lamp Post Publications",
+      "date": "2004-"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Oct. 2004).",
+      "Periodical about comics."
+    ]
+  },
+  "93": {
+    "heading": "The Comic Book Digest.",
+    "title": "CBD : the Comic Book Digest.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.A38C2",
+    "library has": "no. 2 (2006).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Fantasy genre.",
+    "contents": [],
+    "notes": [
+      "La Mesa, CA : Alias Enterprises, .",
+      "\"A comic book preview magazine.\""
+    ]
+  },
+  "94": {
+    "heading": null,
+    "title": "Comic Book Encyclopedia : the Ultimate Guide to Characters, Graphic Novels, Writers, and Artists in the Comic Book Universe",
+    "author": "Ron Goulart.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.G632 2004",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "HarperEntertainment",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "378 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes index."
+    ]
+  },
+  "95": {
+    "heading": null,
+    "title": "\"Comic Book Exhibition Scheduled at Museum\" p. 23 in The Comics Journal, no. 74",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1982",
+    "call number": "PN6700.C62no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan."
+    ]
+  },
+  "96": {
+    "heading": null,
+    "title": "\"Comic Book Fandom\" p. 84-87 in The Overstreet Comic Book Price Guide, 29th ed.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1999).",
+    "call number": "Z1000.C55no.29",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "97": {
+    "heading": null,
+    "title": "\"Comic Book Fans\"",
+    "author": "Vincent Davis",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 3 p. in Myron Moose Funnies, no. 2 (1973).",
+    "call number": "PN6728.45.M9M9no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "98": {
+    "heading": null,
+    "title": "\"Comic Book Features by Basil Wolverton, 1938 to 1954, and Mad 1954 to 1970\"",
+    "author": "compiled by Henry Steele and Dick Voll",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 59 in Graphic Story Magazine, no. 14 (Winter 1971/1972).",
+    "call number": "NC1426.G7no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "99": {
+    "heading": null,
+    "title": "Comic Book Genres.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.C26C6 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "Mark Carlson",
+      "date": "1979-1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "91 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Lists American comic book titles by genre (superhero, funny animal, etc.) giving publication dates for each title, and tabulates the number of publications in each genre by year.",
+      "Published through APA-I, mailings 10-29."
+    ]
+  },
+  "100": {
+    "heading": null,
+    "title": "\"A Comic Book Gets Serious on Gay Issues : a Major Character Becomes a Victim of a Hate Crime\"",
+    "author": "by George Gene Gustines",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. B1, B6 in The New York Times, Aug. 13, 2002.",
+    "call number": "PN6710.S35 2002",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article on Green Lantern, Bob Schreck and Judd Winick."
+    ]
+  },
+  "101": {
+    "entry type": "target",
+    "anchor": "/rri/crri/combk.htm#cba",
+    "title": "Comic Book Artist",
+    "notes": [
+      "Periodical about comics. See\n        also the feature <a href=\"/rri/crri/c.htm#cbaint\">CBA\n        Interviews</a>"
+    ],
+    "links": [
+      {
+        "Link Text": "CBA\n        Interviews",
+        "Link URL": "/rri/crri/c.htm#cbaint"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

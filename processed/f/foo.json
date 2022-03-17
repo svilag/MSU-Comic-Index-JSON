@@ -1,0 +1,4451 @@
+{
+  "1": {
+    "heading": "Foo, Dr.",
+    "title": "\"The Fantastic Dr. Foo\"",
+    "author": "Cerrone ; Tallarico",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 6 p. in Secret Mysteries, no. 19 (July 1955).",
+    "call number": "PN6728.2.T7C7no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "2": {
+    "heading": "Foo, Swee Chin.",
+    "title": "A Lost Stock of Children",
+    "author": "story and art by FSC.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.F15L6 2000",
+    "library has": "",
+    "publication info": {
+      "place": "La Mesa, Ca.",
+      "publisher": "Neko Press",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Fantasy and alternative genres.",
+    "contents": [],
+    "notes": [
+      "\"Copyright by FSC- Foo Swee Chin.\""
+    ]
+  },
+  "3": {
+    "heading": null,
+    "title": "Foo! The Complete Foo!",
+    "author": "R",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Crumb, publisher ; M. Britt, manager ; C. Crumb, editor ; J. Binkinz, clod.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Facsimile reprint. Originally published as Foo, no. 1-3. Milford, Del.",
+      "publisher": "Animal Town",
+      "date": "1958"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "3 v. in envelope : ill. ; 24 cm.",
+      "(Bijou Collectors' Series ; no. 1)",
+      "Title from envelope.",
+      "Limited to 800 individually numbered sets; this is set #143. I. Crumb, R. II. Britt, Mike. III. Crumb, Charles, 1942- IV. Binkinz, Jack. V. Foo! VI. Series. Call no.: PN6727.C7F6 1980"
+    ]
+  },
+  "4": {
+    "heading": "Foo--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comic Art in America",
+    "author": "Stephen D. Becker",
+    "series": null,
+    "pages": {
+      "range": [
+        "210"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "Simon and Schuster",
+      "date": "1959"
+    },
+    "notes": []
+  },
+  "5": {
+    "heading": "Foo--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Des Comics et des Hommes : Histoire Culturelle des Comic Books aux Etats-Unis",
+    "author": "Jean-Paul Gabilliet",
+    "series": null,
+    "pages": {
+      "range": [
+        "350"
+      ]
+    },
+    "call number": "PN6725.G32D4 2005",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions du Temps",
+      "date": "2005"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": "Foo--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Great American Comic Strip",
+    "author": "Judith O'Sullivan",
+    "series": null,
+    "pages": {
+      "range": [
+        "103"
+      ]
+    },
+    "call number": "folio PN6725 .O75 1990",
+    "publication info": {
+      "place": "Boston",
+      "publisher": "Little",
+      "date": null
+    },
+    "notes": []
+  },
+  "7": {
+    "heading": "Foo--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of Underground Comics",
+    "author": "by Mark James Estren. 3rd ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "46"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "Ronin",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "8": {
+    "heading": "Foo--Reviews.",
+    "title": "\"Expansive Early Crumb\" p. 120-121",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #63 May 1981) 1. Crumb, R. 2. Foo",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. I. Scholz, Carter. Call no.: PN6700.C62no.63"
+    ]
+  },
+  "9": {
+    "heading": "Foo Swee Chan.",
+    "title": "Zeet : a Little Book of Alphabetic Dispositions",
+    "author": "by FSC ; edited by Jennifer de Guzman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.F15Z4 2003",
+    "library has": "",
+    "publication info": {
+      "place": "San Jose, Ca",
+      "publisher": "SLG Publishing",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "17 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Copyright by \"Foo Swee Chan (FSc).\"",
+      "Panel and caption alphabet in a minicomix style."
+    ]
+  },
+  "10": {
+    "heading": "Foob.",
+    "title": "Fin de Semaine : Verhalen",
+    "author": "van Bart Schoofs, Nix, Karel Lauwers, Nunes, Foob.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N42F5 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Leuven",
+      "publisher": "Grint",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": []
+  },
+  "11": {
+    "heading": null,
+    "title": "\"Food\"",
+    "author": "art-story and story-art by Raoul Vezina, Bob Kessel ; thanks to Kevin Ahearn for the original idea",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 3 p. in New Paltz Comix, no. 3 (1977)",
+    "call number": "PN6728.45.M6N4no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Issue title: \"Iron-Soul Stories\""
+    ]
+  },
+  "12": {
+    "heading": null,
+    "title": "Food",
+    "author": "by Cathy Guisewite.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.C37F6 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Kansas City, Mo.",
+      "publisher": "Andrews McMeel Publishing",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "13 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "287 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"A Cathy 25-year celebration of the four basic guilt groups\".",
+      "A Cathy collection focusing on food and weight loss."
+    ]
+  },
+  "13": {
+    "heading": "\"Food\" / J. Osborne. 1 p. in Yellow Dog Comics, v. 2, no.",
+    "title": "13/14",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 4, 1969).",
+    "call number": "PN6728.45.P7Y4v.2no.13/14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "14": {
+    "heading": "Food.",
+    "title": "\"And to the Ceiling\"",
+    "author": "Mike Peters.",
+    "title_type": "incipit-assigned",
+    "series": "Mother Goose &amp; Grimm, Oct. 11, 2001",
+    "call number": "PN6726 f.B55 \"ceilings\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Food that sticks to your ribs."
+    ]
+  },
+  "15": {
+    "heading": "Food.",
+    "title": "\"Arctic Eskimo Seal Blubber\"",
+    "author": "Chris Browne.",
+    "title_type": "incipit-assigned",
+    "series": "Hagar the Horrible, Nov. 22, 1994",
+    "call number": "PN6726 f.B55 \"blubber\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: By way of complaining about his food, Hagar decries lowered international trade standards."
+    ]
+  },
+  "16": {
+    "heading": "Food.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "17": {
+    "heading": "Food.",
+    "title": "\"The Body's Digestion Knows Instinctively What to Use\"",
+    "author": "Julie Larson.",
+    "title_type": "incipit-assigned",
+    "series": "Dinette Set, July 31, 1997",
+    "call number": "PN6726f.B55 \"Junk Food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Junk food, eating, fat."
+    ]
+  },
+  "18": {
+    "heading": "Food.",
+    "title": "\"Brain Food\" 7 p. text in Pighead",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oak Park, IL : Skip Williamson, 1993).",
+    "call number": "PN6727.W53P5 1993",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "19": {
+    "heading": "Food.",
+    "title": "Brain Food.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.T59B7",
+    "library has": "no. 10 (2004?).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": [
+      "Minneapolis, MN : Mike Toft, ."
+    ]
+  },
+  "20": {
+    "heading": "Food.",
+    "title": "\"Brain Food\"",
+    "author": "Carol Lay",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 5 p. in Cannibal Romances, no. 1 (1986).",
+    "call number": "PN6728.45.L3C3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "21": {
+    "heading": "Food.",
+    "title": "\"Brain Food\"",
+    "author": "Maxene Fabe, script ; Fred Carrillo, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in House of Mystery, no. 215 (July 1973) I. Fabe, Maxene. II. Carrillo, Fred. k. Food. Call no.: PN6728.2.N3H6no.215",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "22": {
+    "heading": "Food.",
+    "title": "\"But I Can't Stand the Airplane Food\"",
+    "author": "Heir &amp; Bell.",
+    "title_type": "incipit-assigned",
+    "series": "Rudy Park, June 15, 2002",
+    "call number": "PN6726 f.B55 \"barbecues\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A man at the security check has a pig and a charcoal grill."
+    ]
+  },
+  "23": {
+    "heading": "Food.",
+    "title": "\"Catching a Small Animal for Food\"",
+    "author": "by Mike Peters.",
+    "title_type": "incipit-assigned",
+    "series": "Mother Goose &amp; Grimm, July 28, 1997",
+    "call number": "PN6726f.B55 \"Survival\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Grimmy is teaching Sumo to survive in the wild.",
+      "Key words: Munching, hunting."
+    ]
+  },
+  "24": {
+    "heading": "Food.",
+    "title": "\"Cell Food\"",
+    "author": "Veitch &amp; Bissette",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 4-11 in Dr. Wirtham's Comix &amp; Stories, no. 5/6 (1980).",
+    "call number": "PN6728.45.N4D7no.5/6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "25": {
+    "heading": "Food.",
+    "title": "\"Cold Comfort\"",
+    "author": "by Hess ; W",
+    "title_type": "incipit",
+    "series": "The Nebbs, July 11, 1942",
+    "appears_in": " A. Carlson.",
+    "call number": "PN6726 f.B55 \"picnics\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Rudy's wife brings food, and he calls it a picnic, but she knows he's depressed. Also, the shotgun isn't loaded."
+    ]
+  },
+  "26": {
+    "heading": "Food.",
+    "title": "\"Comida\" p. 44 in Condorito Gigante, no. 418",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1996?",
+    "call number": "PN6790.M44C568no.418",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Condorito is hit by a car and goes to the hospital; when Yayita asks the nurse how he is, she says the only thing he hasn't touched is his food."
+    ]
+  },
+  "27": {
+    "heading": "Food.",
+    "title": "\"Cora the Car Hop\"",
+    "author": "Henry Boltinoff",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1 p. in Superman's Girl Friend Lois Lane, no. 9 (May 1959).",
+    "call number": "PN6728.2.N3S78no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: Here is your food, sir. I'll just hook."
+    ]
+  },
+  "28": {
+    "heading": "Food.",
+    "title": "\"The Day After Doomsday\"",
+    "author": "Len Wein, story ; Jack Sparling, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in House of Secrets, no. 97 (Apr./May 1972).",
+    "call number": "PN6728.2.N3H62no.97",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Darling! I've found another food\""
+    ]
+  },
+  "29": {
+    "heading": "Food.",
+    "title": "\"Definition of Swill\"",
+    "author": "Parker.",
+    "title_type": "incipit-assigned",
+    "series": "Wizard of Id, July 29, 1997",
+    "call number": "PN6726f.B55 \"Swill\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Mixtures, liquid, solids, food, swine, dungeons, oink."
+    ]
+  },
+  "30": {
+    "heading": "Food.",
+    "title": "\"Depriving their Offspring of Essential Nutrients\"",
+    "author": "Fry-Lewis.",
+    "title_type": "incipit-assigned",
+    "series": "Over the Hedge, July 29, 1997",
+    "call number": "PN6726f.B55 \"Baby Food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Baby food, tuna, peas, bacon, beets, meat, mangos, bananas, sugar, stirring, cement."
+    ]
+  },
+  "31": {
+    "heading": "Food.",
+    "title": "\"Did You Hear What That Oriental Coyote Called Me\"?",
+    "author": "by Harry O'Neill.",
+    "title_type": "assigned",
+    "series": "Broncho Bill, May 6, 1938",
+    "call number": "PN6726 f.B55 \"Chinese language\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Bobcat Williams, the regular cook, has a broken leg; Ming Ling, his temporary Chinese replacement, brings him food in the bunkhouse."
+    ]
+  },
+  "32": {
+    "heading": "Food.",
+    "title": "Dog Food in the Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Blank in the Comics, no. 10) k. Food. Call no.: PN6725.S35B55no.10",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "33": {
+    "heading": "Food.",
+    "title": "\"Don't Kiss or Hug Burl\"",
+    "author": "Julie Larson.",
+    "title_type": "incipit-assigned",
+    "series": "Dinette Set, Nov. 27, 1997",
+    "call number": "PN6726 f.B55 \"flu\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: He's got stomach flu this Thanksgiving, but he's happy just helping with the food."
+    ]
+  },
+  "34": {
+    "heading": "Food.",
+    "title": "\"Don't Leave Him a Tip\"",
+    "author": "by Jim Unger",
+    "title_type": "incipit-assigned",
+    "series": "Herman, copyright 1981",
+    "appears_in": " p. 79 in Battered Husbands (Redondo Beach, CA : H. Gregory Associates, 1991).",
+    "call number": "PN6231.H8G75 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A diner asks the waiter for a fork, and the waiter grinds a dish of food into his face."
+    ]
+  },
+  "35": {
+    "heading": "Food.",
+    "title": "Eggs in the Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Blank in the Comics, no. 3) 1. Food",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. Call no.: PN6725.S35B55no.3"
+    ]
+  },
+  "36": {
+    "heading": "Food.",
+    "title": "\"Enemigo\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Condorito) p. 46 in Condorito de Oro, no. 75",
+    "call number": "PN6790.M44C5675no.75",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Condorito celebrates his new command in the Foreign Legion by ordering the men to attack a table full of food."
+    ]
+  },
+  "37": {
+    "heading": "Food.",
+    "title": "Ess Comix.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Frankfurt am Main",
+      "publisher": "Nexus Verlag",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "\"#1\".",
+      "Rear (inverted) cover title: Ess Comics.",
+      "English version edited by Leonard Rifas, titled Food Comix. 1. Food supply",
+      "Comic books, strips, etc. 2. Food",
+      "Comic books, strips, etc. I. Rifas, Leonard. II. Food Comics. a. German comics. Call no.: PN6758.E75 1981"
+    ]
+  },
+  "38": {
+    "heading": "Food.",
+    "title": "\"Fast Food\"",
+    "author": "by Stephen St",
+    "title_type": "incipit",
+    "series": "Imph 7",
+    "appears_in": " Laurent &amp; Pepijn Berghout. p. 30-33 in Heavy Metal, v. 27, no. 6 (Jan. 2004).",
+    "call number": "PN6728.H43v.27no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Story title from contents page."
+    ]
+  },
+  "39": {
+    "heading": "Food.",
+    "title": "Filipino Food",
+    "author": "Ed Badajos.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B235F5 1972",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Olympia Press",
+      "date": "1972"
+    },
+    "physical description": null,
+    "genre": "Stories without words in underground genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 21 x 27 cm."
+    ]
+  },
+  "40": {
+    "heading": "Food.",
+    "title": "Food Comix, no. 1",
+    "author": "Leonard Rifas, editor, publisher.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "EduComics",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "34 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title on p. 4 of cover: Food Comics #1.",
+      "Contains 2 sections, both printed from outer covers to the center. Ten stories on better eating, consequences of the present food system, and less destructive farming methods. 1. Food",
+      "Comic books, strips, etc. 2. Educational comic books, strips, etc. I. Rifas, Leonard. II. EduComics. III. Food Comics. Call no.: PN6728.5.E3F27 1980"
+    ]
+  },
+  "41": {
+    "heading": "Food.",
+    "title": "Food in the Comics : file of clippings and examples.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PCVF Comics \"Food in the Comics\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 portfolio : ill. ; 25 x 38 cm.",
+      "Collected at Michigan State University in the Russel B. Nye Popular Culture Collection's Popular Culture Vertical File (PCVF)."
+    ]
+  },
+  "42": {
+    "heading": "Food.",
+    "title": "\"Frozen Food Rustlers!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Crimefighter) 8 p. in Crimefighter Comics",
+    "call number": "PN6738.C677 1951",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "43": {
+    "heading": "Food.",
+    "title": "\"Generic Foods\"",
+    "author": "by Jay Lynch &amp; Gary Whitney.",
+    "title_type": "incipit-assigned",
+    "series": "Phoebe &amp; the Pigeon People) 1 p. in Phoebe &amp; the Pigeon People, v. 1, no. 2",
+    "call number": "PN6728.45.K5P47no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "44": {
+    "heading": "Food.",
+    "title": "Get Stuffed with Mad",
+    "author": "written by Frank Jacobs ; illustrated by Bob Clarke.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Warner",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "18 cm. 1. Food",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "192 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Caricatures and cartoons. I. Jacobs, Frank. II. Clarke, Bob. III. Mad. Call no.: PN6727.J27G4 1981"
+    ]
+  },
+  "45": {
+    "heading": "Food.",
+    "title": "\"A Good Assortment of Quick Lunch Foods\"",
+    "author": "by Steve Alaniz &amp; Francisco Marciuliano.",
+    "title_type": "incipit-assigned",
+    "series": "Sally Forth, Oct. 7, 2000",
+    "call number": "PN6726 f.B55 \"lunches\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Sally has been grocery shopping."
+    ]
+  },
+  "46": {
+    "heading": "Food.",
+    "title": "\"Gookum!\"",
+    "author": "art: W",
+    "title_type": "incipit",
+    "series": "Dep't: Science-Fiction",
+    "appears_in": " Wood. in Mad, no. 2 (Dec.-Jan. 1952-1953)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Notes: Science Fiction, Jello, food.",
+      "Data from index in Mad #350",
+      "Reprint call no.: PN6728.2.E15M3a 1986"
+    ]
+  },
+  "47": {
+    "heading": "Food.",
+    "title": "The Great Food Mystery.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS3550.A1G69 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Stamford, CT",
+      "publisher": "Longmeadow Press",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col.ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Tiny Toon Adventures Concept Board Books)",
+      "Funny animal fiction."
+    ]
+  },
+  "48": {
+    "heading": "Food.",
+    "title": "\"Have You Ever Been There? It's Disgusting!\"",
+    "author": "Garry Trudeau.",
+    "title_type": "incipit-assigned",
+    "series": "Doonesbury, Oct. 30, 2006",
+    "call number": "PN6726 f.B55 \"quantity\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Boopsie objects to both the quantity and quality of the food at McFriendly's, where Zonker works."
+    ]
+  },
+  "49": {
+    "heading": "Food.",
+    "title": "\"He Always Buys Too Much Food\"",
+    "author": "Young &amp; Drake.",
+    "title_type": "incipit-assigned",
+    "series": "Blondie, Sept. 25, 1992",
+    "call number": "folio PN6726.F55 \"Chinese food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dagwood comes home with Chinese carry-out on two long poles over his shoulders."
+    ]
+  },
+  "50": {
+    "heading": "Food.",
+    "title": "\"He Wants People Food\"",
+    "author": "by Lynn Johnston.",
+    "title_type": "incipit-assigned",
+    "series": "For Better or For Worse, Nov. 15, 1984",
+    "call number": "PN6726 f.B55 \"dog food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Michael's worried that Farley won't eat his food, but Ellie doesn't want to spoil him."
+    ]
+  },
+  "51": {
+    "heading": "Food.",
+    "title": "\"How the Utterly Insane Lunatic Gets His Favorite Food\"",
+    "author": "A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Mostrom. 1 tier in Weirdo, no. 17 (Summer 1986).",
+    "call number": "PN6728.45.L3W4no.17",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "52": {
+    "heading": "Food.",
+    "title": "\"I Didn't Have Any Food to Bring So I Washed Your Car!\"",
+    "author": "by Tom Batiuk.",
+    "title_type": "incipit-assigned",
+    "series": "Funky Winkerbean, Feb. 16, 1999",
+    "call number": "PN6726 f.B55 \"breast cancer\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Friends react to the breast cancer diagnosis by bringing food."
+    ]
+  },
+  "53": {
+    "heading": "Food.",
+    "title": "\"I'd Like a Cute Female Poodle Who's Into Music and Food\"",
+    "author": "by Mike Peters.",
+    "title_type": "incipit-assigned",
+    "series": "Mother Goose &amp; Grimm, Sept. 1, 1988",
+    "call number": "PN6726 f.B55 \"pet shops\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Grimm goes into a pet shop wearing a trench coat and slouch hat."
+    ]
+  },
+  "54": {
+    "heading": "Food.",
+    "title": "\"If Feelings were Food I'd Weigh 900 Pounds\"",
+    "author": "by Greg Evans.",
+    "title_type": "incipit-assigned",
+    "series": "Luann, Oct. 10, 1998",
+    "call number": "PN6726 f.B55 \"feelings\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Luann tries to sort her feelings about Miguel and Delta by talking into her tape recorder."
+    ]
+  },
+  "55": {
+    "heading": "Food.",
+    "title": "\"I'm Not Up For Any Surprises\"",
+    "author": "MacNelly.",
+    "title_type": "incipit-assigned",
+    "series": "Shoe, Jan. 27, 1987",
+    "call number": "PN6726 f.B55 \"Tabasco\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cosmo puts Tabasco on his food before tasting it."
+    ]
+  },
+  "56": {
+    "heading": "Food.",
+    "title": "\"I'm Thankful for All the Good Food We Have to Eat, Neal\"",
+    "author": "Steve Dickenson.",
+    "title_type": "incipit-assigned",
+    "series": "Tar Pit, Nov. 25, 1993",
+    "call number": "PN6726 f.B55 \"thankful\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Two saber-tooth tigers contemplate a band of men."
+    ]
+  },
+  "57": {
+    "heading": "Food.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "182",
+        "206",
+        "241",
+        "246",
+        "268",
+        "269",
+        "270",
+        "280",
+        "328"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "58": {
+    "heading": "Food.",
+    "entry type": "index entry",
+    "title": "The Mad World of William M. Gaines",
+    "author": "Frank Jacobs",
+    "series": null,
+    "pages": {
+      "range": [
+        "25",
+        "143-153",
+        "174",
+        "242-243",
+        "254"
+      ]
+    },
+    "call number": "PN4874.G28J3",
+    "publication info": {
+      "place": "Secaucus, N.J.",
+      "publisher": "L. Stuart",
+      "date": "1972"
+    },
+    "notes": []
+  },
+  "59": {
+    "heading": "Food.",
+    "title": "\"Is the Food That Bad?\"",
+    "author": "Detorie.",
+    "title_type": "incipit-assigned",
+    "series": "One Big Happy, July 15, 2002",
+    "call number": "PN6726 f.B55 \"dinner\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: James is staying for dinner, and he is surprised that they're going to pray before they eat."
+    ]
+  },
+  "60": {
+    "heading": "Food.",
+    "title": "\"It's a Good Thing I Don't Have Fishing Worms\"",
+    "author": "Russell Myers.",
+    "title_type": "incipit-assigned",
+    "series": "Perky &amp; Beanz, Jan. 8, 1987",
+    "call number": "PN6726 f.B55 \"worms\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Perky and her friends are standing with their mouths wide open pretending to be baby birds, asking Beanz for food."
+    ]
+  },
+  "61": {
+    "heading": "Food.",
+    "title": "\"It's True. Potatoes Are Fattening\"",
+    "author": "by Peter Adamakos &amp; Doug Rogers.",
+    "title_type": "incipit-assigned",
+    "series": "Winnie Witch and the Giant Potato, Oct. 8, 1978",
+    "call number": "PN6732.E37v.1no.38",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The potato keeps bringing Winnie more food.",
+      "Sunday page in the Edmonton Journal Comic Book, v. 1, no. 38 (Oct. 7, 1978)"
+    ]
+  },
+  "62": {
+    "heading": "Food.",
+    "title": "\"It's Where the Food Tries to Hide So She Can't Set It On Fire\"",
+    "author": "Larry Wright.",
+    "title_type": "incipit",
+    "series": "Kit 'n Carlyle, July 19, 2002",
+    "call number": "PN6726 f.B55 \"hiding\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Carlyle explains the refrigerator to a mouse."
+    ]
+  },
+  "63": {
+    "heading": "Food.",
+    "title": "Jughead's Soul Food",
+    "author": "by Al Hartley.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Old Tappan, N.J.",
+      "publisher": "F.H. Revell",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "31 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Spire Comics) 1. Teen humor comics. 2. Christianity",
+      "Comic books, strips, etc. 3. Food",
+      "Comic books, strips, etc. I. Hartley, Al. II. Series. Call no.: PN6728.4.R4J8"
+    ]
+  },
+  "64": {
+    "heading": "Food.",
+    "title": "Lasagna in the Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Blank in the Comics, no. 60) 1. Food",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. Call no.: PN6725.S35B55no.60"
+    ]
+  },
+  "65": {
+    "heading": "Food.",
+    "title": "\"Little Stories Told to the Nose\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Our Boarding House, Aug. 15, 1951",
+    "call number": "PN6726 f.B55 \"aromas\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Amos, Jason and Twiggs are looking down at a cabin in the mountains, and smelling food and drink."
+    ]
+  },
+  "66": {
+    "heading": "Food.",
+    "title": "\"Love Can Move Mountains of Dirty Dishes\"",
+    "author": "by Lind.",
+    "title_type": "incipit-assigned",
+    "series": "Weltschmerz, Aug. 7, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Undated strip; date is that of publication in Eye (Toronto, Ont.)",
+      "Key words: Begging, will work for food, military thugs, Somalia, homeless, topless single mothers, compassion dollars, blackmail. Call no.: PN6726f.B55 \"Somalia\""
+    ]
+  },
+  "67": {
+    "heading": "Food.",
+    "title": "\"The Man From Durango!\"",
+    "author": "Mac L",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Pakula. 5 p. in Outlaw Fighters, no. 2 (Oct. 1954).",
+    "call number": "PN6728.2.M3 O77no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Leave the food and grain! Just take cash\""
+    ]
+  },
+  "68": {
+    "heading": "Food.",
+    "title": "Meatloaf in the Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Blank in the Comics, no. 31) k. Loaves. 1. Food",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. Call no.: PN6725.S35B55no.31"
+    ]
+  },
+  "69": {
+    "heading": "Food.",
+    "title": "\"Might As Well Make It a Nice Round 2,000!\"",
+    "author": "by Heimdahl &amp; Stoffel.",
+    "title_type": "incipit-assigned",
+    "series": "Bugs Bunny, Feb. 2, 1974",
+    "call number": "PN6726 f.B55 \"shame\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Elmer watches Bugs raid his cupboards, and tries to shame him by saying he's borrowed 1,998 cans of food this year."
+    ]
+  },
+  "70": {
+    "heading": "Food.",
+    "title": "Monkey Food : the Complete I Was Seven in '75 Collection",
+    "author": "by Ellen Forney.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.F556M6 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Seattle",
+      "publisher": "Fantagraphics Books",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "142 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": []
+  },
+  "71": {
+    "heading": "Food.",
+    "title": "My Heavenly Hockey Club",
+    "author": "Ai Morinaga ; translated and adapted by Athena and Alethea Nibley ; lettered by North Market Street Graphics.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 M62G613 2007",
+    "library has": "v. 2.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Del Rey/Ballantine Books",
+      "date": "2007-"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Sports genre.",
+    "contents": [],
+    "notes": [
+      "Translation of: Gokuraku Seishun Hokkêbu.",
+      "Summary (from OCLC): Hana Suzuki prefers to eat or sleep over anything else, but allows classmate Izumi Oda to persuade her to join the school field hockey club with the promise of delicious food and fine linens at the resorts they stay at. Of course there's also getting up early, working hard, and working as a team."
+    ]
+  },
+  "72": {
+    "heading": "Food.",
+    "title": "\"My Little Adam Cooking the Meals Around Here!\"",
+    "author": "by Brian Basset.",
+    "title_type": "incipit-assigned",
+    "series": "Adam, May 16, 1985",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Adam's mother can't believe he does the cooking, until she tastes the food."
+    ]
+  },
+  "73": {
+    "heading": "Food.",
+    "title": "Nancy Eats Food",
+    "author": "by Ernie Bushmiller ; edited by James Kitchen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Princeton, WI",
+      "publisher": "Kitchen Sink Press",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "94 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"First in a series of Ernie Bushmiller's Nancy.\"",
+      "Introduction by Bill Griffith. 1. Funny kid comics. 2. Food",
+      "Comic books, strips, etc. I. Bushmiller, Ernie. II. Kitchen, James. III. Griffith, Bill, 1944- Call no.: PN6728.N26K5 1989"
+    ]
+  },
+  "74": {
+    "heading": "Food.",
+    "title": "\"No Carrots, Just Cheeeeese!\"",
+    "author": "by Brian Anderson.",
+    "title_type": "incipit-assigned",
+    "series": "Dog Eat Doug, Aug. 4, 2006",
+    "call number": "PN6726 f.B55 \"vegetables\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Getting the baby to drop the right kind of food from the high chair is hard."
+    ]
+  },
+  "75": {
+    "heading": "Food.",
+    "title": "\"Now It Feels Right\"",
+    "author": "by Dean Young &amp; John Marshall.",
+    "title_type": "incipit-assigned",
+    "series": "Blondie, Sept. 2, 2007",
+    "call number": "oversize PN6726.S79 Sept. 2, 2007",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dagwood keeps thinking something's not right at the family picnic, and then they discover they forgot the food."
+    ]
+  },
+  "76": {
+    "heading": "Food.",
+    "title": "\"Nutrition Quiz\"",
+    "author": "by Jim Davis.",
+    "title_type": "incipit",
+    "series": "Garfield, Dec. 3, 1997",
+    "call number": "PN6726f.B55 \"nutrition\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Vitamins, grease, energy food, meat, meals, chips and dip."
+    ]
+  },
+  "77": {
+    "heading": "Food.",
+    "title": "\"Other Dogs Bark When They're Hungry\"",
+    "author": "Ralph Heimdahl, Al Stoffel.",
+    "title_type": "incipit-assigned",
+    "series": "Bugs Bunny, Feb. 11, 1971",
+    "call number": "PN6726 f.B55 \"hunger\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: In Bugsy's pet shop, Osgood hugs Bugs' ankle asking for food."
+    ]
+  },
+  "78": {
+    "heading": "Food.",
+    "title": "\"Patsy Manners\"",
+    "author": "by C",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Eileen Fiel ; illustrated by Ozella Welch. p. 33-34 in Treasure Chest of Fun and Fact, v. 11, no. 4 (Oct. 20, 1955).",
+    "call number": "PN6728.1.P43T7v.11 no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "An episode about diet and complexion, and \"while we're on the subject of food,\" this caption: \"Being a little heavier than your friends is nothing to be ashamed of. Some people are naturally that way. (If it's natural to them, they usually have good dispositions!)\""
+    ]
+  },
+  "79": {
+    "heading": "Food.",
+    "title": "\"People Food\"",
+    "author": "by Foolbert Sturgeon (San Francisco : Rip Off Press, 1979).",
+    "title_type": "incipit",
+    "series": "Dorman's Doggie) 1 p. in Dorman's Doggie",
+    "call number": "PN6728.45.R5D6 1979",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "80": {
+    "heading": "Food.",
+    "title": "\"A Perfect Day Ends Early\"",
+    "author": "Bill Freyse.",
+    "title_type": "incipit",
+    "series": "Our Boarding House, Oct. 28, 1960",
+    "call number": "PN6728 .O8F6 1934v.15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Martha wakes Amos at 10:15 with a snap of the window shade, saying \"No Work, No Food.\""
+    ]
+  },
+  "81": {
+    "heading": "Food.",
+    "title": "\"The Power of Osmosis in Non-Chemistry\"",
+    "author": "Hilary B",
+    "title_type": "incipit",
+    "series": "Rhymes with Orange, Aug. 1, 1997",
+    "appears_in": " Price.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Guitar cases, musical ability, books, backpacks, bicycles, Ph.D.s, plant food, nutrients, joules, gamma rays, moles. Call no.: PN6726f.B55 \"Osmosis\""
+    ]
+  },
+  "82": {
+    "heading": "Food.",
+    "title": "\"Reason Enough\"",
+    "author": "by Wally Bishop.",
+    "title_type": "incipit",
+    "series": "Muggs McGinnis, Jan. 4, 1935",
+    "call number": "oversize PN6726.K52A22 1972",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Little brother is crying because he's eaten too much food."
+    ]
+  },
+  "83": {
+    "heading": "Food.",
+    "title": "\"Restaurant!\"",
+    "author": "art: W",
+    "title_type": "incipit",
+    "series": "Dep't: The American Scene",
+    "appears_in": " Elder. in Mad, no. 16 (Oct. 1954).",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Notes: Food.",
+      "Data from index in Mad #350",
+      "Reprint call no.: PN6728.2.E15M3a 1986"
+    ]
+  },
+  "84": {
+    "heading": "Food.",
+    "title": "\"She Doesn't Want Me to Get Used to Well-Cooked Food\"",
+    "author": "Hoest &amp; Reiner.",
+    "title_type": "incipit-assigned",
+    "series": "The Lockhorns, Sept. 27, 1993",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Leroy explains why Loretta makes his lunch."
+    ]
+  },
+  "85": {
+    "heading": "Food.",
+    "title": "\"The Smaller the Group, the Worse the Food\"",
+    "author": "by Cathy Guisewite.",
+    "title_type": "incipit-assigned",
+    "series": "Cathy, July 5, 1999",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cathy's mother explains the etiquette: for 100 people you get a caterer, for 25 people you get deli platters, but for a few people it has to be from scratch."
+    ]
+  },
+  "86": {
+    "heading": "Food.",
+    "title": "\"Smuggling Polish Sausages in her Britches\"",
+    "author": "Detorie.",
+    "title_type": "incipit-assigned",
+    "series": "One Big Happy, July 28, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Order a diet soda for Grandma.",
+      "Key words: Drive-through fast food. Call no.: PN6726f.B55 \"Sausages\""
+    ]
+  },
+  "87": {
+    "heading": "Food.",
+    "title": "\"So Now That You Have All Your Fresh Food, You Can Make Your Own Meals!\"",
+    "author": "by Phil Dunlap.",
+    "title_type": "incipit-assigned",
+    "series": "Ink Pen, July 29, 2006",
+    "call number": "PN6726 f.B55 \"groceries\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "88": {
+    "heading": "Food.",
+    "title": "\"Soul Food\"",
+    "author": "JFKLN",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1 p. in Armadillotoons Comics, no. 1 (1969).",
+    "call number": "PN6728.45.R5A7no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Full page drawing of an armadillo as a watermelon."
+    ]
+  },
+  "89": {
+    "heading": "Food.",
+    "title": "Spaghetti in the Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Blank in the Comics, no. 37) 1. Food",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. Call no.: PN6725.S35B55no.37"
+    ]
+  },
+  "90": {
+    "heading": "Food.",
+    "title": "\"Speaking of Food\"",
+    "author": "by Bob Rice",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 8 in Treasure Chest of Fun &amp; Fact, v. 5, no. 2 (Sept. 20, 1949).",
+    "call number": "PN6728.1.P43T7v.5no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Illustrated facts about nutmeg, eggs, fishing in Chile, and the words \"spuds\" and \"cantaloupes.\""
+    ]
+  },
+  "91": {
+    "heading": "Food.",
+    "title": "\"Speaking of Food!\"",
+    "author": "by Bob Rice",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 28 in Treasure Chest of Fun and Fact, v. 5, no. 4 (Oct. 18, 1949).",
+    "call number": "PN6728.1.P43T7v.5no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Facts about ostrich and hummingbird eggs, salmon from Alaska, food prices in colonial America, sugar, and tea."
+    ]
+  },
+  "92": {
+    "heading": "Food.",
+    "title": "\"Speaking of Food\"",
+    "author": "D",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": "R. p. 35 in Treasure Chest of Fun &amp; Fact, v. 5, no. 16 (Apr. 4, 1950).",
+    "call number": "PN6728.1.P43T7v.5no.16",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Illustrated facts about peanuts, mayonnaise in Sweden, tobacco in China, Bombay Duck, sausage in Denmark and bread in Persia."
+    ]
+  },
+  "93": {
+    "heading": "Food.",
+    "title": "\"Spicy Food\"* p. 43 in The Two Sombrheroes",
+    "author": "artist, Pierre Tranchand ; writer, François Corteggiani (Ilidza, Yugoslavia : Strip Art Features, 1989).",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.T67T9 1989",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Smith &amp; Wesson ; v. 1)",
+      "Summary: Eating in a Mexican restaurant, Wesson feels like he's in Hell being poked by devils. Plate no. 167."
+    ]
+  },
+  "94": {
+    "heading": "Food.",
+    "title": "\"A Starving Horrosaur Thunders Toward the Smell of Food\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Flash Gordon, May 31, 1940).",
+    "call number": "oversize PN6726.K52A22 1972",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Flash's ray gun has no effect on the monster."
+    ]
+  },
+  "95": {
+    "heading": "Food.",
+    "title": "\"Starving Pussy-cat Routine\"",
+    "author": "by Gilbert Shelton &amp; Dave Sheridan.",
+    "title_type": "incipit-assigned",
+    "series": "Fat Freddy's Cat) 1 p. in The Adventures of Fat Freddy's Cat, bk. 3",
+    "call number": "PN6728.45.R5A3bk.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The cat knows how to get food."
+    ]
+  },
+  "96": {
+    "heading": "Food.",
+    "title": "\"Stop Playing With Your Food!\"",
+    "author": "Larry Wright.",
+    "title_type": "incipit-assigned",
+    "series": "Kit 'n' Carlyle, Aug. 8, 1989",
+    "call number": "PN6726 f.B55 \"golf\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Carlyle's hitting bits of cat food with a golf club."
+    ]
+  },
+  "97": {
+    "heading": "Food.",
+    "title": "\"Supermarket Wolf\"",
+    "author": "Alfred James, Mel Casson.",
+    "title_type": "incipit-assigned",
+    "series": "Dilly, Oct. 15, 1957",
+    "call number": "PN6726 f.B55 \"baby food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dilly goes to the baby food aisle to get rid of the guy who's following her."
+    ]
+  },
+  "98": {
+    "heading": "Food.",
+    "title": "\"Supermarkets!\"",
+    "author": "art: J",
+    "title_type": "incipit",
+    "series": "Dep't: The American Scene",
+    "appears_in": " Davis. in Mad, no. 19 (Jan. 1955).",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Notes: Food, American life.",
+      "Data from index in Mad #350",
+      "Reprint call no.: PN6728.2.E15M3a 1986"
+    ]
+  },
+  "99": {
+    "heading": "Food.",
+    "title": "\"Supongo que También te Sobrarán unos Mangos\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Avivato, May 10, 2008",
+    "call number": "PN6726 f.B55 \"mango\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Avivato mooches a ride, a bed and some food."
+    ]
+  },
+  "100": {
+    "heading": "Food.",
+    "title": "\"TV Spree\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Jughead) 5 p. in Jughead with Archie Digest Magazine, no. 131",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Jughead is hooked on videos about food. I. Jughead. k. Hooked. k. Videos. k. Food. k. Sprees. Call no.: PN6728.A7J8no.131"
+    ]
+  },
+  "101": {
+    "heading": "Food.",
+    "title": "\"Tasteless, but Edible\"",
+    "author": "Lynn.",
+    "title_type": "incipit-assigned",
+    "series": "For Better or For Worse, Mar. 17, 1989",
+    "call number": "PN6726 f.B55 \"dog food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: There's no food in the house so Michael eats dog treats."
+    ]
+  },
+  "102": {
+    "heading": "Food.",
+    "title": "\"There Had Better Be Food on the Front Lawn\"",
+    "author": "Jim Davis.",
+    "title_type": "incipit-assigned",
+    "series": "Garfield, Oct. 13, 1997",
+    "call number": "PN6726 f.B55 \"lawns\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Jon says the world's exciting."
+    ]
+  },
+  "103": {
+    "heading": "Food.",
+    "title": "\"This a Workplace, not a Food Confessional\"",
+    "author": "by Cathy Guisewite.",
+    "title_type": "incipit-assigned",
+    "series": "Cathy, Nov. 27, 2000",
+    "call number": "PN6726 f.B55 \"food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Janet's too fat to type, Ted's to fat to meet, Margo has sweet potato remorse, and the boss thinks that should all be private."
+    ]
+  },
+  "104": {
+    "heading": "Food.",
+    "title": "\"This is the Bottom\"",
+    "author": "Duffy.",
+    "title_type": "incipit-assigned",
+    "series": "The Fusco Brothers, Oct. 17, 1992",
+    "call number": "PN6726f.B55 \"fortunes\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Al finds his fortune on the bottom of a frozen strawberry shortcake box.",
+      "Key words: Grocery shopping, undersides, frozen food."
+    ]
+  },
+  "105": {
+    "heading": "Food.",
+    "title": "\"Touch My Food and Die!\"",
+    "author": "by Jim Davis.",
+    "title_type": "incipit-assigned",
+    "series": "Garfield, Mar. 28, 1991",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Jon tries to keep Garfield from taking his meal, but Garfield says Jon doesn't cook quite that badly."
+    ]
+  },
+  "106": {
+    "heading": "Food.",
+    "title": "\"Tropical Madness\" 2 p. 1 p. in National Lampoon Presents Claire Bretecher",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "New York: National Lampoon Magazine, 1978).",
+    "call number": "PN6747.B7A25 1978",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Two couples complain about the music, heat, water, food, smells, etc., while on an island vacation."
+    ]
+  },
+  "107": {
+    "heading": "Food.",
+    "title": "\"Tubby Likes Plain Food!\"",
+    "author": "by S",
+    "title_type": "incipit-assigned",
+    "series": "Bobby",
+    "appears_in": "M. Iger. p. 21 in Jumbo Comics, no. 42 (Aug. 1942).",
+    "call number": "Film 15791 r.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "108": {
+    "heading": "Food.",
+    "title": "Tuna Fish in the Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Blank in the Comics, no. 55) 1. Food",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. k. Fish. Call no.: PN6725.S35B55no.55"
+    ]
+  },
+  "109": {
+    "heading": "Food.",
+    "title": "\"Two Frankfurters with Lots of Mustard\"",
+    "author": "Alfred James, Mel Casson.",
+    "title_type": "incipit-assigned",
+    "series": "Dilly, Oct. 10, 1957",
+    "call number": "PN6726 f.B55 \"decisions\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Whit offers steak, seafood, and Chinese food, and Dilly tells him she likes a man to make the decisions."
+    ]
+  },
+  "110": {
+    "heading": "Food.",
+    "title": "We Love Food! No Word with Food",
+    "author": "Abby Denson and Yûko Koyama.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.D4365W4 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Long Beach, NY",
+      "publisher": "Abby Denson ; Yokohoma, Japan : Yuko Koyama",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "14 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "New wave genre.",
+    "contents": [],
+    "notes": [
+      "- Titles from front and back covers.",
+      "In English (p. 1-8) and in Japanese (p. 16-8)."
+    ]
+  },
+  "111": {
+    "heading": "Food.",
+    "title": "What's In What You Eat : condensed from the U.S. Dept. of Agriculture Nutritive Value of American Foods",
+    "author": "edited by Catherine Yronwode; designed by Will Eisner Studios; illustrated by Robert Pizzo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "TX551.Y7 1983",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Bantam Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "515 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Author statement on cover: Will Eisner.",
+      "Tables of food composition and nutrition"
+    ]
+  },
+  "112": {
+    "heading": "Food.",
+    "title": "\"Who Has Time For Food?\"",
+    "author": "Guisewite.",
+    "title_type": "incipit-assigned",
+    "series": "Cathy, Nov. 24, 1988",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cathy and her mother are supposedly preparing Thanksgiving dinner. Cathy is stewing while being grilled, reaching the boiling point, simmering, and having her defenses chopped up."
+    ]
+  },
+  "113": {
+    "heading": "Food.",
+    "title": "\"Why Cats are so Paranoid\"",
+    "author": "Larry Wright.",
+    "title_type": "incipit",
+    "series": "Kit 'n Carlyle, July 29, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The vacuum cleaner is eyeing Carlyle's food dish.",
+      "Keywords: Cat food, tongues. Call no.: PN6726f.B55 \"Vacuum Cleaners\""
+    ]
+  },
+  "114": {
+    "heading": "Food.",
+    "title": "\"Why Don't You Throw It at the One Who Cooks It?\"",
+    "author": "Jim Unger.",
+    "title_type": "incipit",
+    "series": "Herman, July 26, 1997",
+    "call number": "PN6726 f.B55 \"cooks\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dad has a bowl of food on his head."
+    ]
+  },
+  "115": {
+    "heading": "Food.",
+    "title": "Will Draw for Food",
+    "author": "Gathara.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1740.K4G37 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Nairobi",
+      "publisher": "Patrick Gathara",
+      "date": "2009"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. (some col.) ; 21 x 30 cm.",
+      "Kenyan political cartoons."
+    ]
+  },
+  "116": {
+    "heading": "Food.",
+    "title": "\"Wonder What Kind of Food Lesbians Eat?\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Those Perfectly Permeable Peters Sisters) 4 p. in Pandora's Box Comix",
+    "call number": "PN6728.45.N3P3 1973",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "117": {
+    "heading": "Food.",
+    "title": "\"You Had the Bag with the Food\"* p. 16 in The Two Sombrheroes",
+    "author": "artist, Pierre Tranchand ; writer, François Corteggiani (Ilidza, Yugoslavia : Strip Art Features, 1989).",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.T67T9 1989",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Smith &amp; Wesson ; v. 1)",
+      "Summary: Wesson rescues Smith from a dangerous waterfall. Plate no. 172."
+    ]
+  },
+  "118": {
+    "heading": "Food.",
+    "title": "\"You Seen My Lucky Rock?\"",
+    "author": "Jim Davis.",
+    "title_type": "incipit-assigned",
+    "series": "Garfield, Jan. 16, 1992",
+    "call number": "PN6726f.B55 \"rocks\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Jon settles down to a nice peaceful meal, and something crunches in his food."
+    ]
+  },
+  "119": {
+    "heading": "Food.",
+    "title": "\"You're Going to Spoil That Mutt!\"",
+    "author": "Gordon Bess.",
+    "title_type": "incipit-assigned",
+    "series": "Redeye, Aug. 21, 1984",
+    "call number": "PN6726 f.B55 \"dog food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The dog doesn't get table food, he has to eat dog food. Redeye objects."
+    ]
+  },
+  "120": {
+    "heading": "Food Allowances.",
+    "title": "\"I Wouldn't Eat Too Much Either, the Company Slashed Your Food Allowance\"",
+    "author": "by Charlie Podrebarac.",
+    "title_type": "incipit-assigned",
+    "series": "Smart Alex, Apr. 25, 1995",
+    "call number": "PN6726 f.B55 \"business trips\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Alex gets in late to her hotel on a business trip, only to find out an early lunch has been scheduled, and she says she'll just skip sleeping."
+    ]
+  },
+  "121": {
+    "heading": null,
+    "title": "\"Food and Candy Comics\" p. 17 in The Comics Journal, no. 104",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1986).",
+    "call number": "PN6700.C62no.104",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan."
+    ]
+  },
+  "122": {
+    "heading": null,
+    "title": "Food and Consumer Service",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "U.S.) The Lion King's Timon &amp; Pumbaa's Smart Yet Satisfying PSA Campaign.",
+    "call number": "folio PN1997.5.L47L58 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Alexandria, VA",
+      "publisher": "U.S. Dept. of Agriculture, Food and Consumer Service, Team Nutrition",
+      "date": "1996"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 envelope (5 folders, 23 sheets, 8 posters) : ill. (some col.) ; 26 x 33 cm.",
+      "Health promotion kit."
+    ]
+  },
+  "123": {
+    "heading": "\"Food &amp; Mail.\"",
+    "title": "Rosetta : a Comics Anthology.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.R64 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Gainesville, FL",
+      "publisher": "Alternative Comics",
+      "date": "2002"
+    },
+    "physical description": null,
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "author": "Ulf Keyenburg",
+        "title": "Mr. Duplexus"
+      },
+      {
+        "author": "Tom Hart",
+        "title": "Sandra Brown"
+      },
+      {
+        "author": "Miriam Katin",
+        "title": "The Seven sweet spoonfuls of understanding"
+      },
+      {
+        "author": "Ng Suat Tong &amp; Nick Bertozzi",
+        "title": "Mt. Fuji"
+      },
+      {
+        "author": "Katja Tukiainen",
+        "title": "The post from India"
+      },
+      {
+        "author": "James Kochalka",
+        "title": "Paper cute"
+      },
+      {
+        "title": "I've got a secret: Crayon juice"
+      },
+      {
+        "author": "Michael Kupperman",
+        "title": "The mannister"
+      },
+      {
+        "author": "Sara Varon",
+        "title": "Winter"
+      },
+      {
+        "author": "Megan Kelso",
+        "title": "The warrior queen"
+      },
+      {
+        "title": "Self"
+      },
+      {
+        "title": "Food &amp; mail"
+      },
+      {
+        "author": "Renee French",
+        "title": "Housing"
+      },
+      {
+        "author": "Ivan Brunetti",
+        "title": "Erik Satie"
+      },
+      {
+        "author": "Ron Rege Jr.",
+        "title": "Think 'Can I build it' before you buy it"
+      },
+      {
+        "author": "David Collier",
+        "title": "Bringing up fathers and sons"
+      },
+      {
+        "author": "David Choe",
+        "title": "Yoffee toffee"
+      },
+      {
+        "author": "Danijel Zezelj",
+        "title": "One day"
+      },
+      {
+        "author": "Lat",
+        "title": "A new kid at the hostel"
+      },
+      {
+        "author": "John Porcellino",
+        "title": "A dream"
+      },
+      {
+        "author": "M.S. Bastian",
+        "title": "Bazooka Joe"
+      },
+      {
+        "author": "David Lasky",
+        "title": "Rosetta"
+      },
+      {
+        "author": "Stefan J.H. van Dinther",
+        "title": "Constructions and instructions"
+      },
+      {
+        "author": "Matt Madden",
+        "title": "The bad boys of Tinibu Square"
+      },
+      {
+        "author": "Tobias T. Schalken",
+        "title": "Standing right here, looking 1000 miles away"
+      },
+      {
+        "author": "Greg Cook.",
+        "title": "They that lurk in the paths of the seas"
+      }
+    ],
+    "notes": [
+      "1 v. : ill. ; 26 cm."
+    ]
+  },
+  "124": {
+    "heading": "Food and Memory.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "121-123",
+        "125"
+      ]
+    },
+    "call number": "PN6790.J3M265 2010",
+    "publication info": null,
+    "notes": []
+  },
+  "125": {
+    "heading": null,
+    "title": "Food and the Land : the role of soil and water conservation in the world food crisis.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Des Moines, Iowa",
+      "publisher": "Soil Conservation Society of America",
+      "date": "1967"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover. 1. Food supply",
+      "Comic books, strips, etc. 2. Soil conservation",
+      "Comic books, strips, etc. 3. Water conservation",
+      "Comic books, strips, etc. I. Soil Conservation Society of America. Call no.: S623.F6 1967"
+    ]
+  },
+  "126": {
+    "heading": "Food Banks.",
+    "title": "\"Did I Say I Was Going To Be Your Bottomless Little Food Bank?\"",
+    "author": "Tony Cochran.",
+    "title_type": "incipit-assigned",
+    "series": "Agnes, Sept. 22, 2000",
+    "call number": "PN6726 f.B55 \"kindness\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Agnes announces a random act of kindness, and Trout asks for vanilla wafers."
+    ]
+  },
+  "127": {
+    "heading": "Food Banks.",
+    "title": "\"If You Faked Your Commitment There, How Can I Trust Your Commitment to Me?\"",
+    "author": "Rubin &amp; McLaughlin.",
+    "title_type": "incipit-assigned",
+    "series": "Gil Thorp, Aug. 25, 2005",
+    "call number": "PN6726 f.B55 \"faking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Marty Moon cancelled his hours at the food bank."
+    ]
+  },
+  "128": {
+    "heading": "Food Bills.",
+    "title": "\"Look What I Got for Little Elvis at the Animal Shelter\"",
+    "author": "by Bud Jones.",
+    "title_type": "incipit-assigned",
+    "series": "Full House, June 26, 1984",
+    "call number": "PN6726 f.B55 \"food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The Wigginses are lamenting their food bill, when Bernard brings in a large dog."
+    ]
+  },
+  "129": {
+    "heading": "Food Bowls.",
+    "title": "\"That Explains that Shlop I Ate in the Food Bowl\"",
+    "author": "Patrick McDonnell.",
+    "title_type": "incipit-assigned",
+    "series": "Mutts, July 31, 2000",
+    "call number": "PN6726 f.B55 \"slop\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Earl and Mooch have returned from vacation to Earl's house, and Mooch thought it was his house."
+    ]
+  },
+  "130": {
+    "heading": "Food Budgets.",
+    "title": "\"Just Eat Your Steak, Wiseguy\"",
+    "author": "by Steve Dickenson.",
+    "title_type": "incipit-assigned",
+    "series": "Nest Heads, Mar. 9, 1999",
+    "call number": "PN6726 f.B55 \"steak\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The kids are gone and they've got a food budget again, and he doesn't recognize what he's eating."
+    ]
+  },
+  "131": {
+    "heading": "Food Chain.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "132": {
+    "heading": null,
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Glenside, PA",
+      "publisher": "Discovery Comics",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "Scott Deschaine and Lynette Weisberg.",
+        "title": "Food Chain. A Bug's Gift"
+      }
+    ],
+    "notes": [
+      "(Discovery Comics)",
+      "\"Would you give your life to save a bug? Of course not. Would a bug give its life to save you? Maybe..\" 1. Insects",
+      "Comic books, strips, etc. 2. Food chains (Ecology)",
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Weisberg, Lynette. III. Series. Call no.: PN6727.D44B8 1991"
+    ]
+  },
+  "133": {
+    "heading": "-",
+    "title": "Food Chain. \"How's that Top of the Food Chain Theory Working Out?\"",
+    "author": "by Dan Piraro.",
+    "title_type": "assigned",
+    "series": "Bizarro, Mar. 1, 2007",
+    "call number": "PN6726 f.B55 \"food chain\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: God is talking to Adam."
+    ]
+  },
+  "134": {
+    "heading": "Food Chain.",
+    "title": "\"Now I Know Why It's Called a Food Chain\"",
+    "author": "by Hoest &amp; Reiner.",
+    "title_type": "incipit",
+    "series": "The Lockhorns, Dec. 4, 2000",
+    "call number": "PN6726 f.B55 \"food chain\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Leroy complains about his dinner."
+    ]
+  },
+  "135": {
+    "heading": "Food Chain.",
+    "title": "\"We're the Ones Getting Munched Here\"",
+    "author": "by Jef Mallett.",
+    "title_type": "incipit-assigned",
+    "series": "Frazz, July 20, 2002",
+    "call number": "PN6726 f.B55 \"food chain\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Where do mosquitoes fit in the food chain?"
+    ]
+  },
+  "136": {
+    "heading": "Food Chain.",
+    "title": "\"You're at the Bottom of the Food Chain\"",
+    "author": "by Johnny Hart.",
+    "title_type": "incipit-assigned",
+    "series": "B.C., Oct. 28, 1994",
+    "call number": "PN6726f.B55 \"fortunes\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Elwood, a young ant, is off to seek his fortune, and his dad tells him to remember one thing.",
+      "Key word: Advice."
+    ]
+  },
+  "137": {
+    "heading": null,
+    "title": "Food Chain Follies",
+    "author": "by Dan Vado &amp; Mark Buck.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Jose, CA",
+      "publisher": "Slave Labor Graphics",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "61 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A collection of stories from issues #1-3 of Samurai Penguin. 1. Funny animal comics. 2. New wave comics. I. Vado, Dan. II. Buck, Mark. III. Samurai Penguin. Call no.: PN6727.V27F6 1991"
+    ]
+  },
+  "138": {
+    "heading": null,
+    "title": "\"Food Chain of the Cosmos\"* 1 p. in Shall We Do It Agin? Comix",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Emeryville, Ga. : Salmon Studios, 1978).",
+    "call number": "PN6728.45.S27S47 1978",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Morning breaks on a peaceful scene in the country.\""
+    ]
+  },
+  "139": {
+    "heading": null,
+    "title": "\"Food Chain/Pecking Order\"",
+    "author": "Rob-Vel",
+    "title_type": "incipit-assigned",
+    "series": "Babouche",
+    "appears_in": " p. 6 in Lisette, no. 12 (Mar. 20, 1955) in Lisette Album, no. 25.",
+    "call number": "PN6748.L562no.25",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "140": {
+    "heading": "Food Coloring.",
+    "title": "\"Afterward Everybody Feeds Their Red Celery to my Guinea Pig\"",
+    "author": "by Jef Mallett.",
+    "title_type": "incipit-assigned",
+    "series": "Frazz, June 14, 2002",
+    "call number": "PN6726 f.B55 \"celery\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The class experiment involves celery and food coloring, and the guinea pig looks like he has lipstick on."
+    ]
+  },
+  "141": {
+    "heading": "Food Coloring.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "142": {
+    "heading": null,
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "EduComics",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "34 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "Leonard Rifas, editor, publisher.",
+        "title": "Food Comics. Food Comix, no. 1"
+      }
+    ],
+    "notes": [
+      "Food Comics. Ess Comix.",
+      "Title from cover.",
+      "\"#1\".",
+      "Rear (inverted) cover title: Ess Comics.",
+      "English version edited by Leonard Rifas, titled Food Comix. 1. Food supply",
+      "Comic books, strips, etc. 2. Food",
+      "Comic books, strips, etc. I. Rifas, Leonard. II. Food Comics. a. German comics. Call no.: PN6758.E75 1981",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Title on p. 4 of cover: Food Comics #1.",
+      "Contains 2 sections, both printed from outer covers to the center. Ten stories on better eating, consequences of the present food system, and less destructive farming methods. 1. Food",
+      "Comic books, strips, etc. 2. Educational comic books, strips, etc. I. Rifas, Leonard. II. EduComics. III. Food Comics. Call no.: PN6728.5.E3F27 1980"
+    ]
+  },
+  "143": {
+    "heading": null,
+    "title": "Food Comix, no. 1",
+    "author": "Leonard Rifas, editor, publisher.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "EduComics",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "34 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title on p. 4 of cover: Food Comics #1.",
+      "Contains 2 sections, both printed from outer covers to the center. Ten stories on better eating, consequences of the present food system, and less destructive farming methods. 1. Food",
+      "Comic books, strips, etc. 2. Educational comic books, strips, etc. I. Rifas, Leonard. II. EduComics. III. Food Comics. Call no.: PN6728.5.E3F27 1980"
+    ]
+  },
+  "144": {
+    "heading": "Food Comix--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, Comix &amp; Graphic Novels",
+    "author": "Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "125"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Phaidon",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "145": {
+    "heading": "Food Consumption.",
+    "title": "Food First Comics",
+    "author": "script by Leonard Rifas ; drawings by Leonard Rifas, Steve Leialoha and Larry Rippee.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Institute for Food and Development Policy",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "by F.M. Lappe and J. Collins with C. Fowler.",
+        "title": "Based on the book: Food First, Beyond the Myth of Scarcity"
+      }
+    ],
+    "notes": [
+      "Title from cover.",
+      "\"Specially created by EduComics.\" 1. Food supply",
+      "Comic books, strips, etc. 2. Food consumption",
+      "Comic books, strips, etc. 3. Educational comic books, strips, etc. I. Rifas, Leonard. II. Leialoha, Steve. III. Rippee, Larry. IV. Institute for Food and Development Policy (San Francisco, Calif.) V. EduComics. Call no.: PN6728.5.E3F6 1982"
+    ]
+  },
+  "146": {
+    "heading": "Food Courts.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "147": {
+    "heading": "Food Courts.",
+    "title": "\"Drove Down to the Mall an' Hung Around the Food Court\"",
+    "author": "by Lynn Johnston.",
+    "title_type": "incipit-assigned",
+    "series": "For Better or For Worse, Aug. 2, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Mike asks Elizabeth what she's going to do with the freedom of having a drivers' license, and she asks him what he did.",
+      "Key words: Womanhood, jobs, boyfriends, happening. Call no.: PN6726f.B55 \"Food Courts\""
+    ]
+  },
+  "148": {
+    "heading": "Food Critics.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "149": {
+    "heading": "Food Culture.",
+    "title": "The Joy of Rice",
+    "author": "story by Tetsu Kariya ; art by Akira Hanasaki ; translation, Tetsuichiro Miyaki ; touch-up &amp; lettering, Kelle Han.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33H327 O413053 2009",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco, CA",
+      "publisher": "VIZ Media",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "253 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Oishinbo, a la Carte)",
+      "\"In this volume of Oishinbo, Yamaoka and company look into the single most essential food in Japanese cuisine: rice. Cultivated for millennia, a staple meal in itself and the basis of countless other dishes, rice is an important component not only of the Japanese kitchen but also of Japanese culture. When Yamaoka is asked by Tozai's head chef for help in coming up with a new rice dish, what starts out as a simple culinary request rapidly grows into a disquisition into the past, present and future of Japan's food culture.\""
+    ]
+  },
+  "150": {
+    "heading": "Food Dishes.",
+    "title": "\"My Human's Cooking Should Qualify me for More than Nine Lives\"",
+    "author": "by Larry Wright.",
+    "title_type": "incipit",
+    "series": "Kit n' Carlyle, Sept. 1, 2007",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Carlyle looks at his food dish."
+    ]
+  },
+  "151": {
+    "heading": "Food Distribution.",
+    "title": "\"Fo-Fum? No, Yum-Yum\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "text) 1 p. in Captain Atom, no. 4",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Non-fiction about food distribution in the U.S. k. Food distribution. Call no.: PN6728.2.N2C3no.4"
+    ]
+  },
+  "152": {
+    "heading": "Food Drives.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "153": {
+    "heading": null,
+    "title": "\"Food Fare\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Wilbur the Waiter) 1 p. in Master Comics, no. 86",
+    "call number": "Film 15791r.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "154": {
+    "heading": "Food Fight.",
+    "title": "\"Mixed Marriage : Food Fight\"",
+    "author": "by Roz Chast",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 94 in The New Yorker, v. 78, no. 3 (Mar. 11, 2002).",
+    "call number": "AP2.N52v.78no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Back Page)"
+    ]
+  },
+  "155": {
+    "heading": "Food Fights.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "156": {
+    "heading": "Food Fights.",
+    "title": "\"Latrine Duty\"",
+    "author": "Mort Walker.",
+    "title_type": "incipit-assigned",
+    "series": "Beetle Bailey, Oct. 1, 1993",
+    "call number": "PN6726 f.B55 \"food fights\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Latrine duty isn't always the messiest job."
+    ]
+  },
+  "157": {
+    "heading": null,
+    "title": "Food First Comics",
+    "author": "script by Leonard Rifas ; drawings by Leonard Rifas, Steve Leialoha and Larry Rippee.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Institute for Food and Development Policy",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "by F.M. Lappe and J. Collins with C. Fowler.",
+        "title": "Based on the book: Food First, Beyond the Myth of Scarcity"
+      }
+    ],
+    "notes": [
+      "Title from cover.",
+      "\"Specially created by EduComics.\" 1. Food supply",
+      "Comic books, strips, etc. 2. Food consumption",
+      "Comic books, strips, etc. 3. Educational comic books, strips, etc. I. Rifas, Leonard. II. Leialoha, Steve. III. Rippee, Larry. IV. Institute for Food and Development Policy (San Francisco, Calif.) V. EduComics. Call no.: PN6728.5.E3F6 1982"
+    ]
+  },
+  "158": {
+    "heading": null,
+    "title": "\"Food for Fear\"",
+    "author": "Jack Phillips (George Kashdan), story ; Abe Ocampo, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 6 p. in Witching Hour, no. 67 (Dec./Jan. 1976/1977).",
+    "call number": "PN6728.3.N3W5no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from M. Tiefenbacher."
+    ]
+  },
+  "159": {
+    "heading": null,
+    "title": "\"Food For Freedom\"",
+    "author": "art: George Evans",
+    "title_type": "incipit",
+    "series": "Lost World",
+    "appears_in": " 10 p. in Planet Comics, no. 58 (Jan. 1949).",
+    "call number": "PN6728.1.F5P55m no.58",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Appearance of Igor; villains are Voltamen.",
+      "Data from Lou Mougin via the Grand Comics Database Project."
+    ]
+  },
+  "160": {
+    "heading": null,
+    "title": "Food for Frisket",
+    "author": "adapted by Kristin Brown ; based on the story, \"In the Belly of the Beast\" by Mark Hoffmeier and Lane Raichert.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN1992.8.A59 R42B76 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Racine, Wis.",
+      "publisher": "Western Publishing Company",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "23 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Golden Look Look Books)",
+      "\"Based on the animated series ReBoot.\""
+    ]
+  },
+  "161": {
+    "heading": null,
+    "title": "\"Food for Home\"",
+    "author": "George Shute",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Adventure Comics, no. 60 (Mar. 1941).",
+    "call number": "PN6728.1.N3A3m no.60",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "162": {
+    "heading": "Food for Satire.",
+    "title": "\"Us Versus Them in Asterix : Food for Satire\"",
+    "author": "by Paulette Carroll",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 49-55 in The Comic Reader, no. 182 (Aug. 1980).",
+    "call number": "PN6700.C6no.182",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(European Comics)."
+    ]
+  },
+  "163": {
+    "heading": null,
+    "title": "\"Food for the Children\"",
+    "author": "by Arthur Suydam",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 62-67 in Heavy Metal, v. 3, no. 9 (Jan. 1980).",
+    "call number": "PN6728.H43v.3no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "164": {
+    "heading": null,
+    "title": "Food for Thought : in aid of famine relief in Ethiopia",
+    "author": "comic strips &amp; illustrations by top British professionals, including Jim Baikie, et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " ; edited by Warren Ellis, et al.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Southend-on-Sea, Essex",
+      "publisher": "B. Millidge, Flying Pig Enterprises",
+      "date": "1985"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Ethiopia",
+      "Comic books, strips, etc. 2. Starvation",
+      "Comic books, strips, etc. I. Baikie, Jim. II. Ellis, Warren. a. British comics. b. Africana. Call no.: PN6736.F6 1985"
+    ]
+  },
+  "165": {
+    "heading": "Food for Thought--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "219"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "Entry on a famine-relief one-shot published in 1985."
+    ]
+  },
+  "166": {
+    "heading": null,
+    "title": "\"Food for Thought\"",
+    "author": "by Françoise Mouly",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " text p. 21-22 in Raw, v. 1, no. 3 (1981).",
+    "call number": "folio PN6728.R27no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "167": {
+    "heading": null,
+    "title": "\"Food for Thought!\"",
+    "author": "George Kashdan, story ; Leo Duranona, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 5 p. in House of Secrets, no. 142 (Oct./Nov. 1976).",
+    "call number": "PN6728.2.N3H62no.142",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "168": {
+    "heading": null,
+    "title": "\"Food for Thought\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Algernon) 4 p. in Whiz Comics, no. 120",
+    "call number": "Film 15791r.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "169": {
+    "heading": null,
+    "title": "\"Food for Thought\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Horace and Dotty Dripple) 1 p. in Horace and Dotty Dripple, no. 25",
+    "call number": "PN6728.1.M27D6no.25",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "170": {
+    "heading": "\"Food for Thought\" (Hungry Chuck Biscuits) / by Daniel Clyne.",
+    "title": "1 p. in Hungry Chuck Biscuits Comics &amp; Stories, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1971).",
+    "call number": "PN6728.45.K5H8no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "171": {
+    "heading": null,
+    "title": "\"Food for Thought\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Mr. Ed) 1 p. in Mister Ed, the Talking Horse",
+    "call number": "PN6728.3.D4M54 1962",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Four Color ; no. 1295)"
+    ]
+  },
+  "172": {
+    "heading": "Food for Thought.",
+    "title": "Garfield Food for Thought",
+    "author": "by Jim Davis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Ballantine",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "21 cm. 1. Funny animal comics. I. Davis, Jim. II. Food for Thought. Call no.: PN6728.G28F6 1987",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "126 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "173": {
+    "heading": "\"Food for Thought.\"",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "310"
+      ]
+    },
+    "call number": "PN6725.T5 1998",
+    "publication info": {
+      "place": null,
+      "publisher": "Reference to a story in Incredible Science Fiction",
+      "date": null
+    },
+    "notes": []
+  },
+  "174": {
+    "heading": "Food Groups.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "175": {
+    "heading": "Food Habits.",
+    "title": "Eat Your Way to a Better Relationship",
+    "author": "by Cathy Guisewite.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Kansas City",
+      "publisher": "Andrews and McMeel",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "16 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"A Cathy coping guide for the '80s.\" 1. Food habits",
+      "Anecdotes. I. Guisewite, Cathy. II. A Cathy Coping Guide for the '80s. Call no.: PN6231.G35G85 1983"
+    ]
+  },
+  "176": {
+    "heading": "Food Habits.",
+    "title": "Magali.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 7-19, 44-45, 69, 73 (1989-1992) 1. Funny kid comics. 2. Food habits",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Rio de Janeiro : Globo, .",
+      "Description based on no. 7 (Agosto 1989)",
+      "By Mauricio de Sousa Studios.",
+      "SUMMARY: Named after Mauricio's own daughter, Magali eats enormous amounts but never gains weight.",
+      "Comic books, strips, etc. 3. Brazilian comics. I. Sousa, Mauricio de. II. Editora Globo. k. Eating. k. Weight Gain. Call no.: PN6790.B74M3"
+    ]
+  },
+  "177": {
+    "heading": "Food in Comic Books, Strips, Etc.",
+    "title": "The Manga Cookbook",
+    "author": "presented by the Manga University Culinary Institute, with recipes by Yoko Ishihara ; illustrated by Chihiro Hattori.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "TX724.5.J3 I7179 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Nishi-Kawaguchi, Kawaguchi-shi, Saitama-ken, Japan",
+      "publisher": "Manga University",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "158 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes index.",
+      "\"Reading manga sure can make a person hungry! Food appears frequently in Japanese comics, but what exactly is it that the characters are eating? Introducing The Manga Cookbook, an illustrated step-by-step guide to preparing simple Japanese dishes using ingredients found in every Western kitchen. Learn to identify and make the same things you see in all your favorite manga: authentic onigiri (rice balls), yakitori (skewered chicken), oshinko (pickled vegetables), udon (Japanese noodles), okonomiyaki (Japanese-style pizza) and many others! Includes sections on how to assemble bento boxed lunches and properly use chopsticks. Features original manga illustrations by Chihiro Hattori.\""
+    ]
+  },
+  "178": {
+    "heading": "Food in Japanese Culture.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "109",
+        "118-119",
+        "126"
+      ]
+    },
+    "call number": "PN6790.J3M265 2010",
+    "publication info": null,
+    "notes": []
+  },
+  "179": {
+    "heading": "Food in Manga.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "111",
+        "113-114"
+      ]
+    },
+    "call number": "PN6790.J3M265 2010",
+    "publication info": null,
+    "notes": []
+  },
+  "180": {
+    "heading": "Food in Shôjo Manga.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "111"
+      ]
+    },
+    "call number": "PN6790.J3M265 2010",
+    "publication info": null,
+    "notes": []
+  },
+  "181": {
+    "heading": null,
+    "title": "Food in the Comics : file of clippings and examples.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PCVF Comics \"Food in the Comics\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 portfolio : ill. ; 25 x 38 cm.",
+      "Collected at Michigan State University in the Russel B. Nye Popular Culture Collection's Popular Culture Vertical File (PCVF)."
+    ]
+  },
+  "182": {
+    "heading": "Food Money.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "183": {
+    "heading": null,
+    "title": "\"Food Never Spoils in the Refrigerator of the Woman Who Eats Out\"",
+    "author": "by Nicole Hollander.",
+    "title_type": "incipit",
+    "series": "Sylvia, Aug. 19, 1994",
+    "call number": "PN6726 f.B55 \"eating out\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "184": {
+    "heading": null,
+    "title": "The Food of the Gods",
+    "author": "H",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "G. Wells.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Gilberton",
+      "date": "1961"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "45 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Classics Illustrated ; no. 160) 1. Science fiction comic books, strips, etc. I. Wells, H. G. (Herbert George), 1866-1947. II. Series. Call no.: PN6728.1.G5C55no.160"
+    ]
+  },
+  "185": {
+    "heading": null,
+    "title": "Food of the Gods",
+    "author": "by H",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "G. Wells ; Doug Moench, script ; Sonny Trinidad, artist.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Classics Comics ; no. 22) 1. Science fiction comic books, strips, etc. I. Wells, H. G. (Herbert George), 1866-1946. II. Moench, Doug, 1948- III. Trinidad, Sonny. IV. Series. Call no.: PN6728.4.M3M15no.22"
+    ]
+  },
+  "186": {
+    "heading": null,
+    "title": "The Food of the Gods",
+    "author": "H",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "G. Wells.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "West Haven, Conn.",
+      "publisher": "Academic Industries",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "61 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Pocket Classics ; C39)",
+      "In comic strip format. 1. Science fiction comic books, strips, etc. I. Wells, H. G. (Herbert George), 1866-1946. II. Series. III. Academic Industries. Call no.: PR5774.F6 1984"
+    ]
+  },
+  "187": {
+    "heading": null,
+    "title": "\"Food of the Gods : The Million Year Picnic\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Cool Comic Shops) p. 99 in The Comics Journal, no. 165",
+    "call number": "PN6700.C62no.165",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Topic: Comics retailers, Cambridge (Mass.)."
+    ]
+  },
+  "188": {
+    "heading": null,
+    "title": "\"Food or Feud!\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Dewey Drip) 1 p. in Plastic Man, no. 18",
+    "call number": "Film 15791 r.36",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: H'yar come mail man Jud wif a lettuh!"
+    ]
+  },
+  "189": {
+    "heading": "Food Poisoning.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "190": {
+    "heading": "Food Preparation.",
+    "title": "\"It Shows the Storage and Preparation of Food Through the Ages\"",
+    "author": "Mike Peters.",
+    "title_type": "incipit-assigned",
+    "series": "Mother Goose &amp; Grimm, Apr. 10, 1990",
+    "call number": "PN6726 f.B55 \"Tupperware\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cable is out, so they're going to the Tupperware museum."
+    ]
+  },
+  "191": {
+    "heading": "Food Preparation.",
+    "title": "\"Please Be Patient. Good Food Takes Time to Prepare\"",
+    "author": "Johnson.",
+    "title_type": "incipit-assigned",
+    "series": "Arlo &amp; Janis, July 7, 1988",
+    "call number": "PN6726 f.B55 \"cooking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Gene wakes Janis in the recliner, and asks when's dinner."
+    ]
+  },
+  "192": {
+    "heading": "Food Preservation.",
+    "title": "\"Canning Food\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "How Industry Serves the Nation) 1 p. in True Comics, no. 51",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "193": {
+    "heading": "Food Prices.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "194": {
+    "heading": "Food Prices.",
+    "title": "\"The Devil to Pay\"",
+    "author": "by Holloway.",
+    "title_type": "incipit",
+    "series": "Sunny Boy, Mar. 7, 1942",
+    "call number": "PN6726 f.B55 \"food prices\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: It's sure the Devil doesn't have horns and hoofs, or the meat packers would have gotten him."
+    ]
+  },
+  "195": {
+    "heading": "Food Prices.",
+    "title": "\"Speaking of Food!\"",
+    "author": "by Bob Rice",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 28 in Treasure Chest of Fun and Fact, v. 5, no. 4 (Oct. 18, 1949).",
+    "call number": "PN6728.1.P43T7v.5no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Facts about ostrich and hummingbird eggs, salmon from Alaska, food prices in colonial America, sugar, and tea."
+    ]
+  },
+  "196": {
+    "heading": "Food Processors.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "197": {
+    "heading": "Food Pyramids.",
+    "title": "\"Beer is at the Top of Leroy's Food Pyramid\"",
+    "author": "by Hoest &amp; Reiner.",
+    "title_type": "incipit",
+    "series": "The Lockhorns, July 2, 2004",
+    "call number": "PN6726 f.B55 \"beer\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "198": {
+    "heading": "Food quality.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "199": {
+    "heading": "Food Rations.",
+    "title": "\"And What Do You Propose to Do About It, Mister Attila the Hun?\"",
+    "author": "George Wunder.",
+    "title_type": "incipit-assigned",
+    "series": "Terry and the Pirates, June 28, 1958",
+    "call number": "PN6726 f.B55 \"cossacks\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: People were assembled for a food ration when this cossack in a flying machine nearly took the roof off the pawnbroker's shop."
+    ]
+  },
+  "200": {
+    "heading": "Food Relief.",
+    "title": "Food for Thought : in aid of famine relief in Ethiopia",
+    "author": "comic strips &amp; illustrations by top British professionals, including Jim Baikie, et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " ; edited by Warren Ellis, et al.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Ethiopia",
+      "Comic books, strips, etc. 2. Starvation",
+      "Comic books, strips, etc. I. Baikie, Jim. II. Ellis, Warren. a. British comics. b. Africana. Call no.: PN6736.F6 1985",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Food Relief. Heroes for Hope Starring the X-Men.",
+      "Title from cover.",
+      "\"All proceeds from this comic book are being donated to famine relief and recovery in Africa.\"",
+      "\"Vol. 1, no. 1\". 1. Food relief",
+      "Africa",
+      "Comic books, strips, etc. 2. Superhero comics. I. X-Men. a. Africana. Call no.: PN6728.5.M3H43 1985"
+    ]
+  },
+  "201": {
+    "heading": "Food riots.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "202": {
+    "heading": "Food Secrets of Old Mexico.",
+    "title": "\"Salsa\"",
+    "author": "J",
+    "title_type": "incipit",
+    "series": "Food Secrets of Old Mexico",
+    "appears_in": " Osborne. 1 p. in Forbidden Knowledge, no. 2 (1978).",
+    "call number": "PN6728.45.L3F6no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About the preparation and consumption of defeated prisoners in 16th century Mexico."
+    ]
+  },
+  "203": {
+    "heading": "Food shortage.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "204": {
+    "heading": "Food Stains.",
+    "title": "\"I Guess That Explains the Mud and Grass Stains, Too\"",
+    "author": "Chris Browne.",
+    "title_type": "incipit-assigned",
+    "series": "Hagar the Horrible, May 24, 1994",
+    "call number": "PN6726 f.B55 \"stains\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Hagar explains that the food stains by saying that an army travels on its stomach."
+    ]
+  },
+  "205": {
+    "heading": null,
+    "title": "The Food Stamp Gourmet",
+    "author": "William Brown.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Bellerophon Bks.",
+      "date": "1971"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title.",
+      "Illustrations by Greg Irons, Gilbert Shelton, and Dave Sheridan. 1. Cookery. I. Brown, William. II. Irons, Greg. III. Shelton, Gilbert. IV. Sheridan, Dave. Call no.: TX715.B76",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Food stamps. The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55"
+    ]
+  },
+  "206": {
+    "heading": null,
+    "call number": "PN6728.45.L3W5no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "author": "Joyce Farmer. 1 p. in Wimmen's Comix, no. 9 (May 1984).",
+        "title": "Food Stamps. \"More Fun than Food Stamps\""
+      }
+    ],
+    "notes": []
+  },
+  "207": {
+    "heading": "Food Storage.",
+    "title": "\"It Shows the Storage and Preparation of Food Through the Ages\"",
+    "author": "Mike Peters.",
+    "title_type": "incipit-assigned",
+    "series": "Mother Goose &amp; Grimm, Apr. 10, 1990",
+    "call number": "PN6726 f.B55 \"Tupperware\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cable is out, so they're going to the Tupperware museum."
+    ]
+  },
+  "208": {
+    "heading": "Food Supply.",
+    "title": "Ess Comix.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Frankfurt am Main",
+      "publisher": "Nexus Verlag",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "\"#1\".",
+      "Rear (inverted) cover title: Ess Comics.",
+      "English version edited by Leonard Rifas, titled Food Comix. 1. Food supply",
+      "Comic books, strips, etc. 2. Food",
+      "Comic books, strips, etc. I. Rifas, Leonard. II. Food Comics. a. German comics. Call no.: PN6758.E75 1981"
+    ]
+  },
+  "209": {
+    "heading": "Food Supply.",
+    "title": "Food and the Land : the role of soil and water conservation in the world food crisis.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Des Moines, Iowa",
+      "publisher": "Soil Conservation Society of America",
+      "date": "1967"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover. 1. Food supply",
+      "Comic books, strips, etc. 2. Soil conservation",
+      "Comic books, strips, etc. 3. Water conservation",
+      "Comic books, strips, etc. I. Soil Conservation Society of America. Call no.: S623.F6 1967"
+    ]
+  },
+  "210": {
+    "heading": "Food Supply.",
+    "title": "Food First Comics",
+    "author": "script by Leonard Rifas ; drawings by Leonard Rifas, Steve Leialoha and Larry Rippee.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Institute for Food and Development Policy",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "by F.M. Lappe and J. Collins with C. Fowler.",
+        "title": "Based on the book: Food First, Beyond the Myth of Scarcity"
+      }
+    ],
+    "notes": [
+      "Title from cover.",
+      "\"Specially created by EduComics.\" 1. Food supply",
+      "Comic books, strips, etc. 2. Food consumption",
+      "Comic books, strips, etc. 3. Educational comic books, strips, etc. I. Rifas, Leonard. II. Leialoha, Steve. III. Rippee, Larry. IV. Institute for Food and Development Policy (San Francisco, Calif.) V. EduComics. Call no.: PN6728.5.E3F6 1982"
+    ]
+  },
+  "211": {
+    "heading": "Food Supply.",
+    "title": "Manze Pu Lepep.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M374M3 1980z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Port-Louis : Ledikayson pu Travayer, 198-?",
+      "In Mauritian creole.",
+      "\"An adaptation of a booklet produced by Freres des hommes, and published under the title Vaincre la Faim.\"",
+      "Educational comic book about food supply and agriculture."
+    ]
+  },
+  "212": {
+    "heading": "Food Supply.",
+    "title": "Resistance",
+    "author": "writers, Jimmy Palmiotti, Justin Gray ; artist, Juan Santacruz.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6777.S33R4 2009",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "IDW Publishing",
+      "date": "2009"
+    },
+    "physical description": null,
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "ca. 200 p. : col. ill. ; 26 cm.",
+      "\"Manhattan, as you know it, is underwater. The government, in an effort to maintain the delicate balance between a growing population and dwindling food supplies, regulates childbirth rates in the few remaining cities. Those born illegally are hunted down and killed by lifeless corporate-sponsored machines programmed to perform the dirty work of their makers. The media embraces this law. The people embrace this law. The only opposition comes from those children whose lives are forfeit the moment they exist. What were once deadly street gangs have evolved into revolutionaries fighting for the basic human right to live.\""
+    ]
+  },
+  "213": {
+    "heading": "Food Tasters.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "214": {
+    "heading": "\"Food Trip\" / George Metzger. 2 p. in Snarf, no. 6 (Feb.",
+    "title": "1976).",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.45.K5S58no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "215": {
+    "heading": null,
+    "title": "\"Food Trip\"",
+    "author": "Robert Dougherty",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1 p. in Yellow Dog, no. 17 (1970).",
+    "call number": "PN6728.45.P7Y4no.17",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "216": {
+    "entry type": "target",
+    "anchor": "/rri/frri/foo.htm#food",
+    "title": "Food",
+    "notes": [
+      "See also <ul>\n<li>\n<a href=\"/rri/crri/cookin.htm#king\">Cooking</a><br/>\n            and\n          </li>\n<li>\n<a href=\"/rri/arri/appl.htm#apples\">Apples</a>\n</li>\n<li>\n<a href=\"/rri/brri/bak.htm#goods\">Baked Goods</a>\n</li>\n<li>\n<a href=\"/rri/brri/ban.htm#anas\">Bananas</a>\n</li>\n<li>\n<a href=\"/rri/brri/beag.htm#beans\">Beans</a>\n</li>\n<li>\n<a href=\"/rri/brri/bir.htm#birdseed\">Bird Seed</a>\n</li>\n<li>\n<a href=\"/rri/brri/bis.htm#cuits\">Biscuits</a>\n</li>\n<li>\n<a href=\"/rri/brri/bre.htm#bread\">Bread</a>\n</li>\n<li>\n<a href=\"/rri/brri/bre.htm#bcer\">Breakfast Cereal</a>\n</li>\n<li>\n<a href=\"/rri/brri/buts.htm#butter\">Butter</a>\n</li>\n<li>\n<a href=\"/rri/crri/cah.htm#cakes\">Cakes</a>\n</li>\n<li>\n<a href=\"/rri/crri/cat.htm#food\">Cat Food</a>\n</li>\n<li>\n<a href=\"/rri/crri/cer.htm#eal\">Cereal</a>\n</li>\n<li>\n<a href=\"/rri/crri/ched.htm#eese\">Cheese</a>\n</li>\n<li>\n<a href=\"/rri/crri/ched.htm#eeseburg\">Cheeseburgers</a>\n</li>\n<li>\n<a href=\"/rri/crri/ched.htm#eesecake\">Cheesecake</a>\n</li>\n<li>\n<a href=\"/rri/crri/chicka.htm#cken\">Chicken</a>\n</li>\n<li>\n<a href=\"/rri/crri/chilean.htm#chilihot\">Chili</a>\n</li>\n<li>\n<a href=\"/rri/crri/chinesed.htm#food\">Chinese Food</a>\n</li>\n<li>\n<a href=\"/rri/crri/chol.htm#chow\">Chow</a>\n</li>\n<li>\n<a href=\"/rri/crri/comicsz.htm#mida\">Comida</a>\n</li>\n<li>\n<a href=\"/rri/crri/cond.htm#ents\">Condiments</a>\n</li>\n<li>\n<a href=\"/rri/crri/cooke.htm#kies\">Cookies</a>\n</li>\n<li>\n<a href=\"/rri/crri/cracker.htm#ckers\">Crackers</a>\n</li>\n<li>\n<a href=\"/rri/crri/cue.htm#sine\">Cuisine</a>\n</li>\n<li>\n<a href=\"/rri/crri/cum.htm#akes\">Cupcakes</a>\n</li>\n<li>\n<a href=\"/rri/drri/desp.htm#ssert\">Dessert</a>\n</li>\n<li>\n<a href=\"/rri/drri/dog_f.htm#food\">Dog Food</a>\n</li>\n<li>\n<a href=\"/rri/drri/donut.htm#nuts\">Donuts</a>\n</li>\n<li>\n<a href=\"/rri/erri/eg.htm#eggs\">Eggs</a>\n</li>\n<li>\n<a href=\"/rri/frri/foo.htm#chain\">Food Chain</a>\n</li>\n<li>\n<a href=\"/rri/frri/foo.htm#thot\">Food for Thought</a>\n</li>\n<li>\n<a href=\"/rri/frri/frot.htm#fruit\">Fruit</a>\n</li>\n<li>\n<a href=\"/rri/grri/grape.htm#grapfrui\">Grapefruit</a>\n</li>\n<li>\n<a href=\"/rri/grri/grape.htm#grapes\">Grapes</a>\n</li>\n<li>\n<a href=\"/rri/grri/groan.htm#groce\">Groceries</a>\n</li>\n<li>\n<a href=\"/rri/hrri/ham.htm#hambur\">Hamburgers</a>\n</li>\n<li>\n<a href=\"/rri/hrri/host.htm#esspies\">Hostess Fruit Pies</a>\n</li>\n<li>\n<a href=\"/rri/hrri/host.htm#esstwink\">Hostess Twinkies</a>\n</li>\n<li>\n<a href=\"/rri/hrri/host.htm#dogs\">Hot Dogs</a>\n</li>\n<li>\n<a href=\"/rri/jrri/jeh.htm#jello\">Jello</a>\n</li>\n<li>\n<a href=\"/rri/jrri/jeh.htm#jelly\">Jelly</a>\n</li>\n<li>\n<a href=\"/rri/irri/itals.htm#food\">Italian Food</a>\n</li>\n<li>\n<a href=\"/rri/lrri/letteri.htm#lettuce\">Lettuce</a>\n</li>\n<li>\n<a href=\"/rri/lrri/liu.htm#liver\">Liver</a>\n</li>\n<li>\n<a href=\"/rri/mrri/mear.htm#meat\">Meat</a>\n</li>\n<li>\n<a href=\"/rri/mrri/muf.htm#fins\">Muffins</a>\n</li>\n<li>\n<a href=\"/rri/nrri/nut.htm#nuts\">Nuts</a>\n</li>\n<li>\n<a href=\"/rri/orri/oni.htm#ions\">Onions</a>\n</li>\n<li>\n<a href=\"/rri/prri/panamani.htm#pancakes\">Pancakes</a>\n</li>\n<li>\n<a href=\"/rri/prri/past.htm#pasta\">Pasta</a>\n</li>\n<li>\n<a href=\"/rri/prri/past.htm#rami\">Pastrami</a>\n</li>\n<li>\n<a href=\"/rri/prri/past.htm#stry\">Pastry</a>\n</li>\n<li>\n<a href=\"/rri/prri/pe.htm#peaches\">Peaches</a>\n</li>\n<li>\n<a href=\"/rri/prri/pe.htm#pbut\">Peanut Butter</a>\n</li>\n<li>\n<a href=\"/rri/prri/pe.htm#pnuts\">Peanuts</a>\n</li>\n<li>\n<a href=\"/rri/prri/pean9.htm#peas\">Peas</a>\n</li>\n<li>\n<a href=\"/rri/prri/pep.htm#roni\">Pepperoni</a>\n</li>\n<li>\n<a href=\"/rri/prri/pits.htm#pizza\">Pizza</a>\n</li>\n<li>\n<a href=\"/rri/prri/pop.htm#popcorn\">Popcorn</a>\n</li>\n<li>\n<a href=\"/rri/prri/porky.htm#idge\">Porridge</a>\n</li>\n<li>\n<a href=\"/rri/qrri/qui.htm#iche\">Quiche</a>\n</li>\n<li>\n<a href=\"/rri/rrri/rain.htm#sins\">Raisins</a>\n</li>\n<li>\n<a href=\"/rri/rrri/ric.htm#rice\">Rice</a>\n</li>\n<li>\n<a href=\"/rri/rrri/rolf.htm#rolls\">Rolls</a>\n</li>\n<li>\n<a href=\"/rri/srri/saio.htm#salad\">Salad</a>\n</li>\n<li>\n<a href=\"/rri/srri/sando.htm#sandwich\">Sandwiches</a>\n</li>\n<li>\n<a href=\"/rri/srri/satu.htm#sausage\">Sausage</a>\n</li>\n<li>\n<a href=\"/rri/srri/sea_m.htm#food\">Seafood</a>\n</li>\n<li>\n<a href=\"/rri/srri/shr.htm#rimp\">Shrimp</a>\n</li>\n<li>\n<a href=\"/rri/srri/soup.htm#soup\">Soup</a>\n</li>\n<li>\n<a href=\"/rri/srri/spag.htm#spagh\">Spaghetti</a>\n</li>\n<li>\n<a href=\"/rri/srri/spin.htm#nach\">Spinach</a>\n</li>\n<li>\n<a href=\"/rri/srri/stew.htm#stew\">Stew</a>\n</li>\n<li>\n<a href=\"/rri/trri/toa.htm#toast\">Toast</a>\n</li>\n<li>\n<a href=\"/rri/trri/toe.htm#tofu\">Tofu</a>\n</li>\n<li>\n<a href=\"/rri/trri/tom_s.htm#toes\">Tomatoes</a>\n</li>\n<li>\n<a href=\"/rri/trri/turner_n.htm#nips\">Turnips</a>\n</li>\n<li>\n<a href=\"/rri/vrri/ve.htm#ables\">Vegetables</a>\n</li>\n<li>\n<a href=\"/rri/wrri/wae.htm#fles\">Waffles</a>\n</li>\n<li>\n<a href=\"/rri/wrri/wallu.htm#nuts\">Walnuts</a>\n</li>\n<li>\n<a href=\"/rri/wrri/watera.htm#lons\">Watermelons</a><br/>\n            and the title:\n          </li>\n<li>\n<a href=\"/rri/srri/squirr.htm#squfood\">Squirrel Food</a>\n</li>\n</ul>"
+    ],
+    "links": [
+      {
+        "Link Text": "Cooking",
+        "Link URL": "/rri/crri/cookin.htm#king"
+      },
+      {
+        "Link Text": "Apples",
+        "Link URL": "/rri/arri/appl.htm#apples"
+      },
+      {
+        "Link Text": "Baked Goods",
+        "Link URL": "/rri/brri/bak.htm#goods"
+      },
+      {
+        "Link Text": "Bananas",
+        "Link URL": "/rri/brri/ban.htm#anas"
+      },
+      {
+        "Link Text": "Beans",
+        "Link URL": "/rri/brri/beag.htm#beans"
+      },
+      {
+        "Link Text": "Bird Seed",
+        "Link URL": "/rri/brri/bir.htm#birdseed"
+      },
+      {
+        "Link Text": "Biscuits",
+        "Link URL": "/rri/brri/bis.htm#cuits"
+      },
+      {
+        "Link Text": "Bread",
+        "Link URL": "/rri/brri/bre.htm#bread"
+      },
+      {
+        "Link Text": "Breakfast Cereal",
+        "Link URL": "/rri/brri/bre.htm#bcer"
+      },
+      {
+        "Link Text": "Butter",
+        "Link URL": "/rri/brri/buts.htm#butter"
+      },
+      {
+        "Link Text": "Cakes",
+        "Link URL": "/rri/crri/cah.htm#cakes"
+      },
+      {
+        "Link Text": "Cat Food",
+        "Link URL": "/rri/crri/cat.htm#food"
+      },
+      {
+        "Link Text": "Cereal",
+        "Link URL": "/rri/crri/cer.htm#eal"
+      },
+      {
+        "Link Text": "Cheese",
+        "Link URL": "/rri/crri/ched.htm#eese"
+      },
+      {
+        "Link Text": "Cheeseburgers",
+        "Link URL": "/rri/crri/ched.htm#eeseburg"
+      },
+      {
+        "Link Text": "Cheesecake",
+        "Link URL": "/rri/crri/ched.htm#eesecake"
+      },
+      {
+        "Link Text": "Chicken",
+        "Link URL": "/rri/crri/chicka.htm#cken"
+      },
+      {
+        "Link Text": "Chili",
+        "Link URL": "/rri/crri/chilean.htm#chilihot"
+      },
+      {
+        "Link Text": "Chinese Food",
+        "Link URL": "/rri/crri/chinesed.htm#food"
+      },
+      {
+        "Link Text": "Chow",
+        "Link URL": "/rri/crri/chol.htm#chow"
+      },
+      {
+        "Link Text": "Comida",
+        "Link URL": "/rri/crri/comicsz.htm#mida"
+      },
+      {
+        "Link Text": "Condiments",
+        "Link URL": "/rri/crri/cond.htm#ents"
+      },
+      {
+        "Link Text": "Cookies",
+        "Link URL": "/rri/crri/cooke.htm#kies"
+      },
+      {
+        "Link Text": "Crackers",
+        "Link URL": "/rri/crri/cracker.htm#ckers"
+      },
+      {
+        "Link Text": "Cuisine",
+        "Link URL": "/rri/crri/cue.htm#sine"
+      },
+      {
+        "Link Text": "Cupcakes",
+        "Link URL": "/rri/crri/cum.htm#akes"
+      },
+      {
+        "Link Text": "Dessert",
+        "Link URL": "/rri/drri/desp.htm#ssert"
+      },
+      {
+        "Link Text": "Dog Food",
+        "Link URL": "/rri/drri/dog_f.htm#food"
+      },
+      {
+        "Link Text": "Donuts",
+        "Link URL": "/rri/drri/donut.htm#nuts"
+      },
+      {
+        "Link Text": "Eggs",
+        "Link URL": "/rri/erri/eg.htm#eggs"
+      },
+      {
+        "Link Text": "Food Chain",
+        "Link URL": "/rri/frri/foo.htm#chain"
+      },
+      {
+        "Link Text": "Food for Thought",
+        "Link URL": "/rri/frri/foo.htm#thot"
+      },
+      {
+        "Link Text": "Fruit",
+        "Link URL": "/rri/frri/frot.htm#fruit"
+      },
+      {
+        "Link Text": "Grapefruit",
+        "Link URL": "/rri/grri/grape.htm#grapfrui"
+      },
+      {
+        "Link Text": "Grapes",
+        "Link URL": "/rri/grri/grape.htm#grapes"
+      },
+      {
+        "Link Text": "Groceries",
+        "Link URL": "/rri/grri/groan.htm#groce"
+      },
+      {
+        "Link Text": "Hamburgers",
+        "Link URL": "/rri/hrri/ham.htm#hambur"
+      },
+      {
+        "Link Text": "Hostess Fruit Pies",
+        "Link URL": "/rri/hrri/host.htm#esspies"
+      },
+      {
+        "Link Text": "Hostess Twinkies",
+        "Link URL": "/rri/hrri/host.htm#esstwink"
+      },
+      {
+        "Link Text": "Hot Dogs",
+        "Link URL": "/rri/hrri/host.htm#dogs"
+      },
+      {
+        "Link Text": "Jello",
+        "Link URL": "/rri/jrri/jeh.htm#jello"
+      },
+      {
+        "Link Text": "Jelly",
+        "Link URL": "/rri/jrri/jeh.htm#jelly"
+      },
+      {
+        "Link Text": "Italian Food",
+        "Link URL": "/rri/irri/itals.htm#food"
+      },
+      {
+        "Link Text": "Lettuce",
+        "Link URL": "/rri/lrri/letteri.htm#lettuce"
+      },
+      {
+        "Link Text": "Liver",
+        "Link URL": "/rri/lrri/liu.htm#liver"
+      },
+      {
+        "Link Text": "Meat",
+        "Link URL": "/rri/mrri/mear.htm#meat"
+      },
+      {
+        "Link Text": "Muffins",
+        "Link URL": "/rri/mrri/muf.htm#fins"
+      },
+      {
+        "Link Text": "Nuts",
+        "Link URL": "/rri/nrri/nut.htm#nuts"
+      },
+      {
+        "Link Text": "Onions",
+        "Link URL": "/rri/orri/oni.htm#ions"
+      },
+      {
+        "Link Text": "Pancakes",
+        "Link URL": "/rri/prri/panamani.htm#pancakes"
+      },
+      {
+        "Link Text": "Pasta",
+        "Link URL": "/rri/prri/past.htm#pasta"
+      },
+      {
+        "Link Text": "Pastrami",
+        "Link URL": "/rri/prri/past.htm#rami"
+      },
+      {
+        "Link Text": "Pastry",
+        "Link URL": "/rri/prri/past.htm#stry"
+      },
+      {
+        "Link Text": "Peaches",
+        "Link URL": "/rri/prri/pe.htm#peaches"
+      },
+      {
+        "Link Text": "Peanut Butter",
+        "Link URL": "/rri/prri/pe.htm#pbut"
+      },
+      {
+        "Link Text": "Peanuts",
+        "Link URL": "/rri/prri/pe.htm#pnuts"
+      },
+      {
+        "Link Text": "Peas",
+        "Link URL": "/rri/prri/pean9.htm#peas"
+      },
+      {
+        "Link Text": "Pepperoni",
+        "Link URL": "/rri/prri/pep.htm#roni"
+      },
+      {
+        "Link Text": "Pizza",
+        "Link URL": "/rri/prri/pits.htm#pizza"
+      },
+      {
+        "Link Text": "Popcorn",
+        "Link URL": "/rri/prri/pop.htm#popcorn"
+      },
+      {
+        "Link Text": "Porridge",
+        "Link URL": "/rri/prri/porky.htm#idge"
+      },
+      {
+        "Link Text": "Quiche",
+        "Link URL": "/rri/qrri/qui.htm#iche"
+      },
+      {
+        "Link Text": "Raisins",
+        "Link URL": "/rri/rrri/rain.htm#sins"
+      },
+      {
+        "Link Text": "Rice",
+        "Link URL": "/rri/rrri/ric.htm#rice"
+      },
+      {
+        "Link Text": "Rolls",
+        "Link URL": "/rri/rrri/rolf.htm#rolls"
+      },
+      {
+        "Link Text": "Salad",
+        "Link URL": "/rri/srri/saio.htm#salad"
+      },
+      {
+        "Link Text": "Sandwiches",
+        "Link URL": "/rri/srri/sando.htm#sandwich"
+      },
+      {
+        "Link Text": "Sausage",
+        "Link URL": "/rri/srri/satu.htm#sausage"
+      },
+      {
+        "Link Text": "Seafood",
+        "Link URL": "/rri/srri/sea_m.htm#food"
+      },
+      {
+        "Link Text": "Shrimp",
+        "Link URL": "/rri/srri/shr.htm#rimp"
+      },
+      {
+        "Link Text": "Soup",
+        "Link URL": "/rri/srri/soup.htm#soup"
+      },
+      {
+        "Link Text": "Spaghetti",
+        "Link URL": "/rri/srri/spag.htm#spagh"
+      },
+      {
+        "Link Text": "Spinach",
+        "Link URL": "/rri/srri/spin.htm#nach"
+      },
+      {
+        "Link Text": "Stew",
+        "Link URL": "/rri/srri/stew.htm#stew"
+      },
+      {
+        "Link Text": "Toast",
+        "Link URL": "/rri/trri/toa.htm#toast"
+      },
+      {
+        "Link Text": "Tofu",
+        "Link URL": "/rri/trri/toe.htm#tofu"
+      },
+      {
+        "Link Text": "Tomatoes",
+        "Link URL": "/rri/trri/tom_s.htm#toes"
+      },
+      {
+        "Link Text": "Turnips",
+        "Link URL": "/rri/trri/turner_n.htm#nips"
+      },
+      {
+        "Link Text": "Vegetables",
+        "Link URL": "/rri/vrri/ve.htm#ables"
+      },
+      {
+        "Link Text": "Waffles",
+        "Link URL": "/rri/wrri/wae.htm#fles"
+      },
+      {
+        "Link Text": "Walnuts",
+        "Link URL": "/rri/wrri/wallu.htm#nuts"
+      },
+      {
+        "Link Text": "Watermelons",
+        "Link URL": "/rri/wrri/watera.htm#lons"
+      },
+      {
+        "Link Text": "Squirrel Food",
+        "Link URL": "/rri/srri/squirr.htm#squfood"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

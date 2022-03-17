@@ -1,0 +1,3658 @@
+{
+  "1": {
+    "heading": null,
+    "title": "Des",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Andreas Asmussen) Index entry",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "2": {
+    "heading": null,
+    "title": "Des Bleus en Noir et Blanc",
+    "author": "Lambil, Cauvin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "J'ai Lu",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "95 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(J'ai Lu BD ; 179) (Les Tuniques Bleus ; 3) 1. Funny military comics. I. Lambil. II. Cauvin. III. Series. IV. Series 2. a. French comics. Call no.: PN6747.L27T83 1990"
+    ]
+  },
+  "3": {
+    "heading": null,
+    "title": "Des Bonshommes : 1re série",
+    "author": "par A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Guillaume ; préface de Francis Chevassu.",
+    "call number": "oversize NC1499.G8D4 1893",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "H. Simonis Empis",
+      "date": "1893"
+    },
+    "physical description": {
+      "dimensions": "37 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "3 p., 30 leaves",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"Une Visite de Jour de l'An\""
+      },
+      {
+        "title": "\"Femme du Monde\""
+      },
+      {
+        "title": "\"L'Affaire s'Arrangera\""
+      },
+      {
+        "title": "\"Pas de Bonne Fête sans Lendemain\""
+      },
+      {
+        "title": "\"Femme Peintre\""
+      },
+      {
+        "title": "\"Pauvres Potaches\""
+      },
+      {
+        "title": "\"Mais c'est dans le Texte\""
+      },
+      {
+        "title": "\"Comment on Réveillonne\""
+      },
+      {
+        "title": "\"Monsieur Rentre Demain!\""
+      },
+      {
+        "title": "\"C'est le Printemps!\""
+      },
+      {
+        "title": "\"Le Macaroni Révélateur\""
+      },
+      {
+        "title": "\"Billet Circulaire\""
+      },
+      {
+        "title": "\"Illusions Perdues\""
+      },
+      {
+        "title": "\"Billet de Logement\""
+      },
+      {
+        "title": "\"Madame Chasse\""
+      },
+      {
+        "title": "\"Au Bal des Quat-z-arts\""
+      },
+      {
+        "title": "\"Deux Poules Vivaient en Paix\""
+      },
+      {
+        "title": "\"Un Engagement\""
+      },
+      {
+        "title": "\"Montgolfière fin de Siècle\""
+      },
+      {
+        "title": "\"Regrets Éternels\""
+      },
+      {
+        "title": "\"Les Premiers Beaux Jours\""
+      },
+      {
+        "title": "\"Modelage\""
+      },
+      {
+        "title": "\"Pour les Pauvres, S.V.P.!\""
+      },
+      {
+        "title": "\"Les Victimes du Bal de l'Opéra\""
+      },
+      {
+        "title": "\"Enfin Seuls!\""
+      },
+      {
+        "title": "\"Espoir d'Amour\""
+      },
+      {
+        "title": "\"Avant la Revue\""
+      },
+      {
+        "title": "\"Mme Béatrice, Langues Vivantes, 5 à 7, Rue de Londres\""
+      },
+      {
+        "title": "\"L'Honneur est Sauf!\""
+      },
+      {
+        "title": "\"Le Corsage de Madame ne va pas\""
+      }
+    ],
+    "notes": [
+      "Each leaf is a brief story without words."
+    ]
+  },
+  "4": {
+    "heading": null,
+    "title": "Des Bonshommes : 2me série",
+    "author": "par A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Guillaume : préface de Henri Lavedan.",
+    "call number": "oversize NC1499.G8D42 1900z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"Les Menus de Madame\""
+      },
+      {
+        "title": "\"Entre Deux Eaux\""
+      },
+      {
+        "title": "\"Un Neuf de Paques\""
+      },
+      {
+        "title": "\"Un Véritable Coucher de Don Juan\""
+      },
+      {
+        "title": "\"L'Émancipation de la Femme\""
+      },
+      {
+        "title": "\"Avant, Pendant et Apres le Ballet\""
+      },
+      {
+        "title": "\"La Livrée de Doleur\""
+      },
+      {
+        "title": "\"Aux Ambass'\""
+      },
+      {
+        "title": "\"Le Dahomey à Paris\""
+      },
+      {
+        "title": "\"Incident d'Automne\""
+      },
+      {
+        "title": "\"Guérison Radicale en Trois Jours\""
+      },
+      {
+        "title": "\"Pendant les Chaleurs\""
+      },
+      {
+        "title": "\"Ce qu'on Appelle Se Reposer\""
+      },
+      {
+        "title": "\"Pour Plus de Sureté\""
+      },
+      {
+        "title": "\"Comment on Rate un Riche Mariage\""
+      },
+      {
+        "title": "\"Un Match ou qui Perd Gagne\""
+      },
+      {
+        "title": "\"À l'Architecture\""
+      },
+      {
+        "title": "\"Comment on Devient de la Ligue\""
+      },
+      {
+        "title": "\"Les Trahisons du Patin\""
+      },
+      {
+        "title": "\"Ce qu'on Fait au Vernissage\""
+      },
+      {
+        "title": "\"Marche de Nuit\""
+      },
+      {
+        "title": "\"Incompatibilité d'Humeur\""
+      },
+      {
+        "title": "\"Chez Molier\""
+      },
+      {
+        "title": "\"Tu n'as pas Trois Louis jusqu'a Demain?\""
+      }
+    ],
+    "notes": [
+      "Paris : H. Simonis Empis, ca. 1900.",
+      "- 27 leaves : ill. ; 37 cm.",
+      "\"5e mille\".",
+      "Each leaf is a brief story without words."
+    ]
+  },
+  "5": {
+    "heading": null,
+    "title": "\"Des Bulles au Panthéon\"",
+    "author": "Laurent Mélikion",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 8 in Bo Doï, no. 27 (Feb. 2000).",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Actu)",
+      "Review of L'Homme qui rit, the Victor Hugo adaptation done by Fernando de Felipe."
+    ]
+  },
+  "6": {
+    "heading": "Des Bulles Plein la Tête.",
+    "title": "La Planète des Ombres",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Brunier.",
+    "call number": "PN6747.B77P55 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "D. Leroy",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "40 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Des Bulles Plein la Tête)",
+      "(Aventure de Mégalus)",
+      "Genre: Science fiction."
+    ]
+  },
+  "7": {
+    "heading": "Des Chats.",
+    "title": "Steinlen Cats : drawings",
+    "author": "by Théophile-Alexandre Steinlen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC248.S7A4 1980",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Dover Publications",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "44 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dover Art Library)",
+      "A new selection of drawings from the following two works: Chats et Autres Bêtes, published in 1933 and Des Chats, published at the turn-of-the-century.",
+      "Includes stories without words (p. 29-43)."
+    ]
+  },
+  "8": {
+    "heading": null,
+    "title": "Des Drakkars a l'Est",
+    "author": "dessin de Eduardo Coelho ; scenario de Jean Ollivier",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Les Rois de la Mer",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Bandes Dessinees Larousse",
+      "date": "1978"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 51-96 : col. ill. ; 29 cm.",
+      "(La Decouverte du Monde en Bandes Dessinees ; no. 2)",
+      "Cover title: L'Aventure des Vikings. 1. Vikings",
+      "Comic books, strips, etc. 2. Scandinavia",
+      "History",
+      "Comic books, strips, etc. I. Coelho, Eduardo. II. Ollivier, Jean. III. Bielsa, Jose. IV. Bastian, Jacques. V. Les Rois de la Mer. VI. L'Aventure des Vikings. VII. Series. Call no.: PN6746f.D4N22 1978"
+    ]
+  },
+  "9": {
+    "heading": null,
+    "title": "\"Des Échos d'Albin Michel : Conversation avec Thierry Souccar\"",
+    "author": "propos recueillis par Christian Marmonnier",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 76-77 in Les Cahiers de la Bande Dessinée, no. 57 (Apr./May 1984).",
+    "call number": "PN6745.S37no.57",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Interview of Souccar, an editor at Albin Michel."
+    ]
+  },
+  "10": {
+    "heading": null,
+    "title": "Des Enfants et des Hommes",
+    "author": "Philippe Lejeune.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles?",
+      "publisher": "Magic-Strip",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 31 cm.",
+      "(Collection Humour ; no. 7) 1. French comics. I. Lejeune, Philippe, 1938- II. Series. III. Magic-Strip. Call no.: PN6747.L346D4 1989"
+    ]
+  },
+  "11": {
+    "heading": "Des Engels letzter Fall.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "307"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "12": {
+    "heading": "Des Femmes et des Bulles.",
+    "title": "Les Compagnes des Héros de B.D. : Des Femmes et des Bulles",
+    "author": "Annie Pilloy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6714.P55 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Harmattan",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "286 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Logiques Sociales)",
+      "Includes bibliographical references (p. 263-281).",
+      "About women in Franco-Belgian comics."
+    ]
+  },
+  "13": {
+    "heading": null,
+    "title": "Des Filles Formidables",
+    "author": "Fremond.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "30 cm. 1. Sex",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. I. Fremond, Denis. a. French comics. Call no.: PN6747f.F7D4 1988"
+    ]
+  },
+  "14": {
+    "heading": "Des Filles Formidables. Danish.",
+    "title": "Fire Fantastiske Piger",
+    "author": "Fremond ; på dansk ved Per Vadmand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.F7D419 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Dargaud præsenterer\".",
+      "Translation of: Des Filles Formidables."
+    ]
+  },
+  "15": {
+    "heading": "Des Hauts en Bas--Reviews.",
+    "title": "\"Koton Kid\"",
+    "author": "Olivier Maltret",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 11 in Bo Doï, no. 27 (Feb. 2000).",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Actu)",
+      "Review of Des hauts en Bas (Phil Koton 1) (Pierre-Yves Gabrion)."
+    ]
+  },
+  "16": {
+    "heading": null,
+    "title": "Des Hauts et des Bas",
+    "author": "Sempé.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1499.S35A43",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Denoël",
+      "date": "1970"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "109 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "17": {
+    "heading": null,
+    "title": "\"Des images pour rire, d'une fin de siècle à une autre\"",
+    "author": "Nelly Feuerhahn",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 81-89 in L'Humour Graphique Fin de Siècle (Saint-Denis : Presses Universitaires de Vincennes, 1999).",
+    "call number": "PN6745.H86 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes illustrations and bibliographical references."
+    ]
+  },
+  "18": {
+    "heading": null,
+    "title": "\"Des Kaisers neue Panzer\"",
+    "author": "Peter Petri",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 48 in Friede, Freude, Eierkuchen Comics (Kiel : Semmel-Verlag, 1983?)",
+    "call number": "PN6756.F7 1983",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "19": {
+    "heading": null,
+    "title": "Des Maux pour le Dire",
+    "author": "textes de Yves Lacroix et Lax ; dessins de Lax.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L23D4 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Vents d'Ouest",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The writer/protagonist is in a wheelchair living with cerebral palsy.",
+      "Genre: Adventure story."
+    ]
+  },
+  "20": {
+    "heading": "Des Maux pour le Dire. Swedish.",
+    "title": "Med vägen som mål",
+    "author": "Lax och Yves Lacroix ; översättning, Cecilia Strömberg ; textning Siw Lidman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L23D419 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Stockholm",
+      "publisher": "Medusa",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Ett Album från Medusa)",
+      "Translation of: Des maux pour le dire.",
+      "The writer/protagonist is in a wheelchair living with cerebral palsy.",
+      "Genre: Adventure story."
+    ]
+  },
+  "21": {
+    "heading": "Des Maux pour le Dire--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "297"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "22": {
+    "heading": null,
+    "title": "Des Moines Register",
+    "author": "Sally Posovich",
+    "title_type": "official",
+    "series": "Mar. 8, 2000) \"Offensive\"",
+    "appears_in": " p. 10A in Des Moines Register, Mar. 8, 2000.",
+    "call number": "NC1320.S35 2000",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letter to the editor about a Brian Duffy cartoon showing George Bush in a confessional."
+    ]
+  },
+  "23": {
+    "heading": null,
+    "title": "Des \"Oh\" et des \"Bah\"",
+    "author": "Turk &amp; De Groot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D354D4 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Dargaud Benelux",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Robin Dubois ; 16)"
+    ]
+  },
+  "24": {
+    "heading": null,
+    "title": "Des Ombres sur le Sable : le Retour de Seth",
+    "author": "Hulet, Duchâteau.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.H8D4 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Novedi",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Pharaon ; 6)",
+      "Horror."
+    ]
+  },
+  "25": {
+    "heading": null,
+    "title": "\"Des Petits Hommes au Brontoxique\"",
+    "author": "Seron, Desprechins",
+    "title_type": "incipit",
+    "series": "Les Petits Hommes",
+    "appears_in": " p. 30-33 in Spirou, no. 1794 (Aug. 31, 1972).",
+    "call number": "PN6748.S65no.1794",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Le navire emportant les Petits Hommes affronte un mer déchainée.\""
+    ]
+  },
+  "26": {
+    "heading": null,
+    "title": "\"Des Volumes et des Plis\"",
+    "author": "par Philippe Wurm",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 78-79 in Les Cahiers de la Bande Dessinée, no. 63 (May/June 1985).",
+    "call number": "PN6745.S37no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article on the drawing style of Daniel Goossens."
+    ]
+  },
+  "27": {
+    "heading": "DeSaad.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 6",
+        "15"
+      ]
+    },
+    "call number": "PN6725.W475 1984 v.6",
+    "publication info": null,
+    "notes": []
+  },
+  "28": {
+    "heading": "Desaad.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 5",
+        "27"
+      ]
+    },
+    "call number": "PN6725.W476 1987v.5",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "29": {
+    "heading": "De Sade, Dewey.",
+    "title": "Dewey de Sade Comics.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6 .I83D4",
+    "library has": "no. 1-2 (1993-1994).",
+    "publication info": {
+      "place": "Solana Beach, CA",
+      "publisher": "Item Comics",
+      "date": "1993-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Apr. 1993).",
+      "Other title: Dewey de Sade Comics Magazine.",
+      "Erotic."
+    ]
+  },
+  "30": {
+    "heading": null,
+    "title": "\"De Sade\"",
+    "author": "Brandreth",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 86-87 in Evergreen Review, no. 48 (Aug. 1967)",
+    "call number": "folio AP2.E884no.48",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sequence of drawings shows a reader with a book titled \"De Sade.\""
+    ]
+  },
+  "31": {
+    "heading": null,
+    "title": "De Sade ; 49 Il Castello delle Sevizie.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Edizioni EP",
+      "date": "1973"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "130 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(De Sade ; 49)",
+      "\"Fumetto per adulti\". 1. Italian comics. 2. Erotic comic books, strips, etc. I. Series. II. Edizioni EP. Call no.: PN6768.D4C3 1973"
+    ]
+  },
+  "32": {
+    "heading": null,
+    "title": "De Sade ; n. 119 Le Notti di Sodoma.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6768.D4N6 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Edizioni EP",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(De Sade ; n. 119)",
+      "\"Fumetto per adulti.\""
+    ]
+  },
+  "33": {
+    "heading": null,
+    "title": "De Sade ; 128 Firmato De Sade.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6768.D4F4 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Edizioni EP",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(De Sade ; n. 128)",
+      "\"Fumetto per adulti.\""
+    ]
+  },
+  "34": {
+    "heading": null,
+    "title": "De Sade ; n. 141 I Guappi.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6768.D4G8 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Edizioni EP",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(De Sade ; n. 141)",
+      "\"Fumetto per adulti.\""
+    ]
+  },
+  "35": {
+    "heading": "De Sade--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "438-439"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "36": {
+    "heading": null,
+    "title": "\"De Sade Abound\"",
+    "author": "Mick Farren",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 35 in Heavy Metal, v. 5, no. 9 (Dec. 1981).",
+    "call number": "PN6728.H43v.5no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier)",
+      "A review of Guido Crepax's Justine."
+    ]
+  },
+  "37": {
+    "heading": null,
+    "title": "\"El Desafio\"",
+    "author": "Stan Campbell",
+    "title_type": "incipit",
+    "series": "Tex Ritter",
+    "appears_in": " 8 p. in Oklahoma Kid, no. 7 (Feb. 1958).",
+    "call number": "PN6790.M44 O37no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "38": {
+    "heading": null,
+    "title": "\"Desafio Mortal\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Wyatt Earp) 5 p. in Oklahoma Kid, no. 17",
+    "call number": "PN6790.M44 O37no.17",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "39": {
+    "heading": "Desai, Chetan.",
+    "title": "\"The Krisna Conspiracy\"",
+    "author": "Chetan Desai",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 325-333 in International Journal of Comic Art, v. 5, no. 1 (Spring 2003).",
+    "call number": "PN6700.I54v.5no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article on Anant Pai and Amar Chitra Katha.",
+      "Illustrated ; includes bibliographical references."
+    ]
+  },
+  "40": {
+    "heading": "Desalination.",
+    "title": "\"Run Along Boys, and Don't Disturb Genius at Work\"",
+    "author": "Bill Freyse.",
+    "title_type": "incipit",
+    "series": "Our Boarding House, Aug. 5, 1961",
+    "call number": "PN6728f.O8F6 1934v.16",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Now that the Hoople Diction Disc idea has been sold, the boarders expect the Indians to win the next TV western, or has the hearing aid picked up Swahili short-wave again? The Major dismisses them to concentrate on his new practical plans for desalination of sea water."
+    ]
+  },
+  "41": {
+    "heading": "De Santis, Aldo.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "386",
+        "389"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "42": {
+    "heading": null,
+    "title": "\"Desaparición de la Momia\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Viajero Misterioso) 7 p. in Sombras, no. 3",
+    "call number": "PN6790.M44S585no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "43": {
+    "heading": null,
+    "title": "\"La Desaparición de Linterna Verde\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "The Flash). 23 p. in Batman",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "44": {
+    "heading": "DeSarro, Rodney.",
+    "title": "Cartoons-of-the-Month.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6163.C3 1963",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Scholastic Book Services",
+      "date": "1963"
+    },
+    "physical description": {
+      "dimensions": "11 x 15 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "94 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cartoons signed by: Tom Henderson, Cathy Joachim, Rodney DeSarro, Reamer Keller, Frank Owen, and Jeff Keate."
+    ]
+  },
+  "45": {
+    "heading": "DeSarro, Rodney.",
+    "title": "Contribution",
+    "author": "ed",
+    "title_type": "official",
+    "series": "p. 8, 20, 26, 45, 61, 72, 91, 101, 120, 127) in I Meet Such People! a Careful Collection of More than 200 Carefree Cartoons",
+    "appears_in": " by Gurney Williams (New York : Farrar, Straus and Company, 1946).",
+    "call number": "NC1428.C66 1946",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "46": {
+    "heading": "DeSarro, Rodney.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "\"list of artists\""
+      ]
+    },
+    "call number": "NC1428.S36 1944",
+    "publication info": null,
+    "notes": []
+  },
+  "47": {
+    "heading": null,
+    "title": "\"Desarrollo de los Brazos\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Sea Fuerte) 3 p. in Sansón, no. 2",
+    "call number": "PN6790.M44S3no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Narrated by the character Sansón.",
+      "Begins: \"Todo el mundo quiere tener brazos fuertes!\"",
+      "The first of these three pages is later printed separately as filler."
+    ]
+  },
+  "48": {
+    "heading": null,
+    "title": "\"Desarrollo de los Brazos\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Sea Fuerte) 1 p. in Grandes Detectives, no. 27",
+    "call number": "PN6790.M44G7no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Todo el mundo quiere tener brazos fuertes!\"",
+      "This is the first page of a 3 p. feature originally seen in Sansón, no. 2 (Dec. 1955)."
+    ]
+  },
+  "49": {
+    "heading": null,
+    "title": "\"Desarrollo de los Brazos\"",
+    "author": "Powell",
+    "title_type": "incipit",
+    "series": "Sea Fuerte",
+    "appears_in": " 1 p. in Sansón, no. 3 (Feb. 1956) ; in Acción Policíaca, no. 84 (Nov. 1958) ; in Oklahoma Kid, no. 20 (Mar. 1959) ; in Rodeo, no. 38 (Feb. 1958) ; in Durango Kid, no. 76 (Jan. 1959) ; in Selva, no. 74 (Dec. 1958) ; in Suspenso, no. 20 (Sept. 1958).",
+    "call number": "PN6790.M44S3no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Actuales atletas profesionales levantapesos han llegado al record mundial de 331 1/4 lbs!\""
+    ]
+  },
+  "50": {
+    "heading": null,
+    "title": "\"Desarrollo y Perspectivas de la Historieta Infantil Brasileña : las Incógnitas de un Nuevo Siglo\"",
+    "author": "Waldomiro Vergueiro",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 3-14 in La Revista Latinoamericana de Estudios sobre la Historieta, v. 1, no. 1 (Abril 2001).",
+    "call number": "PN6790.L29R4v.1no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Resumen: \"Analiza el desarrollo de las historietas infantiles brasileñas, iniciadas con la copia de personajes extranjeros en la revista O Tico-Tico, que, de cierta forma, abrió el camino para el establecimiento y difusión de los personajes to Mauricio de Sousa, de gran popularidad entre los niños brasileños. Analiza las distintas iniciativas en la creación de personajes infantiles en el país, de fugaz duració. Comenta las perspectivas para las historietas infantiles, enfocando las necesidades de renovación de productos y personajes.\"",
+      "Abstract: Analyses the evolution of children's comics in Brazil, which started by copying foreign characters in the magazine O Tico-Tico. That magazine opened the way for the creation and distribution of Mauricio de Sousa's characters, the most popular among Brazilian children. Discusses the several short-lived initiatives for creating children's comic characters in the country during the 1990s. Comments on the prospects for children's comics, focusing on the difficulty of renewing products and characters.",
+      "Abstracts as printed with the article, with some editing of the English.",
+      "Includes illustrations and bibliographical references."
+    ]
+  },
+  "51": {
+    "heading": null,
+    "title": "Desastre.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 289, 358, 385 (1986-1988) 1. Disasters",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "14 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México : Proyección, .",
+      "Description based on no. 289 (Sept. 3 de 1986)",
+      "Comic books, strips, etc. 2. Mexican comics. I. Editorial Proyección. Call no.: PN6790.M44D43"
+    ]
+  },
+  "52": {
+    "heading": "\"Desastre!\" (Slim Pickens) 4 p. in Rodeo, no. 20 (Aug. 1956).",
+    "call number": "PN6790.M44R55no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "53": {
+    "heading": "\"Desastre Inminente\" (El Halcón) / Powell. 7 p. in Rodeo, no.",
+    "title": "22",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1956).",
+    "call number": "PN6790.M44R55no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "54": {
+    "heading": null,
+    "title": "\"Desastres de la Antigüedad, 3. parte\"",
+    "author": "guión, Ma",
+    "title_type": "incipit",
+    "series": "Páginas de la Historia",
+    "appears_in": " Del Carmen Máximo ; adaptación, Axel ; ilustración, José Luis Echave. p. 153-159 in Novelas Inmortales, no. 715 (Jul. 31 de 1991) I. [Each creator] II. Páginas de la Historia. Call no.: PN6790.M44N64no.715",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "55": {
+    "heading": "Desastres della Guerra (Goya).",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 1",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "422"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1973"
+    },
+    "notes": []
+  },
+  "56": {
+    "heading": null,
+    "title": "\"Desbandada de Elefantes\" 2 p. text in Selva, no. 45",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1956).",
+    "call number": "PN6790.M44S36no.45",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "57": {
+    "heading": "La Desbandada!/Movilización para la frontera.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "210"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "58": {
+    "heading": "Desberg, Stephen, 1954-",
+    "title": "Le Chemin de Laurie",
+    "author": "dessins, Henri Reculé ; scénario, Stephen Desberg ; couleurs, Coquelicot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.W8C44 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Tournai",
+      "publisher": "Casterman",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Cercle des Sentinelles ; 4)",
+      "\"D'après l'univers graphique créé par Philippe Wurm.\"",
+      "Adventure story."
+    ]
+  },
+  "59": {
+    "heading": "Desberg, Stephen, 1954-",
+    "title": "The Garden of Desire",
+    "author": "Will, Desberg ; translation by Michael Koch ; lettering by Monisha Sheth.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.W5G3 1991",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Nantier Beall Minoustchine",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "59 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Eurotica)"
+    ]
+  },
+  "60": {
+    "heading": "Desberg, Stephen, 1954-",
+    "title": "Himmelkrigen",
+    "author": "tegnet af Hardy ; skrevet af Desberg ; Dansk tekst af Freddy Milton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.H27S419 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "56 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Arkel den Lille Pilotengel ; 1)",
+      "Translation of: Les Sept Diables Supérieures.",
+      "Science fiction."
+    ]
+  },
+  "61": {
+    "heading": "Desberg, Stephen, 1954-",
+    "title": "Der König der Gorillas",
+    "author": "Colman &amp; Desberg ; Kolorierung, Ingrid Charlier ; Übersetzung, Petra Weilbächer.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C565E7515 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Hamburg",
+      "publisher": "Carlsen Verlag",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Billy the Cat ; 3)",
+      "Translation of: Billy the cat: L'été du secret.",
+      "\"Carlsen Comics\".",
+      "Genre: Funny animal."
+    ]
+  },
+  "62": {
+    "heading": "Desberg, Stephen, 1954-",
+    "title": "\"The Last Witness\"",
+    "author": "by Desberg and Juillard",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 26-29 in Heavy Metal, v. 22, no. 1 (Mar. 1998).",
+    "call number": "PN6728.H43v.22no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "63": {
+    "heading": "Desberg, Stephen, 1954-",
+    "title": "Nattens Jægere",
+    "author": "tekst, Stephen Desberg ; tegninger, Johan de Moor ; på dansk ved Jørgen Sonnergaard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M62C4719 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Kasper Midnat ; 2)",
+      "Chasseurs de la nuit, in Danish.",
+      "Genre: Fantasy."
+    ]
+  },
+  "64": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "title": "\"Belle Ouvrage\" p. 10 in Les Cahiers de la Bande Dessinée, no. 89",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1990).",
+    "call number": "PN6745.S37no.89",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Brief review of: Le Crépuscule Blanc (Daniel Desorgher/Stephen Desberg).",
+      "(Critiques d'Albums)"
+    ]
+  },
+  "65": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "title": "\"Classique\" p. 13 in Les Cahiers de la Bande Dessinée, no. 89",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1990).",
+    "call number": "PN6745.S37no.89",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Brief review of: 421: Les Années Brouillard (Maltaite/Desberg).",
+      "(Critiques d'Albums)"
+    ]
+  },
+  "66": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "691"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "67": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "187"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "68": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Das grosse Comic-Lexikon",
+    "author": "Marcel Feige",
+    "series": null,
+    "pages": {
+      "range": [
+        "142-143"
+      ]
+    },
+    "call number": "PN6707.F48 2001",
+    "publication info": {
+      "place": null,
+      "publisher": "Berlin: Lexikon Imprint Verlag",
+      "date": "2001"
+    },
+    "notes": []
+  },
+  "69": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "title": "\"Gros Plans\" p. 20-21 in Les Cahiers de la Bande Dessinée, no. 88",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1990).",
+    "call number": "PN6745.S37no.88",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Preview notes on L'État Morbide (Daniel Hulet) ; Billy the Cat (Colman/Desberg) ; Karen Springwell: Convoi (Smolderen/Gauckler) ; Basil et Victoria: Le Sati (Yann)"
+    ]
+  },
+  "70": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "215"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "71": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "268"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "72": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "76",
+        "152"
+      ]
+    },
+    "call number": "PN6745.F69 1990",
+    "publication info": null,
+    "notes": []
+  },
+  "73": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "title": "\"Le Mauvais Goût de la Vengenace, Desberg &amp; de Moor\" p. 65 in Bachi-Bouzouk, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "fév. 1999).",
+    "call number": "PN6745.B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Lecture Obligatoire : Les Meilleures BD 1998 à Lire les Yeux Fermés)",
+      "Brief review/recommendation."
+    ]
+  },
+  "74": {
+    "heading": "Desberg, Stephen, 1954- --Miscellanea.",
+    "title": "Photographic portrait",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 116) in Portraits de BD, by Daniel Fouss",
+    "call number": "PN6745.F6 1990",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "75": {
+    "heading": "El Descamisado.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "23"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "76": {
+    "heading": "Descartes, René.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55 \"Descartes\"",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "77": {
+    "heading": "Descartes, René.",
+    "entry type": "index entry",
+    "title": "The Aesthetics of Comics",
+    "author": "David Carrier",
+    "series": null,
+    "pages": {
+      "range": [
+        "4",
+        "30",
+        "42",
+        "44"
+      ]
+    },
+    "call number": "PN6710.C35 2000",
+    "publication info": {
+      "place": "University Park",
+      "publisher": "Pennsylvania State University Press",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "78": {
+    "heading": "Descendants.",
+    "title": "\"If Only He Would Realize That He's the Descendant of Kings and Queens\"",
+    "author": "Watson &amp; Home Stew (Marcus Glenn?).",
+    "title_type": "incipit-assigned",
+    "series": "Homeboy's Neighborhood, Oct. 11, 1991",
+    "call number": "PN6726 f.B55 \"education\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The younger man tells Pops that he doesn't need education, he can do the street thing."
+    ]
+  },
+  "79": {
+    "heading": "Descending.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "80": {
+    "heading": "Descending.",
+    "title": "\"Hydrant Descending\"",
+    "author": "by Paul Kirchner",
+    "title_type": "incipit-assigned",
+    "series": "The Bus",
+    "appears_in": " p. 34-35 in Heavy Metal, v. 4, no. 5 (Aug. 1980).",
+    "call number": "PN6728.H43v.4no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A litter basket, a piece of paper, a liquor bottle, a mailbox and a parking meter get on the bus, and a fire hydrant gets off."
+    ]
+  },
+  "81": {
+    "heading": "Descent.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "82": {
+    "heading": "\"Descent.\"",
+    "title": "Cages",
+    "author": "by Dave McKean.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.K5C28 1990",
+    "library has": "no. 1-3, 5, 8, 10.",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1990-1996"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "no. 1. Descent"
+      },
+      {
+        "title": "no. 2. Drawing a Blank"
+      },
+      {
+        "title": "no. 3. The Individual Lines Begin to Describe Something"
+      },
+      {
+        "title": "; no. 5. Strata"
+      },
+      {
+        "title": "; no. 8. Chromatic Scale"
+      },
+      {
+        "title": "no. 9. Fire, Star, Window, Stone"
+      },
+      {
+        "title": "no. 10. New World."
+      }
+    ],
+    "notes": [
+      "Complete in 10 issues."
+    ]
+  },
+  "83": {
+    "heading": "Descent.",
+    "title": "\"Hill's Descent\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Batman) 17 p. in Detective Comics, no. 546",
+    "call number": "PN6728.1.N3D4no.546",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "84": {
+    "heading": null,
+    "title": "\"Un Descent de Martien\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Ce Petit Démon de Betty) p. 16-17 in Lisette, no. 13",
+    "call number": "PN6748.L562no.25",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"À suivre.\"",
+      "Summary: The girls figure out a 'poisson d'Avril' gag using gas masks."
+    ]
+  },
+  "85": {
+    "heading": null,
+    "title": "\"A Descent into the Maelström\"",
+    "author": "Edgar Allan Poe ; art by Lopez",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 10 p. in Edgar Allan Poe : The Pit and the Pendulum and Other Stories, no. 1 (Sept. 1988).",
+    "call number": "PN6728.55.E83 E34",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Originally appeared in Psycho, no. 18."
+    ]
+  },
+  "86": {
+    "heading": null,
+    "title": "Descent of Man",
+    "author": "by David Kunzle (Berkeley, Calif",
+    "title_type": "official",
+    "series": "Darwin) Index entry",
+    "appears_in": " : University of California Press, 1990) Call no.: PN6710f.K85v.2",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "87": {
+    "heading": "Descent Poles.",
+    "title": "\"Strop! You're Killing Me!\"",
+    "author": "Bill Elder",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 106-112 in Those Were the Terrible, Shocking, Sensational, Appalling, Forbidden, But Simply Wonderful Horror Comics of the 1950's (New York : Nostalgia Press, 1971).",
+    "call number": "NC1426.T45",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reprinted from Tales from The Crypt, no. 37 (Aug./Sept. 1953).",
+      "Involves a fire station, a new fire chief, and a razor-sharp descent pole."
+    ]
+  },
+  "88": {
+    "heading": null,
+    "title": "\"La Descente du Congo\"",
+    "author": "Raph Marc",
+    "title_type": "incipit",
+    "series": "A la Découverte du Monde ; 132",
+    "appears_in": " Panel and caption newspaper feature about Henry M. Stanley, clipped from Le Peuple (July 9, 1954), and held in the Michigan State University Libraries' Congo Manuscripts collection.",
+    "call number": "MS70 box 5, folder 16",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"A suivre.\""
+    ]
+  },
+  "89": {
+    "heading": "La Descente du Mississippi.",
+    "title": "Hudson et Barents, Pionniers de l'Arctique",
+    "author": "dessin de Jaime Marzal-Canos ; scenario de Pierre Castex",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Cavelier de la Salle sur le Mississippi",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Bandes Dessinees Larousse",
+      "date": "1979"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 483-528 : col. ill. ; 29 cm.",
+      "(La Decouverte du Monde en Bandes Dessinees ; no. 11)",
+      "Cover title: La Descente du Mississippi. 1. Arctic regions",
+      "Comic books, strips, etc. 2. Hudson, Henry, d. 1611",
+      "Comic books, strips, etc. 3. Barentsz, Willem, ca. 1550-1597",
+      "Comic books, strips, etc. 4. La Salle, Robert Cavelier, sieur de, 1643-1687",
+      "Comic books, strips, etc. I. Marzal-Canos, Jaime. II. Castex, Pierre. III. Marcello, Carlo. IV. Lambert, Francois. V. Cavelier de La Salle sur le Mississippi. VI. La Descente du Mississippi. VII. Series. Call no.: PN6746.D4N315 1979"
+    ]
+  },
+  "90": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Across Time and Space : Ecosystem Management",
+    "author": "written by Scott Deschaine and Mike Benton ; illustrated by Buck Jones.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.S62A3 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Ankeny, Iowa",
+      "publisher": "Sponsored and distributed by the Soil and Water Conservation Society",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Educational comic produced by Custom Comic Services."
+    ]
+  },
+  "91": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Backyard Butterflies",
+    "author": "written by Scott Deschaine ; illustated by Richard Draney.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.N276B3 1996",
+    "library has": "",
+    "publication info": {
+      "place": "League City, TX",
+      "publisher": "National Association of Conservation Districts",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Created and produced by Discovery Comics.\""
+    ]
+  },
+  "92": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Bird Meets Fish",
+    "author": "story and layout, Scott Deschaine ; artwork, Bob Donovan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "West Milford, NJ",
+      "publisher": "Discovery Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "27 cm. 1. Funny animal comics. I. Deschaine, Scott. II. Donovan, Bob. III. Discovery Comics. Call no.: PN6728.25.D5B5 1993",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "93": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Blarney",
+    "author": "script and layout by Scott Deschaine ; art by Bob Hardin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D495B55 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Austin, TX",
+      "publisher": "Discovery Comics",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Funny animal parody of Barney."
+    ]
+  },
+  "94": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "BlueBlock",
+    "author": "Scott Deschaine, script and layout ; Jim Woodring, artwork.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.K5B54 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press ; West Milford, NJ : Discovery Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": []
+  },
+  "95": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "A Bug's Gift",
+    "author": "Scott Deschaine and Lynette Weisberg.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Glenside, PA",
+      "publisher": "Discovery Comics",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Discovery Comics)",
+      "\"Would you give your life to save a bug? Of course not. Would a bug give its life to save you? Maybe..\" 1. Insects",
+      "Comic books, strips, etc. 2. Food chains (Ecology)",
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Weisberg, Lynette. III. Series. Call no.: PN6727.D44B8 1991"
+    ]
+  },
+  "96": {
+    "heading": "-",
+    "title": "Deschaine, Scott, 1957- Free Laughs.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Austin, TX",
+      "publisher": "S. Deschaine",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover. 1. New wave comics. I. Deschaine, Scott. Call no.: PN6728.55.D42F7 1987"
+    ]
+  },
+  "97": {
+    "heading": "-",
+    "title": "Deschaine, Scott, 1957- The Great Missouri Treasure Hunt",
+    "author": "script by Scott Deschaine and Mike Benton ; layout by Scott Deschaine ; illustration by Bob Donovan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.M5G7 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Jefferson City, MO",
+      "publisher": "Missouri Department of Conservation",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Produced by Custom Comic Services.\"",
+      "Subject: Conservation of natural resources.",
+      "Genre: Educational."
+    ]
+  },
+  "98": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "The Guiding Hand",
+    "author": "written by Mike Benton and Scott Deschaine ; finished artwork by Mike Roy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "St Paul, MN",
+      "publisher": "American Indian Health Care Association",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "17 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Created and produced by Custom Comic Services. 1. AIDS (Disease)",
+      "Comic books, strips, etc. 2. Educational comic books, strips, etc. I. Benton, Mike. II. Deschaine, Scott. III. Roy, Mike. IV. American Indian Health Care Association. V. Custom Comic Services. k. Indians of North America. Call no.: RA644.A25G8 1991"
+    ]
+  },
+  "99": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Head On",
+    "author": "Scott Deschaine, story, dialogue, layouts, rough pencils, finished art ; Chris Bonno, dialogue, pencils.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.D44H4 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Glenside, PA",
+      "publisher": "Discovery Comics",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About guide dogs.",
+      "Genres: Funny animal, educational."
+    ]
+  },
+  "100": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "I Pledge Allegiance",
+    "author": "written by Scott Deschaine and Mike Benton ; illustrated by Bob Donovan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.A53 I2 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Indianapolis, IN",
+      "publisher": "American Legion National Headquarters, National Emblem Sales",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Created and produced by Custom Comic Services\".",
+      "Comic book about patriotism."
+    ]
+  },
+  "101": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Let's Talk About It",
+    "author": "written by Scott Deschaine and Mike Benton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Glenside, PA",
+      "publisher": "Custom Comic Services",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "11 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Sponsored and distributed by the American Psychiatric Association through an educational grant from the Upjohn Company\" 1. Mental health education",
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Benton, Mike. III. American Psychiatric Association. IV. Upjohn Company. V. Custom Comic Services. Call no.: PN6728.25.C8L4 1990"
+    ]
+  },
+  "102": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Light of Liberty",
+    "author": "written by Scott Deschaine and Mike Benton ; art by Mike Roy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "West Milford, NJ",
+      "publisher": "Custom Comic Services",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Sponsored and distributed by the American Legion.\" 1. Civics",
+      "Comic books, strips, etc. 2. Citizenship",
+      "Comic books, strips, etc. 3. Political participation",
+      "Comic books, strips, etc. 4. Politics, Practical",
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Benton, Mike. III. Roy, Mike. IV. American Legion. V. Custom Comic Services. Call no.: H95.D4 1992"
+    ]
+  },
+  "103": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "\"Liquid Assets\" p. 81-84",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #103 November 1985) 1. Palais, Rudy. I. Deschaine, Scott. Call no.: PN6700.C62no.103",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "104": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Monster Love",
+    "author": "stories and layout by Scott Deschaine ; finished artwork by Bob Donovan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "West Milford, NJ",
+      "publisher": "Discovery Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "27 cm. 1. Funny horror comics. I. Deschaine, Scott. II. Donovan, Bob. III. Discovery Comics. Call no.: PN6728.25.D5M6 1993",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "105": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Moving with Mr. Mouse",
+    "author": "written by Mike Benton and Scott Deschaine ; finished artwork by Vic Lockman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Allentown, PA",
+      "publisher": "SMR Enterprises",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Created and produced by Custom Comic Services. 1. Moving, Household",
+      "Comic books, strips, etc. 2. Funny animal comics. I. Benton, Mike. II. Deschaine, Scott. III. Lockman, Vic. IV. SMR Enterprises. V. Custom Comic Services. Call no.: PN6728.25.S53M6 1989"
+    ]
+  },
+  "106": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "One Green Tree",
+    "author": "written by Scott Deschaine ; artwork by Jim Woodring.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Glenside, PA",
+      "publisher": "Custom Comic Services",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm. 1. Trees",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Woodring, Jim. III. Custom Comic Services. Call no.: PN6728.25.C6 O5 1990"
+    ]
+  },
+  "107": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Popcorn!",
+    "author": "story and layout, Scott Deschaine ; finished artwork, Bob Donovan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "West Milford, NJ",
+      "publisher": "Discovery Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "27 cm. 1. Popcorn",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Donovan, Bob. III. Discovery Comics. Call no.: PN6728.25.D5P6 1993"
+    ]
+  },
+  "108": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Screaming Eagle",
+    "author": "written and produced by Scott Deschaine ; illustrated by Mike Roy ; grey tone art by Kimi Weart.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.D44S3 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Austin, TX",
+      "publisher": "Discovery Comics",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "292 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Dedicated to the memory of Mike Roy, 1921-1996\".",
+      "Characters: Indians of North America."
+    ]
+  },
+  "109": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Sparky's Team : Fire Prevention for Everyone",
+    "author": "written by Scott Deschaine and Mike Benton ; finished artwork by Vick Lockman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Quincy, MA",
+      "publisher": "National Fire Protection Association",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Created and produced by Custom Comic Services. 1. Fire prevention",
+      "Comic books, strips, etc. I. Deschaine, Scott. II. Benton, Mike. III. Lockman, Vic. IV. National Fire Protection Association. V. Custom Comic Services. VI. Fire Prevention for Everyone. Call no.: PN6728.25.N32S65 1989"
+    ]
+  },
+  "110": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Stamp Trek",
+    "author": "written by Scott Deschaine and Mike Benton ; illustrated by Pete Hoffman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.A54S75 1995",
+    "library has": "",
+    "publication info": {
+      "place": "State College, PA",
+      "publisher": "American Philatelic Society",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Created and produced by Custom Comic Services.\"",
+      "Educational comic about stamp collecting."
+    ]
+  },
+  "111": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Tools for Living : Hearing, Speech, and Language",
+    "author": "written by Scott Deschaine ; illustrated by Vic Lockman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "LB3454.D4 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Rockville, MD",
+      "publisher": "American Speech-Language-Hearing Association",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Created and produced by Discovery comics.",
+      "Topics: Speech therapy for children, hearing impaired children.",
+      "Genre: Educational."
+    ]
+  },
+  "112": {
+    "heading": "Deschaine, Scott, 1957-",
+    "title": "Visit to a Green Planet",
+    "author": "written by Mike Benton and Scott Deschaine ; artwork by Mike Roy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Park Ridge, IL",
+      "publisher": "American Farm Bureau Federation",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Created and produced by Custom Comic Services\" 1. Agriculture",
+      "Comic books, strips, etc. 2. Natural resources",
+      "Comic books, strips, etc. 3. Educational comic books, strips, etc. I. Deschaine, Scott. II. American Farm Bureau Federation. III. Benton, Scott. IV. Roy, Mike. V. Custom Comic Services. Call no.: PN6728.25.A5V5 1992"
+    ]
+  },
+  "113": {
+    "heading": "Deschaine, Scott, 1957- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Comic-Book Superstars",
+    "author": "Don &amp; Maggie Thompson",
+    "series": null,
+    "pages": {
+      "range": [
+        "53-54"
+      ]
+    },
+    "call number": "PN6707.C65 1993",
+    "publication info": {
+      "place": "Iola, Wis.",
+      "publisher": "Krause Publications",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "114": {
+    "heading": "Deschamps.",
+    "title": "La Terre de Toutes les Promesses",
+    "author": "Clavaud, Deschamps.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C475T4 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Ansaldi",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Kanata ; 2)",
+      "About Canada."
+    ]
+  },
+  "115": {
+    "heading": "Deschamps, Alain.",
+    "title": "\"Bran Ruz, Histoire d'une Rencontre\"",
+    "author": "par Alain Deschamps",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 32-34 in Les Cahiers de la Bande Dessinée, no. 58 (June/July 1984).",
+    "call number": "PN6745.S37no.58",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Auclair)",
+      "Article on Bran Ruz, by Claude Auclair."
+    ]
+  },
+  "116": {
+    "heading": "Deschamps, Alain.",
+    "title": "La Hue du Loup",
+    "author": "Alain Deschamps, scénario ; Patrick Marziale, couleur ; Alain Goutal, dessin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G625K3 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Kanata ; 1)",
+      "Breton history 1590-1598.",
+      "Includes bibliographical references."
+    ]
+  },
+  "117": {
+    "heading": "Deschamps, Alain--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "285"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "118": {
+    "heading": "Deschamps, Alain--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "113"
+      ]
+    },
+    "call number": "PN6745.F69 1990",
+    "publication info": null,
+    "notes": []
+  },
+  "119": {
+    "heading": "Deschamps, Alain--Miscellanea.",
+    "title": "\"Vous avez dit Collabo?",
+    "author": "Me Patrick Luciani",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " p. 67 in Les Cahiers de la Bande Dessinée, no. 88 (Mar. 1990).",
+    "call number": "PN6745.S37no.88",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Tribunal)",
+      "A legal opinion on who owns the original art, writer or artist, in a case involving Auclair and Deschamps."
+    ]
+  },
+  "120": {
+    "heading": "Desclée de Brouwer.",
+    "title": "La Bande Dessinée",
+    "author": "par Didier Quella-Guyot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6707.Q83 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Malakoff",
+      "publisher": "Desclée de Brouwer",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "160 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(50 Mots)",
+      "Includes bibliographical references (p. 152-158).",
+      "A dictionary about comics."
+    ]
+  },
+  "121": {
+    "heading": null,
+    "title": "Desclez, Henri, 19420 San-Antonio Crusoë",
+    "author": "Henri Desclez et son studio pour les dessins ; Patrice Dard et sa machine à écire pour les dialogues.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D3515S3 1975",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Fleuve Noir",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Une Aventure Inédite de San-Antonio ; 7)",
+      "Jungle adventure/robinsonade."
+    ]
+  },
+  "122": {
+    "heading": "Desclez, Henri, 1942- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "794"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "123": {
+    "heading": "Desclez.",
+    "title": "Atlantic City",
+    "author": "scénario, Pierre Montour ; dessin, Cédric Loth ; lettrage, Bado.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M615A85 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Westmount, Québec",
+      "publisher": "Desclez",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "53 p.",
+      "illustrationTypes": "toutes ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "124": {
+    "heading": "Desclez.",
+    "title": "Rapt &amp; Sigle",
+    "author": "Toufik.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.E45R3 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Desclez",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Virages)",
+      "\"Les aventures mirobolantes du Napoléon Bilodo détective plus que privé.\""
+    ]
+  },
+  "125": {
+    "heading": "Desclos, Don.",
+    "title": "The True Story of Batman",
+    "author": "by Scott Peterson ; illustrations by Mike Parobeck, Rick Burchett, and Don Desclos.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B37P4 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Racine, Wis.",
+      "publisher": "Golden Books Publishing Company",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Golden Super Shape Book)",
+      "(A Golden Book ; 10007)"
+    ]
+  },
+  "126": {
+    "heading": "Desclozeaux, Jean-Pierre, 1938-",
+    "title": "\"Hat on Hand\"",
+    "author": "Desclozeaux",
+    "title_type": "incipit-assigned",
+    "series": "[No series]",
+    "appears_in": " p. 38 in Evergreen Review, no. 74 (Jan. 1970).",
+    "call number": "folio AP2.E884no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sequence of 6 drawings in which a man pushes a woman into the water, and when her hand reaches up for help, puts his hat over it."
+    ]
+  },
+  "127": {
+    "heading": "Desclozeaux, Jean-Pierre, 1938-",
+    "title": "\"Snailephant\"",
+    "author": "Desclozeaux",
+    "title_type": "incipit-assigned",
+    "series": "[No series]",
+    "appears_in": " p. 77 in Evergreen Review, no. 75 (Feb. 1970).",
+    "call number": "folio AP2.E884no.75",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sequence of 5 drawings in which a snail morphs into an elephant."
+    ]
+  },
+  "128": {
+    "heading": "Desclozeaux, Jean-Pierre, 1938-",
+    "title": "\"Tree and Cage\"",
+    "author": "Desclozeaux",
+    "title_type": "incipit-assigned",
+    "series": "[No series]",
+    "appears_in": " p. 74 in Evergreen Review, no. 78 (May 1970).",
+    "call number": "folio AP2.E884no.78",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Wordless sequence of three drawings in which a bird lands in a tree and sings, and the tree becomes a cage."
+    ]
+  },
+  "129": {
+    "heading": "Desclozeaux, Jean-Pierre, 1938- --Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "195"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "130": {
+    "heading": null,
+    "title": "El Desconocido. 1",
+    "author": "Magnus ; traducción, Narcis Fradera.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Ediciones La Cúpula",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Víbora Comix)",
+      "Translated from Italian to Spanish. 1. Spanish comics. 2. Italian comics. 3. Adventure story comics. I. Magnus. II. Fradera, Narcis. III. Sconosciuto. Spanish. IV. Series. V. Ediciones La Cúpula. Call no.: PN6767.M3 S2517 1990"
+    ]
+  },
+  "131": {
+    "heading": null,
+    "title": "\"El Desconocido Paladín de la Victoria\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Justice League of America) 24p. in Batman",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: The Unknown Soldier of Victory, from Justice League of America, no. 100 (Aug. 1972) k. Paladines. k. Victoria. Call no.: PN6790.M44B3no.671 Call no.: PN6728.3.N3J8no.100"
+    ]
+  },
+  "132": {
+    "heading": "Description.",
+    "entry type": "index entry",
+    "title": "Système de la Bande Dessinée",
+    "author": "Thierry Groensteen",
+    "series": null,
+    "pages": {
+      "range": [
+        "\"Index des Notions\""
+      ]
+    },
+    "call number": "PN6714.G76 1999",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Presses Universitaires de France",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "133": {
+    "heading": "Descriptions.",
+    "title": "\"Angie, Angie, Teacher, Angie\"",
+    "author": "Lincoln Peirce.",
+    "title_type": "incipit-assigned",
+    "series": "Big Nate, Aug. 2, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Though preoccupied with thoughts of Angie, Nate describes summer school to his dad by telling about his teacher.",
+      "No dialogue or captions. Call no.: PN6726f.B55 \"Teachers\""
+    ]
+  },
+  "134": {
+    "heading": "Descriptions.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "135": {
+    "heading": "Descriptions.",
+    "title": "\"Golf! You're Describing Golf!\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Cathy, Apr. 28, 1992) by Cathy Guisewite.",
+    "call number": "PN6726 f.B55 \"Spring\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cathy describes Spring, and being in love, to Irving."
+    ]
+  },
+  "136": {
+    "heading": "Descriptions.",
+    "title": "\"Hearing Voices\"",
+    "author": "Griffy.",
+    "title_type": "incipit",
+    "series": "Zippy, Nov. 7, 1997",
+    "call number": "PN6726f.B55 \"voices\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Zippy's voice described in comparison with the voices of William Bendix, Fred Gwynne, Raymond Burr, John Goodman, and Julia Child.",
+      "Key words: Rotundity, wet feedback, dazed innocence, resonant earnestness, precise authority, calm reassurance, puzzling girlishness."
+    ]
+  },
+  "137": {
+    "heading": "Descriptions.",
+    "title": "\"It Even Has Tassels on the Curtains\"",
+    "author": "King.",
+    "title_type": "incipit",
+    "series": "Gasoline Alley, Oct. 25, 1919",
+    "call number": "PN6726 f.B55 \"cars\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc's wife describes the Emersons' new car without knowing the make, size or appearance of the engine."
+    ]
+  },
+  "138": {
+    "heading": "Descriptions.",
+    "title": "\"Sit Dot Com\"",
+    "author": "Griffy.",
+    "title_type": "incipit",
+    "series": "Zippy, July 31, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Griffy and Zippy describe the neighbors on their block.",
+      "Key words: Identical elderly ladies, scotty dogs, French people, Samoan people, blind people, hoarding cardboard, hippies, meter maids, opera buffs, banjo players, sitcom characters, bankable casting, pilot scripts, Fox, HBO. Call no.: PN6726f.B55 \"Neighbors\""
+    ]
+  },
+  "139": {
+    "heading": "Descriptions.",
+    "title": "\"Sounds Like My First Marriage\"",
+    "author": "by Peter Kohlsaat",
+    "title_type": "incipit-assigned",
+    "series": "Single Slices, 1990",
+    "appears_in": " reproduced on p. 164 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Reading the description of the next hole: dogleg right, blind approach, water hazard, bunkers..."
+    ]
+  },
+  "140": {
+    "heading": "Descriptions.",
+    "title": "\"Stick with the Flowers\"",
+    "author": "Young &amp; Lebrun.",
+    "title_type": "incipit-assigned",
+    "series": "Blondie, July 28, 1997",
+    "call number": "PN6726f.B55 \"Pork Chops\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: In bed with Blondie, Dagwood describes the nicest part of his day in terms of hugs and flowers, then remembers the pork chops.",
+      "Key word: Bedrooms."
+    ]
+  },
+  "141": {
+    "heading": "Descriptions.",
+    "title": "\"Tag Gives Out\"",
+    "author": "by Blosser.",
+    "title_type": "incipit",
+    "series": "Freckles and His Friends, Apr. 8, 1946",
+    "call number": "PN6728.F675F6 1939 v.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Tag (the \"seeing-eye wolf\") reports descriptively on the new girl, while Lard and Freckles wear dark glasses and stick to the vows of Woman-Hating Week."
+    ]
+  },
+  "142": {
+    "heading": "Descriptions.",
+    "title": "\"That Stuff You Spray on the Carpet to Keep it from Smelling\"",
+    "author": "by Brian Barling.",
+    "title_type": "incipit-assigned",
+    "series": "Spellbound, Nov. 15, 1991",
+    "call number": "PN6726 f.B55 \"carpeting\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Margo describes her date."
+    ]
+  },
+  "143": {
+    "heading": "Descriptions.",
+    "title": "\"Twenty-Five Words or Less\"",
+    "author": "Chris Browne.",
+    "title_type": "incipit-assigned",
+    "series": "Hagar the Horrible, July 31, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Helga is staring, trying to describe Hagar.",
+      "Key words: Arrows, tables, helmets. Call no.: PN6726f.B55 \"Descriptions\""
+    ]
+  },
+  "144": {
+    "heading": "Descriptions.",
+    "title": "\"You Mean He's a Dog?\"",
+    "author": "Hansen.",
+    "title_type": "incipit-assigned",
+    "series": "Lolly, Mar. 27, 1984",
+    "call number": "PN6726 f.B55 \"dogs\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A new employee asks for a description of Mr. Quimby, and she says his bark is worse than his bite."
+    ]
+  },
+  "145": {
+    "heading": "Descroix, Ann.",
+    "title": "Frie fornemmelser",
+    "author": "Berroyer, Gibrat ; dansk oversættelse, Ann Descroix.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1986"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Dargaud præsenterer\"",
+      "Cover. 1. French comics. 2. Danish comics. I. Berroyer. II. Gibrat. III. Descroix, Ann. IV. Goudard et la parisienne. Danish. V. Carlsen. Call no.: PN6747.B427 G619 1986"
+    ]
+  },
+  "146": {
+    "heading": "Descroix, Patrice.",
+    "title": "Petzi dans la Forêt Enchantée",
+    "author": "Carla &amp; Vilh",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Hansen ; traduction, Patrice Descroix.",
+    "call number": "PN6790.D34R3R21214 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Tournai",
+      "publisher": "Casterman",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "31 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Petzi ; 12)",
+      "Translation of: Rasmus Klump i troldeskoven.",
+      "Funny animal."
+    ]
+  },
+  "147": {
+    "heading": "Descroix, Patrice.",
+    "title": "Petzi et Son Petit Frère",
+    "author": "Carla &amp; Vilh",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Hansen ; traduction, Patrice Descroix.",
+    "call number": "PN6790.D34 R3R2314 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Paris?",
+      "publisher": "Casterman",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "31 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Petzi ; 13)",
+      "Translation of a Rasmus Klump adventure."
+    ]
+  },
+  "148": {
+    "heading": "\"Descubra el Asesino\" 1 p. in Acción Policíaca, no. 82 (Sept.",
+    "title": "1958) and in no. 83",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1958) ; in Grandes Detectives, no. 25",
+    "call number": "PN6790.M44A3no.82",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Una enfermera compra un medicamento.\"",
+      "A quick mystery, with the solution upside down at the end."
+    ]
+  },
+  "149": {
+    "heading": "\"Desde Pequeño se Aprende\" 2 p. text in Acción Policíaca, no.",
+    "title": "76",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1958).",
+    "call number": "PN6790.M44A3no.76",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "150": {
+    "heading": "Desdemaines, Yves (Gervy), 1908- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Thématique de Héros de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "392-393"
+      ]
+    },
+    "call number": "PN6707.F5 1992",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1992"
+    },
+    "notes": []
+  },
+  "151": {
+    "heading": "Desdemona.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "66"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "152": {
+    "heading": "Desdinova.",
+    "title": "\"Chain Mail\" p. 1, 45 in Heavy Metal, v. 1, no. 13",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1978).",
+    "call number": "PN6728.H43v.1no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from David Thomas Pudelwitts, Desdinova, Zé Visone, William Fuller III, and Rex T. Shelby."
+    ]
+  },
+  "153": {
+    "heading": null,
+    "title": "\"El Desechado\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Durango Kid) 12 p. in Durango Kid, no. 68",
+    "call number": "PN6790.M44D8no.68",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "154": {
+    "heading": "Desecrated Morals.",
+    "title": "Aesop's Desecrated Morals.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Fables",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Magnecom, an imprint of Rip Off Press, 1993- .",
+      "(Classics Desecrated Special)",
+      "Cover title: Doug Wheeler's Aesop's Desecrated Morals.",
+      "Comic books, strips, etc. 2. Funny animal comics. I. Wheeler, Doug. II. Doug Wheeler's Aesop's Desecrated Morals. III. Desecrated Morals. IV. Series. V. Magnecom. VI. Rip Off Press. k. Morals. Call no.: PN6728.6.R5A32"
+    ]
+  },
+  "155": {
+    "heading": "Desecration.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "156": {
+    "heading": "Desecration.",
+    "title": "Classics Desecrated",
+    "author": "by Doug Wheeler &amp; many artists.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Nantier Beall Minoustchine",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Stories that first appeared in Aesop's Desecrated Morals ; April Horrors ; Cheval Noir ; Comics Buyer's Guide ; and Negative Burn. 1. Fables",
+      "Comic books, strips, etc. I. Wheeler, Doug. II. [Each source publication]. III. Nantier Beall Minoustchine. k. Desecration. Call no.: PN6727.W43C55 1995"
+    ]
+  },
+  "157": {
+    "heading": "Desecration--Reviews.",
+    "title": "\"James Kochalka Superstar &amp; Desecration\"",
+    "author": "reviewed by Tom Spurgeon ; p",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 47 in The Comics Journal, no. 182 (Nov. 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Firing Line) 1. Sound recordings",
+      "Reviews. 2. James Kochalka Superstar",
+      "Reviews. 3. Desecration",
+      "Reviews. 4. Kochalka, James. 5. Johnson, Jeff. 6. Huber, Lon. I. Spurgeon, Tom. Call no.: PN6700.C62no.182"
+    ]
+  },
+  "158": {
+    "heading": "De Sede, Gérard.",
+    "title": "L'Aventure et l'Image",
+    "author": "avec le participation de Jean Adhémar, Louis Daquin, Albert Ducrocq, G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Gassiot-Talabot, J.L. Rieupeyrout, Antoine Roux, Serge Saint-Michel. Gérard de Sede, Marc Soriano, André Voisin.",
+    "call number": "PN6714.A9 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Gallimard",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "107 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Book about adventure story comics."
+    ]
+  },
+  "159": {
+    "heading": null,
+    "title": "\"Desempleado\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Tachuela) 1 p. in Rodeo, no. 10",
+    "call number": "PN6790.M44R55no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "160": {
+    "heading": null,
+    "title": "\"Una Desencantada Noche!\" 6 p. in Confesiones de Amor, no. 21",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1958).",
+    "call number": "PN6790.M44C6no.21",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "161": {
+    "heading": "Desenex, Philbert.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "288"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "162": {
+    "heading": "De Sensi, Tony.",
+    "title": "\"Vampi's Flames\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "fan page) 2 p. in Vampirella, no. 8",
+    "call number": "PN6728.3.W3V3no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Fan art: Robert Thvierge, Toby Caputi, Phillippe Druillet, Peter Sadeky, Tony De Sensi, John Wojick ; fan story: Steven Teal, Patrick Boles.",
+      "Data from Martin O'Hearn, Bill Wormstedt via Grand Comic-Book Database."
+    ]
+  },
+  "163": {
+    "heading": "Desensitized.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "164": {
+    "heading": "Deseo Cumplido.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos I, 1874-1934",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "208"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "México, D.F.",
+      "publisher": "Grijalbo",
+      "date": "1988"
+    },
+    "notes": []
+  },
+  "165": {
+    "heading": null,
+    "title": "\"Deserción\" 5 p. in Valor, no. 12",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1957).",
+    "call number": "PN6790.M44V24no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "166": {
+    "heading": "Deseret Book Co.",
+    "title": "Nephi the Valiant",
+    "author": "by Eileen Chabott Wendel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "BX8627.5.N4W4 1960",
+    "library has": "",
+    "publication info": {
+      "place": "Salt Lake City, Utah",
+      "publisher": "Deseret Book Co.",
+      "date": "1960"
+    },
+    "physical description": {
+      "dimensions": "black)",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "37 p.",
+      "illustrationTypes": "ill. (gold &amp"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Stories from the Golden Records ; book 2)",
+      "Spiral-bound.",
+      "Nephi is a figure from the Book of Mormon.",
+      "Genre: Religious."
+    ]
+  },
+  "167": {
+    "heading": "The Deseret News.",
+    "title": "\"Cartoon Censorship\"",
+    "author": "A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": "E. Churchill. p. 6 in Newsweek, v. 17, no. 14 (Apr. 7, 1941).",
+    "call number": "AP2.N57v.17no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letter to the editor about censorshop of tobacco references in comic strips in The Deseret News."
+    ]
+  },
+  "168": {
+    "entry type": "target",
+    "anchor": "/rri/drri/des.htm#drslp",
+    "title": "Des Rails sur la Prairie",
+    "notes": [
+      "<em>Des Rails sur la\n        Prairie</em> / texte et illustrations de <a href=\"/rri/mrri/moro.htm#morris\">Morris</a> . --\n        Marcinelle-Charleroi, Belgique : Dupuis, 1977. -- 46 p. : col.\n        ill. ; 30 cm. -- <a href=\"/rri/lrri/lucky_l.htm#luckylu\">(Lucky\n        Luke</a> ; 9) -- The plates, numbered 347-390, are signed\n        \"Morris & <a href=\"/rri/grri/gos.htm#goscinny\">R.G.</a> \" -- <strong>Call no.:</strong> PN6747.M64L809 1977",
+      "",
+      "<strong>Summary:</strong> Construction on the Transcontinental <a href=\"/rri/rrri/rah.htm#railrds\">Railway</a> is stalled, in\n        two places, near Chicago and near San Francisco. The president\n        of the company sends a telegram to Dead Ox Gulch telling the\n        workers to resume construction, but Black Wilson, who seems to\n        be part of the company, secretly sends another telegram to the\n        Wilson Boys at Dead Ox Gulch, telling them to prevent\n        construction. These exchanges have apparently happened before,\n        and Lucky Luke rides into Dead Ox Gulch to find the two crews\n        at a more or less comfortable impasse. Dead Ox Gulch, by the\n        way, is supposed to be near Chicago, though the landscape\n        includes cactus. Once he understands the situation, Lucky Luke,\n        a firm partisan of progress and civilization, decides to\n        intervene on the side of the nominally pro-construction crew.\n        After a false start, he enlists the population of the town in\n        the cause and soon the railroad has gone a few meters past Dead\n        Ox Gulch. A telegram to the company president elicits a\n        celebration, and the board decides to travel out to see the new\n        rail. On the way, in plate 354 (page 10), a Caran d'Ache cow is\n        alarmed by the train, but the president says cows will get used\n        to it. With Lucky Luke now officially in charge, the railway\n        heads West. Black Wilson's crew continues to attempt <a href=\"/rri/srri/sabb.htm#sabot\">sabotage</a> without much success,\n        and other obstacles, such as a sleeping cow, cause small\n        detours. A tribe of Indians, called the Yellow Feet, is\n        provoked by the conflict but gives up the chase before long.\n        The Wilsons rally the citizens of Nothing City to reject the\n        railroad, but a little gunplay and a little fist fighting by\n        Lucky Luke prolongs the comedy until the construction crew can\n        accidentally strike oil. Nothing City is suddenly wealthy and\n        all for progress, and the construction is now halfway across\n        the country. Black Wilson catches up via stagecoach as the crew\n        reaches the Rocky Mountains, but his further sabotage attempts\n        are to no avail. Wilson's motivation seems to be that he is an\n        owner of the stagecoach company. A desert crossing is next,\n        with a banquet in Desert City at the far edge of the desert.\n        The board is soon (time and supplies are mysteriously elastic\n        in this story) invited for the meeting of the two construction\n        crews at Las Puertitas, near San Francisco. A hobo, riding the\n        rods, has stolen the golden spike, but it is recovered for the\n        ceremony. The company offers Lucky Luke a permanent job, but he\n        says no, thanks, and rides away.",
+      "",
+      "<strong>Bibliography:</strong>",
+      "Index entry (p. 537) in <em>Historia de los Comics</em> / J.\n        Toutain, J. Coma (Barcelona : Toutain, 1982-1984?) -- <strong>Call no.:</strong> PN6710.H5 1982a"
+    ],
+    "links": [
+      {
+        "Link Text": "Morris",
+        "Link URL": "/rri/mrri/moro.htm#morris"
+      },
+      {
+        "Link Text": "(Lucky\n        Luke",
+        "Link URL": "/rri/lrri/lucky_l.htm#luckylu"
+      },
+      {
+        "Link Text": "R.G.",
+        "Link URL": "/rri/grri/gos.htm#goscinny"
+      },
+      {
+        "Link Text": "Railway",
+        "Link URL": "/rri/rrri/rah.htm#railrds"
+      },
+      {
+        "Link Text": "sabotage",
+        "Link URL": "/rri/srri/sabb.htm#sabot"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

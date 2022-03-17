@@ -1,0 +1,5483 @@
+{
+  "1": {
+    "heading": "Editions Elvifrance.",
+    "title": "Goldboy.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.G57",
+    "library has": "no. 5, 7-8, 12-14, 18, 24-31, 33-37, 40, 42-43, 46, 48, 51, 55, 58 (1972-1977).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Paris : Editions Elvifrance, .",
+      "\"L'agent sexy n. 1.\"",
+      "\"Bandes dessinés pour adultes.\""
+    ]
+  },
+  "2": {
+    "heading": "Editions en Langues Etrangères.",
+    "title": "L'Etoile Rouge : adaptation du roman du même nom",
+    "author": "texte, Wang Pei-kia ; dessins, Wang Tchouen-sin, Yang Cha.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Pékin",
+      "publisher": "Editions en Langues Etrangères",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "13 x 19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "115 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Subject: China",
+      "History, Military. Call no.: PL3000.W3 E714 1974"
+    ]
+  },
+  "3": {
+    "heading": "Editions Erasme.",
+    "title": "Les Gais Mangeurs de Pains",
+    "author": "Willy Vandersteen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44 W5G3 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Belgium",
+      "publisher": "Editions Erasme",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bob et Bobette)",
+      "Educational comic book about bread.",
+      "\"Edition exclusive Puratos\"."
+    ]
+  },
+  "4": {
+    "heading": "Editions Erasme.",
+    "title": "Le Monstre de Sarawak",
+    "author": "Marc Sleen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43 S55M614 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions Erasme",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Néron et cie ; 80)"
+    ]
+  },
+  "5": {
+    "heading": "Editions et Productions Musicales IDDH.",
+    "title": "Denver le Dernier Dinosaure.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN1992.77.D435D4 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions et Productions Musicales IDDH",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"D'après la série télévisée FR3\".",
+      "Booklet intended to accompany a sound recording.",
+      "Funny animal fiction."
+    ]
+  },
+  "6": {
+    "heading": "Éditions Falardeau.",
+    "title": "Baptiste et Bali",
+    "author": "André-Philippe Côté.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.C64B3 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Sillery, Québec",
+      "publisher": "Éditions Falardeau",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Safarir)"
+    ]
+  },
+  "7": {
+    "heading": "Éditions Falardeau.",
+    "title": "Guerre,",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.M33G8 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Sillery, Québec",
+      "publisher": "Éditions Falardeau",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "Malouin.",
+        "title": "Épais!"
+      }
+    ],
+    "notes": [
+      "\"Paraît régulièrement dans Safarir.\"",
+      "Pour les jeunes à partir de 13 ans."
+    ]
+  },
+  "8": {
+    "heading": "Editions First.",
+    "title": "Dogbert : méthodes ultra secrètes pour diriger une entreprise",
+    "author": "par Scott Adams ; traduit de l'américain par Maxime Chavanne.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HF5549.12.A414 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions First",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "172 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: Dogbert's top secret manangement handbook."
+    ]
+  },
+  "9": {
+    "heading": "Editions First.",
+    "title": "Le Principe de Dilbert",
+    "author": "Scott Adams ; traduit de l'américain par Françoise Fauchet.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HD31.A29414 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions First",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "319 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: The Dilbert Principle."
+    ]
+  },
+  "10": {
+    "heading": "Editions Fleurus.",
+    "title": "La Bicyclette",
+    "author": "dessins de Claude Dubois d'après M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Cuvillier ; scénario de Robert Génin.",
+    "call number": "PN6748.S9A979 1970z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "21 x 27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid and funny animal genres.",
+    "contents": [],
+    "notes": [
+      "Belgium? : Editions Fleurus, 197-?",
+      "(Les Aventures de Sylvain et Sylvette ; 79)"
+    ]
+  },
+  "11": {
+    "heading": "Editions Fleurus.",
+    "title": "Lucky Luke au Point de Croix",
+    "author": "Marie Pieroni.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "TT778.C76P5 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Fleurus",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cross-stitch patterns."
+    ]
+  },
+  "12": {
+    "heading": "Editions Fleurus.",
+    "title": "Marguerite Bourgeoys, Fondatrice de la Congrégation de Notre-Dame de Montréal et co-fondatrice de l'Église canadienne, 1620-1700",
+    "author": "réalisation, une équipe de Soeurs de la Congrégation de Notre-Dame ; scénario, Pierre Dhombre ; illustrations, Alain d'Orange.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "BX4705.B73M3 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions Fleurus",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Grands Moments de l'Église Canadienne)",
+      "Biographical comic."
+    ]
+  },
+  "13": {
+    "heading": "Éditions G.P.",
+    "title": "Capitaine Apache",
+    "author": "de Roger Lécureux ; dessins, Norma.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.N63C3 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions G.P.",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "51 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(BD Rouge et Or)",
+      "This is the first Capitaine Apache album."
+    ]
+  },
+  "14": {
+    "heading": "Éditions G.P.",
+    "title": "L'Enfance d'un Guerrier",
+    "author": "de Roger Lécureux ; dessins, Norma.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.N63C302 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions G.P.",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "54 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Capitaine Apache)",
+      "(BD Rouge et Or)",
+      "This is the second Capitaine Apache album."
+    ]
+  },
+  "15": {
+    "heading": "Éditions G.P.",
+    "title": "Fils contre Père",
+    "author": "de Roger Lécureux ; dessins, Norma.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.N63C303 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions G.P.",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "52 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Capitaine Apache)",
+      "(BD Rouge et Or)",
+      "This is the third Capitaine Apache album."
+    ]
+  },
+  "16": {
+    "heading": "Editions G.P.",
+    "title": "La Guerre de l'Enerschmoll",
+    "author": "texte, Motti ; dessins, Récréo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R39G8 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions G.P.",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "50 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal/funny kid genres.",
+    "contents": [],
+    "notes": [
+      "(Pif)",
+      "(BD Rouge et Or)",
+      "\"D'après C. Arnal.\""
+    ]
+  },
+  "17": {
+    "heading": "Éditions G.P.",
+    "title": "Un Papoose de Ton Âge",
+    "author": "de Roger Lécureux ; dessins, Norma.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.N63C304 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions G.P.",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "54 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Capitaine Apache)",
+      "(BD Rouge et Or)",
+      "This is the fourth Capitaine Apache album."
+    ]
+  },
+  "18": {
+    "heading": "Editions Gallimard.",
+    "title": "L'Aventure et l'Image",
+    "author": "avec le participation de Jean Adhémar, Louis Daquin, Albert Ducrocq, G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Gassiot-Talabot, J.L. Rieupeyrout, Antoine Roux, Serge Saint-Michel. Gérard de Sede, Marc Soriano, André Voisin.",
+    "call number": "PN6714.A9 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Gallimard",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "107 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Book about adventure story comics."
+    ]
+  },
+  "19": {
+    "heading": "Editions Gilou.",
+    "title": "Milton Caniff : Images de Chine",
+    "author": "edited by Thierry Smolderen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.C3 I5 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Paris?",
+      "publisher": "Editions Gilou/Schlirf",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "91 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Panels from Terry and the Pirates comic strips with commentary by Milton Caniff and others."
+    ]
+  },
+  "20": {
+    "heading": "Editions Gilou.",
+    "title": "Vietnam!",
+    "author": "by Milton Caniff.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.S76V5 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Paris?",
+      "publisher": "Editions Gilou",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "99 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Steve Canyon Vietnam!",
+      "Traduction et adaptation: Miriam Cendrars ; textes: John \"Frenchy\" Norrem.",
+      "French translations of Steve Canyon Comic strips.",
+      "Includes bibliography."
+    ]
+  },
+  "21": {
+    "heading": "Editions Glénat.",
+    "title": "Abominable",
+    "author": "Hermann.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "32 cm. 1. French comics. 2. Horror comic books, strips, etc. I. Hermann (Hermann Huppen) II. Editions Glénat. Call no.: PN6747.H43A42 1988",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "22": {
+    "heading": "Editions Glénat.",
+    "title": "Abominable",
+    "author": "Hermann.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.H43A42 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "(Caractère)"
+    ]
+  },
+  "23": {
+    "heading": "Editions Glénat.",
+    "title": "L'Aigle Chantera 3 Fois",
+    "author": "scénario, Didier Convard ; dessin, Christian Goux ; couleur, Anne Bosser.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G63M52 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Henri-Georges Midi ; t. 2)"
+    ]
+  },
+  "24": {
+    "heading": "Editions Glénat.",
+    "title": "Ainsi va la Vie",
+    "author": "dessins, Tranchand ; texte, Corteggiani.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "45 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Chafouin et Baluchon ; 3) 1. French comics. 2. Funny animal comics. I. Tranchand, Pierre. II. Corteggiani, François. III. Series. IV. Editions Glénat. Call no.: PN6747.C59A4 1983"
+    ]
+  },
+  "25": {
+    "heading": "Editions Glénat.",
+    "title": "Akira",
+    "author": "Katsuhiro Otomo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J34A415 1990",
+    "library has": "t. 1.",
+    "publication info": {
+      "place": "Grenoble, France",
+      "publisher": "Editions Glénat",
+      "date": "1990-"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Presents the Akira story in French in bi-monthly installments.",
+      "Other title: Akira Magazine."
+    ]
+  },
+  "26": {
+    "heading": "Editions Glénat.",
+    "title": "Alias",
+    "author": "Anna Brandoli ; Renato Queirolo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.B7A514 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "27": {
+    "heading": "Editions Glénat.",
+    "title": "L'Année de la Bande Dessinée.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.A5",
+    "library has": "84/85 (1984).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : Glénat, .",
+      "(Les Cahiers de la Bande Dessinée. Hors serie)",
+      "About Franco-Belgian comics, including bibliography."
+    ]
+  },
+  "28": {
+    "heading": "Editions Glénat.",
+    "title": "Les Années Cinquante",
+    "author": "Henri Filippini.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.F5A55 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "173 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Avant-propos"
+      },
+      {
+        "title": "La fin d'un âge d'or"
+      },
+      {
+        "title": "Coq Hardi"
+      },
+      {
+        "title": "Les Editions de Châteaudun"
+      },
+      {
+        "title": "Vaillant, le journal le plus captivant"
+      },
+      {
+        "title": "Les Editions de Vaillant"
+      },
+      {
+        "title": "Artima"
+      },
+      {
+        "title": "Les Editions de Fleurus"
+      },
+      {
+        "title": "La Bonne Presse"
+      },
+      {
+        "title": "Les Editions mondiales"
+      },
+      {
+        "title": "Les Editions Montsouris"
+      },
+      {
+        "title": "Les publications de la rue Bergère (SFPI)"
+      },
+      {
+        "title": "La Société parisienne d'Editions"
+      },
+      {
+        "title": "Le Nouveau Journal de Mickey"
+      },
+      {
+        "title": "Les Editions Rouff"
+      },
+      {
+        "title": "Les Editions Mon Journal"
+      },
+      {
+        "title": "Sagédition"
+      },
+      {
+        "title": "Les Editions lyonnaises"
+      },
+      {
+        "title": "Titres divers"
+      },
+      {
+        "title": "Presse et bande dessinée"
+      },
+      {
+        "title": "La fin des années cinquante"
+      },
+      {
+        "title": "Les grand noms des années cinquante"
+      },
+      {
+        "title": "les rééditions des années cinquante."
+      }
+    ],
+    "notes": [
+      "(B. Documents ; 3)"
+    ]
+  },
+  "29": {
+    "heading": "Editions Glénat.",
+    "title": "Après la Bombe : Chroniques",
+    "author": "Bonvi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.B66C714 1979",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1979-1981"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Circus Aventure)",
+      "Translation of: Cronache del dopobonba.",
+      "About nuclear warfare.",
+      "Complete in 2 v."
+    ]
+  },
+  "30": {
+    "heading": "Editions Glénat.",
+    "title": "L'Art de la B.D.",
+    "author": "B",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Duc.",
+    "call number": "",
+    "library has": "t. 1-2. 1. Drawing",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1982-1983"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "t. 1. Du scénario à la realisation graphique, tout sur la creation des bandes dessinées. t. 2. Du dessin à la couleur."
+      }
+    ],
+    "notes": [
+      "2 v. : ill. (some col.) ; 33 cm.",
+      "Technique. 2. Authorship",
+      "Technique. I. Duc, B. II. [Each vol. title]. II. Editions Glénat. Call no.: PN6714.D831982"
+    ]
+  },
+  "31": {
+    "heading": "-",
+    "title": "Editions Glénat. L'Asile aux Sortilèges",
+    "author": "L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " E. Garcia.",
+    "call number": "PN6747.G315A83 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection BD Noire)",
+      "Mystery."
+    ]
+  },
+  "32": {
+    "heading": "Editions Glénat.",
+    "title": "Astroboy",
+    "author": "Osamu Tezuka ; traduction, Sylvie Siffointe; lettrage &amp; retouches, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T47A8 1997",
+    "library has": "t. 3.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997-"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genres: Superhero, funny kid."
+    ]
+  },
+  "33": {
+    "heading": "Editions Glénat.",
+    "title": "Un Automne à Berlin",
+    "author": "Giroud, Dethorey.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Louis la Guigne ; t. 3) 1. French comics. 2. Berlin (Germany)",
+      "Comic books, strips, etc. I. Giroud. II. Dethorey. III. Series. IV. Glénat. Call no.: PN6747.G53A8 1985"
+    ]
+  },
+  "34": {
+    "heading": "Editions Glénat.",
+    "title": "L'Automobile",
+    "author": "dessins de Claude Serre ; préface de Saint-Christophe.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1499.S45A8 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "20 x 23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "chiefly ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cartoons about automobiles and their drivers."
+    ]
+  },
+  "35": {
+    "heading": "Editions Glénat.",
+    "title": "L'Aventure du Fer Blanc",
+    "author": "Lax ; Aubrun.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.A77H42 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"Le Bal des Mandibules\""
+      },
+      {
+        "title": "\"Le Grand Tourbillon.\""
+      }
+    ],
+    "notes": [
+      "(Hector le Castor ; t. 2)"
+    ]
+  },
+  "36": {
+    "heading": "Editions Glénat.",
+    "title": "Le Bal du Rat Mort",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Bucquoy, J.F. Charles.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Éditions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm. 1. French comics. I. Bucquoy, Jan. II. Charles, J. F. III. Éditions Glénat. Call no.: PN6747.B8B3 1986",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "37": {
+    "heading": "Editions Glénat.",
+    "title": "Benjamin Rabier",
+    "author": "Christian Alberelli.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R3A75 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "109 p.",
+      "illustrationTypes": "ill. (part col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Catalogue raisonne: p. 75-101.",
+      "Articles sur Rabier: p. 105-107."
+    ]
+  },
+  "38": {
+    "heading": "Editions Glénat.",
+    "title": "Black Jack",
+    "author": "Osamu Tezuka ; traduction, Sylvie Siffointe; lettrage &amp; retouches, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T47B5514 1997",
+    "library has": "t. 3.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997-"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated from Japanese to French.",
+      "Genre: Horror."
+    ]
+  },
+  "39": {
+    "heading": "Editions Glénat.",
+    "title": "Bois Brûlé",
+    "author": "Ramaïoli, Durand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R34 I56 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(L'Indien Français ; 6)",
+      "(Collection Circus Western)"
+    ]
+  },
+  "40": {
+    "heading": "Editions Glénat.",
+    "title": "Ça Occupe",
+    "author": "Bélom.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1499.B435C3 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1983"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 32 cm.",
+      "Full-page cartoons about sex."
+    ]
+  },
+  "41": {
+    "heading": "Editions Glénat.",
+    "title": "Les Cahiers de la Bande Dessinée.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.S37",
+    "library has": "no. 56-65, 67-75, 77, 80, 82-86, 88-89 (1986-1990).",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1984-1990"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 56 (Fév./Mars 1984) - no. 89 (Juin 1990).",
+      "Periodical about comics.",
+      "Other title: Cahiers de la B D.",
+      "Continues: Schtroumpf: les Cahiers de la Bande Dessinée."
+    ]
+  },
+  "42": {
+    "heading": "Editions Glénat.",
+    "title": "Le Canard Sauvage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C3",
+    "library has": "no. 2, 4-8, 15 (1973-1976).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : J. Glénat,"
+    ]
+  },
+  "43": {
+    "heading": "Editions Glénat.",
+    "title": "Cartoons : Opus 2",
+    "author": "Mordillo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A73 M58C32 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "44 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Opus 2.",
+      "Begins with an interview (2 p.) conducted by Numa Sadoul and reprinted from Carton, no. 5."
+    ]
+  },
+  "44": {
+    "heading": "Editions Glénat.",
+    "title": "Catalogue B.D. Beaux Livres 1992.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6705.F7G55 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "15 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "119 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "45": {
+    "heading": "Editions Glénat.",
+    "title": "Cell, Transformation Ultime",
+    "author": "Akira Toriyama.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 T6C414 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "91 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dragon Ball ; 64)",
+      "Translates an episode of Doragon Boru from Japanese into French."
+    ]
+  },
+  "46": {
+    "heading": "Editions Glénat.",
+    "title": "Charleston",
+    "author": "Giroud, Dethorey.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G53C47 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Louis la Guigne ; t. 6)",
+      "Genre: Adventure story."
+    ]
+  },
+  "47": {
+    "heading": "Editions Glénat.",
+    "title": "Le Chasseur des Solitudes",
+    "author": "Ramaioli, Durand ; mise en coleurs, J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "P. Bergeret.",
+    "call number": "PN6747.R34I55 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glenat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(L'Indien Francais ; 5)"
+    ]
+  },
+  "48": {
+    "heading": "Editions Glénat.",
+    "title": "Cholms et Stetson contre le Caïman",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "L. Lehir, H. Filippini.",
+    "call number": "PN6747.L343C47 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Cholms et Stetson; t. 2)",
+      "Genre: Funny animal."
+    ]
+  },
+  "49": {
+    "heading": "Editions Glénat.",
+    "title": "Chute Libre",
+    "author": "scénario, Frank Giroud ; dessin, Barly Baruti.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G53M34 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Mandrill ; 4)",
+      "Detective."
+    ]
+  },
+  "50": {
+    "heading": "Editions Glénat.",
+    "title": "La Cible",
+    "author": "Tito.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Soledad ; t. 2) 1. French comics. I. Tito. II. Series. III. Glénat. Call no.: PN6747.T57C5 1983"
+    ]
+  },
+  "51": {
+    "heading": "Editions Glenat.",
+    "title": "Circus.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53",
+    "library has": "no. 1-2, 4, 6-39, 41-79, 81-130 (1975-1989), 114 bis, 118 bis.",
+    "publication info": {
+      "place": "Grenoble (France)",
+      "publisher": "J. Glénat",
+      "date": "1975-"
+    },
+    "physical description": {
+      "dimensions": "27-32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (2e trimestre 1975)"
+    ]
+  },
+  "52": {
+    "heading": "Editions Glénat.",
+    "title": "Circus Annuel.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "1986. 1. Erotic comic books, strips, etc. 2. French comics. I. Glénat. Call no.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : Glénat, .",
+      "Compiled by Glénat from monthly issues of Circus."
+    ]
+  },
+  "53": {
+    "heading": "Editions Glénat.",
+    "title": "Circus hors serie Spécial Putes : 20 récits complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53P8 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "97 p.",
+      "illustrationTypes": "ill. (part col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comics about prostitutes."
+    ]
+  },
+  "54": {
+    "heading": "Editions Glénat.",
+    "title": "La Cité des Sept Sages",
+    "author": "dessins de Lacroix ; texte de Génin ; couleurs, Dany Mourain.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L23Y32 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Yann le Migrateur ; t. 2)",
+      "Science fiction."
+    ]
+  },
+  "55": {
+    "heading": "Editions Glénat.",
+    "title": "La Cité du Non-Retour",
+    "author": "Rotundo, Ferrandino.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.R6C5 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Maîtres du Silence ; t. 1)",
+      "Fantasy."
+    ]
+  },
+  "56": {
+    "heading": "Editions Glenat.",
+    "title": "Clotho : le Gambit des Innocents",
+    "author": "Jacques Bonodot ; Gerard Dewamme.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B58C55 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glenat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "57": {
+    "heading": "Editions Glénat.",
+    "title": "Le Coeur Déchiré",
+    "author": "Kôji Kiriyama ; traduction, Olivier Huet ; lettrage, Eric Montesinos ; retouches, Graphique Productions.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K47C514 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "181 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Ninkû ; 3)",
+      "Genre: Funny kid."
+    ]
+  },
+  "58": {
+    "heading": "Editions Glénat.",
+    "title": "La Compagnie du Loup",
+    "author": "Kôji Kiriyama ; traduction, Olivier Huet ; lettrage, Eric Montesinos ; retouches, Graphique Productions.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K47C614 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "204 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Ninkû ; 2)",
+      "Genre: Funny kid."
+    ]
+  },
+  "59": {
+    "heading": "Editions Glénat.",
+    "title": "Le Corbeau Blanc",
+    "author": "P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Makyo ; couleurs, Jacky Robert.",
+    "call number": "PN6747.M305 G722 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Grimion Gant de Cuir ; 2)",
+      "Fantasy."
+    ]
+  },
+  "60": {
+    "heading": "Editions Glénat.",
+    "title": "Les Croquillards",
+    "author": "Raymond Macherot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M35C7 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "50 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Funny animal."
+    ]
+  },
+  "61": {
+    "heading": "Editions Glénat.",
+    "title": "Daniel Bardet présente La Révolution Enfin!",
+    "author": "Patrick Jusseaume, Jean-Paul Dethorey, Jean-François Charles, Éric, Dominique Hé, Son, Convard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references. 1. French comics. 2. France",
+      "History",
+      "Revolution, 1789-1799",
+      "Comic books, strips, etc. I. Bardet, Daniel. II. Jusseaume, Patrick. III. Dethorey, Jean-Paul. IV. Charles, Jean-François. V. Éric. VI. Hé, Dominique. VII. Son. VIII. Convard, Didier. IX. Editions Glénat. X. La Révolution Enfin. Call no.: DC149.5.B27 1989"
+    ]
+  },
+  "62": {
+    "heading": "Editions Glénat.",
+    "title": "Le Dernier Bonheur",
+    "author": "Tito ; avec la collaboration de Pascal Varalli pour le scenario de La vielle fille, et de Didier Fischer pour celui de La rebellion.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Soledad ; t. 1) 1. French comics. I. Tito. II. Varalli, Pascal. III. Fischer, Didier. IV. Series. V. Glénat. Call no.: PN6747.T57D4 1983"
+    ]
+  },
+  "63": {
+    "heading": "Editions Glénat.",
+    "title": "La Dernière Émission",
+    "author": "Yukito Kishiro ; traduction, Yvan Jacquet ; lettrage, Géraldine Laplanche.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K5 G814 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "222 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Gunnm ; t. 8)",
+      "Genre: Superheroine."
+    ]
+  },
+  "64": {
+    "heading": "Editions Glénat.",
+    "title": "Les Dessous de l'Histoire.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Historical genre.",
+    "contents": [],
+    "notes": [
+      "(Vécu ; no. 21 bis)",
+      "PN6748.V36D4 1986"
+    ]
+  },
+  "65": {
+    "heading": "Editions Glénat.",
+    "title": "Dictionnaire Encyclopédique des Héros et Auteurs de BD",
+    "author": "Henri Filippini.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6707.F5 1998",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat ; Opera Mundi",
+      "date": "1998-"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Vol. 1: Animaux. Histoire. Humour. Policier. Auteurs."
+      }
+    ],
+    "notes": []
+  },
+  "66": {
+    "heading": "Editions Glénat.",
+    "title": "Dictionnaire Thématique des Héros de BD. t. 1",
+    "author": "Henri Filippini.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6707.F5 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "445 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Histoire, western."
+      }
+    ],
+    "notes": []
+  },
+  "67": {
+    "heading": "Editions Glénat.",
+    "title": "L'Echiquier du Rat",
+    "author": "Adamov, Cothias.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Eaux de Mortelune ; t. 1) 1. Science fiction comic books, strips, etc. 2. French comics. I. Adamov. II. Cothias, 1948- III. Series. IV. Glénat. Call no.: PN6747.A2E3 1986"
+    ]
+  },
+  "68": {
+    "heading": "Editions Glénat.",
+    "title": "L'Ecole d'Hergé : logicien du rêve",
+    "author": "François Riviere.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.R5 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(B. Documents ; 1)"
+    ]
+  },
+  "69": {
+    "heading": "Editions Glénat.",
+    "title": "En Route, Mauvaise Troupe!!",
+    "author": "Akira Toriyama ; traduction, Yumi Terao, Alain David ; adaptation graphique &amp; lettrage, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T6E514 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "184 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dr. Slump ; no. 12)",
+      "Dokuta Suranpu, in French."
+    ]
+  },
+  "70": {
+    "heading": "Editions Glénat.",
+    "title": "Encyclopédie Aphrodisiaque",
+    "author": "Lucques.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L8E5 1987",
+    "library has": "pt. 1-2.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987-"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Pts. 1-2 numbered 3 and 9 respectively on spine."
+    ]
+  },
+  "71": {
+    "heading": "Editions Glénat.",
+    "title": "L'Enfant de Celluloïd",
+    "author": "Clive Barker, Les Edwards ; lettrage, Martine Segard ; traduction, Hélène Devaux-Minié.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B62S614 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "58 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sang pour Sang ; 3)",
+      "(Collection Spécial USA)",
+      "(Comics USA)",
+      "Translation of: Son of celluloid.",
+      "Horror."
+    ]
+  },
+  "72": {
+    "heading": "Editions Glénat.",
+    "title": "Entrée de ses Vices",
+    "author": "G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Levis.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "91 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Liz et Beth ; 1) 1. French comics. 2. Erotic comic books, strips, etc. I. Levis, Georges. II. Series. III. Glénat. Call no.: PN6747.L44E5 1987"
+    ]
+  },
+  "73": {
+    "heading": "Editions Glénat.",
+    "title": "L'Escouade Pourpre",
+    "author": "Giroud, Dethorey.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G53E8 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Louis la Guigne ; t. 5)"
+    ]
+  },
+  "74": {
+    "heading": "Editions Glénat.",
+    "title": "Felina",
+    "author": "scenario, Victor Mora ; dessins, Annie Goetzinger.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "44 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated from Spanish to French. 1. French comics. 2. Superheroine comics. 3. Spanish comics. I. Mora, Victor, 1931- II. Goetzinger, Annie. III. Glénat, J. Call no.: PN6777.M58F414 1979"
+    ]
+  },
+  "75": {
+    "heading": "Editions Glénat.",
+    "title": "Femmes Fatales : 20 récits complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53F4 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 99 bis)",
+      "Comics about women."
+    ]
+  },
+  "76": {
+    "heading": "Editions Glénat.",
+    "title": "La Fille du Fleuve",
+    "author": "Lacaf ; Moriquand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "DC611.R478L3 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Pêcheurs d'Étoiles ; t. 1)",
+      "About the Rhône River valley."
+    ]
+  },
+  "77": {
+    "heading": "Editions Glénat.",
+    "title": "Fils de Chine",
+    "author": "Paul Gillon, Roger Lecureux.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G4F5 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "156 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Adventure story.",
+      "Subject: China."
+    ]
+  },
+  "78": {
+    "heading": "Editions Glénat.",
+    "title": "Le Fléau de Dieu",
+    "author": "dessins, Bonnet ; scénario, Mitton ; couleurs, Chantal Chéret.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B594A84 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Historical genre.",
+    "contents": [],
+    "notes": [
+      "(Attila Mon Amour ; t. 4)",
+      "(Collection Vécu)"
+    ]
+  },
+  "79": {
+    "heading": "Editions Glénat.",
+    "title": "El Forastero",
+    "author": "Tito.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Soledad ; t. 3) 1. French comics. I. Tito. II. Series. III. Glénat. Call no.: PN6747.T57F6 1985"
+    ]
+  },
+  "80": {
+    "heading": "Editions Glénat.",
+    "title": "La Forteresse des Neiges",
+    "author": "textes, Corteggiani ; dessins, Tranchand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C59F6 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bastos et Zakousky ; 2)",
+      "Genre: War."
+    ]
+  },
+  "81": {
+    "heading": "Editions Glênat.",
+    "title": "La Fourmilière du Lagos",
+    "author": "Schultheiss.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.S35R4 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Rêve du Requin ; t. 1)",
+      "Translated from German to French?"
+    ]
+  },
+  "82": {
+    "heading": "Editions Glénat.",
+    "title": "Frime Contrôle",
+    "author": "Buche.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B78F73 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Franky Snow ; 3)",
+      "(Tcho!)",
+      "Teen humor."
+    ]
+  },
+  "83": {
+    "heading": "Editions Glénat.",
+    "title": "Le Funambule",
+    "author": "Michel Schetter.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.S34B42 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Berlin ; 2)"
+    ]
+  },
+  "84": {
+    "heading": "Editions Glénat.",
+    "title": "Les Gnangnan",
+    "author": "Claire Bretécher.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B7G55 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "49 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection BDécouvertes)",
+      "Copyright date is 1974."
+    ]
+  },
+  "85": {
+    "heading": "Editions Glénat.",
+    "title": "Le Grand Chien",
+    "author": "Vulliez, Hughes.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.V85G7 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Science Fiction)"
+    ]
+  },
+  "86": {
+    "heading": "Editions Glénat.",
+    "title": "La Grande Blessure",
+    "author": "Yves Swolfs ; Marc-Rénier ; couleurs, Marie-Noëlle Bastin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M3227B5503 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Black Hills 1890 ; 3)",
+      "(Collection Grafica)",
+      "Western genre, about Indians."
+    ]
+  },
+  "87": {
+    "heading": "Editions Glénat.",
+    "title": "Guide de la Bande Dessinée",
+    "author": "Philippe Bronson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6707.B76 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "273 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "2. éd. entierement mise à jour.",
+      "Includes index."
+    ]
+  },
+  "88": {
+    "heading": "Editions Glénat.",
+    "title": "Hector le Castor : La Menace de Zénon",
+    "author": "texte, Aubrun ; dessin, Lax.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.A77H4 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Funny animal."
+    ]
+  },
+  "89": {
+    "heading": "Editions Glénat.",
+    "title": "L'Heure du Taureau",
+    "author": "textes, Corteggiani, ; dessins, Tranchand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bastos et Zakousky ; 6) 1. French comics. 2. Adventure story comics. I. Corteggiani, François. II. Tranchand, Pierre. III. Series. IV. Editions Glénat. Call no.: PN6747.C59H4 1986"
+    ]
+  },
+  "90": {
+    "heading": "Editions Glénat.",
+    "title": "Histoire de la Bande Dessinée en France et en Belgique des Origines à nos Jours",
+    "author": "Henri Filippini, Jacques Glénat, Thierry Martens, Numa Sadoul.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.H5 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "224 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "2e ed.",
+      "Bibliography: p. 219."
+    ]
+  },
+  "91": {
+    "heading": "Editions Glénat.",
+    "title": "Histoire du Journal et des Editions Vaillant",
+    "author": "Henri Filippini.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.F5H5 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "92": {
+    "heading": "-",
+    "title": "Editions Glénat. Histoire du Journal Spirou, et des Publications des Editions Dupuis",
+    "author": "Philippe Brun.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.B7H5 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "127 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Nouv. éd. arretée au 31 decembre 1980.",
+      "Spine title: Histoire de Spirou et des Publications Dupuis.",
+      "Bibliography: p. 126."
+    ]
+  },
+  "93": {
+    "heading": "Editions Glénat.",
+    "title": "Humour Noir &amp; Hommes en Blanc : cinquante-six dessins",
+    "author": "de Claude Serre.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1499.S45 H6 1975",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "19 x 24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Medical cartoons."
+    ]
+  },
+  "94": {
+    "heading": "Editions Glénat.",
+    "title": "Iago",
+    "author": "Ralf König ; lettrage, J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "P. Tubetti ; traduction: F. Ricker.",
+    "call number": "PN6757.K6J314 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "190 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comics based on Shakespeare plays.",
+      "Translation of: Jago."
+    ]
+  },
+  "95": {
+    "heading": "Editions Glénat.",
+    "title": "Ikkyu",
+    "author": "Hisashi Sakaguchi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33S315 I514 1996",
+    "library has": "t. 4.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1996-"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated from Japanese to French by Wako Miyamoto, Olivier Prézeay.",
+      "\"Original artwork reversed for Glénat edition\"."
+    ]
+  },
+  "96": {
+    "heading": "Editions Glénat.",
+    "title": "L'Ile aux Hommes Fatigués",
+    "author": "Rotundo, Ferrandino.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.R6 I4 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Maîtres du Silence ; t. 2)",
+      "Erotic science fiction."
+    ]
+  },
+  "97": {
+    "heading": "Editions Glénat.",
+    "title": "L'Indien Bleu",
+    "author": "Carin ; Riviere.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sydney Bruce ; 1) 1. French comics. I. Carin, Francis. II. Riviere, Francois. III. Series. IV. Glénat. Call no.: PN6747.C27I5 1987"
+    ]
+  },
+  "98": {
+    "heading": "Editions Glénat.",
+    "title": "L'Ingenue et le Dictateur",
+    "author": "Thierry Groensteen ; Jean Lucas.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L77 I5 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Antoine et Victor ; 1)"
+    ]
+  },
+  "99": {
+    "heading": "Editions Glénat.",
+    "title": "Je Sais que tu Viendras",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.Y8 S302 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "/ Yslaire ; avec la participation de Balac.",
+      "(Sambre ; 2)",
+      "(Caractère)"
+    ]
+  },
+  "100": {
+    "heading": "Editions Glénat.",
+    "title": "Kuro Gane",
+    "author": "Kei Tome ; traduction, Flora Huynh ; lettrage, Eric Montesinos.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T55K814 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1996"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 30 cm.",
+      "(Kuro Gane ; v. 1)"
+    ]
+  },
+  "101": {
+    "heading": "Editions Glénat.",
+    "title": "Lagos Connection",
+    "author": "Schultheiss.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.S35R42 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Le Rêve du Requin ; t. 2)"
+    ]
+  },
+  "102": {
+    "heading": "Editions Glénat.",
+    "title": "Louis la Guigne. t. 1",
+    "author": "Dethorey, Giroud.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G53L6 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "103": {
+    "heading": "Editions Glénat.",
+    "title": "Lovestory",
+    "author": "Mordillo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A73M58L6 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "72 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Stories without words."
+    ]
+  },
+  "104": {
+    "heading": "Editions Glénat.",
+    "title": "Lovestory",
+    "author": "Mordillo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A73 M58L7 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "all ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Glénat 30 Ans d'Édition ; 12)",
+      "Date and series from dust jacket.",
+      "Cartoons and comics without words."
+    ]
+  },
+  "105": {
+    "heading": "Editions Glénat.",
+    "title": "La Lune des Fous",
+    "author": "Autheman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.A8L8 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Éditions Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Vic Valence ; t. 3)"
+    ]
+  },
+  "106": {
+    "heading": "Editions Glénat.",
+    "title": "La Lune Enterrée",
+    "author": "dessins de Ramaïoli ; texte de Durand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R34 I52 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(L'Indien Français ; 2)"
+    ]
+  },
+  "107": {
+    "heading": "Editions Glénat.",
+    "title": "La Lune Noire",
+    "author": "Yann, Frank Le Gall.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Exploits de Yoyo) 1. French comics. 2. Adventure story comics. I. Yann. II. Le Gall, Frank. III. Series. IV. Glénat. Call no.: PN6747.Y3 L8 1986"
+    ]
+  },
+  "108": {
+    "heading": "Editions Glénat.",
+    "title": "Les Maîtres de l'Orge : Integrale II, 1950-1997",
+    "author": "Van Hamme ; Vallès ; couleurs, Marie-Paule Alluard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.V25M305 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "2001"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "5. Julienne, 1950"
+      },
+      {
+        "title": "6. Jay, 1973"
+      },
+      {
+        "title": "7. Frank, 1997"
+      },
+      {
+        "title": "8. Les Steenfort."
+      }
+    ],
+    "notes": [
+      "ca. 200 p. : col. ill. ; 32 cm.",
+      "(Collection Grafica)"
+    ]
+  },
+  "109": {
+    "heading": "Editions Glénat.",
+    "title": "Le Maléfice Interdit",
+    "author": "Hagiwara Kazushi ; traduction, Vincent Zouzoulkovsky ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K39 B3614 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "183 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bastard : L'Armée des Ténèbres ; 6)",
+      "Reads from right to left.",
+      "Translation of: Bastard, ankoku no hakaishin."
+    ]
+  },
+  "110": {
+    "heading": "Editions Glénat.",
+    "title": "Mantell",
+    "author": "Colin Wilson ; mise en couleurs, Janet Gale.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.W48M414 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Éditions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dans l'Ombre du Soleil ; t. 2)."
+    ]
+  },
+  "111": {
+    "heading": "Editions Glénat.",
+    "title": "Le Marchand d'Idees",
+    "author": "Berthet ; Cossu.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B43M3 1982",
+    "library has": "v. 1-3.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1982-"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Science fiction."
+    ]
+  },
+  "112": {
+    "heading": "Editions Glénat.",
+    "title": "La Memoire Blessee",
+    "author": "Tito.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Soledad ; t. 4)",
+      "Translated from the Spanish. 1. War comics. 2. Spanish comics. 3. French comics. I. Tito. II. Series. III. Glénat. Call no.: PN6747.P57M4 1987"
+    ]
+  },
+  "113": {
+    "heading": "Editions Glénat.",
+    "title": "Mémoires d'Outrefois",
+    "author": "Clavé, Godard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C477M4 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Detective and mystery genre.",
+    "contents": [],
+    "notes": [
+      "(Collection Circus Aventure)",
+      "(Dossiers de l'Archange ; 1)"
+    ]
+  },
+  "114": {
+    "heading": "Editions Glénat.",
+    "title": "Miléna",
+    "author": "scénario, Claude Carré ; dessin, Bernard Bittler ; lettrage, Jean-Pierre Tubetti.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C27M5 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Saga)",
+      "(Nobodyland ; 1)",
+      "Genre: Horror."
+    ]
+  },
+  "115": {
+    "heading": "Editions Glénat.",
+    "title": "Mort Cinder",
+    "author": "Breccia, Oesterheld.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A73B7M614 1982",
+    "library has": "t. 2-3.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1982-"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "t. 2. La mère de Charlie"
+      },
+      {
+        "title": "la tour de Babel"
+      },
+      {
+        "title": "Le pénitencier Martin"
+      },
+      {
+        "title": "le Moine. t. 3. Le tombeau de Lisis"
+      },
+      {
+        "title": "L'esclave"
+      },
+      {
+        "title": "Lumière de lune"
+      },
+      {
+        "title": "Les thermopyles."
+      }
+    ],
+    "notes": [
+      "(Collection BD noire)",
+      "Genre: Horror."
+    ]
+  },
+  "116": {
+    "heading": "Editions Glénat.",
+    "title": "La Mort en Différé",
+    "author": "Clavé, Godard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C477M6 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Circus Aventure)",
+      "(Dossiers de l'Archange ; 2)",
+      "Genre: Detective."
+    ]
+  },
+  "117": {
+    "heading": "Editions Glénat.",
+    "title": "La Mort qui Rode",
+    "author": "JF",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Biard.",
+    "call number": "PN6747.B46M6 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill. (red and black)"
+    },
+    "genre": "Detective and mystery genre.",
+    "contents": [],
+    "notes": [
+      "(Collection BD Noire)"
+    ]
+  },
+  "118": {
+    "heading": "Editions Glénat.",
+    "title": "Moulin Rouge",
+    "author": "Giroud, Dethorey.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G53M6 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Louis la Guigne ; t. 2)"
+    ]
+  },
+  "119": {
+    "heading": "Editions Glénat.",
+    "title": "Mulberry Street",
+    "author": "Corteggiani, Malès.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C59M8 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(De Silence et de Sang ; 2)"
+    ]
+  },
+  "120": {
+    "heading": "-",
+    "title": "Editions Glénat. Les Naufragés",
+    "author": "dessins de Claire Bretécher ; texte de Raoul Cauvin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B7N3 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "49 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Ces planches sont parues dans Spirou.\"",
+      "Genre: Funny military."
+    ]
+  },
+  "121": {
+    "heading": "Editions Glénat.",
+    "title": "Next Stop",
+    "author": "by Atsushi Kamijo ; lettrage, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K28S414 1997",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated from Japanese to French by Frantz Petard."
+    ]
+  },
+  "122": {
+    "heading": "Editions Glénat.",
+    "title": "Noritaka le Roi de la Baston!",
+    "author": "scénario, Hideo Murata ; dessins, Takashi Hamori.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33M8N614 1997",
+    "library has": "no. 8-9 (1997).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : Glénat, .",
+      "Translated from Japanese to French by Flora Huynh.",
+      "Kickboxing stories."
+    ]
+  },
+  "123": {
+    "heading": "Editions Glénat.",
+    "title": "Le Nouveau Voyage",
+    "author": "Kôji Kiriyama ; traduction, Olivier Huet ; lettrage, Eric Montesinos ; retouches, Graphique Productions.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K47N614 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "204 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Ninkû ; 4)",
+      "Genre: Funny kid."
+    ]
+  },
+  "124": {
+    "heading": "Editions Glénat.",
+    "title": "Nouveautés.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "folio PN6745.N62",
+    "library has": "Juillet/août/septembre 1991.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : Glénat, .",
+      "Consists of \"Nouveautés B.D.\" and \"Nouveautés Beaux livres\" printed back to back inverted."
+    ]
+  },
+  "125": {
+    "heading": "Editions Glénat.",
+    "title": "Les Nouvelles Aventures de Gatchan",
+    "author": "Akira Toriyama ; traduction, Yumi Terao, Alain David ; lettrage &amp; retouches, Bakayro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T6A814 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "184 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dr. Slump ; no. 11)",
+      "Dokuta Suranpu, in French.",
+      "Genre: Funny kid."
+    ]
+  },
+  "126": {
+    "heading": "Editions Glénat.",
+    "title": "Une Nuit chez Tennessee",
+    "author": "Autheman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.A8N8 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Vic Valence ; t. 1)",
+      "Summary: Vic Valence is hired to recover diamonds that were once the treasure of a 17th century pirate, then property of Miskito Indians in Nicaragua, and then stolen while being used to buy weapons for the Contras. The thief is an old friend of Valence, who is hiding them on the island of San Severina. Another old friend, the former Miss Tennessee, is hiding the thief.",
+      "Genre: Adventure story."
+    ]
+  },
+  "127": {
+    "heading": "Editions Glénat.",
+    "title": "La Nuit des Anges Dechus",
+    "author": "Saudelli, De Angelis ; traduction, A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Roux ; lettrage J.-P. Tubetti.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Iberland ; t. 3)",
+      "Translation of: Notte degli Angeli Caduti. 1. Miracles",
+      "Comic books, strips, etc. 2. Science fiction comic books, strips, etc. 3. Italian comics. 3. French comics. I. Saudelli. II. De Angelis. III. Roux, A. IV. Tubetti, J.-P. V. Series. VI. Notte degli Angeli Caduti. French. VII. Glénat. Call no.: PN6767.S3N614 1987"
+    ]
+  },
+  "128": {
+    "heading": "Editions Glénat.",
+    "title": "La Nuit des Exterminateurs",
+    "author": "Ferrer-Boix.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.F42N8 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Detective genre.",
+    "contents": [],
+    "notes": [
+      "(Collection BD Noire)"
+    ]
+  },
+  "129": {
+    "heading": "Editions Glénat.",
+    "title": "La Nuit du Tueur de Loups",
+    "author": "Corteggiani, Malès.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C59N8 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(De Silence et de Sang ; 1)",
+      "Setting: Organized crime."
+    ]
+  },
+  "130": {
+    "heading": "Editions Glénat.",
+    "title": "Nuits Sauvages",
+    "author": "Franz.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.F68N8 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Poupée d'Ivoire ; t. 1)"
+    ]
+  },
+  "131": {
+    "heading": "Editions Glénat.",
+    "title": "L'Oeil de Kéops",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Martin, A. Juillard.",
+    "call number": "PN6747.M327A702 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Arno ; 2)"
+    ]
+  },
+  "132": {
+    "heading": "Editions Glénat.",
+    "title": "L'Oeuvre du Fou",
+    "author": "scénario, Pierre Dubois ; dessin, Lucien Rollin ; coleur, Jean-Jacques et Yves Chagnaud.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D72 O2 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 30 cm.",
+      "(Le Torte ; 1)",
+      "(Collection Saga)",
+      "Genre: Fantasy."
+    ]
+  },
+  "133": {
+    "heading": "Editions Glénat.",
+    "title": "Olivier",
+    "author": "Hermann.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.H43T7 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Historical adventure genre.",
+    "contents": [],
+    "notes": [
+      "(Les Tours de Bois-Maury ; t. 10)",
+      "(Collection Vecu)",
+      "Begins with an essay on the series, of which this is the final volume: \"Bois-Maury: itinéraries d'un chevalier errant et de quelques autres\" (p. 5-18), by Paul Herman."
+    ]
+  },
+  "134": {
+    "heading": "Editions Glénat.",
+    "title": "One Eye",
+    "author": "Marc-Rénier ; couleurs, Marie-Noëlle Bastin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M3227B5504 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Black Hills 1890 ; 4)",
+      "(Collection Grafica)",
+      "Western genre, about Indians of North America."
+    ]
+  },
+  "135": {
+    "heading": "Editions Glénat.",
+    "title": "Orphée : d'après l'opéra de Claudio Monteverdi",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Ibarrola ; traduction, Antoine Roux ; lettrage, J.-Pierre Tubetti.",
+    "call number": "PN6777 .I23 O7 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Postface en guise de prologue,\" by Antoine Roux, 1 p. at end."
+    ]
+  },
+  "136": {
+    "heading": "Editions Glénat.",
+    "title": "Panique",
+    "author": "Hagiwara Kazushi ; traduction, Vincent Zouzoulkovsky ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K39 B3514 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "206 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bastard : L'Armée des Ténèbres ; 5)",
+      "Reads from right to left.",
+      "Translation of: Bastard, ankoku no hakaishin."
+    ]
+  },
+  "137": {
+    "heading": "Editions Glénat.",
+    "title": "La Passagère Silencieuse",
+    "author": "Autheman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.A8P3 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Vic Valence ; t. 2)",
+      "Genre: Adventure story."
+    ]
+  },
+  "138": {
+    "heading": "Editions Glénat.",
+    "title": "Les Passagers du Vent",
+    "author": "François Bourgeon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "v. 1-5. 1. French comics. I. Bourgeon, François. II. Glénat. Call no.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1980-1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "139": {
+    "heading": "Editions Glénat.",
+    "title": "Pastiches : 5 volumes de pastiches, 1 volume de porno",
+    "author": "Roger Brunel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B75P3 1980",
+    "library has": "v. 2-5.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1980-"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "v. 1. Ecole franco-belge."
+      }
+    ],
+    "notes": [
+      "v. 2. Ecole americaine.",
+      "v. 3. Ecole franco-belge, 2eme partie.",
+      "First published in Circus.",
+      "Genres: Parody, erotic."
+    ]
+  },
+  "140": {
+    "heading": "Editions Glénat.",
+    "title": "Pastiches 4 : Ecole Adulte",
+    "author": "Roger Brunel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B75P3 1980 t.4",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "141": {
+    "heading": "Editions Glénat.",
+    "title": "Le Pêcheur de Brooklyn",
+    "author": "texte de Barreiro ; dessins de Rotundo ; traduction, Antoine Roux.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.B36P414 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "142": {
+    "heading": "Editions Glénat.",
+    "title": "Le Petit Dendé",
+    "author": "Akira Toriyama ; traduction, Kiyoko Chappe ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T6P414 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "187 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(DragonBall ; 26)"
+    ]
+  },
+  "143": {
+    "heading": "Editions Glénat.",
+    "title": "La Petite Sirene",
+    "author": "Rossi, Bonifay.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Chariot de Thespis ; 4)",
+      "(Collection Circus Western) 1. Western comic books, strips, etc. 2. French comics. I. Rossi. II. Bonifay. III. Series (2) IV. Glénat. Call no.: PN6747.R65P4 1987"
+    ]
+  },
+  "144": {
+    "heading": "Editions Glénat.",
+    "title": "Les Peuples de la Mer",
+    "author": "texte: Lob ; dessin, G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Pichard.",
+    "call number": "PN6747.P5S82 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Éditions Jacques Glénat",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "65 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Submerman ; t. 2)",
+      "(Collection BDécouvertes)"
+    ]
+  },
+  "145": {
+    "heading": "Editions Glénat.",
+    "title": "Le Pique Rouge",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Martin, A. Juillard.",
+    "call number": "PN6747.M327A7 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Arno ; 1)"
+    ]
+  },
+  "146": {
+    "heading": "Editions Glénat.",
+    "title": "Les Plumes de l'Argus",
+    "author": "Michel Schetter.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.S34B4 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Berlin ; 1)"
+    ]
+  },
+  "147": {
+    "heading": "Editions Glénat.",
+    "title": "Portraits à la Plume et au Pinceau",
+    "author": "Numa Sadoul.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.S3 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "159 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(B. Documents ; 2)",
+      "\"Ce livre recueille quelques-unes des interviews que j'ai faites pour les Cahiers de la Bande Dessinée.\" - p. 7."
+    ]
+  },
+  "148": {
+    "heading": "Editions Glénat.",
+    "title": "Raïka. 2",
+    "author": "Yu Terashima, Kamui Fujiwara ; traduction, Olivier Prézeaym, Wako Miyamaoto ; lettrage, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T46 R314 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "306 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "149": {
+    "heading": "Editions Glénat.",
+    "title": "Raoul Fulgurex dans le Secret du Mystère",
+    "author": "scénario, Tronchet ; dessin, Gelli ; couleur, Roubenne.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.T7R28 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "150": {
+    "heading": "Editions Glénat.",
+    "title": "Raymond Calbuth : fils du vent",
+    "author": "Tronchet ; coleurs, Nadine Voillat.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "32 cm. 1. French comics. I. Tronchet. II. Voillat, Nadine. III. Fils du Vent. IV. Glénat. Call no.: PN6747.T7R3 1987",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "151": {
+    "heading": "Editions Glénat.",
+    "title": "Rebecca",
+    "author": "Anna Brandoli, Renato Queirolo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.B7R4 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "159 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated into French from Italian."
+    ]
+  },
+  "152": {
+    "heading": "Editions Glénat.",
+    "title": "Le Redoutable",
+    "author": "Zep, Tebo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.Z4C302 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "49 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Captain Biceps ; 2)",
+      "(Tchô! la collec)"
+    ]
+  },
+  "153": {
+    "heading": "Editions Glénat.",
+    "title": "Rendez-vous à Kobs",
+    "author": "F",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Corteggiani, P. Tranchand.",
+    "call number": "PN6747.C59R4 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "45 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bastos et Zakousky ; 1)",
+      "Genre: Adventure story."
+    ]
+  },
+  "154": {
+    "heading": "Editions Glénat.",
+    "title": "Le Requin, Mon Frère",
+    "author": "Males.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection BD Noire) 1. Organized crime",
+      "Comic books, strips, etc. 2. French comics. I. Males. II. Series. II. Glénat. Call no.: PN6747.M32R4 1984"
+    ]
+  },
+  "155": {
+    "heading": "Editions Glénat.",
+    "title": "La Révolution des Sens : 25 Grands Récits Complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53R4 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "162 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 128 bis)",
+      "Comics about sex."
+    ]
+  },
+  "156": {
+    "heading": "Editions Glénat.",
+    "title": "Révolution, Révolution",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.Y8 S303 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "53 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "/ Yslaire.",
+      "(Sambre ; 3)",
+      "(Caractère)"
+    ]
+  },
+  "157": {
+    "heading": "Editions Glénat.",
+    "title": "Le Roi Léo",
+    "author": "Osamu Tezuka ; traduction, Sylvie Siffointe; lettrage &amp; retouches, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T47 R614 1997",
+    "library has": "t. 3.",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997-"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated from Japanese to French.",
+      "\"1950\" on cover.",
+      "Genre: Funny animal."
+    ]
+  },
+  "158": {
+    "heading": "Editions Glénat.",
+    "title": "La Route Mandarine",
+    "author": "Boutel ; Bardet ; couleurs, Jacky Robert.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.S7 B607 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Boche ; 7)",
+      "(Collection Grafica)",
+      "Adventure."
+    ]
+  },
+  "159": {
+    "heading": "Editions Glénat.",
+    "title": "Le Royaume du Soleil",
+    "author": "Saudelli-De Angelis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Iberland)",
+      "Pre-publie dans Liberation. 1. Science fiction comic books, strips, etc. 2. Italian comics. 3. French comics. I. Saudelli. II. De Angelis. III. Series. IV. Liberation. V. Glénat. Call no.: PN6767.S3I214 1983"
+    ]
+  },
+  "160": {
+    "heading": "Editions Glénat.",
+    "title": "Le Royaume Élusion",
+    "author": "Naoko Takeuchi ; traduction, Anne Mallevay ; lettrage, Bakayaro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T3256R614 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "157 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sailor Moon ; 14)",
+      "Genre: Superheroine."
+    ]
+  },
+  "161": {
+    "heading": "Editions Glénat.",
+    "title": "La Saison des Pluies",
+    "author": "dessin, Francis Vallès ; scénario, José-Luis Bocquet ; coleur, Yves Lencot, Laurence Quilici.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B573S3 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "45 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dorian Dombre ; 1)",
+      "Journalist characters.",
+      "Genre: Jungle adventure."
+    ]
+  },
+  "162": {
+    "heading": "Editions Glénat.",
+    "title": "Sale Temps : Pierrot la Caravane",
+    "author": "Jose Jover.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection BD Noire) 1. French comics. 2. City and town life",
+      "Comic books, strips, etc. I. Jover, Jose. II. Pierrot la Caravane. III. Series. IV. Glénat. Call no.: PN6747.J67S3 1983"
+    ]
+  },
+  "163": {
+    "heading": "Editions Glénat.",
+    "title": "Sanctuary",
+    "author": "Ryoichi Ikegami, Sho Fumimura.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33F83S314 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "308 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translated into French by Yvan Jacquet.",
+      "Setting: Organized crime in Japan."
+    ]
+  },
+  "164": {
+    "heading": "Editions Glénat.",
+    "title": "Sang pour Sang. 4",
+    "author": "Clive Barker, Bo Hampton, Fred von Tobel ; lettrage, Martine Segard ; traduction, Hélène Devaux-Minié, Jean-Daniel Brèque.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.B26T314 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"The Madonna\""
+      },
+      {
+        "title": "\"Les Boucs Emissaires.\""
+      }
+    ],
+    "notes": [
+      "(Collection Spécial USA)",
+      "(Comics USA)",
+      "\"Titre original: Tapping the Vein.\""
+    ]
+  },
+  "165": {
+    "heading": "Editions Glénat.",
+    "title": "Sanjulian : període 1970-1984.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC987.5.S3A414 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "172 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Preface by Len Leone.",
+      "Translated from Spanish to French by Anne-Marie Meunier.",
+      "Book about the Spanish illustrator Sanjulían."
+    ]
+  },
+  "166": {
+    "heading": "Editions Glénat.",
+    "title": "Le Scalp et la Peau",
+    "author": "dessins de Ramaïoli ; texte de Durand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R34 I53 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(L'Indien Français ; 3)"
+    ]
+  },
+  "167": {
+    "heading": "Editions Glénat.",
+    "title": "Schtroumpf : Les Cahiers de la Bande Dessinée.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.S37",
+    "library has": "no. 7-9, 13-15, 17-55 (1973-1983).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : J. Glénat, .",
+      "Published no. 1 (Sept./Oct. 1969) - no. 55 (1983), cf. BDM.",
+      "Continued by: Les Cahiers de la bande dessinée.",
+      "Periodical about comics, and about Franco-Belgian comics."
+    ]
+  },
+  "168": {
+    "heading": "Editions Glénat.",
+    "title": "Schtroumpfanzine.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.S38",
+    "library has": "no. 21, 23, 29-30 (1978-1979).",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1976-1979"
+    },
+    "physical description": {
+      "dimensions": "21-30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Oct. 1976) - no. 36 (Dec. 1979), cf. BDM 1999/2000.",
+      "Other title: Schtroumpf Fanzine.",
+      "Periodical about Franco-Belgian comics."
+    ]
+  },
+  "169": {
+    "heading": "Editions Glénat.",
+    "title": "Le Seigneuer de la Foudre",
+    "author": "Hagiwara Kazushi ; traduction, Vincent Zouzoulkovsky ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33K39B3714 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "184 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(L'Armée des Ténèbres ; 7)",
+      "Bastard, Ankoku no Hakaishin, in French.",
+      "Genre: Superhero."
+    ]
+  },
+  "170": {
+    "heading": "Editions Glénat.",
+    "title": "Shit City",
+    "author": "Giardino ; traduction, Antoine Roux.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sam Pezzo ; 1) 1. Detective and mystery comic books, strips, etc. 2. Italian comics. 3. French comics. I. Giardino, Vittorio. II. Roux, Antoine. III. Series. IV. Glénat. Call no.: PN6767.G5S47 1987"
+    ]
+  },
+  "171": {
+    "heading": "Editions Glénat.",
+    "title": "Sirène",
+    "author": "P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Makyo ; couleurs, Jacky Robert.",
+    "call number": "PN6747.M305 G72 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Grimion Gant de Cuir ; 1)",
+      "Fantasy."
+    ]
+  },
+  "172": {
+    "heading": "Editions Glénat.",
+    "title": "Sitting Bull",
+    "author": "Marijac, scénario ; Dut, dessins.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D813S5 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Jacques Glénat",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "157 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Western genre.",
+    "contents": [
+      {
+        "title": "\"1860\""
+      },
+      {
+        "title": "\"1861\""
+      },
+      {
+        "title": "\"La Guerre de Frontière\""
+      },
+      {
+        "title": "\"Buffalo-Bill contre Sitting-Bull\""
+      },
+      {
+        "title": "\"La Grande Revolte.\""
+      }
+    ],
+    "notes": [
+      "(Les Grands Auteurs de la Bande Dessinée)",
+      "\"Cette histoire a obtenu en 1948, le Grand Prix de la Bande Dessinée.\""
+    ]
+  },
+  "173": {
+    "heading": "Editions Glénat.",
+    "title": "Le Sourire de Sarah",
+    "author": "Hernu.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.H5S6 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Destin de Sarah ; 3)"
+    ]
+  },
+  "174": {
+    "heading": "Editorial Glénat.",
+    "title": "Souvenirs de Marijac, et l'Histoire de Coq Hardi.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M325S6 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill., ports."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(B. Documents ; 4)"
+    ]
+  },
+  "175": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Couple.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53C6 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "98 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Other title: Spécial Couples.",
+      "(Circus Hors Série)",
+      "Comics about sex."
+    ]
+  },
+  "176": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Exotisme : 21 Récits Complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53E9 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "98 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 86 bis)",
+      "Comics about sex."
+    ]
+  },
+  "177": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Extase : 20 Récits Complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53E93 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Fantasy genre.",
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 106 bis)"
+    ]
+  },
+  "178": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Hiver : la B.D. qui Réchauffe!",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53H5 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "130 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Circus ; 125 bis)"
+    ]
+  },
+  "179": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Impudique : 22 Récits Complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53 I5 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "110 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 109 bis)",
+      "Comics about sex."
+    ]
+  },
+  "180": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Libertines : 21 récits complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53L5 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "114 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 114 bis)"
+    ]
+  },
+  "181": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Pervers : 17 Récits Complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53P4 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "98 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 97 bis)",
+      "Comics about sex."
+    ]
+  },
+  "182": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Stars : 19 Récits Complets.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53S75 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "98 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série ; 91 bis)",
+      "Comics about movie stars."
+    ]
+  },
+  "183": {
+    "heading": "Editions Glénat.",
+    "title": "Spécial Survie : Tout en Histoires Completes.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.C53S8 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "98 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Circus Hors Série)"
+    ]
+  },
+  "184": {
+    "heading": "Editions Glénat.",
+    "title": "Le Sport",
+    "author": "Serre.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1499.S45S63 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "20 x 24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sports cartoons."
+    ]
+  },
+  "185": {
+    "heading": "Editions Glenat.",
+    "title": "Super-Paradise",
+    "author": "Ralf König ; traduction, Fabrice Ricker ; lettrage, Jean-Paul Gillet.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6S814 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "196 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation from German to French of: Super Paradise."
+    ]
+  },
+  "186": {
+    "heading": "Editions Glénat.",
+    "title": "Le Super Saïyen",
+    "author": "Akira Toriyama ; traduction, Kiyoko Chappe ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T6S814 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "187 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(DragonBall ; 27)"
+    ]
+  },
+  "187": {
+    "heading": "Editions Glénat.",
+    "title": "Tango",
+    "author": "dessin Mounier ; découpage et dialogue Giroud, Mounier ; coleurs M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Paule Alluard.",
+    "call number": "PN6747.M67T3 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Adventure story."
+    ]
+  },
+  "188": {
+    "heading": "Editions Glenat.",
+    "title": "Tire-toi, Mec",
+    "author": "Chester Himes, adaptation et dessin, Florenci Clavé.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C45T5 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "70 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection BD Noire)",
+      "Adaptation of: Run, Man Run."
+    ]
+  },
+  "189": {
+    "heading": "Editions Glénat.",
+    "title": "Traques",
+    "author": "dessins de Ramaïoli ; texte de Durand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R34 I54 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(L'Indien Français ; 4)"
+    ]
+  },
+  "190": {
+    "heading": "Editions Glénat.",
+    "title": "Trunks",
+    "author": "Akira Toriyama ; traduction, Kiyoko Chappe ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T6S814 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "183 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(DragonBall ; 28)"
+    ]
+  },
+  "191": {
+    "heading": "Editions Glénat.",
+    "title": "Tuez-les tous, Dieu reconnaîtra les siens",
+    "author": "dessin, Eric Joris ; scénario, Jean Dufaux ; couleur, Jean-Jacques Chagnaud ; lettreur, Jean-Pierre Tubetti.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1990"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 30 cm.",
+      "(Chelsy ; 1) 1. French comics. 2. Horror comic books, strips, etc. I. Dufaux, Jean. II. Joris, Eric. III. Chagnaud, Jean-Jacques. IV. Tubetti, Jean Pierre. V. Series. VI. Editions Glénat. Call no.: PN6747.D765T8 1990"
+    ]
+  },
+  "192": {
+    "heading": "Editions Glénat.",
+    "title": "Vécu.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.V36",
+    "library has": "no. 1-28, 30-41, 49-57.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : Glénat, .",
+      "\"L'histoire c'est aussi l'aventure.\"",
+      "Genres: Historical, adventure story."
+    ]
+  },
+  "193": {
+    "heading": "Editions Glénat.",
+    "title": "La Vengeance d'Happosaï",
+    "author": "Rumiko Takahashi ; traduction, Wako Miyamoto, Olivier Prézeau ; adaptation graphique, Digibox ; lettrage, Fabrice Bras.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T3V414 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "180 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Ranma 1/2 ; 13)"
+    ]
+  },
+  "194": {
+    "heading": "Editions Glénat.",
+    "title": "La Voie du Guerrier",
+    "author": "Yves Swolfs ; Marc-Rénier ; couleurs, Marie-Noëlle Bastin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M3227B5502 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Black Hills 1890 ; 2)",
+      "(Collection Grafica)",
+      "Western genre, about Indians of North America."
+    ]
+  },
+  "195": {
+    "heading": "Editions Glénat.",
+    "title": "Zig, Puce et la Petite Princesse",
+    "author": "par Alain Saint-Ogan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.Z5P4 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "56 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Zig et Puce Albums ; t. 8)",
+      "Comics pages collected from Dimanche Illustré.",
+      "Reprints the edition published in 1934 by Hachette, with the addition of pages left out of the original collection, and with the addition of two interviews with the artist."
+    ]
+  },
+  "196": {
+    "heading": "Editions Glénat.",
+    "title": "Zizanion le Terrible",
+    "author": "Raymond Macherot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M35 Z5 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "J. Glénat",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "50 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Funny animal."
+    ]
+  },
+  "197": {
+    "heading": "Editions Glénat--Catalogs.",
+    "title": "Catalogue B.D. Beaux Livres 1992.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6705.F7 G55 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "15 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "119 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "198": {
+    "heading": "Editions Glénat--Catalogs.",
+    "title": "Nouveautés.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "folio PN6745.N62",
+    "library has": "Juillet/août/septembre 1991.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Grenoble : Glénat, .",
+      "Consists of \"Nouveautés B.D.\" and \"Nouveautés Beaux livres\" printed back to back inverted."
+    ]
+  },
+  "199": {
+    "heading": "Editions Glénat--Miscellanea.",
+    "title": "\"A Propos d'Angoulême\"",
+    "author": "par Numa Sadoul",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 42-43 in Phénix, no. 36 (1er Trimestre 1974).",
+    "call number": "PN6745.P47no.36",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Report on attending the first Angouléme festival, with a list of the awards: best French artist, Alexis ; best French writer, Christian Godard ; best French publisher, Glénat ; best foreign artist, Victor de la Fuente ; best foreign writer, Roy Thomas ; best foreign publisher, National Lampoon ; best new artist, Chiappori ; grand prize, André Franquin."
+    ]
+  },
+  "200": {
+    "heading": "Editions Glénat--Miscellanea.",
+    "title": "Les Éditeurs de Bande Dessinée",
+    "author": "entretiens avec Thierry Bellefroid.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.B43 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Belgium",
+      "publisher": "Niffle",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "165 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Profession)",
+      "On cover: L'Association, Casterman, Cornélius, Dargaud, Delcourt, Dupuis, Frémok, Glénat, Les Humanoïdes Associës, Kana, Soleil."
+    ]
+  },
+  "201": {
+    "heading": "Editions Glénat--Miscellanea.",
+    "title": "\"Le Glénat Nouveau est Arrivé : Entretien avec Marcel Didier-Vrac\"",
+    "author": "propos recueillis par Thierry Groensteen",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 56-58 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A new editor at Glénat talks about the company."
+    ]
+  },
+  "202": {
+    "heading": "Editions Glénat--Miscellanea.",
+    "title": "\"Glénat se penche sur son futur\"",
+    "author": "Jean-Pierre Fuéri",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 7 in Bo Doï, no. 53 (Juin 2002).",
+    "call number": "PN6748.B58no.53",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Chaud Devant)",
+      "Changes of personnel and contracts with some younger authors at Glénat."
+    ]
+  },
+  "203": {
+    "heading": "Editions Glénat--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Adult Comics : an Introduction",
+    "author": "by Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "199"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Routledge",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "204": {
+    "heading": "Editions Glénat--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "216",
+        "227"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "205": {
+    "entry type": "target",
+    "anchor": "/rri/erri/editi_e.htm#gp",
+    "title": "Editions G.P.",
+    "notes": [
+      "French comics publisher"
+    ],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}

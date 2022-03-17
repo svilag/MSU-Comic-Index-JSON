@@ -1,0 +1,5243 @@
+{
+  "1": {
+    "heading": "Rop, Edouard de.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "261"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "2": {
+    "heading": null,
+    "title": "\"La Ropa\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Condorito) p. 32-33 in Condorito de Oro, no. 74",
+    "call number": "PN6790.M44C5675no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Condorito wants to say something important to Yayita but Coné keeps interrupting in the process of getting dressed."
+    ]
+  },
+  "3": {
+    "heading": null,
+    "title": "\"Ropa Ajena\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Kanvaleteo) 4 p. in Marvelito, no. 5",
+    "call number": "PN6790.M44M29no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "4": {
+    "heading": null,
+    "title": "\"Ropa Interior : ¿Una Medida Menor?\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Juanito) 1 p. Three distinctly different translations in Durango Kid, no. 42",
+    "call number": "PN6790.M44D27no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The translations in Robin Hood and Daniel Boone are the same.",
+      "Summary: Gladys (or Gladiola) has a bet that she can make Juanito (or Juan, or Marvin Jones) exchange her underwear. She flatters him into an embarrassing trip to a clothing store. Afterwards he finds out about the bet, and she ends up in a can labeled \"rubbish\" (or \"basura\")."
+    ]
+  },
+  "5": {
+    "heading": null,
+    "title": "\"Las Ropas del Cowboy\"",
+    "author": "RAM",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. fact feature in Durango Kid, no. 78 (Mar. 1959).",
+    "call number": "PN6790.M44D8no.78",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "6": {
+    "heading": "Rope, Jenni, 1977-",
+    "title": "Contribution",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 1555-1559) to Comix 2000",
+    "call number": "PN6720.C6 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "7": {
+    "heading": "Rope, Jenni, 1977-",
+    "title": "Pictures and Words : New Comic Art and Narrative Illustration",
+    "author": "by Roanne Bell and Mark Sinclair.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6720.B42 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Originally published",
+      "publisher": "London : Laurence King",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "144 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "title": "Silent. Introduction"
+      },
+      {
+        "title": "Mr Clement"
+      },
+      {
+        "title": "Jordan Crane"
+      },
+      {
+        "title": "Martin tom Dieck"
+      },
+      {
+        "title": "Tom Gauld"
+      },
+      {
+        "title": "Jason"
+      },
+      {
+        "title": "James Jarvis"
+      },
+      {
+        "title": "Andrazej Klimowski"
+      },
+      {
+        "title": "Ethan Persoff"
+      },
+      {
+        "title": "David Shrigley"
+      },
+      {
+        "title": "Jim Woodring"
+      },
+      {
+        "title": "Single panel. Introduction"
+      },
+      {
+        "title": "Anna Bhushan"
+      },
+      {
+        "title": "Barry Blitt"
+      },
+      {
+        "title": "Paul Davis"
+      },
+      {
+        "title": "Marcel Dzama"
+      },
+      {
+        "title": "Scott Garrett"
+      },
+      {
+        "title": "Tom Gauld"
+      },
+      {
+        "title": "Simone Lia"
+      },
+      {
+        "title": "Roderick Mills"
+      },
+      {
+        "title": "David Shrigley"
+      },
+      {
+        "title": "Andrew Wightman"
+      },
+      {
+        "title": "Jim Woodring"
+      },
+      {
+        "title": "Text and image. Introduction"
+      },
+      {
+        "title": "Fredrik von Blixen"
+      },
+      {
+        "title": "Jordan Crane"
+      },
+      {
+        "title": "Martin tom Dieck"
+      },
+      {
+        "title": "Jeff Fisher"
+      },
+      {
+        "title": "Tom Gauld"
+      },
+      {
+        "title": "Jochen Gerner"
+      },
+      {
+        "title": "Sammy Harkham"
+      },
+      {
+        "title": "Igort"
+      },
+      {
+        "title": "Benoît Jacques"
+      },
+      {
+        "title": "Jason"
+      },
+      {
+        "title": "Simone Lia"
+      },
+      {
+        "title": "Lorenzo Mattotti"
+      },
+      {
+        "title": "David Rees"
+      },
+      {
+        "title": "Barnaby Richards"
+      },
+      {
+        "title": "Jenni Rope"
+      },
+      {
+        "title": "Joe Sacco"
+      },
+      {
+        "title": "Marjane Satrapi"
+      },
+      {
+        "title": "David Shrigley"
+      },
+      {
+        "title": "Singh &amp; Dunning"
+      },
+      {
+        "title": "Katja Tukiainen."
+      }
+    ],
+    "notes": [
+      "A collection of very brief and briefly annotated selections."
+    ]
+  },
+  "8": {
+    "heading": "Rope, Jenni, 1977- --Miscellanea.",
+    "title": "Contributor note and bibliography in Comix 2000",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Paris : L'Association, 1999).",
+    "call number": "PN6720.C6 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "9": {
+    "heading": "Rope, Jenni, 1977- --Miscellanea.",
+    "title": "\"The Ten Best Comics of 2002\"",
+    "author": "by Bart Beaty",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 83-87 in The Comics Journal, no. 250 (Feb. 2003).",
+    "call number": "PN6700.C62no.250",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(2002, the Year in Review)",
+      "(Euro-Comics for Beginners)",
+      "Reviews of: Indiscretions (Jean-Claude Götting) ; F (Dupuy &amp; Berberian) ; Vitesse Moderne (Blutch) ; Floralia (Ulf K.) ; Giboulées (Vincent Vanoli) ; Monday (Jenni Rope) ; Maaikes Grote Dagboekje (Maaike Hartjes) ; Eiland #4 (Stefan JH Van Dinther &amp; Tobias Tycho Schalken) ; Box of Wonder (Atak) ; Le Dessin (Marc-Antoine Mathieu) ; and Souvenir d'une Journée Parfaite (Dominique Goblet)."
+    ]
+  },
+  "10": {
+    "heading": "Rope.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "11": {
+    "heading": "Rope.",
+    "title": "\"Either Way I'll Get Some Rope\"",
+    "author": "by Mark Ilich.",
+    "title_type": "incipit-assigned",
+    "series": "Doog and Blair, Oct. 20, 1997",
+    "call number": "PN6726 f.B55 \"politicians\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The debunker has gone too far; Doog's either running for state senate or he's an alien come to suck our brains.",
+      "Local college strip appearing in the State News (East Lansing, Mich.)"
+    ]
+  },
+  "12": {
+    "heading": "Rope.",
+    "title": "\"Hedy Skips Rope\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Patsy Walker) 7 p. in Patsy Walker, no. 7",
+    "call number": "PN6728.1.M3P3no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"91, 92, 93, 94. Remember when we used to\""
+    ]
+  },
+  "13": {
+    "heading": "Rope.",
+    "title": "\"Jump Rope\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Whiskers) 1 p. in Tell It To The Marines, no. 5",
+    "call number": "PN6728.2.T56T4no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "14": {
+    "heading": "Rope.",
+    "title": "\"A Piece of Rope!\" 4 p. in House of Mystery, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1952) ; reprinted in DC Special, no. 4",
+    "call number": "PN6728.3.N3D35no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from M. Tiefenbacher, C. Gafford, D.D. Milne, et al., via Grand Comics Database Project."
+    ]
+  },
+  "15": {
+    "heading": "Rope.",
+    "title": "\"Quick Trip to the Woodshed\"",
+    "author": "Bill Freyse.",
+    "title_type": "incipit",
+    "series": "Our Boarding House, June 20, 1967",
+    "call number": "PN6726 f.B55 \"fathers\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Pop Hoople has both his sons on their backs seeing stars and birdies, and Buster says it was the best instant peacemaking he's seen since the vigilantes lost their rope."
+    ]
+  },
+  "16": {
+    "heading": "Rope.",
+    "title": "\"Ta Mur Cut the Rope\"",
+    "author": "by Stan Schendel",
+    "title_type": "incipit-assigned",
+    "series": "Wings Winfair",
+    "appears_in": " 1 p. in Gulf Funny Weekly, no. 341 (Nov. 3. 1939).",
+    "call number": "PN6728.1.G8G8no.341",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Art signed: Fred Meagher."
+    ]
+  },
+  "17": {
+    "heading": "Rope.",
+    "title": "\"Tastes Like Burnt Rope\"",
+    "author": "Ted Richards",
+    "title_type": "incipit-assigned",
+    "series": "Dopin' Dan",
+    "appears_in": " 1 p. in Dopin' Dan, v. 1, no. 1 (1972).",
+    "call number": "PN6728.45.L3D6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sgt. Turdy tries marijuana."
+    ]
+  },
+  "18": {
+    "heading": "Rope.",
+    "title": "Velvet Rope.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6734.V43",
+    "library has": "no. 1.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "Arcana Comics, 2008- ."
+    ]
+  },
+  "19": {
+    "heading": "Rope.",
+    "title": "\"Wouldn't It Be Easier Just to Stay Out of Sight?\"",
+    "author": "Hoest",
+    "title_type": "incipit",
+    "series": "The Lockhorns, copyright 1990",
+    "appears_in": " p. 57 in Battered Husbands (Redondo Beach, CA : H. Gregory Associates, 1991).",
+    "call number": "PN6231.H8G74 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Leroy is speaking to Loretta, who is jumping rope."
+    ]
+  },
+  "20": {
+    "heading": "Rope Bridges.",
+    "title": "\"Run, Yank, Run!\" 8 p. in Jungle War Stories, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct./Dec. 1963).",
+    "call number": "PN6728.3.D4J8no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"On a perilous rope bridge swaying wildly above the jagged valley, Sgt. Cactus Kane wondered if he and his Vietnamese Ranger friends were about to reach the end of the line! As bullets snorted around him, the American observer could hear the enemy's shrill taunt.\""
+    ]
+  },
+  "21": {
+    "heading": "Rope Ladders.",
+    "title": "\"Skeeter the Doughty!\"",
+    "author": "by Glenn Chaffin and Hal Forrest.",
+    "title_type": "incipit",
+    "series": "Tailspin Tommy, Dec. 18, 1931",
+    "call number": "PN6726 f.B55 \"wigwag\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Skeeter has the navy wig-wag Tommy not to land, and asks for a suit of whites and a rope ladder."
+    ]
+  },
+  "22": {
+    "heading": "Rope Ladders.",
+    "title": "\"Skeeter's Faith in Tommy is Supreme!\"",
+    "author": "by Glenn Chaffin and Hal Forrest.",
+    "title_type": "incipit",
+    "series": "Tailspin Tommy, Dec. 22, 1931",
+    "call number": "PN6726 f.B55 \"ladders\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: From another plane, Skeeter boards the Cherry Blossom in flight, using a rope ladder."
+    ]
+  },
+  "23": {
+    "heading": "\"The Rope of Life.\"",
+    "title": "The Adventures of Yaakov &amp; Isaac",
+    "author": "Joe Kubert.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.K8A7 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Jerusalem, Israel",
+      "publisher": "Mahrwood Press",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Religious and educational genres.",
+    "contents": [
+      {
+        "title": "1. The importance of Torah"
+      },
+      {
+        "title": "2. A helping hand"
+      },
+      {
+        "title": "3. A matter of importance"
+      },
+      {
+        "title": "4. The Kutim"
+      },
+      {
+        "title": "5. An act of resistance"
+      },
+      {
+        "title": "6. The Jewish heart"
+      },
+      {
+        "title": "7. Walking the tightrope"
+      },
+      {
+        "title": "8. Up or down"
+      },
+      {
+        "title": "9. Into the shadows"
+      },
+      {
+        "title": "10. The miracle"
+      },
+      {
+        "title": "11. The right decision"
+      },
+      {
+        "title": "12. The bullies"
+      },
+      {
+        "title": "13. You have a choice"
+      },
+      {
+        "title": "14. The rope of life"
+      },
+      {
+        "title": "15. An act of kindness."
+      }
+    ],
+    "notes": [
+      "Teaching stories done in 1984 and 1985, with prose introductions and study questions for each.",
+      "Numbered \"1\" on cover."
+    ]
+  },
+  "24": {
+    "heading": null,
+    "title": "The Rope Skips Max",
+    "author": "Hanne Türk.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Boston, Mass.",
+      "publisher": "Neugebauer Press ; distributed by Alphabet Press",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "15 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "(Picture Book Studio USA)",
+      "(A Max the Mouse Book ; 3)",
+      "Original title: Philipp und die Springschnur.",
+      "Story without words.",
+      "PT2682.U69P4813 1982"
+    ]
+  },
+  "25": {
+    "heading": "Rope Torture.",
+    "title": "\"The Sicilian Rope Torture\"",
+    "author": "Dick Strong &amp; Lance Sterling",
+    "title_type": "incipit",
+    "series": "Frank Fleet and His Electronic Sex Machine ; episode 13",
+    "appears_in": " p. 58-63 in Evergreen Review, no. 79 (June 1970).",
+    "call number": "folio AP2.E884no.79",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "26": {
+    "heading": "Rope Tows.",
+    "title": "\"Archie Breaks a Tow\"",
+    "author": "Bob Montana.",
+    "title_type": "incipit-assigned",
+    "series": "Archie, Jan. 3, 1953",
+    "call number": "PN6726 f.B55 \"mittens\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: At the ski resort, Archie's mittens freeze to the rope tow and he gets caught in the mechanism."
+    ]
+  },
+  "27": {
+    "heading": "Rope Tricks.",
+    "title": "\"The Indian Rope Trick\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Red Dragon) 14 p. in Red Dragon Comics, v. 1, no. 1",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "28": {
+    "heading": "Rope Tricks.",
+    "title": "\"Knots to You\"",
+    "author": "Bill Vigoda",
+    "title_type": "incipit",
+    "series": "Archie",
+    "appears_in": " 7 p. in Archie Comics, no. 21 (July/Aug. 1946).",
+    "call number": "PN6728.1.A7A7no.21",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Archie learned how to make a knot that's not a knot.\"",
+      "Archie gets a book of rope tricks."
+    ]
+  },
+  "29": {
+    "heading": null,
+    "title": "Ropeburn : a Collection",
+    "author": "by Jeremy Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.S5836R6 2007",
+    "library has": "",
+    "publication info": {
+      "place": "United States",
+      "publisher": "Fragile Press",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "16 x 17 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": []
+  },
+  "30": {
+    "heading": null,
+    "title": "\"Roped In!\"",
+    "author": "George Evans",
+    "title_type": "incipit",
+    "series": "The Vault of Horror",
+    "appears_in": " 7 p. in Tales from the Crypt, no. 32 (Oct./Nov. 1952).",
+    "call number": "PN6728.2.E14T3a no.32",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "31": {
+    "heading": "Roped In.",
+    "title": "\"My Brother is Going to Tie the Knot!\"",
+    "author": "Lynn.",
+    "title_type": "incipit-assigned",
+    "series": "For Better or For Worse, Nov. 19, 2015",
+    "call number": "PN6726 f.B55 \"roped in\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Phil thinks of his upcoming marriage as more like being roped in."
+    ]
+  },
+  "32": {
+    "heading": null,
+    "title": "\"The Ropemakers of Betel IIb\"",
+    "author": "by Karl Kofoed",
+    "title_type": "incipit",
+    "series": "Galactic Geographic",
+    "appears_in": " p. 14-15 in Heavy Metal, v. 22, no. 2 (May 1998).",
+    "call number": "PN6728.H43v.22no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "33": {
+    "heading": "Roper, James.",
+    "title": "The Decline and Fall of the Gibbon : Through Darkest History with Pun and Chimera",
+    "author": "chronicled by James Roper ; with visual obbligato by Draper Hill.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6231.L5R6 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Memphis",
+      "publisher": "Inadvertent Press",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "18 x 22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "88 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Limericks on world history."
+    ]
+  },
+  "34": {
+    "heading": "Roper, Robert.",
+    "title": "The Dick Tracy Fun Book of Puzzles, Games and Jokes",
+    "author": "by Nancy E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Krulik ; based on the screenplay written by Jim Cash &amp; Jack Epps, Jr. ; produced and directed by Warren Beatty ; puzzle illustrations by Robert Roper ; book designed by Linda A. Bachert.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Scholastic",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "21 cm. 1. Puzzles. I. Krulik, Nancy E. II. Roper, Robert. III. Scholastic Books. Call no.: PN6728.D5K7 1990",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "93 p.",
+      "illustrationTypes": "ill. (part col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "35": {
+    "heading": "Roper, Robert.",
+    "title": "Have No Fear, Chuckie's Here!",
+    "author": "by Sarah Willson ; illustrated by Robert Roper.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN1992.77.R82H3 2001",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Scholastic Inc.",
+      "date": "2001"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 21 cm.",
+      "\"Based on the TV series Rugrats created by Arlene Klasky, Gabor Csupo, and Paul Germain.\"",
+      "Summary (from SkyRIver): The adventure of Chuckie and his sister Kim when they visit a petting zoo.",
+      "Funny kid fiction."
+    ]
+  },
+  "36": {
+    "heading": "Roper, Steve.",
+    "title": "\"A Guest Should Always Ask Permission Before Making a Long Distance Call, Dearie!\"",
+    "author": "by Saunders and Woggon.",
+    "title_type": "incipit-assigned",
+    "series": "Big Chief Wahoo, July 29, 1941",
+    "call number": "PN6726 f.B55 \"phone calls\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Granny Tuttle doesn't want Minne-Ha-Cha to be in touch with Chief Wahoo and Steve Roper."
+    ]
+  },
+  "37": {
+    "heading": "Roper, Steve.",
+    "title": "\"Hello, Washington?\"",
+    "author": "by Saunders and Woggon.",
+    "title_type": "incipit-assigned",
+    "series": "Big Chief Wahoo, July 28, 1941",
+    "call number": "PN6726 f.B55 \"telephones\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Minnie-Ha-Cha tries to telephone the Potomac Arms to let Wahoo and Steve Roper know she's safe, but Granny Tuttle hangs up the phone."
+    ]
+  },
+  "38": {
+    "heading": "Roper, Steve.",
+    "title": "\"I Can't Waste the Afternoon Hunting Lost Balls!\"",
+    "author": "by Saunders &amp; Overgard",
+    "title_type": "incipit-assigned",
+    "series": "Steve Roper, June 9, 1962",
+    "appears_in": " reproduced on p. 102 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: In the woods at the golf course, Lopar's caddie/bartender Morrie pulls out a gun and points it at Steve."
+    ]
+  },
+  "39": {
+    "heading": "Roper, Steve.",
+    "title": "\"A Long Hook Into the Woods! And It Looked Deliberate!\"",
+    "author": "by Saunders &amp; Overgard",
+    "title_type": "incipit-assigned",
+    "series": "Steve Roper, June 7, 1962",
+    "appears_in": " reproduced on p. 102 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Steve wonders what Lopar is up to."
+    ]
+  },
+  "40": {
+    "heading": "Roper, Steve--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "267"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "41": {
+    "heading": "Ropero, Leonardo.",
+    "entry type": "encyclopedic entry",
+    "title": "De la Historieta y su Uso, 1873-2000",
+    "author": "Jesús Cuadrado",
+    "series": "Atlas Español de la Cultura Popular ; v. 1",
+    "pages": {
+      "range": [
+        "1101"
+      ]
+    },
+    "call number": "PN6775.C8 2000",
+    "publication info": {
+      "place": "Madrid",
+      "publisher": "Ediciones Sinsentido",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "42": {
+    "heading": null,
+    "title": "\"Un Ropero\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Hágalo Usted Mismo) 1 p. in Oklahoma Kid, no. 11",
+    "call number": "PN6790.M44 O37no.11",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "43": {
+    "heading": "Ropes, Bradford.",
+    "title": "Go Into Your Dance",
+    "author": "with Al Jolson and Ruby Keeler, Glenda Farrell, Sharon Lynne, Patsy Kelly, Benny Rubin, Phil Regan, Helen Morgan, and Gordon Westcott ; a First National Productions Corporation picture ; from the novel by Bradford Ropes.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.S12G56 1935",
+    "library has": "",
+    "publication info": {
+      "place": "Akron, Ohio",
+      "publisher": "Saalfield Publishing Company",
+      "date": "1935"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 14 cm.",
+      "Summary (from OCLC): Al Howard was once a star but is now a washed-up has-been. Molly, his sister, gets him to agree to team up with a dancer friend, Dorothy. Al opens his own club with the backing of a gangster. Al and Dorothy fall in love and the club is a big hit.",
+      "Illustrated with movie stills."
+    ]
+  },
+  "44": {
+    "heading": "Ropes.",
+    "title": "\"As the Clock Chimed Mid-Night a Beautiful Woman Could Be Seen Fleeing Through the Snow\"",
+    "author": "Sidney Smith",
+    "title_type": "incipit-assigned",
+    "series": "The Gumps, 1925",
+    "appears_in": " p. 125 in The Comic Strip Century (Kitchen Sink Press, 1995).",
+    "call number": "PN6726.C595 1995v.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The widow Zander makes a rope and escapes.",
+      "11th in a sequence."
+    ]
+  },
+  "45": {
+    "heading": "Ropes.",
+    "title": "\"Balloon Ride\"",
+    "author": "by Stan Lee",
+    "title_type": "incipit-assigned",
+    "series": "Millie the Model",
+    "appears_in": " 6 p. in Millie the Model Comics, no. 20 (Oct. 1949).",
+    "call number": "PN6728.1.M3M5no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Millie's belt gets caught by a rope from a hot-air balloon.",
+      "Begins: Hurry, Millie we'll be late! Here they come."
+    ]
+  },
+  "46": {
+    "heading": "Ropes.",
+    "title": "\"Cuerdas\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Condorito) p. 5 in Condorito de Oro, no. 75",
+    "call number": "PN6790.M44C5675no.75",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Condorito is hanging over the edge of a cliff, and Ungenio tries to rescue him by throwing a rope over. No \"plop!\" ending."
+    ]
+  },
+  "47": {
+    "heading": "Ropes.",
+    "title": "\"Fuego!\" ; p. 29 in Condorito Gigante, no. 418",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1996?",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Ungenio wants to help Condorito and the firemen even though he hasn't had proper training; to save a lady on the 8th floor he suggests throwing her a rope and then pulling her down. k. Ungenio. k. Condorito. k. Firemen. k. Training. k. Ropes. Call no.: PN6790.M44C568no.418"
+    ]
+  },
+  "48": {
+    "heading": "Ropes.",
+    "title": "\"Good Night! A Amazon fer a Sister!\"",
+    "author": "J",
+    "title_type": "incipit-assigned",
+    "series": "Out Our Way, Aug. 22, 1955",
+    "appears_in": "R. Williams.",
+    "call number": "PN6726 f.B55 \"Amazons\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: There's missing groceries, so sis hauls the South Seas expedition out of the water by its anchor rope."
+    ]
+  },
+  "49": {
+    "heading": "Ropes.",
+    "title": "\"Hangman's House\" 9 p. in Suspense, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1950).",
+    "call number": "PN6728.2.M3S8no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"You're too slow, Ezekial! Give me the rope, I'll help you!\"",
+      "\"Forbidden history: Ezekial Zorab, 17th century hangman, died by the same rope he used to send nineteen Salem witches, mostly women, into oblivion! The remains of the rope are still to be seen hanging from a sturdy rafter in the parlor of his house in Salem, Mass. The gruesome scaffold from which the nineteen witches died still exists and is believed to be cursed!\"",
+      "The cover blurb for this story mentions \"Ezekial Zorvis, 'The Salem Hangman.'\""
+    ]
+  },
+  "50": {
+    "heading": "Ropes.",
+    "title": "\"I'd Better Take That Rope Away Before I Get a Carful!\"",
+    "author": "by Eddie Sullivan and Charlie Schmidt.",
+    "title_type": "incipit-assigned",
+    "series": "Radio Patrol, Feb. 20, 1937",
+    "call number": "oversize PN6726.K52A22 1972",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "51": {
+    "heading": "Ropes.",
+    "title": "\"I'd Hate to See What's On the Other End\"",
+    "author": "by Jeff Pickering",
+    "title_type": "incipit-assigned",
+    "series": "The Spats",
+    "appears_in": " p. 22 in Flint Comix &amp; Entertainment, no. 1 (Mar.-Apr. 2009).",
+    "call number": "PN6700.F55no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Date of original printing not given.",
+      "Summary: She's at the end of her rope with Harold."
+    ]
+  },
+  "52": {
+    "heading": "Ropes.",
+    "title": "\"I'll String Along\" 5 p. in '50s Terror, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1988) ; reprinted from Witches Tales, no. 20",
+    "call number": "PN6728.55.E83F48no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"The rope waits for Paulo Ortiz. It is civil war, and he is caught! He is marched over a wooden bridge, his last bridge of life, and nothing but death waits behond!\""
+    ]
+  },
+  "53": {
+    "heading": "Ropes.",
+    "title": "\"An Ironic Sense of Closure\"",
+    "author": "Batiuk.",
+    "title_type": "incipit-assigned",
+    "series": "Funky Winkerbean, Aug. 1, 1997",
+    "call number": "PN6726f.B55 \"Closure\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: TV stations, John Darling, death, apartments, evidence, ropes."
+    ]
+  },
+  "54": {
+    "heading": "Ropes.",
+    "title": "\"Island House\"",
+    "author": "by Albert Hartje and Will Ely",
+    "title_type": "incipit-assigned",
+    "series": "The Hurricane Kids",
+    "appears_in": " 8 p. in Popular Comics, no. 83 (Jan. 1943)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Alan and Dave swim to an island to avoid a wild boar, and decide to build a house on the island. They make a roof of hemlock bark, and then a canoe of birch bark and black ash. While trying out their new canoe they nearly fall over a waterfall, but Dave snags a stump with his rope and pulls them to safety.",
+      "\"Copr. 1942 by R.S. Callender\". I. Hartje, Albert. II. Ely, Will. III. The Hurricane Kids. k. Houses. k. Boars. k. Hemlock bark. k. Birch bark. k. Black ash. k. Canoes. k. Waterfalls. k. Stumps. k. Ropes. Call no.: PN6728.1.D4P6no.83"
+    ]
+  },
+  "55": {
+    "heading": "Ropes.",
+    "title": "\"Just had to Keep Pushing\"",
+    "author": "Batiuk.",
+    "title_type": "incipit-assigned",
+    "series": "Funky Winkerbean, July 30, 1997",
+    "call number": "PN6726f.B55 \"Time-Outs\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Prop rooms, tied up, ropes, time-outs, lights."
+    ]
+  },
+  "56": {
+    "heading": "Ropes.",
+    "title": "\"Kevin Braces for the Day He Might Well Become Impetuous\"",
+    "author": "by Jerry Van Amerongen.",
+    "title_type": "incipit",
+    "series": "Ballard Street, July 28, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Ropes, cement blocks, sidewalks. Call no.: PN6726f.B55 \"Bracing\""
+    ]
+  },
+  "57": {
+    "heading": "Ropes.",
+    "title": "\"Made in Japan\" 7 p. in Around the World",
+    "author": "Paya &amp; Paya.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6777.P3 A713 1995",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Nantier Beall Minoustchine",
+      "date": "1995"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Eurotica)",
+      "(Nina ; v. 2)",
+      "Summary: Nina gets tied up in a neo-bondage tournament. Teams of men demonstrate their skill with ropes, apparatus, and decoration. After Nina wins, she joins with the other contestant, Chu-Lin, to tie up all the men."
+    ]
+  },
+  "58": {
+    "heading": "Ropes.",
+    "title": "\"The Mystery Rope!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Batman) 12 p. in Batman, no. 67",
+    "call number": "PN6728.1.N3B3m no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "59": {
+    "heading": "Ropes.",
+    "title": "On the Ropes : a Novel",
+    "author": "James Vance and Dan E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Burr ; lettering and halftones by Debbie Freiberg.",
+    "call number": "PN6727.B775 O5 2013",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "W.W. Norton &amp; Co.",
+      "date": "2013"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "247 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary (from publisher's website via SkyRiver): \"In this long-awaited sequel to the legendary graphic novel Kings in Disguise, a young circus hand gets involved in dangerous underground activity. This highly anticipated sequel tells the story of a young man's coming of age in a world where the capacity to dream may be a fatal flaw. Set in 1937, On the Ropes continues the story of Fred Bloch, now apprenticed to escape artist Gordon Corey, a star attraction in a traveling WPA circus. Though damaged by the Depression and haunted by past mistakes, each man holds the key to the other's salvation, but each also harbors a secret that could lead to their mutual destruction. Enacted against a backdrop of violent labor unrest and a nation's faltering recovery.\""
+    ]
+  },
+  "60": {
+    "heading": "Ropes.",
+    "title": "\"Only One Returned\"",
+    "author": "art, John Forte",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 4 p. in Strange Stories of Suspense, no. 16 (Aug. 1957).",
+    "call number": "PN6728.2.M3R8no.16",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Two men descend in a cave shaft and one plots to dispose of the other and marry his girlfriend. He cuts the rope and the other man falls into the river, but he gets rescued, and the evil man gets stuck in quarantine due to uranium contamination.",
+      "Data from Bob Klein, Jim Walls, Tony R. Rose, et al. via Grand Comics Database."
+    ]
+  },
+  "61": {
+    "heading": "Ropes.",
+    "title": "\"Open-Shut Case\" 4 p. in Ben Casey, no. 6",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1963).",
+    "call number": "PN6728.3.D4B42no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Dangling precariously by a slender rescue rope, Dr. Dan Dazzler has only a moment to reflect on the act of mercy he has just performed.\"",
+      "Mountain climbing story."
+    ]
+  },
+  "62": {
+    "heading": "Ropes.",
+    "title": "Reunion in Ropes &amp; Other Stories",
+    "author": "Eric Stanton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.S654R4 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Köln",
+      "publisher": "Taschen",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "191 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Icons)",
+      "Comics in English; introductory matter in English, French, and German.",
+      "Erotic."
+    ]
+  },
+  "63": {
+    "heading": "Ropes.",
+    "title": "\"That Guy Wouldn't Trust His Grandmother\"",
+    "author": "Ernie Bushmiller.",
+    "title_type": "incipit-assigned",
+    "series": "Nancy, Sept. 19, 1967",
+    "call number": "PN6726 f.B55 \"rings\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A jeweler ties a rope around Sluggo because he wants to see a ring outdoors in daylight."
+    ]
+  },
+  "64": {
+    "heading": "Ropes.",
+    "title": "\"Toby Has a New Job?\"",
+    "author": "by Steve Sack and Craig MacIntosh.",
+    "title_type": "incipit-assigned",
+    "series": "Professor Doodle, Apr. 18, 1988",
+    "call number": "PN6726 f.B55 \"crop dusting\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Toby is suspended on a rope from a helicopter, using a feather duster on a field of corn."
+    ]
+  },
+  "65": {
+    "heading": "Ropes.",
+    "title": "\"Too Old To Be Climbing Ropes!\"",
+    "author": "Henry Boltinoff",
+    "title_type": "incipit-assigned",
+    "series": "Moolah the Mystic",
+    "appears_in": " 1/2 p. in Tales of the Unexpected, no. 22 (Feb. 1958).",
+    "call number": "PN6728.2.N3T3no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Moolah commands you, rope. Up. Up.\""
+    ]
+  },
+  "66": {
+    "heading": "Ropes.",
+    "title": "\"Untie That Rope\"",
+    "author": "by Burton Geller",
+    "title_type": "incipit-assigned",
+    "series": "Boomer",
+    "appears_in": " p. 33-34 in Treasure Chest of Fun and Fact, v. 4, no. 15 (Mar. 22, 1949).",
+    "call number": "PN6728.1.P43T7v.4no.15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": []
+  },
+  "67": {
+    "heading": "Ropes.",
+    "title": "\"Vertical Clothesline\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Pierre) p. 35 in Treasure Chest of Fun &amp; Fact, v. 6, no. 3",
+    "call number": "PN6728.1.P43T7v.6no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: On a street in India, Pierre asks a man with a flute and a rope to help him dry his clothes.",
+      "Silent strip."
+    ]
+  },
+  "68": {
+    "heading": "Ropes.",
+    "title": "\"What Is This, a Blood Bath?\"",
+    "author": "B",
+    "title_type": "incipit-assigned",
+    "series": "The Wizard of Id, Jan. 6, 1978",
+    "appears_in": " Parker.",
+    "call number": "PN6726 f.B55 \"ropes\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The condemned asks the Reverend for help, and the Reverend says \"my hands are tied.\""
+    ]
+  },
+  "69": {
+    "heading": "Ropes.",
+    "title": "\"The Wire Rope\" 1/2 p. in Real Life Comics, no. 57",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1951).",
+    "call number": "PN6728.1.N4R4no.57",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About the transcontinental telegraph."
+    ]
+  },
+  "70": {
+    "heading": "Ropes.",
+    "title": "\"The Worst Part is Counting the Trees\"",
+    "author": "Brian Lum.",
+    "title_type": "incipit-assigned",
+    "series": "Sherwood, May 31, 1986",
+    "call number": "NC1300.N3 1988",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Swinging from a rope, Sherwood describes the difficulty of knowing your way around the forest.",
+      "Reprinted (p. 112) in The National Cartoonists Society Album 1988 ed."
+    ]
+  },
+  "71": {
+    "heading": "Ropes.",
+    "title": "\"Wrong Stop\" 1 p. in True Comics, no. 46",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Winter 1945",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: A British glider loses its tow rope on D-Day, and lands back in England. k. D-Day. k. Gliders. k. Tow Ropes. k. Ropes. Call no.: PN6728.1.P3T7no.46"
+    ]
+  },
+  "72": {
+    "heading": "Ropes.",
+    "title": "\"You Can't Wash Apartment Windows in That Rig\"",
+    "author": "Unger.",
+    "title_type": "incipit-assigned",
+    "series": "Herman, Aug. 1, 1997",
+    "call number": "PN6726f.B55 \"Parachutes\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Parachutes, buckets, ropes, safety, wives, children, window washers."
+    ]
+  },
+  "73": {
+    "heading": "Ropes, Chains &amp; Rough Stuff.",
+    "title": "The Hun Book of Bondage : Ropes, Chains &amp; Rough Stuff.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.H83B6 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Portland, OR",
+      "publisher": "Bill Schmeling/The Hun",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Gay erotic drawings."
+    ]
+  },
+  "74": {
+    "heading": "Ropes, Chains &amp; Rough Stuff.",
+    "title": "The Hun Book of Bondage #2 : More Ropes, Chains &amp; Rough Stuff.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.H83B62 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Portland, OR",
+      "publisher": "Bill Schmeling/The Hun",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Gay erotic drawings."
+    ]
+  },
+  "75": {
+    "heading": null,
+    "title": "\"Ropey\" p. 29 in Agrippina",
+    "author": "Claire Bretécher (London : Methuen, 1991).",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B7A4 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Agrippina's feeling not-so-good at gym and boys."
+    ]
+  },
+  "76": {
+    "heading": "Roping.",
+    "title": "\"Rocky Lane Ropes a Killer\" 1 p. in The Marvel Family, no. 40",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1949",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Carnation Malted Milk ad strip. k. Advertising strips. k. Carnation Malted Milk. k. Roping. k. Killers. Call no.: Film 15791r.61"
+    ]
+  },
+  "77": {
+    "heading": null,
+    "title": "\"Roping Takes a Lot of Practice\"",
+    "author": "by Dusty Rogers",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1 p. text in Roy Rogers and Trigger, no. 132 (July/Aug. 1959).",
+    "call number": "PN6728.1.D4R6no.132",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "With photographs."
+    ]
+  },
+  "78": {
+    "heading": null,
+    "title": "\"Roping the Runaway Driver\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "U.S. Royal) 1 p. advertising in True Comics, no. 71",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "79": {
+    "heading": null,
+    "title": "Ropoco",
+    "author": "John A",
+    "title_type": "official",
+    "series": "Rodrigues Posada Correa) \"The Story Behind the Cartoon\"",
+    "appears_in": " Lent. p. 607 in International Journal of Comic Art, v. 8, no. 1 (Spring/Summer 2006).",
+    "call number": "PN6700.I54v.8no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Shows and tells the story of a cartoon by Ropoco (Rodrigues Posada Correa) of Colombia, who was kidnapped and held for eight months."
+    ]
+  },
+  "80": {
+    "heading": "Ropp, Doug.",
+    "title": "\"Batman's Hot Line\" 1 p. in Detective Comics, no. 411",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1971).",
+    "call number": "PN6728.1.N3D4no.411",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from Guy Lillian, Joe Rusnak, Gary Kuhlmann, Steve Beery, and Doug Ropp.",
+      "Data from Bill Wormstedt, Bob Klein, Mike Tiefenbacher, et al., via Grand Comics Database."
+    ]
+  },
+  "81": {
+    "heading": "Rops, Felicien.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "23",
+        "220",
+        "480"
+      ]
+    },
+    "call number": "NC1325.W67 1980",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "82": {
+    "heading": "Rops, Felicien, and Le Charivari.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "480"
+      ]
+    },
+    "call number": "NC1325.W67 1980",
+    "publication info": null,
+    "notes": []
+  },
+  "83": {
+    "heading": "Röq.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "197"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "84": {
+    "heading": "Roque.",
+    "title": "\"The Coolie Smugglers\"",
+    "author": "art: Dan Zolnerowich? 7 p",
+    "title_type": "incipit-assigned",
+    "series": "Inspector Dayton",
+    "appears_in": " in Jumbo Comics, no. 18 (Aug. 1940).",
+    "call number": "PN6728.1.F5J8m no.18",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A villain called Roque is introduced.",
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "85": {
+    "heading": "Roque, Carlos.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "764"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": null,
+      "publisher": "Grenoble Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "86": {
+    "heading": "Roque, Carlos.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1212"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "87": {
+    "heading": "Roque, Georges.",
+    "title": "\"Voir la Peinture par la Bande\"",
+    "author": "par Georges Roque",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 84-86 in Les Cahiers de la Bande Dessinée, no. 70 (July/Aug. 1986).",
+    "call number": "PN6745.S37no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Balises : Bande Dessinée et Peinture (3))"
+    ]
+  },
+  "88": {
+    "heading": "Roque, Jules.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "202"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "89": {
+    "heading": "Roque, Rowel.",
+    "title": "The Road to Darkness. part 1",
+    "author": "writer/creator, James Gilarte ; artist, Rowel Roque.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A83 G5R6 2013",
+    "library has": "",
+    "publication info": {
+      "place": "Prospect, NSW",
+      "publisher": "JG Comics",
+      "date": "2013"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "(Vengador ; v. 2)"
+    ]
+  },
+  "90": {
+    "heading": "Roque II.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "111"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "91": {
+    "heading": "Roquefort.",
+    "title": "Little Roquefort.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.2.S3L5",
+    "library has": "no. 8 (1953).",
+    "publication info": {
+      "place": "New York",
+      "publisher": "St. John Publishing Company",
+      "date": "1952-1958"
+    },
+    "physical description": null,
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (June 1952) - no. 10 (Summer 1958), cf. Overstreet Comic Book Price Guide.",
+      "Other title: Paul Terry's Little Roquefort Comics."
+    ]
+  },
+  "92": {
+    "heading": "Roquefort--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "9-10"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "93": {
+    "heading": "Roquemartine.",
+    "title": "L'Ile au Trésor",
+    "author": "Robert Louis Stevenson, Hugo Pratt ; traduction, Jo Signoret ; couleurs, Anne Pratt ; lettrage, Roquemartine.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.P7 I714 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Humanoïdes Associés",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "78 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Noire)",
+      "Translation and adaptation of L'Isola del Tesoro (Treasure Island)."
+    ]
+  },
+  "94": {
+    "heading": "Roques, Nathalie.",
+    "title": "Un Temps de Chien",
+    "author": "Dupuy-Berberian ; participation au scénario, Nathalie Roques et Anne Rozenblat.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D797 H402 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Genève",
+      "publisher": "Humanoïdes Associés",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Henriette ; t. 2)",
+      "\"Les histoires du présent recueil ont été prépubliées dans le magazine Je Bouquine.\""
+    ]
+  },
+  "95": {
+    "heading": "Roques, Nathalie.",
+    "title": "Trop Potes",
+    "author": "Dupuy-Berberian ; participation au scénario, Nathalie Roques et Anne Rozenblat.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D797 H403 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Genève",
+      "publisher": "Humanoïdes Associés",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Henriette ; t. 3)",
+      "\"Les histoires du présent recueil ont été prépubliées dans le magazine Je Bouquine.\""
+    ]
+  },
+  "96": {
+    "heading": "Roques, Nathalie--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "797"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "97": {
+    "heading": null,
+    "title": "Roquet Belles Oreilles",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Huckleberry Hound) Entry",
+    "call number": "PN6775.C8 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Madrid",
+      "publisher": "Ediciones Sinsentido",
+      "date": "2000"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "author": "Jesús Cuadrado (Atlas Español de la Cultura Popular",
+        "title": "Roqueta, Ramon, 1888-1933. Entry (p. 1101-1102) in De la Historieta y su Uso, 1873-2000"
+      },
+      {
+        "title": "v. 1)"
+      }
+    ],
+    "notes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "98": {
+    "heading": "Roqueta.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "72"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "99": {
+    "heading": null,
+    "title": "\"Roquita\"",
+    "author": "Gosse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 31 in Zipi y Zape, no. 131 (1990).",
+    "call number": "PN6778.Z5no.131",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "100": {
+    "heading": null,
+    "title": "\"Roquita\"",
+    "author": "Gosse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 16-17 in Zipi y Zape, no. 101 (1989).",
+    "call number": "PN6778.Z5no.101",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Prehistoric humor."
+    ]
+  },
+  "101": {
+    "heading": "Rorgg, King of the Spider Men.",
+    "title": "\"I Dared to Battle Rorgg, King of the Spider Men!\" 7 p. in Fear, no. 3",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1971).",
+    "call number": "PN6728.4.M3F4no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "102": {
+    "heading": "Rorick, Rock.",
+    "title": "\"Shoot-Out with Rock Rorick!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Rawhide Kid) 7 p. in Mighty Marvel Western, no. 6",
+    "call number": "PN6728.3.M3M5no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "103": {
+    "heading": "Rorika.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "198"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "104": {
+    "heading": "Rorikon (Lolita Complex).",
+    "entry type": "index entry",
+    "title": "Dreamland Japan: Writings on Modern Manga",
+    "author": "Frederick L. Schodt",
+    "series": null,
+    "pages": {
+      "range": [
+        "37",
+        "39",
+        "44",
+        "54",
+        "209",
+        "336",
+        "340"
+      ]
+    },
+    "call number": "PN6790.J3S285 1996",
+    "publication info": {
+      "place": null,
+      "publisher": "Stone Bridge Press",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "105": {
+    "heading": "Rorikon.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "134",
+        "136"
+      ]
+    },
+    "call number": "PN6790.J3G7 2004",
+    "publication info": null,
+    "notes": []
+  },
+  "106": {
+    "heading": "Rorikon.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "203"
+      ]
+    },
+    "call number": "PN6710.P85 1999",
+    "publication info": null,
+    "notes": []
+  },
+  "107": {
+    "heading": null,
+    "title": "Rork : El Cementerio de Catedrales",
+    "author": "Andreas ; traducción, Fco",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Pérez Navarro y Lorenzo Diaz.",
+    "call number": "PN6747.A4R617 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Norma Editorial",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Colección Pandora ; no. 14)"
+    ]
+  },
+  "108": {
+    "heading": null,
+    "title": "\"Rork : un Héros sous Influences\"",
+    "author": "par Alain Dartevelle",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 18-21 in Les Cahiers de la Bande Dessinée, no. 73 (Jan.-Feb. 1987).",
+    "call number": "PN6745.S37no.73",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Andreas)"
+    ]
+  },
+  "109": {
+    "heading": null,
+    "title": "Rork",
+    "author": "Andreas",
+    "title_type": "official",
+    "series": "Sept. 18, 1981) \"Le Cimetière des Géants\"",
+    "appears_in": " p. 44-50 in Tintin, ann. 36, no. 315 (Sept. 18, 1981).",
+    "call number": "PN6748.T48ann.36no.315",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "110": {
+    "heading": null,
+    "title": "Rork ; 1 \"A House, a Century\"",
+    "author": "by Andreas ; lettering by David Jackson",
+    "title_type": "official",
+    "series": "Rork",
+    "appears_in": " p. 57-64 in Cheval Noir, no. 1 (Aug. 1989).",
+    "call number": "PN6720.C47no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "111": {
+    "heading": null,
+    "title": "Rork ; 2 \"The Fatal Point\"",
+    "author": "by Andreas ; lettering by David Jackson",
+    "title_type": "official",
+    "series": "Rork ; 2",
+    "appears_in": " p. 26-34 in Cheval Noir, no. 2 (Oct. 1989).",
+    "call number": "PN6720.C47no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "112": {
+    "heading": null,
+    "title": "Rork ; 3 \"The Stain\"",
+    "author": "by Andreas ; lettering by David Jackson",
+    "title_type": "official",
+    "series": "Rork ; 3",
+    "appears_in": " p. 35-42 in Cheval Noir, no. 3 (Nov. 1989).",
+    "call number": "PN6720.C47no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "113": {
+    "heading": null,
+    "title": "Rork ; 4 \"Low Valley\"",
+    "author": "by Andreas ; lettering by David Jackson",
+    "title_type": "official",
+    "series": "Rork ; 4",
+    "appears_in": " p. 25-32 in Cheval Noir, no. 5 (Mar. 1990).",
+    "call number": "PN6720.C47no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "114": {
+    "heading": null,
+    "title": "Rork ; 5 \"Fragments\"",
+    "author": "by Andreas ; lettering by David Jackson",
+    "title_type": "official",
+    "series": "Rork ; 5",
+    "appears_in": " p. 57-63 in Cheval Noir, no. 6 (Apr. 1990).",
+    "call number": "PN6720.C47no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be continued."
+    ]
+  },
+  "115": {
+    "heading": null,
+    "title": "Rork ; 6 \"The Conclusion of Book One\"",
+    "author": "by Andreas ; lettering by David Jackson",
+    "title_type": "official",
+    "series": "Rork ; 6",
+    "appears_in": " p. 23-35 in Cheval Noir, no. 7 (May 1990).",
+    "call number": "PN6720.C47no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "116": {
+    "heading": "Rork. German.",
+    "title": "\"Der Gefangne der Verzweiflung\"",
+    "author": "Andreas",
+    "title_type": "incipit",
+    "series": "Rork",
+    "appears_in": " p. 59-64 in Schwermetall, Nr. 102 (1988).",
+    "call number": "PN6758.S35no.102",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Was bisher geschah,\" p. 20.",
+      "\"Fortsetzung Folgt.\"",
+      "Appears in English in Rork 2: Passages, as \"The Grey Death, part 1\""
+    ]
+  },
+  "117": {
+    "heading": "Rork--Articles About.",
+    "title": "\"Rork\"",
+    "author": "Daniel Nogly",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 19 p. in Teil 1 of Lexikon der Comics (Meitingen : Corian-Verlag Wimmer, 1991-)",
+    "call number": "PN6707.L44 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article about the series by Andreas."
+    ]
+  },
+  "118": {
+    "heading": "Rork--Articles About.",
+    "title": "\"Rork : un Héros sous Influences\"",
+    "author": "par Alain Dartevelle",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 18-21 in Les Cahiers de la Bande Dessinée, no. 73 (Jan.-Feb. 1987).",
+    "call number": "PN6745.S37no.73",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Andreas)"
+    ]
+  },
+  "119": {
+    "heading": "Rork--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "198"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "120": {
+    "heading": "Rork--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "548-549"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "121": {
+    "heading": "Rork--Reviews.",
+    "title": "\"Fragments",
+    "author": "Daniel Hughes",
+    "title_type": "official",
+    "series": "Rork 1)\"",
+    "appears_in": " p. 60-61 in Les Cahiers de la Bande Dessinée, no. 56 (Feb./Mar. 1984).",
+    "call number": "PN6745.S37no.56",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Review of the album by Andréas."
+    ]
+  },
+  "122": {
+    "heading": "Rorks.",
+    "title": "The Prince and the Peasant.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.S74no.238",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "D.C. Thomson &amp; Co., Ltd.",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "66 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Fantasy genre.",
+    "contents": [],
+    "notes": [
+      "(Starblazer ; no. 238)",
+      "Begins: \"On a distant planet where time had still not been defined lived a race of men. Legend had it that their ancestors were gods, who had come from the skies in chariots of fire. But these men had descended to the primitive. One such was Marak, and it was to him a warning came as he herded stock, mounted on the great Rork he had captured and gentled.\""
+    ]
+  },
+  "123": {
+    "heading": null,
+    "title": "Rororo ; 1087 Mein Progressiver Alltag",
+    "author": "Chlodwig Poth.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.P6M4 1975",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek (bei Hamburg)",
+      "publisher": "Rowohlt",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "137 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 1087)",
+      "About the New Left."
+    ]
+  },
+  "124": {
+    "heading": null,
+    "title": "Rororo ; 1980 Heisse Herzen : Liebeslesebuch",
+    "author": "Ralf König, Detlev Meyer.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6H4 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "119 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 1980)",
+      "Gay men characters."
+    ]
+  },
+  "125": {
+    "heading": null,
+    "title": "Rororo ; 4215 Unser täglich Frust : Mein progresiver Alltag 2",
+    "author": "Chlodwig Poth.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.P6U5 1978",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 4215)",
+      "Subjects: New Left ; hippies."
+    ]
+  },
+  "126": {
+    "heading": null,
+    "title": "Rororo ; 22392 Jago : Comic",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6J3 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "190 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 22392)",
+      "\"Nach motiven aus den Dramen Othello, MacBeth, Romeo &amp; Julia, und Ein Sommernachtstraum, von William Shakespeare.\""
+    ]
+  },
+  "127": {
+    "heading": null,
+    "title": "Rororo ; 23610 Wie die Karnickel",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6W5 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "159 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 23610)",
+      "\"Vollständig überarbeitete und erweiterte Ausgabe.\"",
+      "Gay men lead characters."
+    ]
+  },
+  "128": {
+    "heading": null,
+    "title": "Rororo ; 24215 Dschinn Dschinn",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6D73 2005",
+    "library has": "v. 1-2.",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "2005-2006"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "1. Zauber des Schabbar"
+      },
+      {
+        "title": "2. Schleierzwang im Sündenpfuhl."
+      }
+    ],
+    "notes": [
+      "(Rororo ; 23959, 24215)",
+      "Complete in 2 v.",
+      "About Genies and gay men."
+    ]
+  },
+  "129": {
+    "heading": null,
+    "title": "Rororo ; 24529 Hempels Sofa",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6H43 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "148 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 24529)"
+    ]
+  },
+  "130": {
+    "heading": null,
+    "title": "Rororo ; 24900 Prototyp",
+    "author": "von Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6P73 2010",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "108 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 24900)",
+      "Prehistoric humor genre, set in the Garden of Eden."
+    ]
+  },
+  "131": {
+    "heading": null,
+    "title": "Rororo ; 61483 Sie dürfen sich jetzt küssen",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.K6S5 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "138 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo ; 61483)",
+      "Gay men lead characters (Konrad und Paul)."
+    ]
+  },
+  "132": {
+    "heading": null,
+    "title": "Rororo Handbuch ; 6519 Comics : vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Knigge.",
+    "call number": "PN6710.K53 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "362 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Handbuch ; 6519)",
+      "Includes bibliographical references and indexes."
+    ]
+  },
+  "133": {
+    "heading": "Rororo Mann.",
+    "title": "Lysistrata : frei nach einer Komödie von Aristophanes",
+    "author": "in einer Inszenierung von Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowholt",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "126 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Mann)",
+      "Cover title: Lysistrata Comic. 1. Feminism",
+      "Comic books, strips, etc. 2. Gay men",
+      "Comic books, strips, etc. 3. German comics. I. König, Ralf. II. Aristophanes. III. Series. IV. Rowohlt. Call no.: PN6757.K6L9 1987"
+    ]
+  },
+  "134": {
+    "heading": null,
+    "title": "Rororo Mann ; 8228 Der Bewegte Mann : Comic",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "119 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Mann ; 8228) 1. Gay men",
+      "Comic books, strips, etc. 2. Men's movement",
+      "Comic books, strips, etc. 3. German comics. I. König, Ralf. II. Series. III. Rowohlt Taschenbuch Verlag. Call no.: PN6757.K6B42 1987"
+    ]
+  },
+  "135": {
+    "heading": null,
+    "title": "Rororo Mann ; 8237 Pretty Baby",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "116 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Pretty Baby Comic.",
+      "(Rororo Mann; 8237) 1. Gay men",
+      "Comic books, strips, etc. 2. Married people",
+      "Comic books, strips, etc. 3. German comics. I. König, Ralf. II. Pretty Baby Comic. III. Series. IV. Rowohlt. Call no.: PN6757.K6P7 1988"
+    ]
+  },
+  "136": {
+    "heading": null,
+    "title": "Rororo Mann ; 8258 Beach Boys",
+    "author": "Ralf König.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "142 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Beach Boys Comics.",
+      "(Rororo Mann ; 8258) 1. Gay men",
+      "Comic books, strips, etc. 2. German comics. I. König, Ralf. II. Beach Boys Comics. III. Series. IV. Rowohlt. Call no.: PN6757.K6B4 1989"
+    ]
+  },
+  "137": {
+    "heading": "Rororo Rotfuchs.",
+    "title": "Comic-Kochbuch : heisse und kalte Tips für Kochkönige und Katastrophenköche",
+    "author": "Evi &amp; Hansjörg Langenfass.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "TX721.L34 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowolt Taschenbuch Verlag",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "122 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Rotfuchs ; 212)",
+      "Includes index.",
+      "Educational genre, a cookbook mostly in comics format."
+    ]
+  },
+  "138": {
+    "heading": "Rororo Rotfuchs.",
+    "title": "Ihr nervt mich! : Alltag mit 14 : Bildeschichten",
+    "author": "Chlodwig Poth.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.P6 I4 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek (bei Hamburg)",
+      "publisher": "Rowohlt",
+      "date": "1976"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 19 cm.",
+      "(Rororo ; 1807)",
+      "(Rororo Rotfuchs ; 127)"
+    ]
+  },
+  "139": {
+    "heading": "Rororo Rotfuchs.",
+    "title": "Jan Schniebels Fuchs-Jux Comic-Strips.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.S33F8 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "28 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Rotfuchs ; Nr. 1)",
+      "Genre: Funny animal."
+    ]
+  },
+  "140": {
+    "heading": "Rororo Rotfuchs.",
+    "title": "Moneymaker : von Geld, Gold, Öl",
+    "author": "Wolfgang Wimmer, Tschap.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.T75M6 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt Taschenbuch Verlag",
+      "date": "1984"
+    },
+    "physical description": null,
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": [
+      "ca. 120 p. : ill. ; 19 cm.",
+      "(Rororo Rotfuchs)",
+      "(Quer-Comic)"
+    ]
+  },
+  "141": {
+    "heading": "Rororo Rotfuchs.",
+    "title": "Die paar Pfennige! : Bildgeschichte einer verschwenderischen Familie",
+    "author": "Marie Marcks.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.M3P3 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "94 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Rotfuchs)",
+      "Comic about energy conservation."
+    ]
+  },
+  "142": {
+    "heading": null,
+    "title": "Rororo Sachbuch ; 9014 Wie Micky unter di Nazis fiel : Walt Disney und Deutschland",
+    "author": "Carsten Laqua.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN1999.W27L3 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "250 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rororo Sachbuch ; 9014)",
+      "Includes filmography, discography and bibliographical references."
+    ]
+  },
+  "143": {
+    "heading": null,
+    "title": "Rororo Tomate ; 12461 Ich hab dich Liiiieb!",
+    "author": "Klaus Pitter ; Cartoons vom hoffnungsvollen Nachwuchs.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6757.P5 I32 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Reinbek bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 19 cm.",
+      "(Rororo Tomate ; 12461)"
+    ]
+  },
+  "144": {
+    "heading": "El Rorro.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos II, 1934-1950",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "436"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "México",
+      "date": null
+    },
+    "notes": []
+  },
+  "145": {
+    "heading": "Rorschach.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "146": {
+    "heading": "Rorschach.",
+    "title": "\"Just a Blob of Ink\"",
+    "author": "Truxaw.",
+    "title_type": "incipit-assigned",
+    "series": "Dr. Katz, Aug. 2, 1997",
+    "call number": "PN6726f.B55 \"Rorschach\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Meaning, Rorschach, paintings."
+    ]
+  },
+  "147": {
+    "heading": null,
+    "title": "Rorschach",
+    "author": "skrevet af Alan Moore ; tegnet af Dave Gibbons ; farvelagt af John Higgins ; oversat af Niels Søndergaard ; tekstet af Walther Lehmann.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.M6W3519 1989 v.3",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Vogterne ; 3)",
+      "Watchmen, bks. 5-6, in Danish.",
+      "Originale undertitler: \"Fearful Symmetry\" og \"The Abyss Gazes Also.\"",
+      "\"Superhelte for voksne.\""
+    ]
+  },
+  "148": {
+    "heading": "Rorschach.",
+    "title": "Refore Watchmen : Rorschach.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.8.D3 B4R6 2012",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "2012-2013"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Complete in 4 nos."
+    ]
+  },
+  "149": {
+    "heading": "Rorshach--Articles About.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "623-630"
+      ]
+    },
+    "call number": "PN6710 .I27 2013",
+    "publication info": null,
+    "notes": []
+  },
+  "150": {
+    "heading": "Rorschach--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Adult Comics : an Introduction",
+    "author": "by Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "89",
+        "271"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Routledge",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "151": {
+    "heading": "Rorschach--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Super Heroes: a Modern Mythology",
+    "author": "Richard Reynolds",
+    "series": null,
+    "pages": {
+      "range": [
+        "32",
+        "105-107",
+        "109",
+        "114",
+        "116-118"
+      ]
+    },
+    "call number": "PN6725.R45 1994",
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "152": {
+    "heading": "Rorschach Entertainment.",
+    "title": "Gravedigger : the Scavengers",
+    "author": "script, tones &amp; letters, Christopher Mills ; pencils and inks, Rick Burchett.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.R63G7 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Lynnwood, WA",
+      "publisher": "Rorschach Entertainment",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Detective (crime) genre.",
+    "contents": [],
+    "notes": [
+      "Cover title: Grave Digger.",
+      "\"Issue one of one.\""
+    ]
+  },
+  "153": {
+    "heading": "Rorschach Entertainment.",
+    "title": "Sprecken : the Destiny Dance",
+    "author": "words &amp; plot, Brian Meredith &amp; Brad Taylor ; pencils, Rick Forgus ; inks, James Taylor.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.R63S63 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Lynnwood, WA",
+      "publisher": "Rorschach Entertainment",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Superhero and detective genres.",
+    "contents": [],
+    "notes": [
+      "\"Issue one of one.\""
+    ]
+  },
+  "154": {
+    "heading": "Rorschach Press.",
+    "title": "Black Bastard.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.R63B55 2001",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Preview edition.",
+      "Rorschach Press, 2001.",
+      "\"Suggested for mature readers.\"",
+      "African American superhero."
+    ]
+  },
+  "155": {
+    "heading": null,
+    "title": "\"Rorschach Review\"",
+    "author": "by Linda Kent",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in New Paltz Comix, no. 2 (1974)",
+    "call number": "PN6728.45.M6N4no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Issue title: \"Amazing Adult Fantasies\""
+    ]
+  },
+  "156": {
+    "heading": "A Rorschach Test.",
+    "title": "Watchmen and Philosophy : a Rorschach Test",
+    "author": "edited by Mark D",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " White.",
+    "call number": "PN6728.W386W38 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Hoboken, N.J.",
+      "publisher": "John Wiley &amp; Sons",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "227 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Blackwell Philosophy and Pop Culture Series)",
+      "Includes bibliographical references and index."
+    ]
+  },
+  "157": {
+    "heading": "Rory.",
+    "title": "The Eye of Ashaya.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.D64E9 2013",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "IDW Publishing",
+      "date": "2013"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "110 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Doctor Who III ; v. 2)",
+      "\"Originally published as Doctor Who, volume 3, issues #5-8, and 'Time Fraud' from the Doctor Who special 2012.\"",
+      "Summary (from SkyRiver): The Doctor, Amy, and Rory's plans for a relaxing cruise end when a thief crosses the Doctor's path, while in another adventure, the Doctor is in 1965 and working to save the first space walk from mysterious shadows."
+    ]
+  },
+  "158": {
+    "heading": "Rory, Rip.",
+    "title": "\"Rip Rory's Initiation\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Rip Rory) 5 p. in Target Comics, v. 1, no. 1",
+    "call number": "PN6728.1.N6T3m v.1no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Introduction of Rip Rory and of a villain named Bart.",
+      "Data from Lou Mougin, James Ludwig, Tony R. Rose, et al. via Grand Comics Database Project."
+    ]
+  },
+  "159": {
+    "heading": "Rory Bang--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "140"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "160": {
+    "heading": null,
+    "title": "\"Rory Hayes, an Appreciation\"",
+    "author": "by Bill Griffith",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1/3 p. text in Weirdo, no. 12 (Winter 1985).",
+    "call number": "PN6728.45.L3W4no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "161": {
+    "heading": "Rory Macduff.",
+    "entry type": "encyclopedic entry",
+    "title": "Encyclopedia of Comic Characters",
+    "author": "Denis Gifford",
+    "series": null,
+    "pages": {
+      "range": [
+        "181"
+      ]
+    },
+    "call number": "PN6707.G5 1987",
+    "publication info": {
+      "place": "Harlow",
+      "publisher": "Longman",
+      "date": "1987"
+    },
+    "notes": []
+  },
+  "162": {
+    "heading": null,
+    "title": "Rory Randall the Singing Cowboy",
+    "author": "Mitch Manzer",
+    "title_type": "official",
+    "series": "Jan. 1987) \"Treasure of the Lost Empire, Chapter 1\"",
+    "appears_in": " p. 49-63 in Prime Cuts, no. 1 (Jan. 1987).",
+    "call number": "PN6700.P7no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Namron, evil dictator of the underground city Vizania, plots to kidnap Rory, who meanwhile is trying to learn the facts of life."
+    ]
+  },
+  "163": {
+    "heading": null,
+    "title": "Rory Randall the Singing Cowboy",
+    "author": "Mitch Manzer",
+    "title_type": "official",
+    "series": "Nov. 1987) \"Treasure of the Lost Empire, Chapter 5\"",
+    "appears_in": " p. 50-63 in Prime Cuts, no. 5 (Nov. 1987).",
+    "call number": "PN6700.P7no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "164": {
+    "heading": null,
+    "title": "\"The Rory Story\"",
+    "author": "by Griffy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in San Francisco Comic Book, no. 5 (1979).",
+    "call number": "PN6728.45.S3S3no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "All quotes copyright by Rory Hayes."
+    ]
+  },
+  "165": {
+    "heading": null,
+    "title": "\"The Rory Story\"",
+    "author": "by Griffy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in Weirdo, no. 12 (Winter 1985).",
+    "call number": "PN6728.45.L3W4no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"All quotes copyright 1974 Rory Hayes.\""
+    ]
+  },
+  "166": {
+    "heading": "Ros, Iria.",
+    "title": "Naruto : la Senda del Ninja",
+    "author": "Iria Ros.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1766.J3R64 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Spain",
+      "publisher": "Aleu, S.A.",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "125 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Colección Manga Books ; no. 9)",
+      "A book about Naruto."
+    ]
+  },
+  "167": {
+    "heading": "Ros, Jordi.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "191"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "168": {
+    "heading": "Ros, Juan.",
+    "entry type": "encyclopedic entry",
+    "title": "De la Historieta y su Uso, 1873-2000",
+    "author": "Jesús Cuadrado",
+    "series": "Atlas Español de la Cultura Popular ; v. 1",
+    "pages": {
+      "range": [
+        "1102"
+      ]
+    },
+    "call number": "PN6775.C8 2000",
+    "publication info": {
+      "place": "Madrid",
+      "publisher": "Ediciones Sinsentido",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "169": {
+    "heading": "Ros, Roser.",
+    "title": "La Bella y la Bestia : Cuento Popular",
+    "author": "adaptación de Roser Ros ; ilustraciones de Cristina Losantos.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PQ1995.L75B4 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "La Galera",
+      "date": "1999"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v.: col. ill. ; 22 cm.",
+      "(Galera Popular ; 52)",
+      "Translation of from Catalonian to Castilian of: La Bella i la Bèstia.",
+      "Summary (from SkyRiver): Through her great capacity to love, a kind and beautiful maid releases a handsome prince from the spell which has made him an ugly beast."
+    ]
+  },
+  "170": {
+    "heading": "Ros, Samuel.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "208"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "171": {
+    "heading": "Ros, Sergio, 1976-",
+    "entry type": "encyclopedic entry",
+    "title": "De la Historieta y su Uso, 1873-2000",
+    "author": "Jesús Cuadrado",
+    "series": "Atlas Español de la Cultura Popular ; v. 1",
+    "pages": {
+      "range": [
+        "1102"
+      ]
+    },
+    "call number": "PN6775.C8 2000",
+    "publication info": {
+      "place": "Madrid",
+      "publisher": "Ediciones Sinsentido",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "172": {
+    "heading": "Ros.",
+    "title": "Garbles.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.G27",
+    "library has": "no. 11 (1997).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Autobiographical genre.",
+    "contents": [],
+    "notes": [
+      "London : Ros, ."
+    ]
+  },
+  "173": {
+    "heading": "Ros.",
+    "title": "Ripka = the Turnip : Ukrainian Folk Tale.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.U354R5 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Kiev",
+      "publisher": "Ros",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "14 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Parallel narrative text (no dialogue) in Ukrainian and English, in bubbles within drawings."
+    ]
+  },
+  "174": {
+    "heading": "Rosa.",
+    "title": "\"Deducción\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Coné) p. 47 in Condorito Gigante, no. 550",
+    "call number": "PN6790.M44C568no.550",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genito talks to the mailman about a letter for his Aunt Rosa. A sign on the house identifies it as that of Ungenio González."
+    ]
+  },
+  "175": {
+    "heading": "Rosa.",
+    "entry type": "index entry",
+    "title": "The Will Eisner Companion",
+    "author": "N.C. Christopher Couch &amp; Stephen Weiner",
+    "series": null,
+    "pages": {
+      "range": [
+        "121"
+      ]
+    },
+    "call number": "PN6727.E35 Z5C6 2004",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "2004"
+    },
+    "notes": []
+  },
+  "176": {
+    "heading": "Rosa.",
+    "title": "Troublemaker",
+    "author": "written by Janet and Alex Evanovich ; drawn by Joëlle Jones ; background pencils, Ben Dewey ; inks, Andy Owens ; colors, Dan Jackson ; letters, Nate Piekos.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.J617T7 2010",
+    "library has": "",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Books",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "105 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Detective genre.",
+    "contents": [],
+    "notes": [
+      "(A Barnaby and Hooker Graphic Novel ; bk. 1)",
+      "\"Barnaby and Hooker are back together and fighting crime the only way they know how, by leaving a trail of chaos, panic, and disorder. Alex, an auto mechanic and spotter for race car driver Sam Hooker, is drawn to trouble like a giant palmetto bug to a day-old taco. Unfortunately she's also drawn to Hooker in the same fashion. There's no steering clear of trouble or Hooker when friends Felicia and Rosa need help. Rosa has gone missing, and in order to find her, Barnaby and Hooker will have to go deep into the underbelly of Miami and South Florida, surviving petro voodoo, explosions, gift-wrapped body parts, a high-speed swamp chase, and Hooker's mom.\""
+    ]
+  },
+  "177": {
+    "heading": "Rosa, Daniel de.",
+    "title": "Chico Xavier em Quadrinhos : a Vida do Grande Espírita Brasileiro",
+    "author": "roteiro, Franco de Rosa ; desenhos, Rodolfo Zalla ; editoração e letras, Daniel de Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.B73 Z3C47 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Rio de Janeiro",
+      "publisher": "Ediouru Publicações Ltda",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "178": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Captain Kentucky",
+    "author": "Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.R645C3 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Oslo",
+      "publisher": "Gazette Bok",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "22 x 29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "167 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(The Don Rosa Archives ; 2)",
+      "Cover title: The Adventures of Captain Kentucky."
+    ]
+  },
+  "179": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "The Captain Kentucky Collection",
+    "author": "by Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.R645C3 1981",
+    "library has": "v. 1-3.",
+    "publication info": {
+      "place": "Louisville, KY",
+      "publisher": "Pertwillaby Paper Works",
+      "date": "1981-1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Complete in 3 vols."
+    ]
+  },
+  "180": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Come With Me Now, as we Embark on an Index into Terror : a disinterment and postmortem of all those awful horror comics",
+    "author": "Keno Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.R625C6 1983",
+    "library has": "no. 0-8.",
+    "publication info": {
+      "place": "Louisville, KY",
+      "publisher": "K.D. Rosa",
+      "date": "1983-"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "28 cm.",
+      "Circulated through APA-I."
+    ]
+  },
+  "181": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "\"Don Rosa on Carl Barks' Conquest of Europe\" p. 51-53 in The Comics Journal, no. 227",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 2000).",
+    "call number": "PN6700.C62no.227",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Tribute to Carl Barks, 1901-2000)"
+    ]
+  },
+  "182": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Don Rosa's Comics &amp; Stories.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.R645D6",
+    "library has": "no. 1-2 (1983).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Stamford, Conn. : Fantagraphics Books, ."
+    ]
+  },
+  "183": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "La Jeunesse de Picsou",
+    "author": "par Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.U5L514 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Levallois-Perret",
+      "publisher": "Disney Hachette Presse",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "242 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "\"Un hors-série de Picsou Magazine.\"",
+      "Translation of: The Life and Times of Scrooge McDuck."
+    ]
+  },
+  "184": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "\"King of the Klondike\"",
+    "author": "written and drawn by Don Rosa",
+    "title_type": "incipit",
+    "series": "The Life and Times of Scrooge McDuck, pt. 8",
+    "appears_in": " 24 p. in Walt Disney's Uncle Scrooge, no. 292 (June 1995) I. Rosa, Don. II. The Life and Times of Scrooge McDuck, pt. 8. k. The Klondike. Call no.: PN6728.2.D4U5no.292",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "185": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "The Life and Times of Scrooge McDuck",
+    "author": "by Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.U5R58 1996",
+    "library has": "v. 1-4.",
+    "publication info": {
+      "place": "Prescott, AZ",
+      "publisher": "Gladstone",
+      "date": "1996"
+    },
+    "physical description": null,
+    "genre": "Funny animal and adventure story genres.",
+    "contents": [
+      {
+        "title": "[1] 1887 to 1882"
+      },
+      {
+        "title": "[2] 1884 to 1887"
+      },
+      {
+        "title": "[3] 1896 to 1902"
+      },
+      {
+        "title": "[4] 1902 to 1947."
+      }
+    ],
+    "notes": [
+      "4 v. : col. ill. ; 28 cm.",
+      "(Walt Disney's Uncle Scrooge Adventures in Color)"
+    ]
+  },
+  "186": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "\"The Life and Times of Scrooge McDuck, pt. 2: The Master of the Mississippi\"",
+    "author": "Don Rosa",
+    "title_type": "incipit",
+    "series": "Uncle Scrooge",
+    "appears_in": " 28 p. in Walt Disney's Uncle Scrooge, no. 286 (June 1994) k. Times. k. Mississippi. I. The Master of the Mississippi. II. Rosa, Don. Call no.: PN6728.2.D4U5no.286.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "187": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "\"The Making of the Life &amp; Times of Scrooge McDuck, pt. 2\"",
+    "author": "Don Rosa",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1 p. text. in Walt Disney's Uncle Scrooge, no. 286 (June 1994) I. Life &amp; Times of Scrooge McDuck. II. Rosa, Don. Call no.: PN6728.2.D4U5no.286.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "188": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "The Making of the Life &amp; Times of Scrooge McDuck, pt. 8\"",
+    "author": "by Don Rosa",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " 1 p. text in Walt Disney's Uncle Scrooge, no. 292 (June 1995) 1. The Life and Times of Scrooge McDuck, pt. 8. I. Rosa, Don. Call no.: PN6728.2.D4U5no.292",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "189": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "The Pertwillaby Papers",
+    "author": "Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.R645P4 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Oslo",
+      "publisher": "Gazette Bok",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "191 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Don Rosa Archives ; 1)",
+      "These comic strips first appeared in the University of Kentucky newspaper and the comic fanzine Rocket's Blast Comicollector between 1971 and 1978."
+    ]
+  },
+  "190": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "\"Surprise\"",
+    "author": "Don Rosa",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 6-7 in The Comics Journal, no. 178 (July 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Blood and Thunder)",
+      "Letter on The Life and Times of Scrooge McDuck. 1. Life and Times of Scrooge McDuck. I. Rosa, Don. k. Uncle Scrooge. Call no.: PN6700.C62no.178"
+    ]
+  },
+  "191": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Les Trésors de Picsou. 3",
+    "author": "par Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.P47T703 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Levallois-Perret",
+      "publisher": "Disney Hachette Presse",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "242 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "(Picsou Magazine Hors-Série)",
+      "\"L'intégrale Don Rosa 1987-1989\"."
+    ]
+  },
+  "192": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Visdommens Voktere.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N64 D6V5 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Oslo",
+      "publisher": "A/S Hjemmet-Serieforlaget",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "Features Uncle Scrooge, Huey, Dewey, and Louie. Later published in English as \"Guardians of the Lost Library,\" about the lost library of Alexandria.",
+      "By Don Rosa.",
+      "Numbered: \"8, 1993.\""
+    ]
+  },
+  "193": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney Presents Uncle Scrooge vs. Flintheart Glomgold.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Prescott, Ariz.",
+      "publisher": "Gladstone",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "96 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comic Album Special ; 4)",
+      "Stories mainly by Carl Barks and Don Rosa. 1. Funny animal comics. I. Barks, Carl, 1901- II. Rosa, Don. III. Uncle Scrooge vs. Flintheart Glomgold. IV. Gladstone Comic Album Special ; 4 Call no.: PN6728.U5F55 1989"
+    ]
+  },
+  "194": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney Uncle Scrooge and Donald Duck : a Matter of Some Gravity",
+    "author": "by Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.8.F3W28 2014",
+    "library has": "",
+    "publication info": {
+      "place": "Seattle, WA",
+      "publisher": "Fantagraphics Books",
+      "date": "2014"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "(Free Comic Book Day ; 2014)"
+    ]
+  },
+  "195": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney's Donald Duck : Creepy Claws.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.G4W2415 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Timonium, MD",
+      "publisher": "Gemstone Publishing",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "12 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [
+      {
+        "author": "Don Rosa",
+        "title": "\"Fit to be pied\""
+      },
+      {
+        "author": "Carl Barks.",
+        "title": "\"A prank above\""
+      }
+    ],
+    "notes": [
+      "Halloween giveaway."
+    ]
+  },
+  "196": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney's the Life and Times of Scrooge McDuck",
+    "author": "by Don Rosa ; lettering &amp; titles, Todd Klein ; color, Susan Daigle-Leach.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.U5R58 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Timonium, MD",
+      "publisher": "Gemstone Pub.",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "263 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal and adventure story genres.",
+    "contents": [],
+    "notes": [
+      "\"Eisner Award for Best Serialized Story in 1995.\"",
+      "Summary (from SkyRiver): Twelve stories that tell Scrooge McDuck's life story, from his humble beginnings to his financial empire, with updated text and chapter notes by the author."
+    ]
+  },
+  "197": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney's the Life and Times of Scrooge McDuck Companion",
+    "author": "by Don Rosa ; lettering &amp; titles, Todd Klein, John Clark and Bill Pearson ; color, Susan Daigle-Leach and Scott Rockwell.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.U5L52 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Timonium, MD",
+      "publisher": "Gemstone Pub.",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "208 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": []
+  },
+  "198": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney's Uncle Scrooge Adventures in Color",
+    "author": "by Don Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.U5R6 1997",
+    "library has": "v. 1-4.",
+    "publication info": {
+      "place": "Prescott, AZ",
+      "publisher": "Gladstone",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal and adventure story genres.",
+    "contents": [],
+    "notes": [
+      "\"The first two years of McDuck Adventures by Keno Don Rosa.\"",
+      "Complete in 4 vols."
+    ]
+  },
+  "199": {
+    "heading": "Rosa, Don, 1951-",
+    "title": "Walt Disney's Uncle $crooge and Donald Duck : Don Rosa Special.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.U5U5 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Prescott, Ariz.",
+      "publisher": "Gladstone",
+      "date": "1990"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 28 cm.",
+      "(Gladstone Comic Album Series ; 28)"
+    ]
+  },
+  "200": {
+    "heading": "Rosa, Don, 1951- --Bibliography.",
+    "title": "\"Busted!\"",
+    "author": "Roberto Di Fazio",
+    "title_type": "incipit",
+    "series": "Blood &amp; Thunder",
+    "appears_in": " p. 2-3, 6 in The Comics Journal, no. 187 (May 1996)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letter to the editor complaining about lack of a Don Rosa bibliography promised for issue 184; Tom Spurgeon responds by printing the bibliography, compiled mainly by Michael Naiman, in the letters pages. 1. Rosa, Don",
+      "Bibliography. I. Di Fazio, Roberto. II. Spurgeon, Tom. III. Naiman, Michael. Call no.: PN6700.C62no.187"
+    ]
+  },
+  "201": {
+    "heading": "Rosa, Don, 1951- --Bibliography.",
+    "title": "The Calisota Handbook on the Works of Barks &amp; Rosa : with an index of the wdc&amp;s Mickey serials.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Naples, Fla.",
+      "publisher": "Calisota",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "22 cm. 1. Barks, Carl, 1901-",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "36 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Dictionaries, indexes, etc. 2. Rosa, Don",
+      "Dictionaries, indexes, etc. 3. Walt Disney's Comics and Stories",
+      "Indexes. 4. Mickey Mouse",
+      "Indexes. I. Handbook on the Works of Barks &amp; Rosa. Call no.: PN6727.B3C27 1993"
+    ]
+  },
+  "202": {
+    "heading": "Rosa, Don, 1951- --Bibliography.",
+    "title": "RBCC Indexing",
+    "author": "Jerry Sinkovec.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6700.R2S5 1970z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "197-?",
+      "1 leaf ; 28 cm.",
+      "\"Rockets Blast-Comicollector's Information Center (hosted by Raymond Miller in issues 61-68 &amp; 70-107; by Don Rosa starting with issue 108) featured a number of comic book indexes. In order to find these quickly, I compiled the following list.\"",
+      "Ran in APA-I."
+    ]
+  },
+  "203": {
+    "heading": "Rosa, Don, 1951- --Books About.",
+    "title": "Carl Barks und Don Rosa : die Analyse der formal-ästhetischen und strukturellen Konzeption zweier Comic-Zeichner",
+    "author": "vorgelegt von Klaus Piber.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B35 Z5P5 2003",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Graz, 2003.",
+      "128 leaves : ill. ; 30 cm.",
+      "Diplomarbeit zur Erlangung des akademischen Grades eines Magisters der Philosophie an der Geisteswissenschaftlischen Fakultät der Karl-Franzens-Universität Graz.",
+      "Includes bibliographical references (leaves 125-128)."
+    ]
+  },
+  "204": {
+    "heading": "Rosa, Don, 1951- --Interviews.",
+    "title": "Breaking the Panels : Over 75 Short Interviews from around the Comics Industry",
+    "author": "Mark Coale.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.C478B7 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Colora, MD",
+      "publisher": "O-Goshi Studios",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "119 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "205": {
+    "heading": "Rosa, Don, 1951- --Interviews.",
+    "title": "\"But It Did, It Happened\" p. 101-111 in The Comics Journal, no. 185",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1996",
+    "call number": "PN6700.C62no.185",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Interviewer is R.C. Harvey.",
+      "Running title: Don Rosa Interview, part 3."
+    ]
+  },
+  "206": {
+    "heading": "Rosa, Don, 1951- --Interviews.",
+    "title": "Don Rosa interview",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "11 p.) in David Anthony Kraft's Comics Interview, no. 13",
+    "call number": "PN6725.D28no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Topics: Pertwillaby Papers, Captain Kentucky.",
+      "Data from issue 100 of magazine."
+    ]
+  },
+  "207": {
+    "heading": "Rosa, Don, 1951- --Interviews.",
+    "title": "\"Don Rosa Interview, pt. 1\" p. 82-106 in The Comics Journal, no. 183",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1996",
+    "call number": "PN6700.C62no.183",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Interview conducted by Dana Gabbard in 1989."
+    ]
+  },
+  "208": {
+    "heading": "Rosa, Don, 1951- --Interviews.",
+    "title": "\"Don Rosa Interview, pt. 2\" p. 107-113 in The Comics Journal, no. 184",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1996",
+    "call number": "PN6700.C62no.184",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Interviewer is Dana Gabbard."
+    ]
+  },
+  "209": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"AACC's Batman Bash/1999 AAAC Banquet\"",
+    "author": "text by Michael Naiman, photos courtesy Jon Berk",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 71-75 in Comic Book Marketplace, v. 2, no. 72 (Oct. 1999).",
+    "call number": "PN6714.C632v.2no.72",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Photo pages from the 7th annual national meeting of the American Associaton of Comicbook Collectors (Aug. 14, 1999). Shown are: Russ Heath, Jerry Robinson, Gary Carter, Peter Merolo, Bill Howard, Carmine Infantino, Arlen Schumer, Julie Schwartz, Burt Simmons, Shel Dorf, Michael Naiman, Helen &amp; Murphy Anderson, Dave Stump, Maggie Thompson, Russ Cochran, John Snyder, Bruce Hamilton, Don Rosa, Scott Shaw, Sam Glanzman, Arnold Drake, Todd Severin, Irwin Hasen, Stephen Barrington, Beth Holley, Neal Adams, Stan Lee, Jon Berk, Jim Steranko, Tara Jankner, Steve Fishler, Pat Kochanek, Joe Mannarino, Joel Thingvall, David Armstrong, Charlie Jackam, Phil Barnhart, Peter Klee, Scotty Moore, Harry Matetsky, Irv Novick."
+    ]
+  },
+  "210": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Don Rosa Gives Uncle Scrooge a Past\"",
+    "author": "Thom Powers",
+    "title_type": "incipit",
+    "series": "Newswatch",
+    "appears_in": " p. 25-27 in The Comics Journal, no. 164 (Dec. 1993) 1. Rosa, Don. 2. Uncle Scrooge. I. Powers, Thom. Call no.: PN6700.C62no.164",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "211": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Don Rosa Quits Over Art Return Dispute\" p. 14-15",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #130 July 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. 1. Rosa, Don. k. Original art. Call no.: PN6700.C62no.130"
+    ]
+  },
+  "212": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Ducks in Flux : Politically Correct Publishing\"",
+    "author": "by Michael A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Naiman. p. 58-61 in Comic Book Marketplace, v. 2, no. 24 (June 1995).",
+    "call number": "PN6714.C632no.24",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Describes and shows changes to African \"native\" characters in reprints of March of Comics, no. 20 (Aug. 1949) and Four Color, no. 238 (Aug. 1949), and Native Americans in Uncle Scrooge, no. 29 (Mar./May 1960) and a Don Rosa sequel to Uncle Scrooge, no. 18 (June/Aug. 1957), plus a panel edited for less violence in Walt Disney's Uncle Scrooge, no. 287 (Aug. 1994)."
+    ]
+  },
+  "213": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Comic-Book Superstars",
+    "author": "Don &amp; Maggie Thompson",
+    "series": null,
+    "pages": {
+      "range": [
+        "180"
+      ]
+    },
+    "call number": "PN6707.C65 1993",
+    "publication info": {
+      "place": "Iola, Wis.",
+      "publisher": "Krause Publications",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "214": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Comics Between the Panels",
+    "author": "Steve Duin, Mike Richardson",
+    "series": null,
+    "pages": {
+      "range": [
+        "379-381"
+      ]
+    },
+    "call number": "PN6707.D8 1998",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "215": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "694"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "216": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "Index entry to Cartoonist Profiles, no. 99",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1993), p. 54-61",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from R.C. Harvey. Call no.: NC1300.C35no.99"
+    ]
+  },
+  "217": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "133"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "218": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Des Comics et des Hommes : Histoire Culturelle des Comic Books aux Etats-Unis",
+    "author": "Jean-Paul Gabilliet",
+    "series": null,
+    "pages": {
+      "range": [
+        "136"
+      ]
+    },
+    "call number": "PN6725.G32D4 2005",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions du Temps",
+      "date": "2005"
+    },
+    "notes": []
+  },
+  "219": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Das grosse Comic-Lexikon",
+    "author": "Marcel Feige",
+    "series": null,
+    "pages": {
+      "range": [
+        "441-442"
+      ]
+    },
+    "call number": "PN6707.F48 2001",
+    "publication info": {
+      "place": null,
+      "publisher": "Berlin: Lexikon Imprint Verlag",
+      "date": "2001"
+    },
+    "notes": []
+  },
+  "220": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Over 50 Years of American Comic Books",
+    "author": "Ron Goulart",
+    "series": null,
+    "pages": {
+      "range": [
+        "306"
+      ]
+    },
+    "call number": "PN6725.G636 1991",
+    "publication info": {
+      "place": "Lincolnwood, Ill.",
+      "publisher": "Mallard Press",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "221": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Kentucky Fried Funnybook\"",
+    "author": "Dwight R",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Decker. p. 59 in The Comics Journal, no. 67 (Oct. 1981).",
+    "call number": "PN6700.C62no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of Don Rosa's Captain Kentucky.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "222": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Lawsuit By and Against Carl Barks Over : Court's Rulings Against Barks' Previous Managers Encouraged Settlement\"",
+    "author": "Eric Reynolds",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 15-20 in The Comics Journal, no. 208 (Nov. 1998).",
+    "call number": "PN6700.C62no.208",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(News Watch )",
+      "Persons discussed besides Carl Barks are Bill Grandey, Kathy Morby, Bruce Hamilton, Garé Barks, and Don Rosa."
+    ]
+  },
+  "223": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "The Life and Times of Scrooge McDuck",
+    "author": "Diana Green",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " p. 479-482 in Critical Survey of Graphic Novels : Independents and Underground Classics (Ipswich, MA : Salem Press, 2012).",
+    "call number": "PN6707.C7 I5 2012 v.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article about the Don Rosa work.",
+      "Includes bibliography and illustration."
+    ]
+  },
+  "224": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Photos\" p. 57-64 in The Comics Journal, no. 235",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 2001).",
+    "call number": "PN6700.C62no.235",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Photos from the history of The Comics Journal, of Neal Adams, John Buscema, Milton Caniff, Gil Kane, Howard Chaykin, Harvey Kurtzman, John Byrne, Will Eisner, Harlan Ellison, Steve Englehart, Bill Gaines, Mike Kaluta, Archie Goodwin, Jim Shooter, Robert Kanigher, Clark Kent, Chris Claremont, Louise Simonson, Stan Lee, Carol Kalish, Barry Windsor-Smith, Paul Levitz, Curt Swan, Ernie Colon, Wendy and Richard Pini, Karen Berger, Steve Skeates, Tony Isabella, Marie Severin, Jenette Kahn, Dwight Decker, Julie Schwartz, Jim Warren, Wally Wood, Don Rosa, Roy Krenkel, Jeff Jones, Marv Wolfman, Bill Sienkiewicz, Gary Groth, Kim Thompson, Bernie Wrightson, Roy Thomas, Jeannie Thomas, Dean Mullaney, Dick Giordano, Jim Steranko, Marilyn Bethke, Art Spiegelman, Mike Catron, Greg Stump, Eric Reynolds, Anne Elizabeth Moore, Jessica Abel, Gretchen Meyer, Matt Silvie, Mike Dean, Bill Griffith, Kim Deitch, John Ronan, Chris Jacobs, Tom Spurgeon, Al Columbia, Larry Reid, Peter Bagge, Dan Clowes, Chris Ware, José Maria Berenger, Dave Cooper.",
+      "25th anniversary issue."
+    ]
+  },
+  "225": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"Picsou à Travers le Siècle\"",
+    "author": "Manuel Hirtz",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 128 in 9e Art : les Cahiers du Musée de la Bande Dessinée, no. 2 (Jan. 1997).",
+    "call number": "folio PN6700.N44no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comptes Rendus)",
+      "Review of The Life and Times of Scrooge McDuck (Don Rosa), published in French in Picsou Magazine in 1996 as La Jeunesse de Picsou."
+    ]
+  },
+  "226": {
+    "heading": "Rosa, Don, 1951- --Miscellanea.",
+    "title": "\"The Secret Origin of the World's Richest Duck : Don Rosa's Biography of Scrooge McDuck\"",
+    "author": "a review by Rich Kreiner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 47-49 in The Comics Journal, no. 177 (May 1995)",
+    "call number": "PN6700.C62no.177",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comics Library)"
+    ]
+  },
+  "227": {
+    "heading": "Rosa, Franco de, 1956-",
+    "title": "Chico Xavier em Quadrinhos : a Vida do Grande Espírita Brasileiro",
+    "author": "roteiro, Franco de Rosa ; desenhos, Rodolfo Zalla ; editoração e letras, Daniel de Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.B73 Z3C47 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Rio de Janeiro",
+      "publisher": "Ediouru Publicações Ltda",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": []
+  },
+  "228": {
+    "heading": "Rosa, John M.",
+    "title": "\"Powwow\" 1 p. in Indians, no. 8",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1951).",
+    "call number": "PN6728.2.F5 I5no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters from J.C. Emerson (Young Hawk), John M. Rosa, Robert LeRoy Lyons, and Jim Becker."
+    ]
+  },
+  "229": {
+    "heading": "Rosa, Omar, 1952-",
+    "title": "\"Carnivorous Ants\"",
+    "author": "Omar Rosa",
+    "title_type": "incipit-assigned",
+    "series": "Bimboo, June 30, 1987",
+    "appears_in": " p. 147 in The National Cartoonists Society Album 1988 ed.",
+    "call number": "NC1300.N3 1988",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The only meat they'll eat is filet mignon."
+    ]
+  },
+  "230": {
+    "heading": "Rosa, Omar, 1952- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "130"
+      ]
+    },
+    "call number": "NC1300.N3 1980",
+    "publication info": null,
+    "notes": []
+  },
+  "231": {
+    "heading": "Rosa, Omar, 1952- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "147"
+      ]
+    },
+    "call number": "NC1300.N3 1988",
+    "publication info": null,
+    "notes": []
+  },
+  "232": {
+    "heading": "Rosa, Rodrigo.",
+    "title": "Olho Mágico : quadrinhos = Ojo Mágico : comix.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.B72 O45 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Porto Alegre",
+      "publisher": "Prefeitura Municipal ; Buenos Aires : Centro Cultural Recoleta",
+      "date": "1998"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "54, 56 p. : ill. ; 28 cm.",
+      "Brings together works of comics artists of Buenos Aires and Porto Alegre. The originals of the works collected were exhibited in Buenos Aires in March 1998. Portuguese and Spanish language sections are bound back to back inverted.",
+      "Artists for Olho Mágico: Pedro Alice ; Allan Sieber ; Moa ; Kyoko Yamashita ; Sylvio Ayala ; Eduardo Oliveira ; Rodrigo Rosa ; Guazzelli ; Edgar Vasques ; Silvios ; Carlos Ferreiro ; Gilmar Fraga ; Santiago ; Fabio Zimbres.",
+      "Artists for Ojo Mágico: Gabriella Forcadell ; Pablo Sapia ; Isol ; Jorh ; Ricardo Siri ; Cristian ; Montenegro ; Cintia Vietto ; Langer ; Pares ; Diego Bianchi ; Fayo ; Pablo Ziccarello ; Pablo Besse ; Denise Turu ; Lucas Nine ; Dani the O ; Sergio Kern ; Elenio Pico ; Pablo Cabrera ; José Muñoz."
+    ]
+  },
+  "233": {
+    "heading": "Rosa, Salvator.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "174"
+      ]
+    },
+    "call number": "PN6710.M57 2003",
+    "publication info": null,
+    "notes": []
+  },
+  "234": {
+    "heading": "Rosa, Stéphane.",
+    "title": "Nuit Polaire",
+    "author": "scénario, Daniel Pecqueur ; dessin, Nicolas Malfin ; couleurs, Pierre Schelle et Stéphane Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M3203G603 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Delcourt",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Golden City ; 3)",
+      "(Serie B)",
+      "(Néopolis)"
+    ]
+  },
+  "235": {
+    "heading": "Rosa, Stéphane.",
+    "title": "Pilleurs d'Épaves",
+    "author": "scénario, Daniel Pecqueur ; dessin, Nicolas Malfin ; couleurs, Pierre Schelle et Stéphane Rosa.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M3203G6 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Delcourt, 1999.",
+      "(Golden City ; 1)",
+      "(Serie B)"
+    ]
+  },
+  "236": {
+    "heading": "Rosa, Stéphane--Interviews.",
+    "title": "Dossier Malfin",
+    "author": "interview Nicolas Malfin et invités, Stéphane Beaujean.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.D2no.19B",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "DBD",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(DBD : les Dossiers de la Bande Dessinée ; no. 19, cahier 2)",
+      "Chiefly in interview format, including brief interviews with colorists Stéphane Rosa and Pierre Schelle, and writer Daniel Pecqueur",
+      "\"Bibliographie\": p. 56."
+    ]
+  },
+  "237": {
+    "heading": "Rosa, Tony.",
+    "title": "Index entry to Cartoonist Profiles, no. 84",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1989), p. 69-72",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from R.C. Harvey. Call no.: NC1300.C35no.84"
+    ]
+  },
+  "238": {
+    "heading": "La Rosa de Bagdad.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "230"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "239": {
+    "heading": "Rosa-Delta-Sem Saida.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1212"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "240": {
+    "heading": null,
+    "title": "Rosa di Strada",
+    "author": "è stato scritto e disegnato da Massimo Semerano.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.S38R6 2000",
+    "library has": "no. 1-2 (2000-2001).",
+    "publication info": {
+      "place": "Bologna",
+      "publisher": "Black Velvet Editrice",
+      "date": "2000-"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "To be complete in 4 nos."
+    ]
+  },
+  "241": {
+    "heading": null,
+    "title": "Rosa et Gertrude",
+    "author": "by David Kunzle (Berkeley, Calif",
+    "title_type": "official",
+    "series": "Rodolphe Töpffer) Index entry",
+    "appears_in": " : University of California Press, 1990) Call no.: PN6710f.K85v.2",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "242": {
+    "heading": null,
+    "title": "Rosa Goes for a Walk",
+    "author": "by Nic Lawson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.A83L33 R6 2013",
+    "library has": "",
+    "publication info": {
+      "place": "Flynn, ACT",
+      "publisher": "Nic Lawson",
+      "date": "2013"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "72 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": []
+  },
+  "243": {
+    "heading": null,
+    "title": "Rosa Habla de Riesgos durante el Embarazo = Rosa Talks about Risks during Pregnancy.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HQ759.L84 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Durham, N.C.",
+      "publisher": "Aprendo Press",
+      "date": "1997"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 28 cm.",
+      "(De Madre a Madre ; 4, Risks)",
+      "Educational fotonovela."
+    ]
+  },
+  "244": {
+    "heading": null,
+    "title": "Rosa Pantern.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Stockholm",
+      "publisher": "Semic Förlags",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "130 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Serie-pocket ; 81) 1. Swedish comics. 2. Funny animal comics. I. Pink Panther. Swedish. II. Series. III. Semic Förlags. Call no.: PN6728.P5P519 1979"
+    ]
+  },
+  "245": {
+    "heading": null,
+    "title": "Rosa Pantern.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.S94R63",
+    "library has": "nr. 8 (1985).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sundbyberg : Semic, .",
+      "The Pink Panther in Swedish."
+    ]
+  },
+  "246": {
+    "heading": null,
+    "title": "Rosa Parks : the Life of a Civil Rights Heroine",
+    "author": "Rob Shone ; illustrated by Nick Spender.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.G67R6 2007",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Rosen Classroom Books &amp; Materials",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Biographical genre.",
+    "contents": [
+      {
+        "title": "Slavery"
+      },
+      {
+        "title": "Living with \"Jim Crow\""
+      },
+      {
+        "title": "Rosa Parks, the life of a civil rights heroine"
+      },
+      {
+        "title": "The struggle continues."
+      }
+    ],
+    "notes": [
+      "(Graphic Biographies)",
+      "Includes bibliographical references (p. 47) and index."
+    ]
+  },
+  "247": {
+    "heading": null,
+    "title": "Rosa Parks and the Montgomery Bus Boycott",
+    "author": "by Gary Jeffrey ; illustrated by Nick Spender.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F334.M753P38475 2013",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Gareth Stevens Publishing",
+      "date": "2013"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Historical genre.",
+    "contents": [],
+    "notes": [
+      "(A Graphic History of the Civil Rights Movement)"
+    ]
+  },
+  "248": {
+    "heading": null,
+    "title": "\"La Rosa Roja\" 4 p. illustrated text in Santiago Conejo, no. 7",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1959).",
+    "call number": "PN6790.M44S325no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "249": {
+    "heading": "Rosa Talks about Risks During Pregnancy.",
+    "title": "Rosa Habla de Riesgos durante el Embarazo = Rosa Talks about Risks during Pregnancy.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HQ759.L84 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Durham, N.C.",
+      "publisher": "Aprendo Press",
+      "date": "1997"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 28 cm.",
+      "(De Madre a Madre ; 4, Risks)",
+      "Educational fotonovela."
+    ]
+  },
+  "250": {
+    "heading": null,
+    "title": "\"Rosa y Federico : Novela Ilustrada Contemporánea : la Primera Novela Ilustrada Mexicana\"",
+    "author": "Hugo Arturo Cardoso Vargas",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 240-252 in Revista Latinoamericana de Estudios Sobre la Historieta, v. 2, no. 8 (Dic. 2002).",
+    "call number": "PN6790.L29R4no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Resumen: \"Entre los múltiples trabajos desarrollados en torno a la historieta en México, a pesar de su abundancia no descubren ni menos describen la que vendría a ser la primera historieta publicada en las páginas de la prensa mexicana del siglo XIX. Entre otras razones porque fue publicada en las páginas del periódico de la ciudad de San Luis Potosí: La Ilustración Potosina. La historia de Rosa y Federico, hay que decirlo, no es una gran joya ni de la literatura ni de la litografía mexicana, pero su existencia es importante.\"",
+      "Abstract: In spite all the many works being published about the comic in Mexico, none have discovered or described what will be seen as the first comic published in the pages of the Mexican press in the 19th century. Among other reasons this is because it was published in the pages of the newspaper of the city of San Luis Potosi: La Ilustración Potosina. The story of Rosa y Federico, it must be said, is not a great jewel either of literature of the Mexican lithograph, but its existence is important.",
+      "Abstracts as printed with the article, with some editing of the English.",
+      "Includes reprints of four pages of the story."
+    ]
+  },
+  "251": {
+    "entry type": "target",
+    "anchor": "/rri/rrri/rop.htm#rope",
+    "title": "Rope",
+    "notes": [
+      "See also <a href=\"/rri/rrri/rop.htm#ropes\">Ropes</a>"
+    ],
+    "links": [
+      {
+        "Link Text": "Ropes",
+        "Link URL": "/rri/rrri/rop.htm#ropes"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

@@ -1,0 +1,3828 @@
+{
+  "1": {
+    "heading": "Aventures.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "35"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "2": {
+    "heading": "Aventures.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "26",
+        "214"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "3": {
+    "heading": "Aventures à Coquefredouille--Reviews.",
+    "title": "\"Souris à Croquer : Chlorophylle : Aventures à Coquefredouille, Raymond Macherot\"",
+    "author": "Emmanuel Lemieux",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 76 in Bachi-Bouzouk, no. 1 (fév. 1999).",
+    "call number": "PN6745.B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Nos Critiques)",
+      "Review."
+    ]
+  },
+  "4": {
+    "heading": null,
+    "title": "\"Les Aventures à Vent de Cuicui et Papa\"",
+    "author": "par Touis",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 18-19 in Pilote, no. 42 (Nov. 1977).",
+    "call number": "PN6748.P53no.42",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Final episode."
+    ]
+  },
+  "5": {
+    "heading": "Les Aventures Acrobatiques de Charlot.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "317"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": "Les Aventures Africaines de Giuseppe Bergman.",
+    "title": "Jour de Colere : les aventures africaines de Giuseppe Bergman",
+    "author": "Manara.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "J'ai Lu",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "379 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(J'ai Lu BD ; 128) 1. Adventure story comics. I. Manara, Milo. II. Les Aventures Africaines de Giuseppe Bergman. III. Series. Call no.: PN6767.M36J6 1989"
+    ]
+  },
+  "7": {
+    "heading": null,
+    "title": "Les Aventures d'Al Crane",
+    "author": "dessins d'Alexis ; texte de Lauzier.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.A36A93 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "95 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [
+      {
+        "title": "\"Frères d'armes\""
+      },
+      {
+        "title": "\"Vacances texanes\""
+      },
+      {
+        "title": "\"La chevauchée d'Al Crane\""
+      },
+      {
+        "title": "\"Dieu sait prendre soin de ses enfants\""
+      },
+      {
+        "title": "\"Chasseur de primes\""
+      },
+      {
+        "title": "\"Mariage à Gold Valley\""
+      },
+      {
+        "title": "\"Le retour d'Al Crane\""
+      },
+      {
+        "title": "\"Al Crane au Mexique\""
+      },
+      {
+        "title": "\"Une Éducation d'Homme\""
+      },
+      {
+        "title": "\"Elections à San Diégo\""
+      },
+      {
+        "title": "\"Le train fou\""
+      },
+      {
+        "title": "\"La vie d'artiste\"."
+      }
+    ],
+    "notes": []
+  },
+  "8": {
+    "heading": null,
+    "title": "Les Aventures d'Alef-Thau",
+    "author": "Jodorowsky, Arno.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J55A9 1983",
+    "library has": "t. 3-4, 6.",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Les Humanoïdes Associés",
+      "date": "1983-"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "1: L'enfant tronc. 2: Le prince manchot. 3: Le roi borgne. 4: Le seigneur des illusions. 5: L'empereur boiteux. 6: L'homme sans réalité. 7: La porte de la verité."
+      }
+    ],
+    "notes": [
+      "(Collection Eldorado)",
+      "Genre: Science fiction."
+    ]
+  },
+  "9": {
+    "heading": "Les Aventures d'Alef-Thau.",
+    "title": "L'Enfant Tronc",
+    "author": "Arno, Jodorowsky.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "J'ai Lu",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "157 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(J'ai Lu BD ; 164) (Aventures d'Alef-Thau) 1. Science fiction comic books, strips, etc. I. Arno. II. Jodorowsky, Alexandro. III. Series. IV. Series 2. a. French comics. Call no.: PN6747.A75E5 1989"
+    ]
+  },
+  "10": {
+    "heading": "Les Aventures d'Alef-Thau. Danish.",
+    "title": "Anden Hymne : Prins Enarm",
+    "author": "tekst, Jodorowsky ; tegninger, Arno ; dansk oversættelse og tekstning, Mogens Dalgård.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J55P719 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Bogen",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Eventyret om Alef-Thau ; 2)",
+      "Translation of: Le Prince Manchot."
+    ]
+  },
+  "11": {
+    "heading": "Les Aventures d'Alef-Thau. Swedish.",
+    "title": "Ner-Ramnus' Borg",
+    "author": "text, Jodorowsky ; bild, Arno ; svensk text, Stellan Nehlmark ; textning, Marika Sjöstrand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J55A919 1985",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "54 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Alvglans, 1985.",
+      "(Alef-Thaus äventyr)",
+      "Translation of Les Aventures d'Alef-Thau 1: L'Enfant Tronc."
+    ]
+  },
+  "12": {
+    "heading": "Les Aventures d'Alef-Thau--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "16"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "13": {
+    "heading": "Les Aventures d'Alef-Thau--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "12"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "14": {
+    "heading": "Les Aventures d'Alef-Thau--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1033"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "15": {
+    "heading": "Les Aventures d'Alef-Thau--Miscellanea.",
+    "title": "\"Le Seigneur des Illusions : Les Aventures d'Alef-Thau\" p. 6-7 in L'Humano, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1988).",
+    "call number": "PN6705.F7H8no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Photograph of Arno (Arnaud Dombre, 1961-)."
+    ]
+  },
+  "16": {
+    "heading": "Les Aventures d'Alef-Thau--Reviews.",
+    "title": "\"Jodo Roupille : Les Aventures d'Alef-Thau, t. 8: Le Triomphe du Rêveur, Jodorowsky et Covial\"",
+    "author": "Cécile Chavepayre",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 73 in Bachi-Bouzouk, no. 1 (fév. 1999).",
+    "call number": "PN6745.B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Nos Critiques)",
+      "Review."
+    ]
+  },
+  "17": {
+    "heading": "Les Aventures d'Alef-Thau--Reviews.",
+    "title": "\"Le Prince Manchot\"",
+    "author": "Anita Van Belle",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 68-69 in Les Cahiers de la Bande Dessinée, no. 60 (Nov./Dec. 1984).",
+    "call number": "PN6745.S37no.60",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews the album by Arno and Jodorowsky, of the series Les Aventures d'Alef-Thau."
+    ]
+  },
+  "18": {
+    "heading": "Les Aventures d'Anselme Lanturlu.",
+    "title": "Tout est Relatif",
+    "author": "Jean-Pierre Petit.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "QC173.575.P47 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Belin",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Anselme Lanturlu)",
+      "Educational comic about relativity."
+    ]
+  },
+  "19": {
+    "heading": "Les Aventures d'Anselme Lanturlu.",
+    "title": "Le Trou Noir",
+    "author": "Jean-Pierre Petit.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "QB173.59.S65P46 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Belin",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Anselme Lanturlu)",
+      "Educational comic about space and time, and black holes."
+    ]
+  },
+  "20": {
+    "heading": "Les Aventures d'Anselme Lanturlu--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1150"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "21": {
+    "heading": null,
+    "title": "Les Aventures d'Antoine et Victor ; 1 L'Ingenue et le Dictateur",
+    "author": "Thierry Groensteen ; Jean Lucas.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L77 I5 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Editions Glénat",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Antoine et Victor ; 1)"
+    ]
+  },
+  "22": {
+    "heading": null,
+    "title": "Les Aventures d'Arthur Leroy ; no. 2 Le Roi de la Jungle Radiofunique",
+    "author": "textes &amp; dessins de Mario Malouin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.M33A7 1985",
+    "library has": "",
+    "publication info": {
+      "place": "St-Augustin, Québec",
+      "publisher": "Editions Malouin",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Arthur Leroy ; no. 2)"
+    ]
+  },
+  "23": {
+    "heading": "Les Aventures d'Aziz le Reporter.",
+    "title": "L'Ombre de Boy Melakh",
+    "author": "textes &amp; dessins Samba Fall.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Senegal",
+      "publisher": "Nouvelles Editions Africaines du Senegal",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Aziz le Reporter) I. Fall, Samba. II. Series. a. Africana. b. Senegalese comics. Call no.: PN6790.S43F3 1989"
+    ]
+  },
+  "24": {
+    "heading": "Les Aventures d'Aziz le Reporter.",
+    "title": "Sangomar",
+    "author": "Samba Fall.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Senegal",
+      "publisher": "Nouvelles Editions Africaines du Senegal",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "77 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Aziz le Reporter) I. Fall, Samba. II. Series. a. Africana. b. Senegalese comics. Call no.: PN6790.S43F32 1989"
+    ]
+  },
+  "25": {
+    "heading": null,
+    "title": "\"Les Aventures d'Edith Rabatjoie, ou, Le Feuilleton Désenchanté\"",
+    "author": "par Thierry Smolderen",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 23-25 in Les Cahiers de la Bande Dessinée, no. 63 (May/June 1985).",
+    "call number": "PN6745.S37no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Tardi)",
+      "Article on the Adèle Blanc-Sec stories."
+    ]
+  },
+  "26": {
+    "heading": null,
+    "title": "Les Aventures d'Electrozz et Bozz, les Extra-Touristes ; 1 Electrozz et Bozz au Quebec",
+    "author": "par Prouche.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Chicoutimi, Quebec",
+      "publisher": "Larouche",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "22 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Electrozz et Bozz, les Extra-Touristes ; 1) 1. Science fiction comic books, strips, etc. 2. Canadian comics. I. Prouche. II. Series. III. Larouche. Call no.: PN6733.P7E4 1983"
+    ]
+  },
+  "27": {
+    "heading": "Aventures d'en Jordi i la Mercè, els intrepids pomellistes.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "73; fig. 63"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "28": {
+    "heading": null,
+    "title": "Les Aventures d'Henri-Georges Midi ; t. 2 L'Aigle Chantera 3 Fois",
+    "author": "scénario, Didier Convard ; dessin, Christian Goux ; couleur, Anne Bosser.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G63M52 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures d'Henri-Georges Midi ; t. 2)"
+    ]
+  },
+  "29": {
+    "heading": "Les Aventures d'Hergé.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "272"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "30": {
+    "heading": "Les Aventures d'Idéfix--Reviews.",
+    "title": "\"Les Aventures d'Idéfix\"",
+    "author": "Jacques Glénat-Guttin",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 19 in Schtroumpf : les Cahiers de la Bande Dessinée, no. 20 (Mar./Apr. 1973).",
+    "call number": "PN6745.S37no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Schtroumpf-Bis : A Propos de Quelques Albums)",
+      "Brief review of a series of albums for children."
+    ]
+  },
+  "31": {
+    "heading": "Les Aventures d'Olivier Désormeaux.",
+    "title": "\"Science sans Conscience\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Les Aventures d'Olivier Désormeaux) p. 79-84 in Pilote, no. 121",
+    "call number": "PN6748.P53no.121",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "32": {
+    "heading": "Les Aventures d'Olivier Désormeaux--Articles About.",
+    "title": "\"Une Comédie de la Métamorphose\"",
+    "author": "par Patrick Delperdange",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 31-32 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Veyron)",
+      "Article on Les Aventures d'Olivier Désormeaux."
+    ]
+  },
+  "33": {
+    "heading": "Les Aventures de Ashe Barret--Reviews.",
+    "title": "\"Les Aventures de Ashe Barrett",
+    "author": "Thierry Smolderen",
+    "title_type": "official",
+    "series": "Vincent Hardy)\"",
+    "appears_in": " p. 68 in Les Cahiers de la Bande Dessinée, no. 70 (July/Aug. 1986).",
+    "call number": "PN6745.S37no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Review."
+    ]
+  },
+  "34": {
+    "heading": "Les Aventures de Baptiste Ladébauche.",
+    "entry type": "index entry",
+    "title": "La bande dessinée au Québec",
+    "author": "Mira Falardeau",
+    "series": null,
+    "pages": {
+      "range": [
+        "30"
+      ]
+    },
+    "call number": "PN6731.F34 1994",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Boréal",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "35": {
+    "heading": "Aventures de Barbe-Rouge et D'Eric.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "596"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "36": {
+    "heading": "Les Aventures de Bédébulle.",
+    "entry type": "index entry",
+    "title": "La bande dessinée au Québec",
+    "author": "Mira Falardeau",
+    "series": null,
+    "pages": {
+      "range": [
+        "82"
+      ]
+    },
+    "call number": "PN6731.F34 1994",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Boréal",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "37": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "L'Affaire du Collier",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs.",
+    "call number": "PN6747.J27A7 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions du Lombard",
+      "date": "1967"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Detective genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer)",
+      "Originally published in Tintin."
+    ]
+  },
+  "38": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "L'Enigme de l'Atlantide",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Lombard",
+      "date": "1970"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer)",
+      "First published in Tintin. 1. Science fiction comic books, strips, etc. I. Jacobs, Edgar P. II. Series. Call no.: PN6747f.J27E5 1970"
+    ]
+  },
+  "39": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "L'Énigme de l'Atlantide",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions du Lombard",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer) 1. Belgian comics. 2. Science fiction comic books, strips, etc. I. Jacobs, Edgar-P. (Edgar-Pierre), 1904- II. Series. III. Editions du Lombard. Call no.: PN6747.J27E5 1977"
+    ]
+  },
+  "40": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "L'Evasion de Mortimer",
+    "author": "E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "P. Jacobs ; lettrage, Dominique Maes ; coloriage, Philippe Biermé, Luce Daniels.",
+    "call number": "PN6747.J27S402 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Les Editions Blake et Mortimer/Dargaud Benelux",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "56 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Le Secret de l'Espadon ; t. 2)",
+      "(Les Aventures de Blake et Mortimer ; 2)",
+      "\"A la fin de l'épisode précédent, Blake et Mortimer sont sur le point d'être capturés par les jaunes, mais...\""
+    ]
+  },
+  "41": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "La Machination Voronov",
+    "author": "scénario, Yves Sente ; dessins, André Juillard ; couleurs, Didier Convard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J813M3 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Ed. Blake &amp; Mortimer",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Spy genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer ; 14)"
+    ]
+  },
+  "42": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "La Marque Jaune",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs.",
+    "call number": "PN6747.J27M3 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions du Lombard",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "68 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Detective genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer)",
+      "Originally published in Tintin."
+    ]
+  },
+  "43": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "Le Mystère de la Grande Pyramide. 2, La Chambre d'Horus",
+    "author": "E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "P. Jacobs.",
+    "call number": "PN6747.J27M92 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions Blake &amp; Mortimer",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer ; 5)"
+    ]
+  },
+  "44": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "Le Piege Diabolique",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly-sur-Seine",
+      "publisher": "Dargaud",
+      "date": "1962"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer) 1. Science fiction comic books, strips, etc. I. Jacobs, Edgar P. II. Series. Call no.: PN6747.J27P5 1962"
+    ]
+  },
+  "45": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "Le Piège Diabolique : une Histoire du Journal Tintin",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs.",
+    "call number": "PN6747.J27P5 1972",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions du Lombard",
+      "date": "1972"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Blake et Mortimer)"
+    ]
+  },
+  "46": {
+    "heading": "Les Aventures de Blake et Mortimer.",
+    "title": "La Poursuite Fantastique",
+    "author": "E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "P. Jacobs.",
+    "call number": "PN6747.J27S401 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Brussels",
+      "publisher": "Éditions Blake &amp; Mortimer",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "56 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Le Secret de l'Espadon ; 1)",
+      "(Les Aventures de Blake et Mortimer ; 1)"
+    ]
+  },
+  "47": {
+    "heading": "Les Aventures de Blake &amp; Mortimer. Danish.",
+    "title": "Professor Satos 3 Formler. 1. del, Mortimer i Tokio",
+    "author": "Edgar P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Jacobs ; dansk oversættelse og tekstning, Freddy Milton.",
+    "call number": "PN6747.J27T719 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Blake og Mortimer ; 8)",
+      "Translation of: Blake &amp; Mortimer: Les Trois formules du Professeur Sato.",
+      "Science fiction."
+    ]
+  },
+  "48": {
+    "heading": "Les Aventures de Blake et Mortimer--Articles About.",
+    "title": "\"Blake, Mortimer et la Science-Fiction\"",
+    "author": "par Claude Le Gallo",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 22-26 in Phénix, no. 4 (3e Trimestre 1967).",
+    "call number": "PN6745.P47no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article on the E.P. Jacobs series."
+    ]
+  },
+  "49": {
+    "heading": "Les Aventures de Blake et Mortimer--Books about.",
+    "title": "Jacobs, la Marque du Fantastique : Mythologie, Politique et Religion dans la Bande Dessinée Blake et Mortimer",
+    "author": "René Nouailhat ; annexes pédagogiques René Nouailhat, Michel Thiébaut et Luc Révillon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J27 Z5N6 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Saint-Egrève",
+      "publisher": "Mosquito ; Besançon : CRDP Franche-Comté",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "182 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "50": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "title": "\"Bob de Moor : Capacidad de Adaptación\"",
+    "author": "Laureano Dominguez",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 26-27 in Cairo, no. 71 (1990).",
+    "call number": "PN6778.C33no.71",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About the stylistic flexibility of De Moor, introducing a translation of his completion of Edgar P. Jacobs' unfinished Blake and Mortimer album."
+    ]
+  },
+  "51": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "title": "\"De Couples en Trois\"",
+    "author": "Yves Di Manno",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 34 in Schtroumpf : les Cahiers de la Bande Dessinée, no. 20 (Mar./Apr. 1973).",
+    "call number": "PN6745.S37no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Chart comparing the Alix series and the Lefranc series, both by Martin, with the Blake et Mortimer series by E.P. Jacobs.",
+      "(Dossier Jacques Martin)"
+    ]
+  },
+  "52": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "title": "\"E.P. Jacobs's Blake and Mortimer Return, 50 Years after their Debut\"",
+    "author": "Gil Jordan",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 37 in The Comics Journal, no. 190 (Sept. 1996) 1. Jacobs, Edgar P. 2. Les Aventures de Blake et Mortimer. k. Belgian comics",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "History and criticism. I. Jordan, Gil. Call no.: PN6700.C62no.190"
+    ]
+  },
+  "53": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Diccionario Básico del Cómic",
+    "author": "Federico López Socasau",
+    "series": null,
+    "pages": {
+      "range": [
+        "55"
+      ]
+    },
+    "call number": "PN6707.L6 1998",
+    "publication info": {
+      "place": "Madrid",
+      "publisher": "Acento Editorial",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "54": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "387"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "55": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "72-73"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "56": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Das grosse Comic-Lexikon",
+    "author": "Marcel Feige",
+    "series": null,
+    "pages": {
+      "range": [
+        "72-73"
+      ]
+    },
+    "call number": "PN6707.F48 2001",
+    "publication info": {
+      "place": null,
+      "publisher": "Berlin: Lexikon Imprint Verlag",
+      "date": "2001"
+    },
+    "notes": []
+  },
+  "57": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The World Encyclopedia of Comics",
+    "author": "ed. by Maurice Horn",
+    "series": null,
+    "pages": {
+      "range": [
+        "137"
+      ]
+    },
+    "call number": "PN6710.W6 1999",
+    "publication info": {
+      "place": "Philadelphia",
+      "publisher": "Chelsea House",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "58": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "title": "\"The Francis Blake Affair Affair\"",
+    "author": "Gil Jordan",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 24-25 in The Comics Journal, no. 191 (Nov. 1996)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(News Watch) 1. Les Aventures de Blake et Mortimer. 2. L'Affaire Francis Blake. 2. Jacobs, Edgar P. I. Jordan, Gil. k. Belgian comics",
+      "History and criticism. Call no.: PN6700.C62no.191"
+    ]
+  },
+  "59": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "title": "\"The Great European Comic Heroes\"",
+    "author": "by R",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": "J.M. Lofficier and Fred Patten. p. 50-56 in Nemo, no. 15 (Oct. 1985)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Illustrated brief introductions to: Lucky Luke, Blake and Mortimer, Les Passagers du Vent, Adele Blanc-Sec.",
+      "Cover title: The Heroes of European Comics. 1. French comics",
+      "History and criticism. 2. Belgian comics",
+      "History and criticism. 3. [Each title] I. Lofficier, Randy. II. Lofficier, Jean-Marc. III. Patten, Fred. IV. The Heroes of European Comics. k. European Comics. Call no.: PN6725.N43no.15"
+    ]
+  },
+  "60": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Adult Comics : an Introduction",
+    "author": "by Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "185"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Routledge",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "61": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": "La Bande Dessinée en 10 Leçons",
+    "author": "Henri Filippini, Michel Bourgeois.",
+    "series": null,
+    "pages": {
+      "range": [
+        "38",
+        "71",
+        "72",
+        "132"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "62": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "189",
+        "192",
+        "197",
+        "199"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "63": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "147",
+        "148"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "64": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "475",
+        "593"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "65": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "278"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "66": {
+    "heading": "Les Aventures de Blake et Mortimer--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "illustrations": [
+        "28",
+        "118",
+        "359"
+      ],
+      "range": [
+        "117",
+        "333",
+        ""
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "67": {
+    "heading": "Les Aventures de Blake &amp; Mortimer--Reviews.",
+    "title": "\"Mortimer contre Mortimer : Les 3 Formules du Professeur Sato\" p. 6-7 in Les Cahiers de la Bande Dessinée, no. 89",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1990).",
+    "call number": "PN6745.S37no.89",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(La Cible)",
+      "Brief reviews, by Patrick Grée and Gloubine Strabongz, of the Blake &amp; Mortimer album completed by Bob De Moor."
+    ]
+  },
+  "68": {
+    "heading": "Les Aventures de Blake et Mortimer--Reviews.",
+    "title": "\"La Sélection\" p. 110-112 in J'Aime la BD, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Fév./Mars 2004).",
+    "call number": "PN6748.J3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Brief review-recommendations of: Blake et Mortimer 16: Les Sarcophages du 6e Continent (Juillard &amp; Sente) ; Hikaru no Go (Y. Hotta &amp; T. Obata) ; Inspecteur Bayard 13: Ça Chauffe à Texico (J.-L. Fonteneau &amp; O. Schwartz) ; Mèche Rebelle 1: Kim (Zidrou &amp; Matteo) ; Zap Collège 2: Deuxième Service (Téhem) ; Nini Patalo 1: Où sont Passés mes Parents? (L. Mandel) ; Sans Famille 1: Mère Barberin (Yan Degruel, Hector Malot) ; XIII d'Ubi Soft (for PlayStation 2) ; and Horus, Prince du Soleil (anime by Isao Takahata, Hayao Miyazaki)"
+    ]
+  },
+  "69": {
+    "heading": "Aventures de Blue Cat.",
+    "title": "Rock Star",
+    "author": "Capone ; Sicart.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C26R6 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "D. Leroy",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Vertiges Bulles)",
+      "(Aventures de Blue Cat)",
+      "About a rock musician."
+    ]
+  },
+  "70": {
+    "heading": null,
+    "title": "Les Aventures de Borneo",
+    "author": "by Pehel + Alain Duchene.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Tours",
+      "publisher": "Association Week-End Doux",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection Bubble WED)",
+      "Cover title: Agent Double, including Hot Dog.",
+      "\"Publie avec le concours de la Direction Regionale des Affairs Culturelles de la Region Centre.\" 1. Spy comics. I. Pehel. II. Duchene, Alain, 1960- III. Agent Double, including Hot Dog. IV. Hot Dog. V. Series. a. French comics. Call no.: PN6747.P44A87 1989"
+    ]
+  },
+  "71": {
+    "heading": null,
+    "title": "\"Les Aventures de Brise-Galette\" sheet no. 515 in Imagerie d'Epinal",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Epinal : Imagerie Pellerin, between 1880 and 1900?).",
+    "call number": "XX oversize PN6746.I49 1880z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "72": {
+    "heading": "Les Aventures de Capitaine Ketchup.",
+    "title": "L'Enlèvement",
+    "author": "Simon Stern.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.S7A7414 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Casterman",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "26 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Capitaine Ketchup)",
+      "Translation of: The Astonishing Adventures of Captain Ketchup : Kidnapped.",
+      "Adventure story comic."
+    ]
+  },
+  "73": {
+    "heading": "Les Aventures de Capitaine Ketchup.",
+    "title": "Mystère dans la Jungle",
+    "author": "Simon Stern.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.S7A7314 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Tournai",
+      "publisher": "Casterman",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "27 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Capitaine Ketchup)",
+      "Translated from English."
+    ]
+  },
+  "74": {
+    "heading": null,
+    "title": "Les Aventures de Cartouche et Namor : histoire thématique pour la branche castors",
+    "author": "scénario, Michel Marseille et Denis Poulet ; dessins, Michel Marseille.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HS3316.C3M39 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Association des Scouts du Canada",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic about scouts and scouting in Canada."
+    ]
+  },
+  "75": {
+    "heading": "Les Aventures de Cecil Sander.",
+    "title": "La Dame de Singapour",
+    "author": "Francis Lambert, Al Coutelis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.L25D3 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud Editeur",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Cecil Sander)",
+      "Genre: Adventure story."
+    ]
+  },
+  "76": {
+    "heading": "Les Aventures de Charles Hautis.",
+    "title": "La Lueur des Abîmes : Invité Spécial, Jacques Cartier",
+    "author": "scénario, Daniel Chesnel ; dessins, Laurent Trudel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.C473L8 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Sherbrooke, Québec",
+      "publisher": "Suspense inc.",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Historical and fantasy genres.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Charles Hautis)"
+    ]
+  },
+  "77": {
+    "heading": "Les Aventures de Chéri-Bibi.",
+    "title": "Bagarre",
+    "author": "textes de A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "G. Leroux ; dessins de Bernad.",
+    "call number": "PN6747.B416B3 1968",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly/s/Seine",
+      "publisher": "Dargaud S.A. Éditeur",
+      "date": "1968"
+    },
+    "physical description": {
+      "dimensions": "19 x 21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "96 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Chéri-Bibi)",
+      "Panel and caption style.",
+      "Detective."
+    ]
+  },
+  "78": {
+    "heading": "Aventures de Chlorophylle. Italian.",
+    "title": "Piripacchio il Terrible",
+    "author": "di Macherot.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M35Z516 1971",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Corriere dei Piccoli",
+      "date": "1971"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "49 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Albi Sprint ; anno 2, n. 3)",
+      "(Mignolino e Clorofilla)",
+      "Translation of: Zizanion le terrible (Aventures de Chlorophylle)."
+    ]
+  },
+  "79": {
+    "heading": null,
+    "title": "Les Aventures de Christopher ; 1 Graine de Jockey",
+    "author": "dessins, F",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Drappier ; texte, Y. Duval.",
+    "call number": "PN6747.F68G7 1973",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Rossel Edition",
+      "date": "1973"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Christopher ; 1)",
+      "Horse racing setting."
+    ]
+  },
+  "80": {
+    "heading": null,
+    "title": "Les Aventures de Cicciolina",
+    "author": "Filippucci, Romanini, Ubaldi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.F5C514 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Media 1000",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of Cicciolina from Italian to French.",
+      "Genre: Erotic."
+    ]
+  },
+  "81": {
+    "heading": null,
+    "title": "Les Aventures de Cicciolina",
+    "author": "Filippucci, Romanini, Ubaldi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Média 1000",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "158 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(BD Adultes ; 23)",
+      "Translated from Italian to French. 1. Italian comics. 2. French comics. 3. Erotic comic books, strips, etc. I. Filippucci. II. Romanini. III. Ubaldi. IV. Cicciolina. French. V. Series. VI. Média 1000. Call no.: PN6767.F5C514 1989."
+    ]
+  },
+  "82": {
+    "heading": "Les Aventures de Cléo.",
+    "title": "Cléo. 4ème épisode",
+    "author": "Colber.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Média 1000",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "158 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(BD Adultes ; 21)",
+      "Cover title: Les Aventures de Cléo. 1. Erotic comic books, strips, etc. 2. French comics. I. Colber, W. G. II. Les Aventures de Cléo. III. Series. IV. Média 1000. Call no.: PN6747.C56C55 1989"
+    ]
+  },
+  "83": {
+    "heading": "Les Aventures de Cléo.",
+    "title": "Cléo. 5ème épisode",
+    "author": "Colber.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Média 1000",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "159 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(BD Adultes ; 37)",
+      "Cover title: Les Aventures de Cléo. 1. Erotic comic books, strips, etc. 2. French comics. I. Colber, W. G. II. Les Aventures de Cléo. III. Series. IV. Média 1000. Call no.: PN6747.C56C555 1990"
+    ]
+  },
+  "84": {
+    "heading": "Les Aventures de Clopinard.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "204"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "85": {
+    "heading": "Les Aventures de Corentin.",
+    "entry type": "index entry",
+    "title": "A History of the Comic Strip",
+    "author": "Pierre Couperie, et al.",
+    "series": null,
+    "pages": {
+      "range": [
+        "99",
+        "101"
+      ]
+    },
+    "call number": "NC1355.B28513",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Crown Publishers",
+      "date": "1968"
+    },
+    "notes": []
+  },
+  "86": {
+    "heading": "Les Aventures de Corentin Feldoe.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "179"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "87": {
+    "heading": "Les Aventures de Dan Risquetout.",
+    "title": "Le Chah d'Arsedonie.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6746.A3T03 1950z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Holland : Mulder, between 1950 and 1980.",
+      "(Les Aventures de Dan Risquetout)",
+      "(Albums Tricolores ; 3)",
+      "(Albums du Gai Moulin)",
+      "Adventure story."
+    ]
+  },
+  "88": {
+    "heading": "Les Aventures de Dan Risquetout.",
+    "title": "Île Mystérieuse.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6746.A3T01 1950z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Holland : Mulder, between 1950 and 1980.",
+      "(Les Aventures de Dan Risquetout)",
+      "(Albums Tricolores ; 1)",
+      "(Albums du Gai Moulin)",
+      "Adventure story"
+    ]
+  },
+  "89": {
+    "heading": null,
+    "title": "\"Aventures de deux petits moineaux\" sheet no. 381 in Imagerie d'Epinal",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Epinal : Imagerie Pellerin, between 1880 and 1900?).",
+    "call number": "XX oversize PN6746.I49 1880z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "90": {
+    "heading": "Les Aventures de Diogène.",
+    "title": "À toi de Jouer, Diogène",
+    "author": "Godi, Norac.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G553A2 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Tournai",
+      "publisher": "Casterman",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Diogène)",
+      "Genre: Funny animal."
+    ]
+  },
+  "91": {
+    "heading": "Les Aventures de Diogène Terrier.",
+    "title": "Les Oiseaux Mécaniques",
+    "author": "Godi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G553 O4 1981",
+    "library has": "",
+    "publication info": {
+      "place": "Tournai",
+      "publisher": "Casterman",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Diogène Terrier)",
+      "Funny animal adventure stories."
+    ]
+  },
+  "92": {
+    "heading": null,
+    "title": "Les Aventures de François Vidocq",
+    "author": "Hans Kresse.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43K7A85 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Casterman",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "145 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Grands Romans de la Bande Dessinée)",
+      "First published in Dutch in 1965."
+    ]
+  },
+  "93": {
+    "heading": null,
+    "title": "Aventures de Fred et Bob ; 2 L'Enfer de la Drague",
+    "author": "texte, Cailleteau ; dessins, Vatine ; couleurs, Éric Héliot et Olivier Vatine.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C25E5 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Delcourt",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Aventures de Fred et Bob ; 2)",
+      "Teen humor."
+    ]
+  },
+  "94": {
+    "heading": "Les Aventures de Fred et Rico.",
+    "title": "J'ai Faim",
+    "author": "Pittau &amp; Gervais.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.P545J3 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Seuil Jeunesse",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Fred et Rico)",
+      "Funny animal."
+    ]
+  },
+  "95": {
+    "heading": "Aventures de Freddy Lombard.",
+    "title": "Vacances à Budapest",
+    "author": "Chaland ; scénario, Lepennetier, Chaland ; couleurs, Beaumenay, Joannet.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C4V3 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Humanoïdes Associés",
+      "date": "1988"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 30 cm.",
+      "(Aventures de Freddy Lombard)",
+      "Genre: Adventure story."
+    ]
+  },
+  "96": {
+    "heading": "Les Aventures de Fripounet et Marisette.",
+    "title": "Les Semelles d'Or",
+    "author": "scénario et illustrations de René Bonnet.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B595S4 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions du Triomphe",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Fripounet et Marisette)",
+      "\"Une échappée à travers la campagne français des années 50!\"",
+      "Kid adventure."
+    ]
+  },
+  "97": {
+    "heading": null,
+    "title": "\"Les Aventures de Frise-Poulet\" sheet no. 107 in Imagerie d'Epinal",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Epinal : Imagerie Pellerin, between 1880 and 1900?).",
+    "call number": "XX oversize PN6746.I49 1880z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "98": {
+    "heading": "Les Aventures de Gil et Georges--Reviews.",
+    "title": "\"Les Aventures de Gil et Georges : La Machine Perplexe\"",
+    "author": "Hugo Lacroix",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 93 in À Suivre, no. 107 (Dec. 1986).",
+    "call number": "PN6748.A2no.107",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(L'Actualité A Suivre)",
+      "Reviews the album by Wasterlain."
+    ]
+  },
+  "99": {
+    "heading": null,
+    "title": "\"Les Aventures de Grand-Flandrin\" sheet no. 757 in Imagerie d'Epinal",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Epinal : Imagerie Pellerin, between 1880 and 1900?).",
+    "call number": "XX oversize PN6746.I49 1880z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "100": {
+    "heading": null,
+    "title": "\"Aventures de Gulliver\" sheet no. 657 in Imagerie d'Epinal",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Epinal : Imagerie Pellerin, between 1880 and 1900?).",
+    "call number": "XX oversize PN6746.I49 1880z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "101": {
+    "heading": "Les Aventures de Gully. Danish.",
+    "title": "Historien om Gully",
+    "author": "skrevet af Makyo ; tegnet af Dodier ; Dansk tekst af Freddy Milton.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M305A8719 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "A/S Interpresse",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Albumkluben Trumf ; nr. 34)",
+      "\"Originaltitel: Carte Blanche 9, 'Les aventures de Gully'\".",
+      "Sword and sorcery."
+    ]
+  },
+  "102": {
+    "heading": "Les Aventures de Jacques.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "595"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "103": {
+    "heading": "Les Aventures de Jacques Mervel.",
+    "title": "\"Adieu, Jacques\"",
+    "author": "d'aprés le roman de Robert Gaillard.",
+    "title_type": "incipit",
+    "series": "L'Homme de Jamaïque",
+    "call number": "folio PN6720.E8 1998",
+    "library has": "",
+    "publication info": {
+      "place": "p. 20 in European Newspaper Comic Strips",
+      "publisher": "a survey of 79 strips collected from various European papers dated August 16 to September 10",
+      "date": "1968"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "This strip taken from La Derniére Heure (Brussels) (Aug. 17, 1968).",
+      "Panel and caption style."
+    ]
+  },
+  "104": {
+    "heading": "Les Aventures de Jacques Mervel.",
+    "title": "\"Une Odeur Suspecte\"",
+    "author": "d'après le roman de Robert Gaillard ; dessins de Jo Barque",
+    "title_type": "incipit",
+    "series": "Les Aventures de Jacques Mervel : L'Orchidée Blanche",
+    "appears_in": " p. 5 in European Newspaper Comic Strips : a survey of 79 strips collected from various European papers dated August 16 to September 10, 1968 (collection assembled in the Michigan State University Comic Art Collection). This strip taken from Le Parisien (Aug. 26, 1968).",
+    "call number": "folio PN6720.E8 1998",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Panel and caption style."
+    ]
+  },
+  "105": {
+    "heading": "Les Aventures de Jo Engo, Journaliste.",
+    "title": "La Grande Fièvre : des petits vélos dans les têtes",
+    "author": "Frémond.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.F7G7 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Echo des Savanes/Albin Michel",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "44 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Jo Engo, Journaliste)"
+    ]
+  },
+  "106": {
+    "heading": "Les Aventures de Jo Engo, Journaliste.",
+    "title": "Opération du 3ème type",
+    "author": "Frémond.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.F7 O8 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Echo des Savanes/Albin Michel",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "50 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Jo Engo, Journaliste)"
+    ]
+  },
+  "107": {
+    "heading": "Les Aventures de Jo, Zette et Jocko--Articles About.",
+    "title": "\"Jo, Zette et Jocko\"",
+    "author": "Dominique Labesse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 30-32 in \"La Carrière d'Hergé\" p. 4-37 of Schtroumpf : les Cahiers de la Bande Dessinée, no. 14/15 (1978)",
+    "call number": "PN6745.S37no.14/15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Spécial Hergé, nouv. éd.)",
+      "Illustrated article on the series Les Aventures de Jo, Zette et Jocko (Hergé)."
+    ]
+  },
+  "108": {
+    "heading": "Les Aventures de Jo, Zette et Jocko--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "183"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "109": {
+    "heading": "Les Aventures de Jodelle. English.",
+    "title": "The Adventures of Jodelle",
+    "author": "Guy Peellaert &amp; Pierre Bartier ; translated by Richard Seaver.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.P34A713 1967",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Grove Press",
+      "date": "1967"
+    },
+    "physical description": {
+      "dimensions": "33 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "70 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: Les Aventures de Jodelle.",
+      "Spy story."
+    ]
+  },
+  "110": {
+    "heading": "Les Aventures de Jodelle. Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "201"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "111": {
+    "heading": "Les Aventures de Jodelle. Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "647",
+        "648",
+        "649",
+        "1154"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "112": {
+    "heading": null,
+    "title": "Les Aventures de Karen Springwell",
+    "author": "textes Thierry Smolderen ; dessins et couleurs Philippe Gauckler.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.S59A87 1990",
+    "library has": "t. 2-3.",
+    "publication info": {
+      "place": "Genève",
+      "publisher": "Les Humanoïdes Associés",
+      "date": "1990-1995"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "t. 1. Convoi"
+      },
+      {
+        "title": "t. 2. Les prisonniers de Convoi"
+      },
+      {
+        "title": "t. 3. Les joueurs de Convoi"
+      },
+      {
+        "title": "v. 4. Le ciel de Convoi."
+      }
+    ],
+    "notes": [
+      "4 v. : col. ill. ; 29 cm.",
+      "Genre: Science fiction."
+    ]
+  },
+  "113": {
+    "heading": "Les Aventures de Kebra.",
+    "title": "Fait comme un Rat!",
+    "author": "Tramber, Jano.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.T66F3 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Les Humanoïdes Associés",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection \"H\": Humour, Humanoïde ; 9)",
+      "(Les Aventures de Kebra)"
+    ]
+  },
+  "114": {
+    "heading": null,
+    "title": "Les Aventures de l'Étalon Noir ; 1 L'Étalon Noir",
+    "author": "scénario, Robert Génin ; dessin, Michel Faure.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.F35E8 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de l'Étalon Noir ; 1)",
+      "\"D'après le roman 'L'étalon noir' de Walter Farley.\""
+    ]
+  },
+  "115": {
+    "heading": "Les Aventures de l'Univers--Reviews.",
+    "title": "\"Les Dilemmes de Lewis Trondheim\"",
+    "author": "Thierry Groensteen",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 131 in 9e Art : les Cahiers du Musée de la Bande Dessinée, no. 3 (Jan. 1998).",
+    "call number": "folio PN6700.N44no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comptes Rendus)",
+      "Reviews Trondheim's Le Pays des Trois Sourires, and his Les Aventures de l'Univers."
+    ]
+  },
+  "116": {
+    "heading": null,
+    "title": "Les Aventures de la B.D.",
+    "author": "Claude Moliterni, Philippe Mellot, Michel Denni.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.M652 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Gallimard",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "160 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Découvertes Gallimard. Littérature ; 273)",
+      "Includes bibliography (p. 146-147) and index.",
+      "History of comics, and of French comics."
+    ]
+  },
+  "117": {
+    "heading": "Les Aventures de la Famille Bauju.",
+    "title": "Embargo : Les Aventures de la Famille Bauju",
+    "author": "Pierre-Jean Richard ; ont participe a la realisation de cet album Dillysnaile, ",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": ".. et al.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly-sur-Seine",
+      "publisher": "Dargaud",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "At head of title: Plateforme 2000 Presente. 1. Power resources",
+      "Comic books, strips, etc. I. Richard, Pierre-Jean. II. Dillysnail. III. Les Aventures de la Famille Bauju. a. French comics. Call no.: PN6747f.R5E5 1979"
+    ]
+  },
+  "118": {
+    "heading": null,
+    "title": "\"Les Aventures de la Forme\"",
+    "author": "par Renato Calligaro ; traduit de l'italien par Gabrielle Borile",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 62-64 in Les Cahiers de la Bande Dessinée, no. 71 (Sept./Oct. 1986).",
+    "call number": "PN6745.S37no.71",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Spécial Italie)",
+      "(Peinture et Bande Dessinée)"
+    ]
+  },
+  "119": {
+    "heading": "Les Aventures de la Petite Annie.",
+    "title": "Les Naufragés de l'Ile Rouge",
+    "author": "Darrell McClure.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.L532N3 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Rossel Edition",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de la Petite Annie)",
+      "Author statement on cover: Darrell McClure/Brandon Walsh.",
+      "Collects and reprints Little Annie Rooney strips in color, and in French."
+    ]
+  },
+  "120": {
+    "heading": null,
+    "title": "Les Aventures de Leuk-le-Lievre : d'apres un texte de L.S. Senghor et A. Sadji",
+    "author": "illustrations, G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Lorofi.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Dakar",
+      "publisher": "Nouvelles Editions Africaines",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": null,
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "43 p.",
+      "illustrationTypes": "col. ill. 21 x 29 cm."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"D'apres la belle histoire de Leuk-le-Lievre par L.S. Senghor et A. Sadji ... reprenant la forme donnee aux personnages par le premier illustrateur Marcel Jeanjean.\" 1. Senegalese comics. 2. Funny animal comics. I. Senghor, Leopold Sedar, 1906- II. Sadji, Abdoulaye, 1910- III. Lorofi, G. IV. La Belle Histoire de Leuk-le-Lievre. V. Leuk-le-Lievre. a. Africana. Call no.: PN6790f.S44A93 1975"
+    ]
+  },
+  "121": {
+    "heading": null,
+    "title": "Les Aventures de Lucky Luke d'Après Morris ; 1 La Belle Province",
+    "author": "dessin, Achdé ; scénario, Laurent Gerra ; d'après Morris ; couleur, Anne-Marie Ducasse ; lettrage, Ségolène Ferté.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M64L873 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Givrins",
+      "publisher": "Lucky Comics",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Lucky Luke d'Après Morris ; 1)"
+    ]
+  },
+  "122": {
+    "heading": null,
+    "title": "Les Aventures de Lucky Luke d'après Morris ; 2 La Corde au Cou",
+    "author": "dessin, Achdé ; scénario, Laurent Gerra et Achdé ; couleur, Anne-Marie Ducasse ; lettrage, Ségolène Ferté.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M64L874 2006",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "Lucky Comics, 2006.",
+      "(Les Aventures de Lucky Luke d'après Morris ; 2)"
+    ]
+  },
+  "123": {
+    "heading": null,
+    "title": "Les Aventures de Mado et Maildur",
+    "author": "Ramaïoli, Durand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Enghien",
+      "publisher": "Artefact",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "53 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection La Crainte ; v. 9) 1. French comics. 2. Science fiction comic books, strips, etc. I. Ramaïoli. II. Durand, René, 1948- III. Series. IV. Artefact. Call no.: PN6747.R34A87 1983"
+    ]
+  },
+  "124": {
+    "heading": null,
+    "title": "Les Aventures de Mado et Maildur. t. 2",
+    "author": "Ramaïoli, Durand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Enghien",
+      "publisher": "Artefact",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection La Crainte ; v. 10) 1. French comics. 2. Science fiction comic books, strips, etc. I. Ramaïoli. II. Durand, René, 1948- III. Series. IV. Artefact. Call no.: PN6747.R34 A872 1984"
+    ]
+  },
+  "125": {
+    "heading": "Les Aventures de Martin le Malin.",
+    "title": "Une Île Mystérieuse.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6746.A3T24 1950z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Holland : Mulder, between 1950 and 1980.",
+      "(Les Aventures de Martin le Malin)",
+      "(Albums Tricolores ; 24)",
+      "(Albums du Gai Moulin)",
+      "Adventure story."
+    ]
+  },
+  "126": {
+    "heading": "Les Aventures de Martin le Malin.",
+    "title": "La Vallée du Silence.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6746.A3T45 1950z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Holland : Mulder, between 1950 and 1980.",
+      "(Les Aventures de Martin le Malin)",
+      "(Albums Tricolores ; 45)",
+      "(Albums du Gai Moulin)",
+      "Adventure story."
+    ]
+  },
+  "127": {
+    "heading": "Les Aventures de Martin le Malin.",
+    "title": "La Ville Engloutie.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6746.A3T36 1950z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Holland : Mulder, between 1950 and 1980.",
+      "(Les Aventures de Martin le Malin)",
+      "(Albums Tricolores ; 36)",
+      "(Albums du Gai Moulin.",
+      "Adventure story."
+    ]
+  },
+  "128": {
+    "heading": "Les Aventures de Michel Risque.",
+    "title": "Le Savon Malefique, et autres episodes des aventures de Michel Risque",
+    "author": "scenario, Real Godbout, Pierre Fournier ; dessin, Real Godbout.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Montreal",
+      "publisher": "Ludcom",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Michel Risque)",
+      "(Croc Album) 1. Canadian comics. 2. Adventure story comics. I. Godbout, Real. II. Fournier, Pierre, 1949- III. Series (2). IV. Ludcom. k. Michel Risque. Call no.: PN6733.G6S3 1981"
+    ]
+  },
+  "129": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 2000) \"C'est une bonne idée, je trouve, le bisous\"*",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "130": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 2000) \"C'est sans dout ça qu'on appelle la fatalité\"*",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "131": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 2000) \"L'Enterrement de mon cousin Jean-Marc\"*",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "132": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 2000) \"Les Petits pois sont beaucoup plus bagarreurs que les haricots verts\"*",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "133": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "par Nicholas Poupon",
+    "title_type": "official",
+    "series": "Feb. 2000) \"Le Portable, c'est la vie, la liberté\"*",
+    "appears_in": " p. 4 in Bo Doï, no. 27 (Feb. 2000).",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "134": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 2000) \"Trop de gens considerent une idée comme un miracle miniature\"*",
+    "call number": "PN6748.B58no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "135": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "Poupon (=Nicolas Poupon)",
+    "title_type": "official",
+    "series": "Mar. 2000) \"Les Bords de Case Rapprochent\"*",
+    "appears_in": " p. 5 in Bo Doï, no. 28 (Mar. 2000).",
+    "call number": "PN6748.B58no.28",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 tier."
+    ]
+  },
+  "136": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "Poupon",
+    "title_type": "official",
+    "series": "Mar. 2000) \"Certitudes\"*",
+    "appears_in": " p. 9 in Bo Doï, no. 28 (Mar. 2000).",
+    "call number": "PN6748.B58no.28",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "137": {
+    "heading": null,
+    "title": "Les Aventures de Michel et le Professeur",
+    "author": "Poupon",
+    "title_type": "official",
+    "series": "Mar. 2000) \"Impossible de me Souvenir où j'ai Foutu ce Maudit Crayon\"*",
+    "appears_in": " p. 98 in Bo Doï, no. 28 (Mar. 2000).",
+    "call number": "PN6748.B58no.28",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "138": {
+    "heading": null,
+    "title": "Les Aventures de Mickey",
+    "author": "illustrations de Walt Disney.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1931"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "31 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Albums Mickey ; 1) 1. Funny animal comics. 2. French comics. I. Walt Disney Productions. II. Mickey Mouse. French. III. Series. IV. Hachette. Call no.: PN6728.M46A87 1931"
+    ]
+  },
+  "139": {
+    "heading": null,
+    "title": "Aventures de M. Beaucoq",
+    "author": "by David Kunzle (Berkeley, Calif",
+    "title_type": "official",
+    "series": "Cham) Index entry",
+    "appears_in": " : University of California Press, 1990) Call no.: PN6710f.K85v.2",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "140": {
+    "heading": null,
+    "title": "\"Les Aventures de Monsieur Pygmalion Piquemouche\"",
+    "author": "Gaby Scaon",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 26-31 in 9e Art : les Cahiers du Musée de la Bande Dessinée, no. 10 (Apr. 2004).",
+    "call number": "PN6700.N44no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Dans les années 1864-1865 à Rochefort, Julien Viaud, alias Pierre Loti, alors âgé de quatorze ans, entreprend avec sa soeur Marie l'écriture d'un scénario pour une histoire en images intitulée Les Aventures de Meur Pygmalion Piquemouche et de Melle Clorinda sa poétique fiancée. Il est signé: 'Poésie de Mme Bon, peintre, et de Meur Viaud, jeune aspirant à l'École polytechnique. Vignettes des mêmes', et il est dédié a M. Gustave Viaud.\"",
+      "English summary (from p. 126): \"The Adventures of Monsieur Pygmalion Piquemouche. In the years 1864-1865, an adolescent of fourteen, mad about travel and literature (Pierre Loti, the future writer), invented, with his sister, the scenario of a picture story full of unexpected developments, in the spirit of Töpffer, whom he admired. Gaby Scaon has a look at this curiosity.\"",
+      "Includes bibliographical references and illustrations."
+    ]
+  },
+  "141": {
+    "heading": "Aventures de Monsieur Subito.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "474"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "142": {
+    "heading": null,
+    "title": "Les Aventures de Morgan Tower ; 1 Exiles dans l'Espace",
+    "author": "dessin: Morisi ; scénario: Zanfrognini ; traduction, lettrage et maquette: Etienne et Claire.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.M59E914 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editiemme",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "52 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Collection Desiba ; no. 1)",
+      "(Les Aventures de Morgan Tower ; 1)"
+    ]
+  },
+  "143": {
+    "heading": null,
+    "title": "Les Aventures de Néron et Cie ; 80 Le Monstre de Sarawak",
+    "author": "Marc Sleen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43 S55M614 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Editions Erasme",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Néron et cie ; 80)"
+    ]
+  },
+  "144": {
+    "heading": "Les Aventures de Panick.",
+    "title": "\"La Crypte aux Cristaux\"",
+    "author": "Alph Desneuve",
+    "title_type": "incipit",
+    "series": "Les Aventures de Panick",
+    "appears_in": " p. 54-62 in Charlie Mensuel, no. 13 (Avr. 1983).",
+    "call number": "PN6748.C472no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "145": {
+    "heading": null,
+    "title": "Les Aventures de Patrick, le Petit Irlandais ; 4 Le Génie Venu de la Mer",
+    "author": "Albert Roch.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.R5915G4 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions Lito",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Patrick, le Petit Irlandais ; 4)",
+      "Fantasy."
+    ]
+  },
+  "146": {
+    "heading": null,
+    "title": "Aventures de Pecos Bill.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6748.A87",
+    "library has": "n.s. no. 40 (1952).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "Paris : Périodiques et Editions Illustrées, ."
+    ]
+  },
+  "147": {
+    "heading": "Les Aventures de Petit Jules et Pépé Jules--Reviews.",
+    "title": "\"Jojo, Ludo, Toto et les Autres\"",
+    "author": "Erwin Dejasse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 126-127 in 9e art : Les Cahiers du Musée de la Bande Dessinée, no. 4 (Jan. 1999).",
+    "call number": "folio PN6700.N44no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Comptes Rendus)",
+      "Reviews albums for children: Jojo 8: Monsieur Je-Sais-Tout (André Geerts) ; Ludo 1: Tranches de Quartier (Bailly, Mathy &amp; Lapière) ; Toto l'Ornithorynque (Yoann &amp; Éric Omond) ; Les Aventures de Petit Jules et Pépé Jules (Jannin &amp; Liberski) ; Robert contre Dracula, &amp; Robert contre la Créature du Lac de Vase Molle (Hanze &amp; Cornette)."
+    ]
+  },
+  "148": {
+    "heading": "Aventures de Polochon.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "475"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "149": {
+    "heading": null,
+    "title": "Les Aventures de Popeye.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 3. 1. French comics. I. Popeye. French. II. Greantori. Call no.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Paris : Greantori, .",
+      "Description based on: no. 3 (1984); title from cover."
+    ]
+  },
+  "150": {
+    "heading": null,
+    "title": "Les Aventures de Pythagore ; 1 Echec à Brazerro",
+    "author": "Derib &amp; Job.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Genève",
+      "publisher": "Alpen",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Aventures de Pythagore ; 1) 1. Swiss comics. 2. Funny animal comics. 3. Western comic books, strips, etc. I. Derib. II. Job. II. Series. IV. Alpen. Call no.: PN6747.D373E25 1988"
+    ]
+  },
+  "151": {
+    "heading": null,
+    "title": "Les Aventures de Pythagore ; 2 Opération Rhino",
+    "author": "Derib &amp; Job.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D373 O7 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Genève",
+      "publisher": "Alpen",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Aventures de Pythagore)",
+      "A funny-animal western."
+    ]
+  },
+  "152": {
+    "heading": null,
+    "title": "Les Aventures de Pythagore ; 3 Les Géants de la Toundra",
+    "author": "Derib + Job.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.D373G4 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Genève",
+      "publisher": "Alpen Publishers",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Pythagore)",
+      "Funny animal/adventure."
+    ]
+  },
+  "153": {
+    "heading": "Les Aventures de Quinquin-la-flotte.",
+    "entry type": "index entry",
+    "title": "La bande dessinée au Québec",
+    "author": "Mira Falardeau",
+    "series": null,
+    "pages": {
+      "range": [
+        "91"
+      ]
+    },
+    "call number": "PN6731.F34 1994",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Boréal",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "154": {
+    "heading": "Les Aventures de Ray Gliss.",
+    "title": "Fraude Électrique",
+    "author": "par François Benoit et Rémy Simard.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.B4F7 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Sillery, Québec",
+      "publisher": "Ovale",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "40 p.",
+      "illustrationTypes": "ill. en coul."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Ray Gliss)"
+    ]
+  },
+  "155": {
+    "heading": "Les Aventures de Raymond Calbuth--Reviews.",
+    "title": "\"Les Aventures de Raymond Calbuth\"",
+    "author": "Jacques de Pierpont",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 68 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible : Notes de Lecture)",
+      "Brief review of the Tronchet album."
+    ]
+  },
+  "156": {
+    "heading": "Les Aventures de Riri, Gogo et Lolo.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "201"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "157": {
+    "heading": "Les Aventures de Robert et Roland.",
+    "entry type": "index entry",
+    "title": "La bande dessinée au Québec",
+    "author": "Mira Falardeau",
+    "series": null,
+    "pages": {
+      "range": [
+        "37"
+      ]
+    },
+    "call number": "PN6731.F34 1994",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Boréal",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "158": {
+    "heading": null,
+    "title": "Les Aventures de Rodolphe",
+    "author": "Herman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Les Artistes Européens Associés",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm. 1. Belgian comics. I. Herman. II. Les Artistes Européens Associés. Call no.: PN6747.H49A87 1979",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "159": {
+    "heading": null,
+    "title": "\"Les Aventures de Roger Fringant\"",
+    "author": "Lob",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 64-65 in Métal Hurlant, no. 19 (July 1977).",
+    "call number": "PN6748.M4no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "160": {
+    "heading": null,
+    "title": "\"Les Aventures de Roger Fringant en 1976\"",
+    "author": "Lob",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 18-19 in Métal Hurlant, no. 12 (Déc. 1976).",
+    "call number": "PN6748.M4no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "161": {
+    "heading": "Les Aventures de Roland Donges. Danish.",
+    "title": "På eventyr i kina",
+    "author": "Vivant, Hé ; dansk oversættelse og tekstning, Peter Dalgård.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.V55A819 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "77 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: Les Aventures de Roland Donges."
+    ]
+  },
+  "162": {
+    "heading": null,
+    "title": "Les Aventures de Romain Bataille ; 1 Le Navire des Illusions",
+    "author": "Roland, Warnauts.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.W37N3 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Genève?",
+      "publisher": "Alpen Publishers",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Romain Bataille ; 1)",
+      "Genre: Adventure story."
+    ]
+  },
+  "163": {
+    "heading": null,
+    "title": "Les Aventures de Romain Bataille ; 3 Le Saut de l'Ange",
+    "author": "Roland ; Warnauts.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Genève?",
+      "publisher": "Alpen Publishers",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures de Romain Bataille ; 3) 1. Adventure story comics. 2. French comics. I. Warnauts. II. Roland. III. Series. IV. Alpen Publishers. Call no.: PN6747.W37S3 1992"
+    ]
+  },
+  "164": {
+    "heading": "Les Aventures de Séraphin Laricot.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "104"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "165": {
+    "heading": "Les Aventures de Séraphin Laricot.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "254"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "166": {
+    "heading": "Les Aventures de Sergei Wladi.",
+    "title": "Le Bal de la sueur",
+    "author": "Cromwell, dessins ; Ralph, textes ; Riff Reb's, dessins ; Lencot, Quilici, couleurs.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "EDS",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "50 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les aventures de Sergei Wladi) (Collection pilon) 1. French comics. 2. Jungle adventure comics. I. Cromwell. II. Riff Reb's. III. Lencot, Yves. IV. Quilici, Laurence. V. Ralph. VI. Series (2). VII. Edition Diffusion Service. Call no.: PN6747.R33B3 1985"
+    ]
+  },
+  "167": {
+    "heading": "Les Aventures de SON-PERE.",
+    "entry type": "index entry",
+    "title": "La bande dessinée au Québec",
+    "author": "Mira Falardeau",
+    "series": null,
+    "pages": {
+      "range": [
+        "34"
+      ]
+    },
+    "call number": "PN6731.F34 1994",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Boréal",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "168": {
+    "heading": "Aventures de Stéphane.",
+    "title": "Le Guêpier",
+    "author": "Ceppi.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C37A87 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions J'ai lu",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "126 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Aventures de Stéphane)",
+      "(J'ai lu BD ; 116)"
+    ]
+  },
+  "169": {
+    "heading": "Les Aventures de Sylvain et Sylvette.",
+    "title": "La Bicyclette",
+    "author": "dessins de Claude Dubois d'après M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Cuvillier ; scénario de Robert Génin.",
+    "call number": "PN6748.S9A979 1970z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "21 x 27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid and funny animal genres.",
+    "contents": [],
+    "notes": [
+      "Belgium? : Editions Fleurus, 197-?",
+      "(Les Aventures de Sylvain et Sylvette ; 79)"
+    ]
+  },
+  "170": {
+    "entry type": "target",
+    "anchor": "/rri/arri/avents.htm#alef",
+    "title": "Les Aventures d'Alef-Thau",
+    "notes": [
+      "Science fiction series\n        by <a href=\"/rri/jrri/jod.htm#jodor\">Jodorowsky</a> and <a href=\"/rri/arri/arn.htm#dombre\">Arno</a>"
+    ],
+    "links": [
+      {
+        "Link Text": "Jodorowsky",
+        "Link URL": "/rri/jrri/jod.htm#jodor"
+      },
+      {
+        "Link Text": "Arno",
+        "Link URL": "/rri/arri/arn.htm#dombre"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

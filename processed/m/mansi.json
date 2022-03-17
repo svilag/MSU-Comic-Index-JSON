@@ -1,0 +1,3138 @@
+{
+  "1": {
+    "heading": "Mansion.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "40"
+      ]
+    },
+    "call number": "PN6745.F69 1990",
+    "publication info": null,
+    "notes": []
+  },
+  "2": {
+    "heading": "Mansion Comics.",
+    "title": "The Airmen.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M28 A5",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Minneapolis, MN",
+      "publisher": "Mansion Comics",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Feb. 1995) only.",
+      "Created and written by David Watkins.",
+      "Superhero."
+    ]
+  },
+  "3": {
+    "heading": "Mansion Comics.",
+    "title": "Giant-Size Union of Justice.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1 1. Superhero comics. I. Union of Justice. II. Mansion Comics. k. Justice. Call no.",
+    "publication info": {
+      "place": "Minneapolis, MN",
+      "publisher": "Mansion Comics",
+      "date": "1996-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Described from an issue numbered \"1\" on cover, \"#1\" with caption title; \"#3\" in indicia position."
+    ]
+  },
+  "4": {
+    "heading": "Mansion Comics.",
+    "title": "Titaness.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M28T5",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Mpls., MN",
+      "publisher": "Mansion Comics and Draculina Publishing",
+      "date": "1996-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Superheroine."
+    ]
+  },
+  "5": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 1\"",
+    "author": "Bill Finger, script? ; Bob Kane, art",
+    "title_type": "incipit-assigned",
+    "series": "Rusty and His Pals",
+    "appears_in": " 4 p. in Adventure Comics, no. 46 (Jan. 1940).",
+    "call number": "PN6728.1.N3A3m no.46",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Introduction of Bolton (who dies) and John Rankin.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "6": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 2\"",
+    "author": "Bill Finger, script? ; Bob Kane, art",
+    "title_type": "incipit-assigned",
+    "series": "Rusty and His Pals",
+    "appears_in": " 4 p. in Adventure Comics, no. 47 (Feb. 1940).",
+    "call number": "PN6728.1.N3A3m no.47",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Death of John Rankin ; introduction of Angus MacHeather ; villain Tino is introduced.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "7": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 3\"",
+    "author": "Bill Finger, script ; Bob Kane, art",
+    "title_type": "incipit-assigned",
+    "series": "Rusty and His Pals",
+    "appears_in": " 4 p. in Adventure Comics, no. 48 (Mar. 1940).",
+    "call number": "PN6728.1.N3A3m no.48",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Villains are Tino, Zoroff, and Karl, with the latter two being introduced here.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "8": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 4\"",
+    "author": "Bill Finger, script ; Bob Kane, art",
+    "title_type": "incipit-assigned",
+    "series": "Rusty and His Pals",
+    "appears_in": " 4 p. in Adventure Comics, no. 49 (Apr. 1940).",
+    "call number": "PN6728.1.N3A3m no.49",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Appearance of John Rankin (in flashback) ; villains are Tino, Karl, and Zoroff in flashback.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "9": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 5\"",
+    "author": "Bill Finger, script? ; Bob Kane, art",
+    "title_type": "incipit-assigned",
+    "series": "Rusty and His Pals",
+    "appears_in": " 4 p. in Adventure Comics, no. 50 (May 1940).",
+    "call number": "PN6728.1.N3A3m no.50",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Villains are Tino, Karl, and Zoroff.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "10": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 6\"",
+    "author": "Bill Finger, script? 4 p",
+    "title_type": "incipit-assigned",
+    "series": "Rusty and His Pals",
+    "appears_in": " in Adventure Comics, no. 51 (June 1940).",
+    "call number": "PN6728.1.N3A3m no.51",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Appearnces of villains Tino (who dies), Zoroff and Karl.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "11": {
+    "heading": null,
+    "title": "\"Mansion of Murder, part 7\"",
+    "author": "Bill Finger, script? 4 p",
+    "title_type": "incipit",
+    "series": "Rusty and His Pals",
+    "appears_in": " in Adventure Comics, no. 52 (July 1940).",
+    "call number": "PN6728.1.N3A3m no.52",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Villains are Zoroff and Karl, who both die, and a trial chief, who is introduced.",
+      "This is the last appearance of this feature.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "12": {
+    "heading": "\"Mansiones en Venta\" 6 p. in Acción Policíaca, no. 74 (Jan.",
+    "title": "1958).",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44A3no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "13": {
+    "heading": "Mansions.",
+    "title": "\"Agradecido\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Condorito) p. 18 in Condorito de Oro, no. 74",
+    "call number": "PN6790.M44C5675no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "2 tiers. Condorito is living in a mansion, but tells Coné that at his age he was hauling water for a gang of bricklayers."
+    ]
+  },
+  "14": {
+    "heading": "Mansions.",
+    "title": "\"The A'mighty Made Grass for Walkin' on, Same as Folks Makes Carpets!\"",
+    "author": "Harold Gray.",
+    "title_type": "incipit-assigned",
+    "series": "Orphan Annie, Apr. 1, 1968",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Annie sees people working on lawns and gardens around the mansion, and apologizes for walking on the grass.",
+      "Summary: PN6726 f.B55 \"grass\""
+    ]
+  },
+  "15": {
+    "heading": "Mansions.",
+    "title": "Annie at the Mansion",
+    "author": "based on the characters drawn by Leonard Starr ; illustrated by George Wildman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.L55C6 1982b",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Random House",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Happy House Books)",
+      "(Annie Coloring Books)"
+    ]
+  },
+  "16": {
+    "heading": "Mansions.",
+    "title": "\"Assault on Avengers' Mansion!\"",
+    "author": "Chris Claremont, author ; John Byrne, artist ; Dan Adkins, inker",
+    "title_type": "incipit",
+    "series": "Iron Fist",
+    "appears_in": " 17 p. in Iron Fist, no. 12 (Apr. 1977).",
+    "call number": "PN6728.4.M3 I67no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "17": {
+    "heading": "Mansions.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "18": {
+    "heading": "Mansions.",
+    "title": "\"Casotota\"",
+    "author": "argumento de Yolanda Vargas Dulché ; dibujo de Sixto Valencia Burgos",
+    "title_type": "incipit",
+    "series": "Memín",
+    "appears_in": " 32 p. in Memín, no. 27 (1980).",
+    "call number": "PN6790.M44M433no.27",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Carlos's father takes him to see his mansion and meet his grandmother. He tells Carlos that he would like him to leave his poverty and move in, but Carlos refuses to leave his mother."
+    ]
+  },
+  "19": {
+    "heading": "Mansions.",
+    "title": "Casper : Friends Forever!",
+    "author": "adapted by Marie T",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Morreale from the movie Casper.",
+    "call number": "PN1997.5.C33M6 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Racine, Wis.",
+      "publisher": "Western Publishing Company",
+      "date": "1995"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 21 cm.",
+      "(A Golden Look-Look Book)",
+      "(A Golden Book)",
+      "Summary (from OCLC): When twelve-year-old Kat Harvey moves into the mansion occupied by Casper the friendly ghost, she is delighted at the prospect of having a friend."
+    ]
+  },
+  "20": {
+    "heading": "Mansions.",
+    "title": "\"Cochinadas\"",
+    "author": "argumento de Yolanda Vargas Dulché ; dibujo S",
+    "title_type": "incipit",
+    "series": "Memín",
+    "appears_in": " Valencia ; colab. J. Kuri ; fondos A. Rodriguez. 32 p. in Memín, no. 19 (1983).",
+    "call number": "PN6790.M44M433no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: The driver of the luxury car that has knocked Carlos down in the street takes Carlos out for ice cream. The driver is taken aback to learn Carlos's full name: Carlos Arozamena Martínez. The man overpays Carlos for his lost newspapers, and asks for his address, because he has figured out that Carlos is his son. Meanwhile at home Isabel, the mother of Carlos, deals with a difficult customer, who insults her and takes the sewing she has done without paying. Carlos is outraged, but his mother is resigned to her fate. Then Carlos produces the money he has received from his father, and she accepts this fate also. Carlos Arozamena, Senior, lives in a mansion with his overbearing mother and servants. Memín is still grounded and has to stay home helping his mother all day."
+    ]
+  },
+  "21": {
+    "heading": "Mansions.",
+    "title": "\"Cowardice Revisited\" 8 p. in Ghostly Tales, no. 84",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1971",
+    "call number": "PN6728.2.C47U5no.84",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Art signed: PAIII.",
+      "Summary: A young woman is cooking in a deserted Southern mansion. A motorcycle gang called Satan's Angels decides to tear up the house and begins threatening her. A civil war soldier comes back to life to rescue her. The mansion burns down. She invites the resurrected and redeemed former coward to her house to meet her folks."
+    ]
+  },
+  "22": {
+    "heading": "Mansions.",
+    "title": "Dark Mansion of Forbidden Love.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-4. 1. Gothic romance comics. I. Forbidden Love. k. Mansions. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "National Periodical Publications",
+      "date": "1971-1972"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Sept./Oct. 1971) - no. 4 (Mar./Apr. 1972)",
+      "Continued by: Forbidden Tales of Dark Mansion."
+    ]
+  },
+  "23": {
+    "heading": "Mansions.",
+    "title": "\"Dinosaur Mansion\"",
+    "author": "story by Bruce David ; art by Ronald Silva &amp; Edde Wagner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 29-34 in Hustler Comix, v. 2, no. 4 (Sept. 1998).",
+    "call number": "PN6728.6.L2H8v.2no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "24": {
+    "heading": "Mansions.",
+    "title": "\"A Ghost of a Chance\"",
+    "author": "story, T",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Casey Brennan ; art, Vincente Alcazar. p. 29-34 in Creepy, no. 63 (July 1974).",
+    "call number": "PN6728.3.W3C7no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"It's said fortune lies hidden in the grim, haunting confines of Lindler mansion! Also waiting is the owner's ghost, plus a horrifying curse!\""
+    ]
+  },
+  "25": {
+    "heading": "Mansions.",
+    "title": "Gon Again!",
+    "author": "by Masashi Tanaka.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33T326G62 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Originally published: Tokyo",
+      "publisher": "Kodansha",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "106 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Gon fights alongside the wolf brothers"
+      },
+      {
+        "title": "Gon lives with the penguins"
+      },
+      {
+        "title": "Gon builds a mansion."
+      }
+    ],
+    "notes": [
+      "(Gon ; 2)",
+      "(A Paradox fiction)",
+      "Characters: Dinosaurs.",
+      "Genre: Funny animal."
+    ]
+  },
+  "26": {
+    "heading": "Mansions.",
+    "title": "\"The Haunted Howlett Mansion\"",
+    "author": "art: Bob Hebboa",
+    "title_type": "incipit-assigned",
+    "series": "Ghost Gallery",
+    "appears_in": " 10 p. in Jumbo Comics, no. 47 (Jan. 1943).",
+    "call number": "Film 15791r.196",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "27": {
+    "heading": "Mansions.",
+    "title": "\"The Haunted Mansion\"",
+    "author": "Grass Green",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in Teen-Age Horizons of Shangrila, no. 2 (Nov. 1972).",
+    "call number": "PN6728.45.K5T4no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "28": {
+    "heading": "Mansions.",
+    "title": "\"Inside the Haunted Mansion!\"",
+    "author": "Grass Green",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in Teen-Age Horizons of Shangrila, no. 2 (Nov. 1972).",
+    "call number": "PN6728.45.K5T4no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "29": {
+    "heading": "Mansions.",
+    "title": "\"Lann\"",
+    "author": "by Frank Thorne",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 70-77 in Heavy Metal, v. 8, no. 8 (Nov. 1984).",
+    "call number": "PN6728.H43v.8no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: The omnisled, carrying the group from the Belles of Venus Club, circles Cesar's mansion.",
+      "\"To be continued.\""
+    ]
+  },
+  "30": {
+    "heading": "Mansions.",
+    "title": "\"The Merlin Mansion\"",
+    "author": "by Frank Thomas",
+    "title_type": "incipit-assigned",
+    "series": "Nick Terry as The Owl",
+    "appears_in": " 6 p. in Popular Comics, no. 83 (Jan. 1943)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: The caretaker of the Merlin Mansion has it rigged to explode, and each visitor finds him or herself imprisoned and slated for execution with an antique axe. The Owl convinces the caretaker to release Belle Wayne and Chief Murphy before he blows himself up in the house.",
+      "\"Copr. 1942 by R.S. Callender\". I. Thomas, Frank. II. Nick Terry as The Owl. k. The Owl. k. Caretakers. k. Mansions. k. Execution. k. Antique axes. k. Axes. k. Wayne, Belle. k. Murphy, Chief. k. Explosions. Call no.: PN6728.1.D4P6no.83"
+    ]
+  },
+  "31": {
+    "heading": "Mansions.",
+    "title": "\"More than Meets the Eye\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Avengers Mansion Diagram) 2 p. in Avengers Special, no. 1",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "32": {
+    "heading": "-",
+    "title": "Mansions. \"The Old Bradshaw Mansion was Deserted...\"",
+    "author": "Jack Kamen, art",
+    "title_type": "official",
+    "series": "Ghost Gallery",
+    "appears_in": " 8 p. in Jumbo Comics, no. 146 (Apr. 1951).",
+    "call number": "Film 15791r.283",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "33": {
+    "heading": "Mansions.",
+    "title": "\"Pesadilla\"",
+    "author": "argumento, Yolanda Vargas Dulché ; dibujo, Sixto Valencia",
+    "title_type": "incipit",
+    "series": "Memín",
+    "appears_in": " 32 p. in Memín, no. 29 (1980).",
+    "call number": "PN6790.M44M433no.29",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Isabel, the mother of Carlos, becomes very depressed when she learns that Carlos is missing out on some of the fun with his friends because they're so poor. She pretends to go out all night to a cabaret and come home drunk at dawn. This, she seems to be hoping, will convince Carlos to take his rich father's offer and move into the mansion. Carlos is beside himself to think his mother has gone back to her old profession, and pleads with her to continue doing laundry for people. She says they'll talk about it later, and that for now he should just get out of her way. Carlos goes to play baseball with his friends, and Memín can tell he's upset behind his smile. Memín hits a one-handed home run by imitating the tennis player Pelón Ozuna."
+    ]
+  },
+  "34": {
+    "heading": "Mansions.",
+    "title": "Popeye and the Haunted House",
+    "author": "by Charles Spain Verral.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.T5V4 1980",
+    "library has": "",
+    "publication info": {
+      "place": "Los Angeles, Calif.",
+      "publisher": "Price/Stern/Sloan",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Wonder Books)",
+      "Summary: While Popeye, Olive Oyl, and Swee'pea search for treasure in an old mansion and are interrupted by a shape in a sheet."
+    ]
+  },
+  "35": {
+    "heading": "Mansions.",
+    "title": "\"Secret Papers in the Mansion\"",
+    "author": "art: Al Bryant",
+    "title_type": "incipit-assigned",
+    "series": "Shark Brodie",
+    "appears_in": " 10 p. in Fight Comics, no. 20 (Aug. 1942).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Shark and Lily retrieve British navy papers that have fallen into Japanese hands on a small island near Java.",
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "36": {
+    "heading": "Manso, Ruy.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1208"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "37": {
+    "heading": "Manson.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "38": {
+    "heading": "Manson, Aaron.",
+    "title": "\"Black Cover Strange Adv.\"",
+    "author": "Aaron Manson",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 8 in Comic Book Marketplace, v. 2, no. 63 (Sept/Oct. 1998).",
+    "call number": "PN6714.C632v.2no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marketplace Mail)",
+      "Letter on black-background comic book covers."
+    ]
+  },
+  "39": {
+    "heading": "Manson, Aaron.",
+    "title": "\"From the Desk of Aaron Manson, M.D.\" p. 6 in Comic Book Marketplace, v. 2, no. 47",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marketplace Mail)",
+      "Letter on Justice League covers and their antecedents on science fiction titles. k. Covers of comic books",
+      "Miscellanea. k. Justice League of America",
+      "Miscellanea. I. Manson, Aaron. Call no.: PN6714.C632v.2no.47"
+    ]
+  },
+  "40": {
+    "heading": "Manson, Charles, 1934-",
+    "entry type": "index entry",
+    "title": "Comic Books as History",
+    "author": "Joseph Witek",
+    "series": null,
+    "pages": {
+      "range": [
+        "53"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1989"
+    },
+    "notes": []
+  },
+  "41": {
+    "heading": "Manson, Charles, 1934-",
+    "title": "The Legion of Charlies",
+    "author": "Tom Veitch and Greg Irons.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.45.L3L4",
+    "library has": "",
+    "publication info": {
+      "place": "Berkeley",
+      "publisher": "Last Gasp Eco-Funnies",
+      "date": "1971"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"The Legion of Charlies\" 28 p."
+      },
+      {
+        "title": "\"The Conversion of President Nixnerk\" 4 p. text"
+      }
+    ],
+    "notes": [
+      "Underground, horror and war genres, about Charles Manson and the Vietnam War."
+    ]
+  },
+  "42": {
+    "heading": "Mansson, Edith.",
+    "title": "Eventyret om Gammelpot og roverne fra Dalby samt fem andre eventyr",
+    "author": "skrevet af Thom Roep ; tegnet af Piet Wijn ; oversat af Edith Mansson ; tekstet af Hanne Julie Johansen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43R6 O619 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Gammelpot ; 14)",
+      "\"Originaltitel: Douwe Dabbert 14: 'Op het spoor van kwade zaken'\".",
+      "Genre: Fantasy."
+    ]
+  },
+  "43": {
+    "heading": "Mäntäri, Hannu, 1956- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "28"
+      ]
+    },
+    "call number": "PN6790.F52B22 1988",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "44": {
+    "heading": null,
+    "title": "Mantech Robot Warriors.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.A7M3",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Mamaroneck, N.Y.",
+      "publisher": "Archie Enterprises, Inc.",
+      "date": "1984-1985"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Sept. 1984) - no. 4 (May 1985).",
+      "(Archie Adventure Series)"
+    ]
+  },
+  "45": {
+    "heading": "Mantecoso.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "30"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "46": {
+    "heading": "Mantegazza, Raffaele.",
+    "title": "Le Strisce dei Lager : la Shoà e i Fumetti",
+    "author": "Raffaele Mantegazza, Brunetto Salvarani.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "D804.33.M36 2000",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Edizioni Unicopli",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "17 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "198 p."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Introduzione: il fumetto e la lettura pedagogica della Shoà"
+      },
+      {
+        "title": "L'epopea di Maus fare fumetti dopo Auschwitz"
+      },
+      {
+        "title": "La \"Storia dei tre Adolf\" di Osamu Tezuka"
+      },
+      {
+        "title": "\"E i fumetti salivano lenti ...\""
+      },
+      {
+        "title": "Rappresentare l'orrore?"
+      },
+      {
+        "title": "Postfazione: insegnare l'ininsegnabile : tracce educative e didattiche sulla Shoà"
+      },
+      {
+        "title": "Indicazioni bibliografiche sulla Shoà."
+      }
+    ],
+    "notes": [
+      "(Bottega del Fumetto ; 3)",
+      "Includes bibliographical references.",
+      "Holocaust in comics, including Spiegelman's Maus and Tezuka's Adorufu ni Tsugu (Adolf)."
+    ]
+  },
+  "47": {
+    "heading": "Mantell, Paul.",
+    "title": "Experiment on Muir Island",
+    "author": "based on teleplays by Michael Edens and Mark Edward Edens ; adapted by Paul Mantell ; pencils by Dennis Jensen ; coloring by Arkadia.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.X2E9 1994",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Random House",
+      "date": "1994"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 23 cm.",
+      "(X-Men)",
+      "(Random House Pictureback)",
+      "\"Marvel Comics\".",
+      "Summary (from OCLC): The mutants, under the power of Apocalypse and his four horsemen, are programmed to destroy the world.",
+      "Includes glossary.",
+      "In comics format."
+    ]
+  },
+  "48": {
+    "heading": "Mantell, Paul.",
+    "title": "Second Genesis",
+    "author": "adapted by Paul Mantell and Avery Hart ; cover illustration by Dana and Del Thompson ; text illustrations by Aristides Ruiz ; adapted from a comic by Len Wein.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Random House",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "101 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Bullseye Books)",
+      "Features the X-Men. 1. Superhero fiction. I. [Each creator] II. Series. III. X-Men. IV. Random House. Call no.: PN3563.A573S4 1994"
+    ]
+  },
+  "49": {
+    "heading": "Mantell, Paul.",
+    "title": "X-Men in the Savage Land",
+    "author": "adapted by Paul Mantell and Avery Hart ; cover illustration by Dana and Del Thompson ; text illustrations by Aristides Ruiz ; based on a story by Chris Claremont.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS3563.A573X2 1994",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Random House",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "104 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Bullseye Book)",
+      "\"Marvel Comics.\"",
+      "\"RL: 3.0\""
+    ]
+  },
+  "50": {
+    "heading": null,
+    "title": "Mantell",
+    "author": "Colin Wilson ; mise en couleurs, Janet Gale.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.W48M414 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Éditions Glénat",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dans l'Ombre du Soleil ; t. 2)."
+    ]
+  },
+  "51": {
+    "heading": null,
+    "title": "Mantelman Strokiesverhale.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.S64B3",
+    "library has": "deel 1, nr. 7 (1955).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Johannesburg : Sebra Uitgewers, .",
+      "Batman stories translated from U.S. comic books.",
+      "Caption title: Mantelman en Robbie die Wonderkind."
+    ]
+  },
+  "52": {
+    "heading": "Mantels, Ed.",
+    "title": "\"Close Encounters of the UNkind\"",
+    "author": "story and art, Bill Lewis ; inks, R",
+    "title_type": "incipit",
+    "series": "The Atomic Kid, episode 7",
+    "appears_in": " Burchett and Ed Mantels. p. 22-27 in Whizzard, no. 12 (Spring 1979).",
+    "call number": "PN6725.W47no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "53": {
+    "heading": "Mantels, Ed.",
+    "title": "\"Musclebound for Glory!\"",
+    "author": "story &amp; pencils, Bill Lewis ; inks, R",
+    "title_type": "incipit",
+    "series": "The Atomic Kid, episode 8",
+    "appears_in": " Burchett and Ed Mantels-Seeker. p. 24-27 in Whizzard, no. 13 (Spring 1980).",
+    "call number": "PN6725.W47no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "54": {
+    "heading": "Mantels, Ed.",
+    "title": "\"Starlin Interviewed, at Last!\" p. 4-11, 17 in Whizzard, no. 12",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1979).",
+    "call number": "PN6725.W47no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"An indepth interview with Jim Starlin who candidly comments on his Warlock work, the Comics Guild, and more!\"",
+      "Phone interview conducted by J. Durrwachter and E. Mantels in Oct. 1978.",
+      "Includes \"Starlin Index\" (checklist), p. 9-11."
+    ]
+  },
+  "55": {
+    "heading": "Mantels, Ed.",
+    "title": "\"Whizzardry\" p. 39-42 in Whizzard, no. 14",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Winter 1981).",
+    "call number": "PN6725.W47no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from Terry Austin, Bryan Hollerbach, Ed Mantels-Seeker, Mike Phillips, Gene Phillips, Mitch O'Connell, and Eugene Caldwell."
+    ]
+  },
+  "56": {
+    "heading": "Mantels, Ed.",
+    "title": "\"Words with Walt\" p. 12-19, 33 in Whizzard, no. 12",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1979).",
+    "call number": "PN6725.W47no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"A rare, first-published interview with Manhunter-artist Walt Simonson, who tells about his days with DC, the new Battlestar books, and much more!\"",
+      "Telephone interview conducted by Jerry Durrwachter and Ed Mantels in Oct. 1978."
+    ]
+  },
+  "57": {
+    "heading": "Mantels.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "58": {
+    "heading": "Mantels.",
+    "title": "\"Higher Education\"",
+    "author": "by Al Vermeer.",
+    "title_type": "incipit",
+    "series": "Priscilla's Pop, Nov. 4, 1948",
+    "call number": "PN6728.P76F6 1947 v.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Priscilla gets a big stack of books, so she can climb on them to get a copy of \"Icky Comics\" from the mantel."
+    ]
+  },
+  "59": {
+    "heading": "Mantels.",
+    "title": "\"Portrait over the Mantle\"",
+    "author": "Sidney Smith",
+    "title_type": "incipit-assigned",
+    "series": "The Gumps, 1917",
+    "appears_in": " p. 71 in The Smithsonian Collection of Newspaper Comics, ed. by Bill Blackbeard and Martin Williams (Washington, D.C. : Smithsonian Institution Press, 1977).",
+    "call number": "PN6726.S6 1977",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Fourth in a sequence of seven."
+    ]
+  },
+  "60": {
+    "heading": null,
+    "title": "\"Mantención\" ; p. 10 in Condorito Gigante, no. 418",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1996?",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Condorito as Secretary of the Economy issues a decree prohibiting Ungenio from leaving the country, in order to maintain the country's gross national product. k. Condorito. k. Ungenio. k. Economics. k. Gross National Product. Call no.: PN6790.M44C568no.418"
+    ]
+  },
+  "61": {
+    "heading": null,
+    "title": "\"Manténgase en Forma : Ejercicios Sencillos para las Piernas\" 1 p. text in Confesiones de Amor, no. 28",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1958).",
+    "call number": "PN6790.M44C6no.28",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "62": {
+    "heading": null,
+    "title": "\"Manténgase en la Linea\" 2 p. in Confesiones de Amor, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1956) ; also appears in Confesiones de Amor, no. 23",
+    "call number": "PN6790.M44C6no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "63": {
+    "heading": "Mantero, Maurizio, 1954-",
+    "title": "\"I Fondatori\"",
+    "author": "di Isaac Asimov ; riduzione e disegni di M",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": "M. Becami. p. 19-26 (color) in Orient Express, no. 12 (Luglio 1983).",
+    "call number": "PN6768.O7no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Arthur Lortie: This is an adaptation of \"Founding Father,\" which was nominated for the 1965 Nebula Award for Best Short Story, and appeared in Galaxy Science Fiction (Oct. 1965). M.M. Becami is a pseudonym for Maurizio Mantero, Giancarlo Berardi, Renzo Calegari, and Ivo Milazzo."
+    ]
+  },
+  "64": {
+    "heading": "Mantero, Maurizio, 1954-",
+    "title": "\"Lista di Controllo\"",
+    "author": "Mantero e Deidda",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 102-109 in Orient Express, no. 22 (June 1984) I. Mantero. II. Deidda. Call no.: PN6768.O7no.22",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "65": {
+    "heading": "Mantero, Maurizio, 1954-",
+    "title": "La Lunga Pista Rossa",
+    "author": "soggetto e sceneggiatura, Giancarlo Berardi ; disegni, Giorgio Trevisan e Renato Calegari ; montaggio e colori, Maurizio Mantero ; lettering, Piero Ravaioli.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "L'Isola Trovata",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "52 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collana West. Ken Parker ; 14)",
+      "\"Berardi &amp; Milazzo...\"",
+      "Half title. 1. Italian comics. 2. Western comic books, strips, etc. I. [Each creator] II. Series. III. L'Isola Trovata. Call no.: PN6777.B4L8 1986"
+    ]
+  },
+  "66": {
+    "heading": "Mantero, Maurizio, 1954-",
+    "title": "\"Sembra Quasi una Favola\"",
+    "author": "Mantero e Deidda",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 33-43 in Orient Express, no. 30 (Mar. 1985) I. Mantero. II. Deidda. Call no.: PN6768.O7no.30",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "67": {
+    "heading": "Mantero, Maurizio, 1954- --Miscellana.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "771"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "68": {
+    "heading": "Manticore.",
+    "title": "\"At the Mercy of the Manticore!\"",
+    "author": "Shooter, script ; Green, inks ; Perlin, art",
+    "title_type": "incipit",
+    "series": "Ghost Rider",
+    "appears_in": " 17 p. in Ghost Rider, no. 27 (Dec. 1977) k. Mercy. k. Manticore. I. Shooter, Jim. II. Green, Dan. III. Perlin, Don. Call no.: PN6728.4.M3G33no.27",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "69": {
+    "heading": "Mantilla.",
+    "title": "\"The Isle of Mantilla\"",
+    "author": "art and script: Will Eisner (Willis Rensie) 11 p",
+    "title_type": "incipit-assigned",
+    "series": "Hawk",
+    "appears_in": " in Jumbo Comics, no. 10 (Nov./Dec. 1939).",
+    "call number": "Film 15791r.187",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "70": {
+    "heading": "Mantis.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 14",
+        "22"
+      ]
+    },
+    "call number": "PN6725.W475 1984 v.14",
+    "publication info": null,
+    "notes": []
+  },
+  "71": {
+    "heading": "Mantis.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 5",
+        "29"
+      ]
+    },
+    "call number": "PN6725.W476 1987v.5",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "72": {
+    "heading": "Mantis, P.",
+    "title": "\"Haunted House\"",
+    "author": "by Frank Thomas",
+    "title_type": "incipit-assigned",
+    "series": "Billy and Bonny Bee",
+    "appears_in": " 5 p. in New Funnies, no. 98 (Apr. 1945).",
+    "call number": "PN6728.1.D4F8no.98",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Mr. P. Mantis moves into an empty house, and puts a stop to haunting pranks by Ferdie Firefly and Nippy Gnat."
+    ]
+  },
+  "73": {
+    "heading": null,
+    "title": "Mantis Woman",
+    "author": "story and art by Senno Knife ; translator, Duane Johnson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 K55M3 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Fredericksburg, VA",
+      "publisher": "I.C. Entertainment",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "174 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [
+      {
+        "title": "\"Mantis Woman\""
+      },
+      {
+        "title": "\"The Zenda Family's Hell\""
+      },
+      {
+        "title": "\"Koala is Watching\""
+      },
+      {
+        "title": "\"The Water Beckons\""
+      },
+      {
+        "title": "\"Hell's Gumball Machine\""
+      },
+      {
+        "title": "\"The Snake Boy\""
+      },
+      {
+        "title": "Afterword."
+      }
+    ],
+    "notes": []
+  },
+  "74": {
+    "heading": "Mantle, Mickey, 1931-",
+    "entry type": "index entry",
+    "title": "Comic Art in America",
+    "author": "Stephen D. Becker",
+    "series": null,
+    "pages": {
+      "range": [
+        "259"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "Simon and Schuster",
+      "date": "1959"
+    },
+    "notes": []
+  },
+  "75": {
+    "heading": "Mantle, Mickey, 1931-",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "262"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "76": {
+    "heading": "Mantle, Mickey, 1931-",
+    "title": "Mickey Mantle.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M225M5",
+    "library has": "no. 1-2 (1991).",
+    "publication info": {
+      "place": "Buffalo, N.Y.",
+      "publisher": "Magnum Comics",
+      "date": "1991-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Dec. 1991)",
+      "(Baseball's Greatest Heroes)",
+      "Genres: Sports, biography."
+    ]
+  },
+  "77": {
+    "heading": "Mantle, Mickey, 1931-",
+    "title": "Mickey Mantle : the unauthorized biography",
+    "author": "writer, John Netley ; illustrator, John Tartaglione.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Melville, N.Y.",
+      "publisher": "Personality Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "26 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Issue #1, November 1992\". 1. Mantle, Mickey, 1931-",
+      "Comic books, strips, etc. 2. Baseball players",
+      "Comic books, strips, etc. 3. Sports comics. I. Netley, John. II. Tartaglione, John. III. Personality Comics. Call no.: PN6728.6.P43M5 1992"
+    ]
+  },
+  "78": {
+    "heading": "Mantle, Mickey, 1931-",
+    "title": "Mickey Mantle and the Yankees' Greatest Decade, 1951-1961",
+    "author": "written by Herb Shapiro ; illustrated by Dick Ayers.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Baseball Legends Comics ; no. 4) 1. Mantle, Mickey, 1931-",
+      "Comic books, strips, etc. 2. Baseball players",
+      "Comic books, strips, etc. 3. Sports comics. 4. New York Yankees (Baseball team)",
+      "Comic books, strips, etc. I. Shapiro, Herb. II. Ayers, Dick. III. The Yankees' Greatest Decade, 1951-1961. IV. Series. V. Revolutionary Comics. Call no.: PN6728.6.R4B34 no.4"
+    ]
+  },
+  "79": {
+    "heading": "Mantle, Mickey, 1931-",
+    "title": "\"Mickey Mantle Goes to Bat for Dick Butterfingers\" 2 tiers in Wonder Woman, no. 89",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1957).",
+    "call number": "PN6728.1.N3W6no.89",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Back cover advertising strip for Junior Sales Club of America."
+    ]
+  },
+  "80": {
+    "heading": "Mantle, Mickey, 1931-",
+    "title": "\"Mickey Mantle Goes to Bat for the Unlucky Fishermen\" 2 tiers in Wonder Woman, no. 91",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1957).",
+    "call number": "PN6728.1.N3W6no.91",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Back cover advertising strip for Junior Sales Club of America."
+    ]
+  },
+  "81": {
+    "heading": "Mantle, Reggie.",
+    "title": "Class Clown",
+    "author": "Michael J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Pellowski.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Hollywood Paperbacks",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "124 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Riverdale Tales ; no. 7)",
+      "SUMMARY: When Reggie Mantle falls for Bernadette Brownlee, a very serious student with no sense of humor, their relationship gets off to a rough start. 1. High schools",
+      "Fiction. 2. Schools",
+      "Fiction. 3. Comedians",
+      "Fiction. I. Pellowski, Michael. II. Series. III. Hollywood Paperbacks. k. Clowns. k. Mantle, Reggie. k. Brownlee, Bernadette. k. Serious students. k. Humor. Call no.: PS3566.E43C55 1992"
+    ]
+  },
+  "82": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"Cookie Monster\"",
+    "author": "script, Frank Doyle ; pencils, Stan Goldberg ; inks, Mike Esposito ; colors, Caryn Antoniak",
+    "title_type": "incipit",
+    "series": "Jughead",
+    "appears_in": " 5 p. in Archie's Pal Jughead Comics, no. 72 (Sept. 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Reggie thinks any man who bakes cookies must be a \"whimp\", until he finds out Moose is doing it. I. [Each creator] k. Monsters. k. Baking. k. Manliness. k. Wimps. k. Whimps. k. Reggie. k. Moose. Call no.: PN6728.5.A7J8no.72"
+    ]
+  },
+  "83": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"Earache\"",
+    "author": "script, Mike Pellowski ; pencils, Stan Goldberg ; inks, Henry Scarpelli",
+    "title_type": "incipit",
+    "series": "Archie",
+    "appears_in": " 5 p. in Archie, no. 455 (Jan. 1997)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Archie has an earring, and Reggie's macho leads him to have both ears pierced. I. [Each creator] II. Archie. k. Earrings. k. Reggie. k. Macho. k. Ear Piercing. Call no.: PN6728.1.A7A7no.455"
+    ]
+  },
+  "84": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"Easel Said than Done!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Archie's Pal Jughead) 5 p. in Archie's Pal Jughead, no. 22",
+    "call number": "PN6728.1.A7A75no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reggie has taken up painting."
+    ]
+  },
+  "85": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"Hammock Amuck\"",
+    "author": "script, Dan Parent ; pencils, Stan Goldberg ; inks, Mike Esposito",
+    "title_type": "incipit",
+    "series": "Jughead",
+    "appears_in": " 5 p. in Archie's Pal Jughead Comics, no. 71 (Aug. 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Jughead challenges Reggie to sleep outdoors on a cold night, but doesn't mention that his new hammock is electrically heated. I. [Each creator]. k. Challenging. k. Reggie. k. Sleeping outdoors. k. Outdoors. k. Electric heat. k. Heating. Call no.: PN6728.5.A7J8no.71"
+    ]
+  },
+  "86": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"A Jellybean by Any Other Name!\"",
+    "author": "script, Craig Boldman ; pencils, Stan Goldberg ; inks, Mike Esposito",
+    "title_type": "incipit",
+    "series": "Jughead",
+    "appears_in": " 8 p. in Archie's Pal Jughead Comics, no. 71 (Aug. 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Little sister Jellybean has a new cap with her real name on it; despite Jughead's efforts Reggie steals the cap. To be continued. I. [Each creator] k. Little sisters. k. Sisters. k.Caps. k. Real names. k. Names. k. Reggie. Call no.: PN6728.5.A7J8no.71"
+    ]
+  },
+  "87": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"The Play's the Thing\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Archie) 6 p. in Archie Comics, no. 26",
+    "call number": "PN6728.1.A7A7 no.26",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Archie is Reggie's understudy for Hamlet."
+    ]
+  },
+  "88": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"The Sandy Clause\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Archie) 6 p. in Everything's Archie, no. 52",
+    "call number": "PN6728.3.A7E9no.52",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Reggie dumps dirty beach sand on Archie's front lawn, and Archie finds valuables in it."
+    ]
+  },
+  "89": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"See the CD\"",
+    "author": "Smith, Worley, Lapick",
+    "title_type": "incipit",
+    "series": "Archie",
+    "appears_in": " 1 p. in Archie, no. 455 (Jan. 1997)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Reggie likes compact discs because he can see his reflection in them. I. [Each creator] II. Archie. k. CDs. k. Compact Discs. k. Reflections. k. Reggie. Call no.: PN6728.1.A7A7no.455"
+    ]
+  },
+  "90": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"The Show Must Go On!\"",
+    "author": "script, Barbara Slate ; pencilling, Dan Parent ; inking, Jon D'Agostino, lettering, Bill Yoshida ; coloring, Barry Grossman",
+    "title_type": "incipit",
+    "series": "Archie &amp; Friends",
+    "appears_in": " 12 p. in Archie &amp; Friends, no. 21 (Feb. 1997)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Riverdale High is presenting Romeo and Juliet, and Reggie and Betty get the leads. I. [Each creator] II. Archie &amp; Friends. k. Romeo and Juliet. k. High School Plays. k. Plays. k. Shakespeare, William. k. Reggie. k. Betty. k. Leads. Call no.: PN6728.6.A7A67no.21"
+    ]
+  },
+  "91": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"Tape a Chance!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Archie's Pal Jughead) 3 p. in Archie's Pal Jughead, no. 22",
+    "call number": "PN6728.1.A7A75no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reggie and Jughead try sleep teaching (they fall asleep listening to tape recordings of their homework)."
+    ]
+  },
+  "92": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"Using the Old Beanie\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Jughead) 1 p. in Archie's Pal Jughead, no. 22",
+    "call number": "PN6728.1.A7A75no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Archie and Reggie make fun of Jughead's hat."
+    ]
+  },
+  "93": {
+    "heading": "Mantle, Reggie.",
+    "title": "\"The Voice of the Wise Guy\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Archie) 9 p. in Archie Comics, no. 17",
+    "call number": "PN6728.1.A7A7no.17",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Every time Archie opened his mouth, Reggie Mantle put a foot in it!\""
+    ]
+  },
+  "94": {
+    "heading": "Mantle, Reggie--Miscellanea.",
+    "entry type": "index entry",
+    "title": "From Girls to Grrrlz : a history of [female] comics from teens to zines",
+    "author": "Trina Robbins",
+    "series": null,
+    "pages": {
+      "range": [
+        "4",
+        "12"
+      ]
+    },
+    "call number": "PN6725.R58 1999",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Chronicle Books",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "95": {
+    "heading": "Mantlo, Bill.",
+    "title": "The Amazing Spider-Man : the Origin of the Hobgoblin",
+    "author": "writers, Roger Stern, Bill Mantlo, Tom DeFalco ; artists, John Romita, Jr",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": ", et al.",
+    "call number": "PN6728.A5S85 1992",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "160 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Originally published in magazine form as Amazing Spider-Man #238, 239, 244, 245, 249, 250, 251 and Spectacular Spider-Man #85\"."
+    ]
+  },
+  "96": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Amazing Spider-Man and the Incredible Hulk at the 1980 Winter Olympics\"",
+    "author": "Bill Mantlo, script ; Bill Mantlo, Mark Gruenwald, Steven Grant, story ; Herb Trimpe, pencils ; Bruce Patterson, inks",
+    "title_type": "incipit",
+    "series": "Spider-Man and the Hulk",
+    "appears_in": " 64 p. in Marvel Treasury Edition, no. 25 (1980).",
+    "call number": "folio PN6728.M378M34no.25",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "97": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"And All the King's Madmen Couldn't Put Deathlok Back Together Again, or Could They?\"",
+    "author": "Rich Buckler, Bill Mantlo, story ; Rich Buckler, pencils ; Klaus Janson, inks",
+    "title_type": "incipit",
+    "series": "Deathlok",
+    "appears_in": " 17 p. in Astonishing Tales, no. 34 (Mar. 1976)",
+    "call number": "PN6728.4.M3A8no.34",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from George Olshevsky."
+    ]
+  },
+  "98": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"And Once Removed from Never\"",
+    "author": "Rich Buckler, Bill Mantlo, story ; Rich Buckler, pencils ; Klaus Janson, inks",
+    "title_type": "incipit",
+    "series": "Deathlok",
+    "appears_in": " 17 p. in Astonishing Tales, no. 35 (May 1976)",
+    "call number": "PN6728.4.M3A8no.35",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from George Olshevsky."
+    ]
+  },
+  "99": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"And Still the Nazis March: Aryan Man\" p. 134-136",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #48 August 1979",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. I. Mantlo, Bill. II. Aryan Man. Call no.: PN6700.C62no.48"
+    ]
+  },
+  "100": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Animal Crackers\"",
+    "author": "Mike Mignola, pencils ; Bill Mantlo, script ; Al Gordon, inker",
+    "title_type": "incipit",
+    "series": "Rocket Raccoon",
+    "appears_in": " 22 p. in Rocket Raccoon, no. 1 (May 1985) k. Crackers. I. Mignola, Mike. II. Mantlo, Bill. III. Gordon, Al. Call no.: PN6728.5.M3R575no.1",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "101": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Arnie's Story!\"",
+    "author": "Mantlo, story ; Elias, Springer, art",
+    "title_type": "incipit",
+    "series": "Human Fly",
+    "appears_in": " 18 p.",
+    "call number": "PN6728.4.M3H8no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Sam Kujava. in The Human Fly, no. 12 (Aug. 1978)."
+    ]
+  },
+  "102": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Arrival!\"",
+    "author": "Bill Mantlo, writer ; Sal Buscema, artist",
+    "title_type": "incipit",
+    "series": "Rom",
+    "appears_in": " 18 p. in Rom, no. 1 (Dec. 1979).",
+    "call number": "PN6728.4.M3R6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "103": {
+    "heading": "Mantlo, Bill.",
+    "title": "The Avengers : The Korvac Saga",
+    "author": "writers, Jim Shooter, David Michelinie, Bill Mantlo ; pencillers, George Perez, Sal Buscema, David Wenzel, Tom Morgan ; inkers, Pablo Marcos, Klaus Janson, Ricardo Villamonte, Tom Morgan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm. 1. Science fiction comic books, strips, etc. 2. Superhero comics. I. Shooter, Jim. II. Michelinie, David. III. Mantlo, Bill. IV. Perez, George. V. Buscema, Sal. VI. Wenzel, David. VII. Morgan, Tom. VIII. The Korvac Saga. Call no.: PN6727.S49A87 1991",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "181 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "104": {
+    "heading": "Mantlo, Bill.",
+    "title": "The Battle of the Energy Drainers",
+    "author": "Bill Mantlo, script ; Al Kupperberg, Herb Trimpe &amp; Dan Green, art.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Caption title: Captain America versus the Energy Drainers.",
+      "At head of cover title: Campbell Soup Company and Marvel Comics Group in cooperation with the U.S. Department of Energy present Captain America and the Campbell Kids. 1. Superhero comics. 2. Energy conservation",
+      "Comic books, strips, etc. I. Campbell Soup Company. II. United States. Department of Energy. III. Mantlo, Bill. IV. Kupperberg, Al. V. Trimpe, Herb. VI. Green, Dan. VII. Captain America versus the Energy Drainers. Call no.: PN6728.5.M3B3"
+    ]
+  },
+  "105": {
+    "heading": "Mantlo, Bill.",
+    "title": "Buckaroo Banzai : the Official Comics Adaptation of the Spectacular New Film",
+    "author": "adapted from the hit movie by Bill Mantlo, writer ; Mark Texeira, pencils ; Armando Gil, inks.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.M3B76 1984",
+    "library has": "no. 1-2.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1984-1985"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Complete in 2 nos."
+    ]
+  },
+  "106": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Captives of the Collector!\"",
+    "author": "Bill Mantlo, script ; Dave Wenzel, pencils ; Pablo Marcos, inks",
+    "title_type": "incipit",
+    "series": "The Avengers",
+    "appears_in": " 17 p. in The Avengers, no. 174 (Aug. 1978)",
+    "call number": "PN6728.3.M3A87no.174",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "107": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Cathedral\"",
+    "author": "story: Bill Mantlo ; art: Jean-Claude Gal",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 97-107 in Heavy Metal 20 Year Special (Heavy Metal Special ; v. 11, no. 2 (Fall 1997).",
+    "call number": "PN6728.H43 T9 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "108": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Comics You Never Read About\" p. 59",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #42 October 1978",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. 1. Alternative comics",
+      "History and criticism. I. Mantlo, Bill. Call no.: PN6700.C62no.42"
+    ]
+  },
+  "109": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Crack of the Whip!\"",
+    "author": "Bill Mantlo, writer ; Jim Mooney, artist",
+    "title_type": "incipit",
+    "series": "Spider-Man and Iron Man",
+    "appears_in": " 17 p. in Marvel Team-Up, no. 72 (Aug. 1978) k. Whips. I. Mantlo, Bill. II. Mooney, Jim. III. Spider-Man. IV. Iron Man. Call no.: PN6728.4.M3M37no.72",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "110": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Creating a New Series for Marvel Comics: The Micronauts\" p. 24",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #40 June 1978",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. I. Mantlo, Bill. 1. Micronauts. Call no.: PN6700.C62no.40"
+    ]
+  },
+  "111": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Death Rides the Big Balloons!\"",
+    "author": "Bill Mantlo, writer ; Frank Robbins, penciler ; Steve Leialoha, inker ; Rick Parker, letterer ; Don Warfield, colorist",
+    "title_type": "incipit",
+    "series": "The Human Fly",
+    "appears_in": " 17 p. in The Human Fly, no. 14 (Oct. 1978).",
+    "call number": "PN6728.4.M3H8no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A lighter-than-air race begins, that includes a reconstructed Graf Zeppelin and Hindenberg. The race is a benefit for the \"Fund for the Handicapped.\" The Human Fly plans to walk a tightrope between two blimps, but has an accident and one of the dirigibles approaches the Empire State Building at high speed. While the skyscraper is being evacuated, the Human Fly makes it to the runaway with Blaze's help, and finds two stowaway children. The kids can't speak but communicate in sign language, which luckily the Human Fly understands. The ship is diverted.",
+      "Cover title: \"Fear Over Fifth Avenue!\""
+    ]
+  },
+  "112": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Dreadcliff Cuckoos\"",
+    "author": "John Buscema, Klaus Janson, art ; Bill Mantlo, story ; Michael Higgins, Irving Watanabe?, lettering",
+    "title_type": "incipit",
+    "series": "Howard the Duck",
+    "appears_in": " 25 p. in Howard the Duck, no. 4 (Mar. 1980)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villains are Adolf Hitler's Dentist (dies), Soofi, etc.",
+      "Data from Fredrik Ekman, Mike Nielsen, and Lou Mougin of Grand Comic-Book Database. I. [Each creator]. II. Howard the Duck. k. Cuckoos. k. Hitler, Adolf. k. Dentists. k. Soofi. Call no.: PN6728.4.M3H63no.4"
+    ]
+  },
+  "113": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Earth\"",
+    "author": "Bill Mantlo, writer ; Michael Golden, penciler ; Josef Rubinstein, inker",
+    "title_type": "incipit",
+    "series": "Micronauts",
+    "appears_in": " 17 p. in Micronauts, no. 2 (Feb. 1979) I. Mantlo, Bill. II. Golden, Michael. III. Rubinstein, Josef. Call no.: PN6728.4.M3M5no.2",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "114": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Earth Wars\"",
+    "author": "Bill Mantlo, writer ; Michael Golden, artist ; Bob McLeod, embellisher",
+    "title_type": "incipit",
+    "series": "Micronauts",
+    "appears_in": " 17 p. in Micronauts, no. 8 (Aug. 1979) k. War. I. Mantlo, Bill. II. Golden, Michael. III. McLeod, Bob. Call no.: PN6728.4.M3M5no.8.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "115": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Elementary, Dear Avengers\"",
+    "author": "Bill Mantlo, scripter ; John Byrne, Dan Green &amp; Frank Springer, artists",
+    "title_type": "incipit",
+    "series": "Avengers",
+    "appears_in": " 18 p. in The Avengers, no. 188 (Oct. 1979).",
+    "call number": "PN6728.3.M3A87no.188",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "116": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Fan Elitism and the Micronauts\" p. 25-26",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #53 January 1980",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. 1. Micronauts. I. Mantlo, Bill. k. Elitism. Call no.: PN6700.C62no.53"
+    ]
+  },
+  "117": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Field Trip!\"",
+    "author": "Bill Mantlo, writer ; Pat Broderick, artist ; Danny Bulanadi, inker",
+    "title_type": "incipit",
+    "series": "Micronauts",
+    "appears_in": " 12 p. in Micronauts, no. 23 (Nov. 1980).",
+    "call number": "PN6728.4.M3M5no.23",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "118": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Fire in the Streets!\"",
+    "author": "Bill Mantlo, writer ; Gene Colan, penciler ; Dan Green, inker",
+    "title_type": "incipit",
+    "series": "The Avengers",
+    "appears_in": " in The Avengers, no. 206 (Apr. 1981). 21 p.",
+    "call number": "PN6728.3.M3A87no.206",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "119": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Human Fly Visits the Marvel Bullpen\"",
+    "author": "commentary: Bill Mantlo ; photos: D",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Jon Zimmerman. 2 p. in The Human Fly, no. 15 (Nov. 1978).",
+    "call number": "PN6728.4.M3H8no.15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Announces a stunt-designing contest."
+    ]
+  },
+  "120": {
+    "heading": "Mantlo, Bill.",
+    "title": "The Incredible Hulk versus Quasimodo",
+    "author": "Bill Mantlo, writer ; Sal Buscema &amp; Steve Mitchell, artists.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Splash page title: The Hulk Meets the Hunchback of Notre Dame.",
+      "\"One shot collector's item.\" 1. Superhero comics. I. Mantlo, Bill. II. Buscema, Sal. III. Mitchell, Steve. IV. The Hulk Meets the Hunchback of Notre Dame. V. The Hunchback of Notre Dame. Call no.: PN6728.5.M3I5 1983"
+    ]
+  },
+  "121": {
+    "heading": "Mantlo, Bill.",
+    "title": "Invasion",
+    "author": "plot and breakdowns, Keith Giffen ; script, Bill Mantlo ; pencils, Todd McFarlane ; inks, P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Craig Russell, et al.",
+    "call number": "",
+    "library has": "no. 1-3. 1. Science fiction comic books, strips, etc. 2. Superhero comics. I. Giffen, Keith. II. Mantlo, Bill. III. McFarlane, Todd. IV. Russell, P. Craig. V. DC Comics, Inc. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1988-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Complete in 3 nos."
+    ]
+  },
+  "122": {
+    "heading": "Mantlo, Bill.",
+    "title": "Invasione",
+    "author": "trama, Keith Giffen ; testi, Bill Mantlo ; matite, Todd McFarlane ; chine, P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Craig Russell, et al.",
+    "call number": "PN6727.G537 I516 1993",
+    "library has": "v. 1-3.",
+    "publication info": {
+      "place": "Roma",
+      "publisher": "Edizione Play Press",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Play Book ; no. 28-30)",
+      "Translation of: Invasion.",
+      "Complete in 3 nos."
+    ]
+  },
+  "123": {
+    "heading": "Mantlo, Bill.",
+    "title": "The Last Starfighter : the official comics adaptation of the spectacular new film",
+    "author": "adapted from the hit film by Bill Mantlo, writer ; Bret Blevins, penciler ; Tony Salmons, inker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "v. 1-3. 1. Science fiction comic books, strips, etc. I. Mantlo, Bill. II. Blevins, Bret. III. Salmons, Tony. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "To be complete in 3 nos."
+    ]
+  },
+  "124": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Maltese Cockroach\"",
+    "author": "Gene Colan, Dave Simons, art ; Bill Mantlo, story ; Joe Rosen, lettering",
+    "title_type": "incipit",
+    "series": "Howard the Duck",
+    "appears_in": " 25 p. in Howard the Duck, no. 4 (Mar. 1980)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villain is Pro-Rata.",
+      "Data from Fredrik Ekman, Mike Nielsen, and Lou Mougin of Grand Comic-Book Database. I. [Each creator] II. Howard the Duck. k. Cockroaches. k. Pro-Rata. Call no.: PN6728.4.M3H63no.4"
+    ]
+  },
+  "125": {
+    "heading": "Mantlo, Bill.",
+    "title": "Marvel Comics Presents Spider-Man",
+    "author": "Bill Mantlo, spider-writer ; Jim Mooney &amp; Mike Esposito, arachnid-artists.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "16 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Sold to be used as a Halloween treat.",
+      "Story title: Still crazy after all these years. 1. Superhero comics. I. Mantlo, Bill. II. Mooney, Jim. III. Esposito, Mike. IV. Spider-Man. V. Still Crazy After All These Years. Call no.: PN6728.A5M3 1987"
+    ]
+  },
+  "126": {
+    "heading": "Mantlo, Bill.",
+    "title": "Marvel Masterworks Presents the X-Men : reprinting X-Men nos. 101-110",
+    "author": "written by Chris Claremont, Bill Mantlo, co-plotter, issue no",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " 106 ; penciled by Dave Cockrum, issue nos. 101-105, co-penciler on issue nos. 106, 110, Bob Brown, co-penciler, issue no. 106, John Byrne, issue nos. 108-109, Tony De Zuniga, issue no. 110.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "182 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Masterworks ; v. 12)",
+      "Originally published 1975-1976. 1. Superhero comics. I. Claremont, Chris. II. Mantlo, Bill. III. Cockrum, Dave, 1943- IV. Brown, Bob. V. Byrne, John. VI. De Zuniga, Tony. VII. X-Men, no. 101-110. VIII. Series. IX. Marvel Comics. Call no.: PN6728.X2C54 1990"
+    ]
+  },
+  "127": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Monster!\"",
+    "author": "Bill Mantlo and Sal Buscema",
+    "title_type": "incipit",
+    "series": "The Hulk",
+    "appears_in": " 32 p. in Incredible Hulk, no. 250 (Aug. 1980).",
+    "call number": "PN6728.2.M3T3no.250",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Chapter titles: 1. The Monster ; 2. The Exile ; 3. The Quest ; 4. The Power."
+    ]
+  },
+  "128": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Niagara Nightmare!\"",
+    "author": "Bill Mantlo, writer ; Bob Lubbers, artist ; R",
+    "title_type": "incipit",
+    "series": "The Human Fly",
+    "appears_in": " Villamonte, inker ; Novak, letters ; D. Martin, colors. 16 p. in The Human Fly, no. 16 (Dec. 1978).",
+    "call number": "PN6728.4.M3H8no.16",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Appearance of Blaze Kendall, an African American woman pilot who assists the Fly."
+    ]
+  },
+  "129": {
+    "heading": "Mantlo, Bill.",
+    "title": "The Odyssey",
+    "author": "by Homer ; Bill Mantlo, writer ; Jess Jodloman, artist.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Classics Comics ; no. 18) I. Homer. II. Mantlo, Bill. III. Jodloman, Jess M. IV. Series. Call no.: PN6728.4.M3M15no.18"
+    ]
+  },
+  "130": {
+    "heading": "Mantlo, Bill.",
+    "title": "Predator and Prey",
+    "author": "written by Bill Mantlo ; penciled by Larry Stroman ; inked by Al Williamson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Entertainment Group",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "61 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Marvel Graphic Novel)",
+      "Features Cloak and Dagger. 1. Superhero comics. I. Mantlo, Bill. II. Stroman, Larry. III. Williamson, Al, 1931- IV. Cloak and Dagger. V. Series. Call no.: PN6727.M33P7 1988"
+    ]
+  },
+  "131": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Reflections in a Crimson Eye\"",
+    "author": "Rich Buckler and Bill Mantlo, story ; Rich Buckler, pencils ; Klaus Janson, inks",
+    "title_type": "incipit",
+    "series": "Deathlok",
+    "appears_in": " 18 p. in Astonishing Tales, no. 33 (Jan. 1976)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from George Olshevsky. Call no.: PN6728.4.M3A8no.33"
+    ]
+  },
+  "132": {
+    "heading": "Mantlo, Bill.",
+    "title": "Retur til Andejord",
+    "author": "skrevet af Bill Mantlo ; tegnet af Michael Golden &amp; Bob McLeod ; oversat af John Lysmand ; tekstet af Rebecca Løwe.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.H6M319 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Originaltitel: Howard the Duck, v. 1., no. 6: 'Duck world'\"."
+    ]
+  },
+  "133": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Saturn's Secret\"",
+    "author": "by Bill Mantlo, Mike Vosburg and Joe Jusko",
+    "title_type": "incipit",
+    "series": "Paradox",
+    "appears_in": " p. 5-35 in Bizarre Adventures, no. 30 (Feb 1982).",
+    "call number": "PN6728.4.M3M337no.30",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Who was being betrayed, the Empire or something far more important?\""
+    ]
+  },
+  "134": {
+    "heading": "Mantlo, Bill.",
+    "title": "Shelter from the Storm : Power Pack and Cloak &amp; Dagger",
+    "author": "Bill Mantlo, writer ; Sal Velluto, penciler ; Mark Farmer, inker ; Jam Massara, letterer ; Julie Michel, colorist.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Entertainment Group",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Graphic Novel) 1. Superhero comics. 2. Runaway children",
+      "Comic books, strips, etc. I. Mantlo, Bill. II. Velluto, Sal. III. Farmer, Mark. IV. Power Pack. V. Cloak &amp; Dagger. VI. Series. Call no.: PN6727.M33S47 1989"
+    ]
+  },
+  "135": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Sing Out Loudly Death\"",
+    "author": "Marv Wolfman &amp; Bill Mantlo, story ; Herb Trimpe, pencils ; D",
+    "title_type": "incipit",
+    "series": "Killraven",
+    "appears_in": " Bruce Berry, inks. 18 p. in Amazing Adventures, no. 33 (Nov. 1975)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from George Olshevsky. I. [Each creator] II. Killraven. k. Loudness. k. Death. Call no.: PN6728.4.M3A5no.33"
+    ]
+  },
+  "136": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"South African Comics\" p. 75-77",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #43 December 1978) 1. South African comics",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "History and criticism. 2. African comics",
+      "History and criticism. I. Mantlo, Bill. Call no.: PN6700.C62no.43"
+    ]
+  },
+  "137": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Spawn of the Spider\"",
+    "author": "Bill Mantlo, writer ; Don Perlin, artist ; Jim Mooney, inker",
+    "title_type": "incipit",
+    "series": "Spider-Man",
+    "appears_in": " 28 p. in Amazing Spider-Man Annual, no. 11 (1977).",
+    "call number": "PN6728.3.M3A52no.11",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "138": {
+    "heading": "Mantlo, Bill.",
+    "title": "Swords of the Swashbucklers",
+    "author": "by Bill Mantlo and Jackson Guice.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Graphic Novel ; no. 14) 1. Science fiction comic books, strips, etc. 2. Adventure story comics. I. Mantlo, Bill. II. Guice, Jackson. III. Series. Call no.: PN6727.M33S9 1984"
+    ]
+  },
+  "139": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"The Tiger and the Fly!\"",
+    "author": "Mantlo, story ; Robbins/NY Tribe, art",
+    "title_type": "incipit",
+    "series": "Human Fly",
+    "appears_in": " 17 p. in Human Fly, no. 8 (Apr. 1978)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Sam Kujava. I. Mantlo, Bill. II. Robbins, Frank. III. New York Tribe. IV. Human Fly. k. Flies. Call no.: PN6728.4.M3H8no.8"
+    ]
+  },
+  "140": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Tiger in a Web!\"",
+    "author": "Bill Mantlo, writer ; Buscema, Esposito &amp; Giacoia, artists",
+    "title_type": "incipit",
+    "series": "Spider-Man",
+    "appears_in": " 17 p. in Peter Parker, the Spectacular Spider-Man, no. 10 (Sept. 1977) I. [Each creator] II. Spider-Man. k. Webs. Call no.: PN6728.4.M3S63no.10",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "141": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Today the Avengers Die!\"",
+    "author": "Bill Mantlo, writer ; Don Newton, penciler ; Abel &amp; Rubinstein, inkers",
+    "title_type": "incipit",
+    "series": "The Avengers",
+    "appears_in": " 34 p. in Avengers Annual, no. 9 (1979).",
+    "call number": "PN6728.3.M3A872no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "142": {
+    "heading": "-",
+    "title": "Mantlo, Bill. Le Tournoi des Champions",
+    "author": "Bill Mantlo, John Romita, Jr",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": ", Pablo Marcos.",
+    "call number": "PN6727.M33T614 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Lyon",
+      "publisher": "Lug Editeur",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection \"Un récit complet Marvel\" ; no. 3)",
+      "Genre: Superhero."
+    ]
+  },
+  "143": {
+    "heading": "Mantlo, Bill.",
+    "title": "Treasure Island",
+    "author": "by Robert Louis Stevenson ; Bill Mantlo, script ; Dino Castrillo, artist.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Classics Comics ; no. 15) 1. Adventure story comics. I. Stevenson, Robert Louis, 1850-1894. II. Mantlo, Bill. III. Castrillo, Dino. IV. Series. Call no.: PN6728.4.M3M15no.15"
+    ]
+  },
+  "144": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Turning Point!\"",
+    "author": "Bill Mantlo, story ; Sal Buscema &amp; Danny Bulanadi, art",
+    "title_type": "incipit",
+    "series": "Incredible Hulk",
+    "appears_in": " 22 p. in The Incredible Hulk, no. 295 (May 1984).",
+    "call number": "PN6728.2.M3T3no.295",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "145": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Upheaval!\"",
+    "author": "Bill Mantlo, story ; Mark Texeira, pencils ; Joe DelBeato &amp; Art Nichols, inks",
+    "title_type": "incipit",
+    "series": "Sectaurs",
+    "appears_in": " 23 p. in Sectaurs, no. 1 (June 1985).",
+    "call number": "PN6728.5.M3S37no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "146": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"War in the Washington Monument!\"",
+    "author": "Bill Mantlo, writer ; Lee Elias, artist ; R",
+    "title_type": "incipit",
+    "series": "The Human Fly",
+    "appears_in": " Villamonte, inker ; C. Robins, letters ; Michele W., colors. 15 p. in The Human Fly, no. 15 (Nov. 1978).",
+    "call number": "PN6728.4.M3H8no.15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Appearance of Blaze Kendall. Mention that Ted Locke, the Fly's engineer, is a Vietnam Veteran."
+    ]
+  },
+  "147": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"Where Were You When the Lights Went Out?\"",
+    "author": "Tom DeFalco, Bill Mantlo, script ; Ron Frenz, pencils ; Mike Esposito, inks ; Diana Albers, colors ; George Roussos, letters",
+    "title_type": "incipit",
+    "series": "Spider-Man and Black Widow",
+    "appears_in": " 22 p. in Marvel Team-Up, no. 140 (Apr. 1984).",
+    "call number": "PN6728.4.M3M37no.140",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Bob Klein via Grand Comics Database Project."
+    ]
+  },
+  "148": {
+    "heading": "Mantlo, Bill.",
+    "title": "\"You Don't Need the Weathermen to Know Which Way the Wind Blows!\"",
+    "author": "Bill Mantlo, writer ; Gene Colan, artist ; Dan Green, inker",
+    "title_type": "incipit",
+    "series": "The Avengers",
+    "appears_in": " 22 p. in The Avengers, no. 210 (Aug. 1981).",
+    "call number": "PN6728.3.M3A87no.210",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "149": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "title": "\"Comics in Review\"",
+    "author": "by C",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": "B. Kalish and R.E. Howell. p. 18 in Science Fiction Times, v. 1, no. 5 (Nov. 1979).",
+    "call number": "PN3448.S45S377v.1no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews of ROM, Spaceknight (Bill Mantlo and Sal Buscema), Time Warp (Jack C. Harris, ed.), The Flames of Gyro (Jay Disbrow), and Elfquest (Wendy and Richard Pini)."
+    ]
+  },
+  "150": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Who's Who of American Comic Books",
+    "author": "Jerry Bails &amp; Hames Ware",
+    "series": null,
+    "pages": {
+      "range": [
+        "324"
+      ]
+    },
+    "call number": "PN6725.B3v.4",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1973"
+    },
+    "notes": []
+  },
+  "151": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "title": "Index entry to Amazing Heroes, no. 60",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1, 1984",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Robert Klein. Call no.: PN6725.A47no.60"
+    ]
+  },
+  "152": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "title": "Index entry to Amazing Heroes, no. 156",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. Call no.: PN6725.A47no.156"
+    ]
+  },
+  "153": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "éd. Marjorie Alessandrini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "83"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "154": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Great Women Superheroes",
+    "author": "Trina Robbins",
+    "series": null,
+    "pages": {
+      "range": [
+        "148"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Northampton, Mass.",
+      "publisher": "Kitchen Sink Press",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "155": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "221"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "156": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Marvel : Five Fabulous Decades of the World's Greatest Comics",
+    "author": "Les Daniels",
+    "series": null,
+    "pages": {
+      "range": [
+        "173",
+        "201"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "H.N. Abrams",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "157": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "title": "Letter on Mantlo's column in Comics Journal #43. p. 20-21 in Comics Journal #46",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1979) 1. South African comics",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "History and criticism. 2. African comics",
+      "History and criticism. 3. Mantlo, Bill. I. Vartonoff, Ellen. Call no.: PN6700.C62no.46"
+    ]
+  },
+  "158": {
+    "heading": "Mantlo, Bill--Miscellanea.",
+    "title": "\"Mantlo Plays the Right Card\"",
+    "author": "Lyle Chesley",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 29-30 in The Comics Journal, no. 43 (Dec. 1978)",
+    "call number": "PN6700.C62no.43",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of Jack of Hearts.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "159": {
+    "heading": "Mantlo, K.",
+    "title": "\"Dance to the Murder!\"",
+    "author": "George Tuska, pencils ; Vince Colletta, inks ; Chris Claremont, story ; Don Warfield, colors ; K",
+    "title_type": "incipit",
+    "series": "Black Goliath",
+    "appears_in": " Mantlo, letters. 17 p. in Black Goliath, no. 3 (June 1976)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "NOTES: Death of Atom-Smasher ; Black Goliath battles Vulcan.",
+      "Data from Jamie Mcinnis of Grand Comic-Book Database. I. [Each creator] II. Black Goliath. k. Atom-Smasher. k. Vulcan. k. Murder. Call no.: PN6728.4.M3B55no.3"
+    ]
+  },
+  "160": {
+    "heading": null,
+    "title": "\"Mantlo Plays the Right Card\"",
+    "author": "Lyle Chesley",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 29-30 in The Comics Journal, no. 43 (Dec. 1978)",
+    "call number": "PN6700.C62no.43",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of Jack of Hearts.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "161": {
+    "entry type": "target",
+    "anchor": "/rri/mrri/mansi.htm#murd",
+    "title": "Mansion of Murder",
+    "notes": [
+      "Title assigned in the Grand\n        Comics Database Project to the final story (last seven\n        episodes) of the Rusty and His Pals feature in <em>Adventure\n        Comics</em>"
+    ],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}

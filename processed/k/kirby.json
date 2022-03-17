@@ -1,0 +1,31 @@
+{
+  "1": {
+    "entry type": "target",
+    "anchor": "/rri/krri/kirby.htm#kirby",
+    "title": "Kirby, Jack, 1917-1994.",
+    "notes": [
+      "American comics artist and\n        writer Jack Kirby, born Jacob Kurtzberg,",
+      "who sometimes used the pseudonym Jack Curtiss. See from\n   Kurtzberg, Curtiss; see also from American comics artists;\n   American comics writers",
+      "<ul>\n<li><strong><a href=\"/rri/krri/kirby1.htm\">\"Kirby, Jack\" (A-M\n          titles by Jack Kirby)</a></strong>\n</li>\n<li><strong><a href=\"/rri/krri/kirby2.htm\">\"Kirby, Jack\" (N-Z\n          titles by Jack Kirby)</a></strong>\n</li>\n<li><strong><a href=\"/rri/krri/kirby3.htm\">\"Kirby, Jack\"\n          (works about Jack Kirby)</a></strong>\n</li>\n<li><strong><a href=\"/rri/jrri/jackcoll.htm\">The Jack Kirby\n          Collector contents list</a></strong>\n</li>\n</ul>"
+    ],
+    "links": [
+      {
+        "Link Text": "\"Kirby, Jack\" (A-M\n          titles by Jack Kirby)",
+        "Link URL": "/rri/krri/kirby1.htm"
+      },
+      {
+        "Link Text": "\"Kirby, Jack\" (N-Z\n          titles by Jack Kirby)",
+        "Link URL": "/rri/krri/kirby2.htm"
+      },
+      {
+        "Link Text": "\"Kirby, Jack\"\n          (works about Jack Kirby)",
+        "Link URL": "/rri/krri/kirby3.htm"
+      },
+      {
+        "Link Text": "The Jack Kirby\n          Collector contents list",
+        "Link URL": "/rri/jrri/jackcoll.htm"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

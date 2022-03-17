@@ -1,0 +1,4347 @@
+{
+  "1": {
+    "heading": "Wag.",
+    "title": "The Big Book of Wag!",
+    "author": "Joe Ollmann.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733 .O44B5 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Conundrum Press",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "192 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": []
+  },
+  "2": {
+    "heading": "Wagamama Kitchen.",
+    "entry type": "encyclopedic entry",
+    "title": "Manga : the Complete Guide",
+    "author": "Jason Thompson",
+    "series": null,
+    "pages": {
+      "range": [
+        "442"
+      ]
+    },
+    "call number": "PN6790.J3T47 2007",
+    "publication info": {
+      "place": null,
+      "publisher": "Ballantine Books",
+      "date": "2007"
+    },
+    "notes": []
+  },
+  "3": {
+    "heading": null,
+    "title": "\"Wage and Price Freeze\"* 1 p. in Further Adventures of those Fabulous Furry Freak Brothers",
+    "author": "by Gilbert Shelton (San Francisco : Rip Off Press, 1972).",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.45.R5F23 1972",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "4": {
+    "heading": "Wage Slave World News.",
+    "title": "Two-Headed Space Alien Shrinks Labor Movement : and threatens to redouble its efforts for another twenty years!",
+    "author": "by Gary Huck and Mike Konopacki.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HD8076.H758 2003",
+    "library has": "",
+    "publication info": {
+      "place": "Madison, Wis.",
+      "publisher": "Huck/Konopacki Labor Cartoons",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "112 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Huck/Konopacki Labor Cartoons ; v. 5)",
+      "\"Wage slave world news : trashy journalism for the working class.\""
+    ]
+  },
+  "5": {
+    "heading": null,
+    "title": "Der Wagenbauer",
+    "author": "Willy Vandersteen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43 V3K3536 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Langgöns",
+      "publisher": "Wick Comics",
+      "date": "2002"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "39 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Karl May ; 36)",
+      "Originaltitel: De Wagenmaker."
+    ]
+  },
+  "6": {
+    "heading": "Wagenbreth, Henning.",
+    "title": "Dead Herring Comics.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790 .I82D4 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Tel Aviv, Israel",
+      "publisher": "Actus Independent Comics",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "109 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "author": "by Mira Friedmann",
+        "title": "\"So far so good\""
+      },
+      {
+        "title": "translated by Ainatte Inbal"
+      },
+      {
+        "author": "by Art Spiegelman",
+        "title": "\"No towers\""
+      },
+      {
+        "author": "by Kalman Kolton",
+        "title": "\"Kalman Kolton's secret recipe\""
+      },
+      {
+        "author": "by Etgar Keret &amp; Rutu Modan",
+        "title": "\"Bitch\""
+      },
+      {
+        "title": "translated by Sondra Silverston"
+      },
+      {
+        "author": "by Itzik Rennert",
+        "title": "\"Bombshell\""
+      },
+      {
+        "title": "translated by Ainatte Inbal"
+      },
+      {
+        "author": "by Yirmi Pinkus",
+        "title": "\"Rodnitzky's agony\""
+      },
+      {
+        "title": "translated by Ainatte Inbal"
+      },
+      {
+        "author": "by Etgar Keret",
+        "title": "\"Fatso\""
+      },
+      {
+        "title": "translated by Miriam Shlesinger"
+      },
+      {
+        "author": "by Henning Wagenbreth",
+        "title": "\"Plastic dog : electronic comic strip for Palm handheld computers\""
+      },
+      {
+        "title": "translated by Ellen Bass"
+      },
+      {
+        "author": "by Rutu Modan",
+        "title": "\"Energy blockage\""
+      },
+      {
+        "title": "translated by Noah Stollman"
+      },
+      {
+        "author": "by Yirmi Pinkus",
+        "title": "\"Sweet pangs of nostalgia : interview with Suehiro Maruo\""
+      },
+      {
+        "title": "simultaneous translation from the Japanese by Orit Magid"
+      },
+      {
+        "author": "by David Polonsky",
+        "title": "\"Strobe\""
+      },
+      {
+        "author": "Anke Feuchtenberger",
+        "title": "\"Old Rose\""
+      },
+      {
+        "title": "translated by Christiane Baumann"
+      },
+      {
+        "author": "by Ruth Gwily",
+        "title": "\"The amazin' world of adolescence\""
+      },
+      {
+        "author": "by Batia Kolton",
+        "title": "\"Compensation\""
+      },
+      {
+        "title": "translated by Jesse Mishory"
+      },
+      {
+        "author": "by Itzik Rennert",
+        "title": "\"Springland\""
+      },
+      {
+        "title": "translated by Ainatte Inbal"
+      },
+      {
+        "author": "by Blanquet",
+        "title": "\"Case of the illiterate demon\""
+      },
+      {
+        "author": "by Ulf K.",
+        "title": "\"Mister Hieronymus goes fishing\""
+      },
+      {
+        "author": "Mira Friedmann",
+        "title": "\"Envy\""
+      },
+      {
+        "author": "Ruth Modan",
+        "title": "\"Family dinner\""
+      },
+      {
+        "author": "Yirmi Pinkus",
+        "title": "\"Pomegranates\""
+      },
+      {
+        "author": "Itzik Rennert",
+        "title": "\"Rita's weekend\""
+      },
+      {
+        "author": "Batia Kolton.",
+        "title": "\"The stewardess\""
+      }
+    ],
+    "notes": [
+      "In English, with some English translated from Hebrew and Japanese.",
+      "At head of title: Actus Presents.",
+      "A comics anthology consisting of short stories and drawings mainly by Israeli artists.",
+      "\"Including 5 detachable posters\"."
+    ]
+  },
+  "7": {
+    "heading": "Wagenfeld, David.",
+    "title": "Kalamazoo Comix, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Winter 1996) : Work by the following: Dave White, Marty Webber, Danny Watson, David Wagenfeld, Dan Trudeau, Paul Sizer, Brian Pride, Marc Palm, Donnie Page III, Bill Packwood, Scott Nickel, Nick Myers, Stew Miller, Staunch Lippenstein, Johnny Lauck, Dustin Krcatovich, Mike Komarck, Jute, Rich Halpin, Jennifer Hachigian, Chas Gillen, John Fountain, Todd Freeman, A.C. Fisher, Matt Ferreira, John Emmons, Randy Z. Crawford, Randy H. Crawford, Ethan W. Colyer, Charles Burgoon, Neil Bryer, Sid Briere, John R.G. Barrett, Jr.",
+    "call number": "PN6728.6.D49K3no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "8": {
+    "heading": "Wagenfeld, David.",
+    "title": "Kalamazoo Comix, no. 4",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1997) : Work by the following: Art O'Dell, Brian Briggs, Brian Cairo, Charles Burgoon, Dan Trudeau, Danny Watson, Dave Elyea, David Wagenfeld, Donnie Page, Dustin Krcatovich, J.R., Jamie Binnington, Jay Hansen, Jim Breyfogle, Joel Thompson, John Dennis, John R.G. Barrett, Johnny Lauck, Ken Forester, Laurie Laing, Linc Polderman, Mark Steele, Max Jaxsa, Max Wilde, Mel Ford, Mikeal Van Cleave, Nick Myers, Paul Sizer, Pete Trudgeon, Randy H. Crawford, Ricardo Chavez, Rich Halpin, Rick Bugbee, Roger Moore, Sid Briere, Steph Graves, Steve Budzinski, Steve Houchard, Stew Miller, Todd Freeman, Tonya Holloway, William Packwood, Yul Tolbert.",
+    "call number": "PN6726.D49K3no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "9": {
+    "heading": "De Wagenmaker. German.",
+    "title": "Der Wagenbauer",
+    "author": "Willy Vandersteen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43 V3K3536 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Langgöns",
+      "publisher": "Wick Comics",
+      "date": "2002"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "39 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Karl May ; 36)",
+      "Originaltitel: De Wagenmaker."
+    ]
+  },
+  "10": {
+    "heading": "Wagering.",
+    "title": "\"Blame It On The Horses\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Our Boarding House with Major Hoople, Nov. 19, 1956",
+    "call number": "PN6728.O8F6 1934 v.13p.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Amos comes home with a crew cut, saying the barber was distracted by wagering, and Martha wonders how the bristles stand up in \"all that lard.\""
+    ]
+  },
+  "11": {
+    "heading": "Wagering.",
+    "title": "\"Keep It Light, Please. No Wagering\"",
+    "author": "by Frank Cho.",
+    "title_type": "incipit-assigned",
+    "series": "Liberty Meadows, Apr. 6, 1999",
+    "call number": "PN726 f.B55 \"wiener dogs\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The wiener dog race will start in 10 minutes. The odds on Oscar are 20 to 1."
+    ]
+  },
+  "12": {
+    "heading": "Wagers.",
+    "title": "\"Another Shot\"",
+    "author": "by Greg Evans.",
+    "title_type": "incipit-assigned",
+    "series": "Luann, July 29, 1997",
+    "call number": "PN6726f.B55 \"Oreos\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Brad stacks 29 Oreos, wants another try at 30.",
+      "Key words: Cookies, wagers."
+    ]
+  },
+  "13": {
+    "heading": "Wagers.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "14": {
+    "heading": "Wagers.",
+    "title": "\"The Final Wager\"",
+    "author": "Len Strazewski, script ; John Calimee, pencils ; Roy Richardson, inks ; Tom McCraw, colors ; Bob Pinaha, letters",
+    "title_type": "incipit",
+    "series": "Starman",
+    "appears_in": " 22 p. in Starman, no. 41 (Dec. 1991).",
+    "call number": "PN6728.5.D3S763no.41",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Jon Ingersoll of Grand Comics Database."
+    ]
+  },
+  "15": {
+    "heading": "Wagers.",
+    "title": "\"For Once He'll Skip the Details\"",
+    "author": "Bill Freyse.",
+    "title_type": "incipit",
+    "series": "Our Boarding House, Apr. 22, 1965",
+    "call number": "PN6726f.B55 \"wagers\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: At the poker game, the Owls want to know how his slippers wager with the boarders came out; he won but he's been so busy with research he tends to forget about minor diversions."
+    ]
+  },
+  "16": {
+    "heading": "Wagers.",
+    "title": "\"Stacking Oreos at the Fair\"",
+    "author": "by Greg Evans.",
+    "title_type": "incipit-assigned",
+    "series": "Luann, July 28, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Brad says he can stack 30 Oreos and put them all in his mouth.",
+      "Key words: Cookies, wagers. Call no.: PN6726f.B55 \"Oreos\""
+    ]
+  },
+  "17": {
+    "heading": "Wagers.",
+    "title": "\"The Stone Mountain Wager\"",
+    "author": "Jack Cole",
+    "title_type": "incipit-assigned",
+    "series": "Burp the Twerp",
+    "appears_in": " 1 p. in Blackhawk, no. 24 (Apr. 1949)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin of Grand Comic-Book Database. I. Cole, Jack. II. Burp the Twerp. k. Mountains. k. Wagers. Call no.: Film 15791r.128"
+    ]
+  },
+  "18": {
+    "heading": "Wagers.",
+    "title": "\"The Weird Wager\" 7 p. in Out of the Night, no. 9",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June/July 1953).",
+    "call number": "PN6728.2.A5 O9no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Features a wager between Death and the Devil."
+    ]
+  },
+  "19": {
+    "heading": "Wages.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "20": {
+    "heading": "Wages.",
+    "title": "\"Devil's Wages, Devil's Dues\"",
+    "author": "Moscoso",
+    "title_type": "incipit",
+    "series": "Artist &amp; Model Comics",
+    "appears_in": " 4 p. in Zap Comix, no. 9 (1978).",
+    "call number": "PN6728.45.P7Z3no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "21": {
+    "heading": "Wages.",
+    "title": "\"The Great Gold Strike\"",
+    "author": "by H",
+    "title_type": "incipit",
+    "series": "Wambi",
+    "appears_in": "C. Kiefer. p. 56-64 in Wambi the Jungle Boy, no. 1 (Spring 1942).",
+    "call number": "Film 15791r.30",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A cover title (\"Safari of Golden Death\") does not apply well to any story in this issue, but in this one there is mention of gold. White prospectors find gold and promise the Africans \"good wages as miners.\""
+    ]
+  },
+  "22": {
+    "heading": "Wages.",
+    "title": "\"When They Pay You With Livestock\"",
+    "author": "Hart.",
+    "title_type": "incipit-assigned",
+    "series": "B.C., May 3, 2006",
+    "call number": "PN6726 f.B55 \"livestock\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Johnny defines 'living wage' for his teacher."
+    ]
+  },
+  "23": {
+    "heading": "The Wages of Sin.",
+    "title": "Nexus : the Wages of Sin",
+    "author": "Mike Baron &amp; Steve Rude.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D34N445 1995",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Complete in 4 nos."
+    ]
+  },
+  "24": {
+    "heading": "Waggett, Gerard J.",
+    "title": "\"The Travails of Mortals : Wonder Woman's Transformation in the Late '60s\"",
+    "author": "by Gerard J",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Waggett. p. 30-33, 68-69 in Comic Book Marketplace, no. 78 (May 2000).",
+    "call number": "PN6714.C632no.78",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "25": {
+    "heading": "Waggin' Weasel.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "143"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "26": {
+    "heading": "Wagging.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "27": {
+    "heading": null,
+    "title": "\"The Wagging Tail\"",
+    "author": "by Jay Lynch &amp; Gary Whitney.",
+    "title_type": "incipit-assigned",
+    "series": "Phoebe &amp; the Pigeon People) 1 p. in Phoebe &amp; the Pigeon People, v. 1, no. 2",
+    "call number": "PN6728.45.K5P47no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "28": {
+    "heading": "Wagging Tails.",
+    "title": "Excuse Me While I Wag",
+    "author": "by Scott Adams.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.D535E9 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Kansas City, Mo.",
+      "publisher": "Andrews McMeel",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Dilbert Book)"
+    ]
+  },
+  "29": {
+    "heading": "Wagging Tails.",
+    "title": "\"He Can't Stop Wagging His Tail\"",
+    "author": "Armstrong.",
+    "title_type": "incipit-assigned",
+    "series": "Marvin, July 28, 1998",
+    "call number": "PN6726 f.B55 \"wagging\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Marvin's watching Captain Rex Super Canine Cop on television, and Bitsy's not impressed with the acting he sees."
+    ]
+  },
+  "30": {
+    "heading": "Wagging Tails.",
+    "title": "\"He Doesn't Bite, but his Tail is a Lethal Weapon\"",
+    "author": "Brad Anderson.",
+    "title_type": "incipit",
+    "series": "Marmaduke, July 28, 1997",
+    "call number": "PN6726f.B55 \"Tails\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Wagging, shins."
+    ]
+  },
+  "31": {
+    "heading": "Wagging Tails.",
+    "title": "\"Spot Reflects the Highlights at the End of the Day\"",
+    "author": "by Tom Roy.",
+    "title_type": "incipit",
+    "series": "The Pitts, Mar. 24, 1993",
+    "call number": "PN6726 f.B55 \"fire hydrants\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Spot wags his tail thinking of his dinner, a fire hydrant, and a ball."
+    ]
+  },
+  "32": {
+    "heading": "Wagging Tails.",
+    "title": "\"That's Because Your Tail Wags Every Time You Get a Good Hand\"",
+    "author": "by Paul Gilligan.",
+    "title_type": "incipit-assigned",
+    "series": "Pooch Cafe, Jan. 22, 2000",
+    "call number": "PN6726 f.B55 \"poker\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Poncho has trouble with poker."
+    ]
+  },
+  "33": {
+    "heading": "Wagging Tails.",
+    "title": "\"We Do That When Our Watch Stops!\"",
+    "author": "Russell Myers.",
+    "title_type": "incipit-assigned",
+    "series": "Perky &amp; Beanz, Mar. 17, 1987",
+    "call number": "PN6726 f.B55 \"wristwatches\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Perky sees Yoyo wag his tail and stretch, but wonders why he's shaking his wrist."
+    ]
+  },
+  "34": {
+    "heading": "\"Wagging the Tail\" (Out Our Way, Aug. 31, 1950) / J.R.",
+    "title": "Williams.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726 f.B55 \"walking the dog\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A man is staggering down the street and big brother think's he's a drunk, but the Worry Wart says he's only walking a busybody wire-haired dog."
+    ]
+  },
+  "35": {
+    "heading": "Waggling.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "36": {
+    "heading": "Waggs Biskitt.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "29"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "37": {
+    "heading": "Wagh, Nana.",
+    "title": "\"Aandal\"",
+    "author": "editor, D",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Kumar ; script, Indira Anantha Krishnan ; art work, Nana Wagh. p. 1-32 in Adarsh Chitra Katha, no. 25 (1982?).",
+    "call number": "PN6790 .I54A3no.25",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "38": {
+    "heading": "Wagh, Nana.",
+    "title": "\"A Fool's Luck\"",
+    "author": "editor, D",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Kumar ; script, Bharati Sukhatankar ; art work, Nana Wagh. p. 1-32 in Adarsh Chitra Katha, no. 19 (1982?).",
+    "call number": "PN6790 .I54A3no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A story from the Katha-Sarita-Sagara."
+    ]
+  },
+  "39": {
+    "heading": "Wagh, Nana.",
+    "title": "\"Vikramaditya's Throne : a Special Seat for a Special Monarch\"",
+    "author": "script, Kamala Chandrakant ; illustrations, Nana Wagh ; editor, Anant Pail",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": "p. 1-31 in Amar Chitra Katha, no. 598 (1975, 2009 printing).",
+    "call number": "PN6790 .I54A5no.598",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Fables &amp; Humour)",
+      "Begins: \"Indra, king of the gods, had pleased Shiva. As a reward Shiva gave him an exquisite throne.\"",
+      "Summary from back cover: \"This was no mere perch for any monarch. The goddess Parvati herself embellished it with her thirty-two beautiful companions, whom she first cast into stone. Eventually King Vikramaditya received the throne as a gift from Lord Indra, but he little realised that it would one day be used to remind the world of his virtues and guide future rulers to greatness.\""
+    ]
+  },
+  "40": {
+    "heading": "Wagner.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "41": {
+    "heading": "Wagner.",
+    "title": "\"Trop, C'est Trop\"",
+    "author": "Barre et Wagner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 2 in Pilote, no. 122 (Juillet 1984).",
+    "call number": "PN6748.P53no.122",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "42": {
+    "heading": "Wagner, Annette.",
+    "title": "Four-Fisted Tales.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.45.C56F6",
+    "library has": "no. 1-2 (1982).",
+    "publication info": {
+      "place": "Mountain View, Calif.",
+      "publisher": "Comics Consortium, i.e., R.G. Kelley &amp; Annette Wagner",
+      "date": "1982-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Underground, science fiction and war genres.",
+    "contents": [],
+    "notes": []
+  },
+  "43": {
+    "heading": "Wagner, Arnold.",
+    "title": "The Complete Idiot's Guide to Cartooning",
+    "author": "by Arnold Wagner and Shannon Turlington.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1320.W27 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Indianapolis, IN",
+      "publisher": "Alpha",
+      "date": "2002"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "254 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references (p. 233-237) and index."
+    ]
+  },
+  "44": {
+    "heading": "Wagner, Arnold.",
+    "title": "\"Letters to the Editors\" p. 6-7, 10-13, 17 in Hogan's Alley, v. 2, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "=no. 5",
+    "call number": "PN6700.H6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters from Alan Wassilak, Michael Smith, Jim Ivey, Helen Arot, Bob Buethe, Jessie Kahle Straut, Matthew Arkane, Arnold Wagner and Robert Beasley."
+    ]
+  },
+  "45": {
+    "heading": "Wagner, Bella.",
+    "title": "\"Love Lights\"",
+    "author": "by Bella Wagner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Wet Satin : Women's Erotic Fantasies, no. 1 (Apr. 1976).",
+    "call number": "PN6728.45.K5W43no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Copyright by Terry Richards ; illustration by Trina."
+    ]
+  },
+  "46": {
+    "heading": "Wagner, Bernard.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "55"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "47": {
+    "heading": "Wagner, Boyd D.",
+    "title": "\"Boyd 'Buzz' Wagner\"",
+    "author": "George Evans, art",
+    "title_type": "incipit",
+    "series": "Air Heroes of World War II",
+    "appears_in": " 4 p. in Wings Comics, no. 78 (Feb. 1947) ; reprinted in Rangers Comics, no. 69 (Winter 1953).",
+    "call number": "PN6728.1.F5W5m no.78",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Biographical genre.",
+    "contents": [],
+    "notes": [
+      "Illustrated text story.",
+      "Data from Lou Mougin, Jim Walls, Gary L. Watson, et al. via Grand Comics Database Project."
+    ]
+  },
+  "48": {
+    "heading": "Wagner, Boyd D.",
+    "title": "\"Lieutenant Colonel Boyd 'Buzz' Wagner\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Real Heroes' Hall of Fame) 2 p.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "49": {
+    "heading": "Wagner, Boyd D.",
+    "title": "\"Lieut. Col. Boyd D. Wagner\"",
+    "author": "art: Lee Elias",
+    "title_type": "incipit",
+    "series": "Yank Aces of World War II",
+    "appears_in": " 2 p. in Wings Comics, no. 32 (Apr. 1943).",
+    "call number": "PN6728.1.F5W5no.32",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Panel and caption style.",
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "50": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "\"Another Sad Story\" cartoon",
+    "author": "Charles Wagner",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " p. 42 in Comics Buyer's Guide, no. 830 (Oct. 13, 1989)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Kim Metzger. I. Wagner, Charles. k. Sad stories. Call no.: PN6725 f.B8no.830"
+    ]
+  },
+  "51": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "Cecil Kunkle. no. 1",
+    "author": "by Charles A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Wagner.",
+    "call number": "PN6727.W18C39 1975",
+    "library has": "",
+    "publication info": {
+      "place": "Peru, Ind.",
+      "publisher": "C.A. Wagner",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": []
+  },
+  "52": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "Cecil Kunkle.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-2. I. Wagner, Charles A. II. Charles A. Wagner's Cecil Kunkle. Call no.",
+    "publication info": {
+      "place": "Peru, Ind.",
+      "publisher": "Darkline Publications",
+      "date": "1987-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Charles A. Wagner's Cecil Kunkle.",
+      "Title from indicia.",
+      "Each issue also called v. 2."
+    ]
+  },
+  "53": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "Cecil Kunkle",
+    "author": "by Charles A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Wagner.",
+    "call number": "PN6727.W18 C4 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Peru, Ind.",
+      "publisher": "C Minus Comics and Stories",
+      "date": "1994"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 14 x 22 cm."
+    ]
+  },
+  "54": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "Charles A. Wagner's Cecil Kunkle.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1, 4. I. Wagner, Charles A. II. Cecil Kunkle. Call no.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "No. 1 (May 1986)- .",
+      "North Hollywood, CA : Renegade Press. 1986- .",
+      "Title from cover."
+    ]
+  },
+  "55": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "\"Dave Gerard : Crawfordsville's Citizen Smith\"",
+    "author": "by Charles A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Wagner. p. 72-75 in Cartoonist Profiles, no. 46 (June 1980).",
+    "call number": "NC1300.C35no.46",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Photographs of Gerard and Wagner, and samples of Gerard's features Viewpoint, Citizen Smith, and Will-Yum.",
+      "Points out that Fred Neher's character Will-Yum is unrelated."
+    ]
+  },
+  "56": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "\"Richard Lynn's The Sons of Liberty\"",
+    "author": "Charles A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Wagner. p. 18 in The Nostalgia Journal, no. 17 (Nov. 15, 1975)",
+    "call number": "PN6700.C62no.17",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About a comic strip about the American Revolution.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "57": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "\"Sam Bilbo Thought\" cartoon",
+    "author": "Charles Wagner",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " p. 44 in Comics Buyer's Guide, no. 830 (Oct. 13, 1989)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Kim Metzger. I. Wagner, Charles. Call no.: PN6725 f.B8no.830"
+    ]
+  },
+  "58": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "\"Simon &amp; Garfunkel\" cartoon",
+    "author": "Charles Wagner",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " p. 42 in Comics Buyer's Guide, no. 831 (Oct. 20, 1989)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Kim Metzger. I. Wagner, Charles. Call no.: PN6725 f.B8no.831"
+    ]
+  },
+  "59": {
+    "heading": "Wagner, Charles Alan, 1948-",
+    "title": "\"Topsy Turvy\"",
+    "author": "Charles Wagner",
+    "title_type": "incipit",
+    "series": "TV's Adventures of Superman",
+    "appears_in": " p. 65- in Comics Buyer's Guide, no. 830 (Oct. 13, 1989)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Kim Metzger. I. Wagner, Charles. II. TV's Adventures of Superman. III. Adventures of Superman. Call no.: PN6725 f.B8no.830"
+    ]
+  },
+  "60": {
+    "heading": "Wagner, Christopher.",
+    "title": "3rd Class Comics : More Entertainment than the Law Allows!",
+    "author": "edited by Christopher Wagner and others.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.T48 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Columbia, Mo.",
+      "publisher": "Advanced Drawing, section 2",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "68 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": [
+      "Class project under instructor Frank Stack, at the University of Missouri-Columbia.",
+      "Two additional student comics stories, and a term paper relating to one of the stories in the volume, laid in."
+    ]
+  },
+  "61": {
+    "heading": "Wagner, Dave.",
+    "title": "Donald Duck : an interview",
+    "author": "by Dave Wagner.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "19 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Detached from: Radical America, v. 7, no. 1 (1973)",
+      "Cover title: Interview with Donald Duck. 1. Barks, Carl, 1901- 2. Funny animal comics",
+      "History and criticism. I. Wagner, Dave. II. Interview with Donald Duck. III. Radical America. Call no.: PN6727.B3W3 1973"
+    ]
+  },
+  "62": {
+    "heading": "Wagner, Dr.",
+    "title": "\"They're Not Excited about a Move\"",
+    "author": "Jenkins-Burns.",
+    "title_type": "incipit-assigned",
+    "series": "Gil Thorp, June 28, 1999",
+    "call number": "PN6726 f.B55 \"golf courses\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: On the golf course, Gil talks to Dr. Wagner about his family and the proposed job at Kalamazoo College."
+    ]
+  },
+  "63": {
+    "heading": "Wagner, E. B.",
+    "entry type": "encyclopedic entry",
+    "title": "The Who's Who of American Comic Books",
+    "author": "Jerry Bails &amp; Hames Ware",
+    "series": null,
+    "pages": {
+      "range": [
+        "279"
+      ]
+    },
+    "call number": "PN6725.B3v.4",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1973"
+    },
+    "notes": []
+  },
+  "64": {
+    "heading": "Wagner, Edde.",
+    "title": "\"Dinosaur Mansion\"",
+    "author": "story by Bruce David ; art by Ronald Silva &amp; Edde Wagner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 29-34 in Hustler Comix, v. 2, no. 4 (Sept. 1998).",
+    "call number": "PN6728.6.L2H8v.2no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "65": {
+    "heading": "Wagner, Edde.",
+    "title": "10th Muse. v. 2, no. 1",
+    "author": "writer, Marv Wolfman ; pencils, Roger Cruz ; inks Oclair Albert &amp; Edde Wagner.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.A88T4 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Urbana, IL",
+      "publisher": "Avatar Press",
+      "date": "2002"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superheroine genre.",
+    "contents": [],
+    "notes": [
+      "\"July 2002.\"",
+      "Published with five different covers, cf. Official Overstreet Comic Book Price Guide."
+    ]
+  },
+  "66": {
+    "heading": "Wagner, Fred.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "270",
+        "358"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "67": {
+    "heading": "Wagner, Geoffrey Atheling.",
+    "title": "Parade of Pleasure : a study of popular iconography in the U.S.A.",
+    "author": "Geoffrey A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Wagner.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Library Publishers",
+      "date": "1955"
+    },
+    "physical description": {
+      "dimensions": "23 cm. 1. Motion-pictures",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "192 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Moral and ethical aspects. 2. Moral and ethical aspects of comics. 3. Literature, Immoral. I. Wagner, Geoffrey Atheling. II. Popular Iconography in the U.S.A. III. Library Publishers. k. Pleasure. k. Iconography. Call no.: PN1995.5.W2 1955"
+    ]
+  },
+  "68": {
+    "heading": "Wagner, Geoffrey Atheling--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "13"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "69": {
+    "heading": "Wagner, Geoffrey Atheling--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comic Books as History",
+    "author": "Joseph Witek",
+    "series": null,
+    "pages": {
+      "range": [
+        "9-10"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1989"
+    },
+    "notes": []
+  },
+  "70": {
+    "heading": "Wagner, Geoffrey Atheling--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Des Comics et des Hommes : Histoire Culturelle des Comic Books aux Etats-Unis",
+    "author": "Jean-Paul Gabilliet",
+    "series": null,
+    "pages": {
+      "range": [
+        "311",
+        "317-318"
+      ]
+    },
+    "call number": "PN6725.G32D4 2005",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Editions du Temps",
+      "date": "2005"
+    },
+    "notes": []
+  },
+  "71": {
+    "heading": "Wagner, Geoffrey Atheling--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A Haunt of Fears",
+    "author": "Martin Barker",
+    "series": null,
+    "pages": {
+      "range": [
+        "71",
+        "84-87"
+      ]
+    },
+    "call number": "PN6735.B38 1984",
+    "publication info": {
+      "place": "London",
+      "publisher": "Pluto Press",
+      "date": "1984"
+    },
+    "notes": []
+  },
+  "72": {
+    "heading": "Wagner, George.",
+    "title": "\"Dear Uncle Creepy\" p. 4-5 in Creepy, no. 41",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1971).",
+    "call number": "PN6728.3.W3C7no.41",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from George Wagner, Mark Menendez, Lyndon Joslin, William Fugate, Randy Norris, Eric Shratter, Michael Paumbarphew, Tim Collins, John D. Warner, Roberto Oqueli, Stephen Darner, John Baumann, Barry Koleduk, and Dorothy J. Jones."
+    ]
+  },
+  "73": {
+    "heading": "Wagner, Hans.",
+    "title": "\"Sports Oddities\" 1 p. in Real Life Comics, no. 57",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1951).",
+    "call number": "PN6728.1.N4R4no.57",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Items about Paul McCormack (football), Hans Wagner (baseball), Stuffy McInnis (baseball), Col. Bradley (Kentucky Derby), Damon Runyon (a greyhound), Bob Emslie (baseball umpire), and Homer as sportswriter."
+    ]
+  },
+  "74": {
+    "heading": "Wagner, Herr.",
+    "title": "\"What Happened in the Wax Museum?\"",
+    "author": "Stan Lee, story ; Steve Ditko, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 3 p. in Weird Wonder Tales, no. 20 (Jan. 1977) ; reprinted from Amazing Adult Fantasy, no. 14 (July 1962).",
+    "call number": "PN6728.4.M3W4no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Features a statue of a Herr Wagner.",
+      "Data from Lou Mougin, Dan Kocher, Terry Watkins, et al. via Grand Comics Database."
+    ]
+  },
+  "75": {
+    "heading": "Wagner, Honus.",
+    "title": "\"The Flying Dutchman : John Peter 'Honus' Wagner\" 3 p. in It Really Happened, no. 10",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1947).",
+    "call number": "PN6728.1.W5 I8no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Contents page title: \"Honus Wagner, the Flying Dutchman.\""
+    ]
+  },
+  "76": {
+    "heading": "Wagner, Honus.",
+    "title": "Honus Wagner : The Flying Dutchman",
+    "author": "written by John Harrington ; art &amp; lettering by Adam McMahon ; produced &amp; directed by Todd Loren &amp; Herb Shapiro.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.R4B34no.9",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "Revolutionary Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Baseball Legends Comics ; no. 9)",
+      "About Wagner (baseball player) and the Pittsburgh Pirates."
+    ]
+  },
+  "77": {
+    "heading": "Wagner, J. I.",
+    "title": "\"The Best of the Jests, Our Own Vintage\" p. 782-802 in Cartoons Magazine, v. 17, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1920).",
+    "call number": "NC1300.C37v.17no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Humorous verse, with cartoons by Grover Strother, Perry Barlow, Francis Kauffman, Ross Santee, Ted Nelson, Carl A. Seastrand, G.B. Inwood, Anthony Angarola, C. W. Anderson, Herbert Lewis, Lansing (\"Lang\") Campbell, Carl Anderson, J.I. Wagner, and Robert Lee Eskridge."
+    ]
+  },
+  "78": {
+    "heading": "Wagner, John.",
+    "title": "Anderson, Psi Division",
+    "author": "Wagner + Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London, England",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(Judge Anderson ; book 1) (The Best of 2000 AD ; 33) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Series. IV. Series. a. British comics. Call no.: PN6738.A48 1987"
+    ]
+  },
+  "79": {
+    "heading": "Wagner, John.",
+    "title": "Anderson, Psi Division. Book 2",
+    "author": "Wagner &amp; Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London, England",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Best of 2000 AD ; 34)",
+      "Title from cover.",
+      "Spine title: Judge Anderson, book 2. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Judge Anderson, book 2. IV. Series. a. British comics. Call no.: PN6738.A48 W32 1987"
+    ]
+  },
+  "80": {
+    "heading": "Wagner, John.",
+    "title": "Anderson, Psi Division. Book 3",
+    "author": "Wagner &amp; Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London, England",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Best of 2000 AD ; 35)",
+      "Title from cover.",
+      "Spine title: Judge Anderson, book 3. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Judge Anderson, book 3. IV. Series. a. British comics. Call no.: PN6738.A48W33 1987"
+    ]
+  },
+  "81": {
+    "heading": "Wagner, John.",
+    "title": "Anderson, PSI-Division",
+    "author": "John Wagner, Alan Grant ; artists, Jeff Anderson, Brett Ewins, Barry Kitson, Cliff Robinson, Will Simpson, Robin Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.A48 2005",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "192 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Judge Anderson ; 1)",
+      "(2000 AD)",
+      "\"Originally published in 2000 AD Progs 416-427, 468-478, 520-531.\""
+    ]
+  },
+  "82": {
+    "heading": "Wagner, John.",
+    "title": "Apocalypse War. Book 2",
+    "author": "by John Wagner, Alan Grant and Carlos Ezquerra.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm. - (The Chronicles of Judge Dredd",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "79 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "83": {
+    "heading": "Wagner, John.",
+    "title": "Batman, Judge Dredd : Judgment on Gotham",
+    "author": "writers, Alan Grant and John Wagner ; artist, Simon Bisley.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B37G635 1991",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm."
+    ]
+  },
+  "84": {
+    "heading": "Wagner, John.",
+    "title": "Batman : Judge Dredd : the Ultimate Riddle",
+    "author": "Alan Grant and John Wagner, writers ; Carl Critchlow, Dermott Power, artists.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B37 G637 1995",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Batman and Judge Dredd are transported to an alien world and forced to meet each other in mortal combat for the amusement of an insane, intergalactic sportsman."
+    ]
+  },
+  "85": {
+    "heading": "Wagner, John.",
+    "title": "Batman/Judge Dredd : Vendetta in Gotham",
+    "author": "written by Alan Grant and John Wagner ; art by Cam Kennedy ; color art by Digital Chameleon ; lettered by Ken Bruzenak.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B37G638 1993",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": []
+  },
+  "86": {
+    "heading": "Wagner, John.",
+    "title": "The Big Book of Martyrs",
+    "author": "by John Wagner and 51 of the world's top comic artists.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "BR1601.2.W34 1997",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Paradox Press",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "191 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Factoid Books)",
+      "Includes bibliographical references (p. 189) and index.",
+      "Biographical genre, about Christian martyrs and saints."
+    ]
+  },
+  "87": {
+    "heading": "Wagner, John.",
+    "title": "Block Mania",
+    "author": "by John Wagner, Mike McMahon and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; book 12) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. Smith, Ron. IV. Judge Dredd. V. Series. Call no.: PN6738.J8B55 1984"
+    ]
+  },
+  "88": {
+    "heading": "Wagner, John.",
+    "title": "Boba Fett : Death, Lies, &amp; Treachery",
+    "author": "story, John Wagner ; art, Cam Kennedy ; lettering, Steve Dutro &amp; Bob Pinaha.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.S75W3 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Milwaukie, Ore.",
+      "publisher": "Dark Horse Comics",
+      "date": "1998"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "(Star Wars)",
+      "\"This collects Dark Horse's three comic books: Star Wars : Boba Fett, Bounty on Bar-Kooda, Star Wars : Boba Fett, When the Fat Lady Swings, and Star Wars : Boba Fett, Murder Most Foul.\""
+    ]
+  },
+  "89": {
+    "heading": "Wagner, John.",
+    "title": "Button Man : The Killing Game",
+    "author": "by John Wagner and Arthur Ranson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.W27B8 1995",
+    "library has": "",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "92 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Spies."
+    ]
+  },
+  "90": {
+    "heading": "Wagner, John.",
+    "title": "\"The Charnel Pit\"",
+    "author": "Wagner/Grant, writers ; Brent Anderson, penciler ; Jimmy Palmiotti, inker",
+    "title_type": "incipit",
+    "series": "Judge Dredd",
+    "appears_in": " 24 p. in Judge Dredd : Legends of the Law, no. 3 (Feb. 1995)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Organ Donors ; pt. 3) I. Wagner, John. II. Grant, Alan. III. Anderson, Brent. IV. Palmiotti, Jimmy. V. Series. k. Pits. Call no.: PN6728.6.D3J76"
+    ]
+  },
+  "91": {
+    "heading": "Wagner, John.",
+    "title": "Chopper : Song of the Surfer",
+    "author": "John Wagner, Colin MacNeil.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Fleetway",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm. 1. Science fiction comic books, strips, etc. 2. British comics. I. Wagner, John. II. MacNeil, Colin. III. Song of the Surfer. Call no.: PN6737.W3C47 1990",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "88 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "92": {
+    "heading": "Wagner, John.",
+    "title": "The Chronicles of Genghis Grimtoad",
+    "author": "writers Alan Grant, John Wagner ; artist Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.G75C47 1990",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Marvel Comics",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "49 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Graphic Novel)",
+      "Fantasy."
+    ]
+  },
+  "93": {
+    "heading": "Wagner, John.",
+    "title": "City of the Damned",
+    "author": "by John Wagner and Alan Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "96 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 24) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Judge Dredd. IV. Series. a. British comics. Call no.: PN6738.J8C5 1986"
+    ]
+  },
+  "94": {
+    "heading": "Wagner, John.",
+    "title": "Clive Barker's Night Breed : Genesis",
+    "author": "Alan Grant, John Wagner, adaptation ; Jim Baikie, artist.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.B26N47 1991",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Epic Comics",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 25 cm.",
+      "Originally published in magazine form as Nightbreed #1-4.",
+      "Genre: Horror."
+    ]
+  },
+  "95": {
+    "heading": "Wagner, John.",
+    "title": "The Complete Judge Caligula",
+    "author": "John Wagner, Brian Bolland, Mike McMahon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 28 cm.",
+      "(The Chronicles of Judge Dredd)",
+      "Originally published: 1982. 1. Science fiction comic books, strips, etc. 2. British comics. I. Wagner, John. II. Bolland, Brian. III. McMahon, Mike. IV. Judge Caligula. V. Judge Dredd. VI. Series. Call no.: PN6738.J8J73 1991"
+    ]
+  },
+  "96": {
+    "heading": "Wagner, John.",
+    "title": "The Crow : City of Angels",
+    "author": "script, John Wagner ; art, Dean Ormston.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.K5C69 1996",
+    "library has": "no. 1-3.",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press : Top Dollar Comics",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "Issued with variant covers.",
+      "\"Based on the characters created by J. O'Barr.\"",
+      "Complete in 3 nos."
+    ]
+  },
+  "97": {
+    "heading": "Wagner, John.",
+    "title": "\"The Crow : Dead Time\"",
+    "author": "James O'Barr, story ; John Wagner, script ; Alexander Maleev, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 4 p. in Death Rattle, v. 3, no. 2 (Dec. 1995).",
+    "call number": "PN6728.45.K5D4v.3no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Preview of a forthcoming series."
+    ]
+  },
+  "98": {
+    "heading": "Wagner, John.",
+    "title": "The Crow : Dead Time",
+    "author": "story, cover, J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " O'Barr ; script, John Wagner ; art, Alexander Maleev ; lettering, Dan Burr.",
+    "call number": "PN6728.6.K5C7 1996",
+    "library has": "no. 1-3.",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1996-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "Complete in 3 nos."
+    ]
+  },
+  "99": {
+    "heading": "Wagner, John.",
+    "title": "The Crow : Dead Time",
+    "author": "J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " O'Barr, John Wagner, Alexander Maleev.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "94 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: J. O'Barr's The Crow : Dead Time. 1. Horror comic books, strips, etc. I. O'Barr, J. II. Wagner, John. III. Maleev, Alexander. IV. Dead time. V. J. O'Barr's The Crow : Dead Time. V. Kitchen Sink Press. Call no.: PN6727.O2D4 1997"
+    ]
+  },
+  "100": {
+    "heading": "Wagner, John.",
+    "title": "The Cursed Earth",
+    "author": "Pat Mills &amp; John Wagner ; with Mike McMahon &amp; Brian Bolland.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8C8 2003",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan in association with 2000 AD",
+      "date": "2003"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "160 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "(Judge Dredd)",
+      "Originally published between 22nd April and 7th October 1978 (progs. 61-85) of 2000 A.D."
+    ]
+  },
+  "101": {
+    "heading": "Wagner, John.",
+    "title": "Destiny's Angels : Judge Dredd",
+    "author": "Wagner, Grant, Ezquerra, Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "28 cm. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Ezquerra, Carlos. IV. Smith, Robin. V. Judge Dredd. VI. Titan Books. Call no.: PN6738.J8D4 1990",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "102": {
+    "heading": "Wagner, John.",
+    "title": "Doctor Who Classics. Vol. 1",
+    "author": "Pat Mills, John Wagner, Steve Moore ; artist, Dave Gibbons.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.D64C56 2008",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "IDW Publishing",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "112 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": []
+  },
+  "103": {
+    "heading": "Wagner, John.",
+    "title": "A History of Violence",
+    "author": "written by John Wagner ; art by Vince Locke ; lettering by Bob Lappan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Pocket Books",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "286 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Paradox graphic mystery) 1. Detective and mystery comic books, strips, etc. 2. Organized crime",
+      "Comic books, strips, etc. I. Wagner, John. II. Locke, Vince. III. Lappan, Bob. IV. Series. V. Pocket Books. Call no.: PN6737.W27H5 1997"
+    ]
+  },
+  "104": {
+    "heading": "Wagner, John.",
+    "title": "Judge Caligula. Book 1",
+    "author": "by John Wagner, Brian Bolland and Mike McMahon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 4) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Bolland, Brian. III. McMahon, Mike. IV. Series. Call no.: PN6738.J8J7 1983"
+    ]
+  },
+  "105": {
+    "heading": "Wagner, John.",
+    "title": "Judge Caligula. Book 2",
+    "author": "by John Wagner, Brian Bolland and Mike McMahon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 5) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Bolland, Brian. III. McMahon, Mike. IV. Series. Call no.: PN6738.J8J72 1982"
+    ]
+  },
+  "106": {
+    "heading": "Wagner, John.",
+    "title": "Judge Child. Book 1",
+    "author": "by John Wagner, Mike McMahon and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 8) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. Smith, Ron. IV. Series. Call no.: PN6738.J8J75 1983"
+    ]
+  },
+  "107": {
+    "heading": "Wagner, John.",
+    "title": "Judge Child. Book 2.",
+    "author": "by John Wagner, Mike McMahon and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 9) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. Smith, Ron. IV. Series. Call no.: PN6738.J8J752 1983"
+    ]
+  },
+  "108": {
+    "heading": "Wagner, John.",
+    "title": "Judge Child. Book 3",
+    "author": "by John Wagner, Mike McMahon and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 10) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. Smith, Ron. IV. Series. Call no.: PN6738.J8J753 1984"
+    ]
+  },
+  "109": {
+    "heading": "Wagner, John.",
+    "title": "The Judge Child Quest : Judge Dredd",
+    "author": "the writers, John Wagner, Alan Grant ; the artists, Brian Bolland, Mike McMahon, Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Fleetway",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "154 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Also titled: The Judge Child Quest Saga. 1. Science fiction comic books, strips, etc. 2. British comics. I. Wagner, John. II. Grant, Alan. III. Bolland, Brian. IV. McMahon, Mike. V. Smith, Ron. VI. Judge Dredd. VII. The Judge Child Quest Saga. Call no.: PN6738.J8J827 1991"
+    ]
+  },
+  "110": {
+    "heading": "Wagner, John.",
+    "title": "Judge Death",
+    "author": "by John Wagner and Brian Bolland.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 7) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Bolland, Brian. III. Series. Call no.: PN6738f.J8J8 1983"
+    ]
+  },
+  "111": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd",
+    "author": "by John Wagner and Brian Bolland.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 1) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Bolland, Brian. III. Series. Call no.: PN6738.J8J82 1983"
+    ]
+  },
+  "112": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd",
+    "author": "by John Wagner and Brian Bolland.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "10th anniversary ed.",
+      "(The Chronicles of Judge Dredd ; 1) 1. Science fiction comic books, strips, etc. 2. British comics. I. Wagner, John. II. Bolland, Brian. III. Series. Call no.: PN6738.J8J82 1991"
+    ]
+  },
+  "113": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 2",
+    "author": "by John Wagner and Mike McMahon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 6) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. Series. Call no.: PN6738.J8J825 1983"
+    ]
+  },
+  "114": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 3",
+    "author": "by John Wagner, Mike McMahon and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "79 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 11) 3. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. Smith, Ron. IV. Series. Call no.: PN6738.J8J83 1984"
+    ]
+  },
+  "115": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 4",
+    "author": "by John Wagner, Alan Grant and Carlos Ezquerra.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 15) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Ezquerra, Carlos. IV. Series. a. British comics. Call no.: PN6738.J8J84 1985"
+    ]
+  },
+  "116": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 5",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 16) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J85 1985"
+    ]
+  },
+  "117": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 6",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 17) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J86 1985"
+    ]
+  },
+  "118": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 7",
+    "author": "by John Wagner, Alan Grant and Carlos Ezquerra.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 18)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Ezquerra, Carlos. IV. Series. a. British comics. Call no.: PN6738.J8J87 1985"
+    ]
+  },
+  "119": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 8",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 19)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J88 1986"
+    ]
+  },
+  "120": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 9",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 20)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J89 1986"
+    ]
+  },
+  "121": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 10",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 21)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J9 1986"
+    ]
+  },
+  "122": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 12",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 23)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J92 1986"
+    ]
+  },
+  "123": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 13",
+    "author": "by John Wagner, Alan Grant and Cam Kennedy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 25) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Kennedy, Cam. IV. Series. a. British comics. Call no.: PN6738.J8J93 1987"
+    ]
+  },
+  "124": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 15",
+    "author": "by John Wagner, Alan Grant and Cam Kennedy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 27)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Kennedy, Cam. IV. Series. a. British comics. Call no.: PN6738.J8J95 1987"
+    ]
+  },
+  "125": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 16",
+    "author": "by John Wagner, Alan Grant and Brendan McCarthy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 28)",
+      "Title from cover. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. McCarthy, Brendan. IV. Series. a. British comics. Call no.: PN6738.J8J96 1987"
+    ]
+  },
+  "126": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 17",
+    "author": "by John Wagner, Alan Grant and Cam Kennedy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 29) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Kennedy, Cam. IV. Series. a. British comics. Call no.: PN6738.J8J97 1987"
+    ]
+  },
+  "127": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 18",
+    "author": "by John Wagner, Alan Grant and Cliff Robinson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 30) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Robinson, Cliff. IV. Series. a. British comics. Call no.: PN6738.J8J98 1987"
+    ]
+  },
+  "128": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 19",
+    "author": "by John Wagner, Alan Grant and Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 31) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Gibson, Ian. IV. Series. a. British comics. Call no.: PN6738.J8J99 1987"
+    ]
+  },
+  "129": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 20",
+    "author": "by John Wagner, Alan Grant and Steve Dillon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 32) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Dillon, Steve. IV. Series. a. British comics. Call no.: PN6738.J8J992 1988"
+    ]
+  },
+  "130": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 21",
+    "author": "by John Wagner, Alan Grant and John Higgins.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 33) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Higgins, John. IV. Series. a. British comics. Call no.: PN6738.J8J9921 1988"
+    ]
+  },
+  "131": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 22",
+    "author": "by John Wagner, Alan Grant and Brett Ewins.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 34) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Ewins, Brett. IV. Series. a. British comics. Call no.: PN6738.J8J9922 1988"
+    ]
+  },
+  "132": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 23",
+    "author": "by John Wagner, Alan Grant and Carlos Ezquerra.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 38) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Ezquerra, Carlos. IV. Series. a. British comics. Call no.: PN6738.J8J9923 1989"
+    ]
+  },
+  "133": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 24",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8J9924 1989",
+    "library has": "",
+    "publication info": {
+      "place": "London, England",
+      "publisher": "Titan Books",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 28 cm.",
+      "(The Chronicles of Judge Dredd ; 39)"
+    ]
+  },
+  "134": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 25",
+    "author": "by John Wagner, Alan Grant and Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Chronicles of Judge Dredd ; 40) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Gibson, Ian. IV. Series. a. British comics. Call no.: PN6738.J8J9925 1989"
+    ]
+  },
+  "135": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 26",
+    "author": "by John Wagner, Alan Grant and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd) 1, Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Smith, Ron. IV. Series. a. British comics. Call no.: PN6738.J8J9926 1989"
+    ]
+  },
+  "136": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd 27",
+    "author": "by John Wagner, Alan Grant and Barry Kitson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Kitson, Barry. IV. Series. a. British comics. Call no.: PN6738.J8J9927 1989"
+    ]
+  },
+  "137": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd : Bad Science",
+    "author": "John Wagner [et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "]",
+    "call number": "PN6738.J8B3 1990",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Fleetway",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"Gunge\""
+      },
+      {
+        "title": "\"Zombies\""
+      },
+      {
+        "title": "\"Blood of Satanus\""
+      },
+      {
+        "title": "\"Monkey Business at the Charles Darwin Block\""
+      },
+      {
+        "title": "\"Weather Man\""
+      },
+      {
+        "title": "\"Aggrodome.\""
+      }
+    ],
+    "notes": [
+      "Definitive ed."
+    ]
+  },
+  "138": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd : Democracy Now!",
+    "author": "by John Wagner, et al.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Mandarin",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "42 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Mandarin Graphic Novel)",
+      "First published in 2000 AD Progs 750-756. 1. Science fiction comic books, strips, etc. 2. British comics. I. Wagner, John. II. Series. III. Democracy Now! IV. 2000 AD. Call no.: PN6738.J8D35 1992"
+    ]
+  },
+  "139": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd : Future Crime",
+    "author": "Wagner, Grant, Bolland, McCarthy, Ewins, Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Definitive Editions",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "28 cm. 1. Science fiction comic books, strips, etc. 2. British comics. I. Wagner, John. II. Grant, Alan. III. Bolland, Brian. IV. McCarthy, Brendan. V. Ewins, Brett. VI. Smith, Ron. VIII. Future Crime. Call no.: PN6738.J8F8 1990",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "140": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd : Hall of Justice",
+    "author": "Wagner [et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "]",
+    "call number": "PN6738.J8J828 1990",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Fleetway",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Definitive ed."
+    ]
+  },
+  "141": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd : The Streets of Mega-City",
+    "author": "by John Wagner and Mike McMahon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Judge Dredd Colour Series ; 1) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. McMahon, Mike. III. The Streets of Mega-City. IV. Series. Call no.: PN6738f.J8S75 1982"
+    ]
+  },
+  "142": {
+    "heading": "Wagner, John.",
+    "title": "The Judge Dredd Collection",
+    "author": "by John Wagner and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "IPC Magazines",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "22 x 31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "\"The pick of the Daily Star strips.\" 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Smith, Ron. Call no.: PN6738.J8C6 1985"
+    ]
+  },
+  "143": {
+    "heading": "Wagner, John.",
+    "title": "The Judge Dredd Collection 2",
+    "author": "by John Wagner and Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "IPC Magazines",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "22 x 31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "\"The pick of the Daily Star strips.\" 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Smith, Ron. Call no.: PN6738.J8C62 1986"
+    ]
+  },
+  "144": {
+    "heading": "Wagner, John.",
+    "title": "The Judge Dredd Collection. 4",
+    "author": "scripts, John Wagner &amp; Alan Grant ; artwork, Ron Smith ; lettering, Tom Frame.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8C64 1989",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Fleetway Publications",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "22 x 30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "\"These reprinted strips first appeared in the Daily Star.\""
+    ]
+  },
+  "145": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd in Monkey Business",
+    "author": "written by John Wagner, Alan Grant ; drawn by Carlos Ezquerra, Mike McMahon, Ron Smith, Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8M6 1988",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan",
+      "date": "1988"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 18 cm.",
+      "(Judge Dredd Graphic Paperbacks ; 4)"
+    ]
+  },
+  "146": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd in Oz. Book 1",
+    "author": "Wagner, Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 35) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Series. a. British comics. Call no.: PN6738.J8O9 1988"
+    ]
+  },
+  "147": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd in Oz. Book 2",
+    "author": "Wagner, Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 36) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Series. a. British comics. Call no.: PN6738.J8O92 1988"
+    ]
+  },
+  "148": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd in Oz. Book 3",
+    "author": "Wagner, Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "78 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Chronicles of Judge Dredd ; 37) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Series. a. British comics. Call no.: PN6738.J8O93 1988"
+    ]
+  },
+  "149": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd in Tale of the Dead Man",
+    "author": "John Wagner, Will &amp; Wendy Simpson, Jeff Anderson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8T3 1991",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "2000 AD",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover and spine title: Tale of the Dead."
+    ]
+  },
+  "150": {
+    "heading": "Wagner, John.",
+    "title": "The Judge Dredd Mega-Collection",
+    "author": "John Wagner, Alan Grant, Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "folio PN6738.J8W3 1990",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Fleetway",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "22 x 30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "188 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(2000 AD Graphic Album)"
+    ]
+  },
+  "151": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd vs. the Fatties",
+    "author": "written by John Wagner, Alan Grant ; drawn by Carlos Ezquerra, Cam Kennedy, Ron Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8F3 1988",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan",
+      "date": "1988"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 18 cm.",
+      "(Judge Dredd Graphic Paperbacks ; 3)"
+    ]
+  },
+  "152": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd's Crime File",
+    "author": "written by John Wagner, Alan Grant and Pete Milligan ; art by John Higgins, Bryan Talbot, Jose Ortiz and Ian Gibson ; cover illustration by Brian Bolland.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "v. 1. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Milligan, Peter. IV. Higgins, John. V. Talbot, Bryan. VI. Ortiz, Jose. VII. Gibson, Ian. a. British comics. Call no.",
+    "publication info": {
+      "place": "Tom's River, N.J.",
+      "publisher": "Quality Comics",
+      "date": "1989-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in 4 vols."
+    ]
+  },
+  "153": {
+    "heading": "Wagner, John.",
+    "title": "Judge Dredd's Rough Justice",
+    "author": "Wagner/Grant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.J8R6 1991",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "154": {
+    "heading": "Wagner, John.",
+    "title": "The Last American",
+    "author": "Alan Grant, John Wagner, writers ; Michael McMahon, artist ; Phil Felix, letterer ; Suzanne Dell'Orto, assistant editor ; Nel Yomtov, editor ; Carl Potts, executive editor, Epic Comics.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3L27",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Epic Comics",
+      "date": "1990-1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Dec. 1990) - no. 4 (Mar. 1991).",
+      "Genre: Science fiction."
+    ]
+  },
+  "155": {
+    "heading": "Wagner, John.",
+    "title": "Lobo/Judge Dredd : Psycho-Bikers vs. the Mutants from Hell",
+    "author": "Alan Grant, John Wagner, Val Semeiks, John Dell.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.L58G715 1995",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1995"
+    },
+    "physical description": null,
+    "genre": "Superhero and horror genres.",
+    "contents": [],
+    "notes": [
+      "ca. 48 p. : col. ill. ; 26 cm."
+    ]
+  },
+  "156": {
+    "heading": "Wagner, John.",
+    "title": "Lobo : Unamerican Gladiators",
+    "author": "Alan Grant, John Wagner, Cam Kennedy.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D3L643 1993",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Complete in 4 nos."
+    ]
+  },
+  "157": {
+    "heading": "Wagner, John.",
+    "title": "The Midnight Surfer Special",
+    "author": "writer, John Wagner ; artist, Cam Kennedy ; letterer, Tom Frame ; colorist, Steve Whitaker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.W27M5 1986",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Quality Periodicals",
+      "date": "1986"
+    },
+    "physical description": null,
+    "genre": "Superhero and science fiction genres.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "(Quality Special ; no. 2)",
+      "Published one-shot."
+    ]
+  },
+  "158": {
+    "heading": "Wagner, John.",
+    "title": "Outcasts",
+    "author": "by Wagner-Grant-Kennedy-Montano.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-8. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Grant, Alan. III. Kennedy, Cam. IV. Montano, Steve. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1987-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in 12 nos."
+    ]
+  },
+  "159": {
+    "heading": "Wagner, John.",
+    "title": "Punisher : Blood on the Moors",
+    "author": "Alan Grant, John Wagner, writers ; Cam Kennedy, artist ; Jim Novak, letterer ; Joseph Kaufman, book design ; Richard Ashford, assistant editor ; Nelson Yomtov, editor ; Tom DeFalco, editor in chief.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.P8G72 1991",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Takes place in Scotland."
+    ]
+  },
+  "160": {
+    "heading": "Wagner, John.",
+    "title": "The Punisher : Die Hard in the Big Easy",
+    "author": "writer, John Wagner ; artist, Phil Gascoine ; colorist Steve Buccellato ; letterers, Mike Heisler, Jon Babcock ; assistant editor, Paula Foye ; editor, Marie Javins ; editor in chief, Tom DeFalco.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm. 1. Superhero comics. I. Wagner, John. II. Gascoine, Phil. III. Die Hard in the Big Easy. IV. Marvel Comics. Call no.: PN6728.P8D5 1992",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "161": {
+    "heading": "Wagner, John.",
+    "title": "Robohunter. Book 1",
+    "author": "by John Wagner and Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "80 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Robo-Hunter Casebook ; 1) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Gibson, Ian. III. Series. Call no.: PN6738.R82W28 1982"
+    ]
+  },
+  "162": {
+    "heading": "Wagner, John.",
+    "title": "Robohunter. Book 2",
+    "author": "by John Wagner and Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Robo-Hunter Casebook ; 2) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Gibson, Ian. III. Series. Call no.: PN6738.R82W29 1982"
+    ]
+  },
+  "163": {
+    "heading": "Wagner, John.",
+    "title": "Robo-Hunter. Book 3",
+    "author": "by John Wagner and Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Best of 2000 A.D.; 10)",
+      "At head of title: The Robo-Hunter Casebook. 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Gibson, Ian. III. The Robo-Hunter Casebook. IV. Series. Call no.: PN6738.R82W3 1984"
+    ]
+  },
+  "164": {
+    "heading": "Wagner, John.",
+    "title": "Robo-Hunter. Book 4",
+    "author": "by John Wagner and Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Robo-Hunter Casebook) (The Best of 2000 A.D. ; 11) 1. Science fiction comic books, strips, etc. I. Wagner, John. II. Gibson, Ian. III. Series. IV. Series 2. Call no.: PN6738.R82W32 1985"
+    ]
+  },
+  "165": {
+    "heading": "Wagner, John.",
+    "title": "Robo-Hunter : Day of the Droids",
+    "author": "John Wagner, Alan Grant, Ian Gibson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.R62D3 2005",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "2005"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "156 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": []
+  },
+  "166": {
+    "heading": "Wagner, John.",
+    "title": "\"Spinx the Jinx in the Game of Life\"",
+    "author": "John Wagner, story ; Carlos Ezquerra, art and color ; separations, Tracey Anderson ; lettering, Tracey H",
+    "title_type": "incipit",
+    "series": "The Spirit",
+    "appears_in": " Munsey. p. 21-27 in The Spirit : The New Adventures, no. 2 (Apr. 1998).",
+    "call number": "PN6728.6.K5S62no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "167": {
+    "heading": "Wagner, John.",
+    "title": "Star Wars : The Jabba Tape",
+    "author": "mangler of words, John Wagner ; sharp, sharp pencils, Kilian Plunkett ; off-color remarks, Dave Nestelle.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D34S7537 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Milwaukie, Ore.",
+      "publisher": "Dark Horse Comics",
+      "date": "1998"
+    },
+    "physical description": null,
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm."
+    ]
+  },
+  "168": {
+    "heading": "Wagner, John.",
+    "title": "Strontium Dog",
+    "author": "by John Wagner and Carlos Ezquerra.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London, England",
+      "publisher": "Titan Books",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1st ed.",
+      "(The Best of 2000 AD ; no. 12) 1. War comics. 2. Science fiction comic books, strips, etc. 3. British comics. I. Wagner, John. II. Ezquerra, Carlos. III. Series. IV. Titan Books. Call no.: PN6738.S766W3 1987"
+    ]
+  },
+  "169": {
+    "heading": "Wagner, John.",
+    "title": "Young Death : the Boyhood of a Superfiend",
+    "author": "written by Brian Skuter with the able assistance of John Wagner &amp; Peter Doherty.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.W27Y6 1990z",
+    "library has": "no. 1.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction and horror genres.",
+    "contents": [],
+    "notes": [
+      "Toms River, N.J. : S.Q.P. Inc., 199?- .",
+      "Originally published in Judge Dredd the Megazine v. 1, issues 1-12.",
+      "To be complete in 3 nos."
+    ]
+  },
+  "170": {
+    "heading": "Wagner, John--Interviews.",
+    "title": "Interview with Wagner &amp; Alan Grant, p. 69-80",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #122 June 1988); correction",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. 1. Wagner, John",
+      "Interviews. 2. Grant, Alan",
+      "Interviews. Call no.: PN6700.C62no.122, no.123"
+    ]
+  },
+  "171": {
+    "heading": "Wagner, John--Interviews.",
+    "title": "John Wagner and Alan Grant Interview 69-80",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #122 June 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan. 1. Wagner, John",
+      "Interviews. 2. Grant, Alan",
+      "Interviews. 3. British comics",
+      "History and criticism. I. Plowright, Frank. Call no.: PN6700.C62no.122"
+    ]
+  },
+  "172": {
+    "heading": "Wagner, John--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Adult Comics : an Introduction",
+    "author": "by Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "55",
+        "57",
+        "60",
+        "108",
+        "267"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Routledge",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "173": {
+    "heading": "Wagner, John--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, Comix &amp; Graphic Novels",
+    "author": "Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "131",
+        "137",
+        "141",
+        "167"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Phaidon",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "174": {
+    "heading": "Wagner, John--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "224"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "175": {
+    "heading": "Wagner, John--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "17"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "176": {
+    "heading": "Wagner, John--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1117"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "177": {
+    "heading": "Wagner, John--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Horror Comics, the Illustrated History",
+    "author": "Mike Benton",
+    "series": null,
+    "pages": {
+      "range": [
+        "81"
+      ]
+    },
+    "call number": "PN6725.B383H6 1991",
+    "publication info": {
+      "place": "Dallas, Tex.",
+      "publisher": "Taylor",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "178": {
+    "heading": "Wagner, John M.",
+    "title": "\"And When Did You First Begin Thinking You Were a Dog, Mr. Fido?\"",
+    "author": "by Wagner.",
+    "title_type": "incipit",
+    "series": "Grin and Bear It, Sept. 25, 1989",
+    "call number": "PN6726 f.B55 \"dogs\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A human-looking patient is on a psychiatrist's couch."
+    ]
+  },
+  "179": {
+    "heading": "Wagner, John M.",
+    "title": "\"Didn't I See You the Other Day Standing in Somebody's Yard?\"",
+    "author": "Wagner.",
+    "title_type": "incipit",
+    "series": "Animal Crackers, Feb. 12, 1999",
+    "call number": "PN6726 f.B55 \"lawn ornaments\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The flamingo says he hears that a lot."
+    ]
+  },
+  "180": {
+    "heading": "Wagner, John M.",
+    "title": "Don't Worry, be Crabby! : Maxine's Guide to Life",
+    "author": "illustrated by John M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Wagner ; written by Chris Brethwaite, et al.",
+    "call number": "PN6728.C69D6 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Kansas City",
+      "publisher": "Andrews and McMeel",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "14 x 21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "96 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Shoebox Greetings Book)",
+      "The character Maxine appears in the syndicated series Crabby Road."
+    ]
+  },
+  "181": {
+    "heading": "Wagner, John M.",
+    "title": "\"Here's the Worst of It: Some of the Golf Carts at the Club are Becoming Obsolete\"",
+    "author": "Lichty &amp; Wagner",
+    "title_type": "incipit",
+    "series": "Grin &amp; Bear It, June 3, 1982",
+    "appears_in": " reproduced on p. 151 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: In a room with flip charts of jets, tanks and missiles, the generals discuss military equipment."
+    ]
+  },
+  "182": {
+    "heading": "Wagner, John M.",
+    "title": "\"How Can Fertilizer Make Grass Look So Good But Taste So Bad?\"",
+    "author": "Wagner.",
+    "title_type": "incipit",
+    "series": "Animal Crackers, Feb. 16, 1999",
+    "call number": "PN6726 f.B55 \"fertilizer\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "183": {
+    "heading": "Wagner, John M.",
+    "title": "\"OK, Everybody Say Picnic!\"",
+    "author": "Wagner.",
+    "title_type": "incipit",
+    "series": "Animal Crackers, July 31, 2000",
+    "call number": "PN6726 f.B55 \"picnics\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A lion is taking a group photo of an ant colony."
+    ]
+  },
+  "184": {
+    "heading": "Wagner, John M.",
+    "title": "\"Try Some of This, It's the House Dressing!\"",
+    "author": "Wagner.",
+    "title_type": "incipit",
+    "series": "Animal Crackers, Sept. 16, 1999",
+    "call number": "PN6726 f.B55 \"salad dressing\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Two animals are grazing in a pasture."
+    ]
+  },
+  "185": {
+    "heading": "Wagner, John M.",
+    "title": "Yelling it Like it is : a Fine Whine with the Queen of Attitude",
+    "author": "Maxine.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.M395Y4 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Kansas City, MO",
+      "publisher": "Hallmark Books ; Pownal, Vt. : Storey Books",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "126 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Created by John M. Wagner ; written by Dan Taylor\"",
+      "Cartoons and humor about an older woman."
+    ]
+  },
+  "186": {
+    "heading": "Wagner, John M.",
+    "title": "\"You're Not Going Anywhere Until You Finish Your Acre\"",
+    "author": "Wagner.",
+    "title_type": "incipit",
+    "series": "Animal Crackers, Sept. 17, 1999",
+    "call number": "PN6726 f.B55 \"grazing\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A parent and calf in a pasture."
+    ]
+  },
+  "187": {
+    "heading": "Wagner, John M.",
+    "title": "\"You're Not Going to Look Like That\"",
+    "author": "Wagner.",
+    "title_type": "incipit-assigned",
+    "series": "Animal Pack, Dec. 8, 2007",
+    "call number": "PN6726 f.B55 \"toads\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A young frog worries about the warty grownup he sees, but they're different species."
+    ]
+  },
+  "188": {
+    "heading": "Wagner, John M.",
+    "title": "\"You're Not Super Bowl Material\"",
+    "author": "Wagner.",
+    "title_type": "incipit-assigned",
+    "series": "Grin and Bear It, Jan. 31, 2000",
+    "call number": "PN6726 f.B55 \"Superbowl\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Willougby is being cut from the hot dog vendor squad."
+    ]
+  },
+  "189": {
+    "heading": "Wagner, Jonas, 1964-",
+    "title": "Biographical entry",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 146) in Danish Comics Today",
+    "call number": "PN6790.D3D3 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "190": {
+    "heading": "Wagner, Karl Edward.",
+    "title": "\"She",
+    "author": "H",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Rider Haggard\" (Gallery)",
+    "call number": "PN6728.H43v.6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "191": {
+    "heading": "Wagner, Karl Edward.",
+    "title": "Tell Me Dark",
+    "author": "original characters and situations by Karl Edward Wagner &amp; Kent Williams; words by John Ney Rieber; pictures by Kent Williams; letters by Todd Klein.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.W2T44 1992",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 29 cm.",
+      "\"The verse which illuminates all chapter headings is by Charles Baudelaire; English translations by John Ney Rieber &amp; Sally Harmon.\""
+    ]
+  },
+  "192": {
+    "heading": "Wagner, Karl Edward.",
+    "title": "Tell Me, Dark : the Love Story that Kills",
+    "author": "Karl Edward Wagner, Kent Williams, John Ney Rieber.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.W2T44 1992b",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "Special promotional copy."
+    ]
+  },
+  "193": {
+    "entry type": "target",
+    "anchor": "/rri/wrri/wag.htm#gers",
+    "title": "Wagers",
+    "notes": [
+      "See also <a href=\"/rri/brri/betr.htm#bets\">Bets</a>"
+    ],
+    "links": [
+      {
+        "Link Text": "Bets",
+        "Link URL": "/rri/brri/betr.htm#bets"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

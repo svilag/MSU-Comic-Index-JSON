@@ -1,0 +1,4351 @@
+{
+  "1": {
+    "heading": "Den Själaviske Jätten.",
+    "title": "Sagor av Oscar Wilde",
+    "author": "illustrerade av P",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Craig Russell ; översättning, Göran Ribe ; textning, Sven Rosén.",
+    "call number": "PN6727.R85F3519 1992",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "Stockholm?",
+      "publisher": "Pyramid",
+      "date": "1992-"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "v. 1. Den själaviske jätten"
+      },
+      {
+        "title": "Stjärnbarnet."
+      }
+    ],
+    "notes": [
+      "Fairy tales of Oscar Wilde, in Swedish.",
+      "Genre: Fantasy."
+    ]
+  },
+  "2": {
+    "heading": null,
+    "title": "Sjef Van Oekel ; 3 Raakt op Drift",
+    "author": "Wim T",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Schippers, tekst ; Theo Van Den Boogaard, tekeningen.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjef Van Oekel ; 3) 1. Dutch comics. I. Schippers, Wim T. II. Boogaard, Theo van den. III. Series. IV. Oberon. Call no.: PN6790.N43S315 R3 1985"
+    ]
+  },
+  "3": {
+    "heading": null,
+    "title": "Sjef Van Oekel ; 4 Bijt van zich af",
+    "author": "Wim T",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Schippers, tekst ; Theo Van den Boogaard, tekeningen.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjef Van Oekel ; 4) 1. Dutch comics. I. Schippers, Wim T. II. Boogaard, Theo van den. III. Series. IV. Oberon. Call no.: PN6790.N43S315 B5 1987"
+    ]
+  },
+  "4": {
+    "heading": "Sjef Van Oekel--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "580"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "5": {
+    "heading": "Sjef Van Oekel--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1268"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": "Sjef van Oekel Zoekt het Hogerop. French.",
+    "title": "Léon-la-Terreur Atteint des Sommets",
+    "author": "dessin Theo Van den Boogaard &amp; scénario Wim T",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Schippers.",
+    "call number": "PN6790.N43 B6L4314 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Echo des Savanes/ Albin Michel",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "50 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sjef Van Oekel Zoekt het Hogerop, translated from Dutch to French by Henri Paulin-Rose."
+    ]
+  },
+  "7": {
+    "heading": "Sjöberg, Lore.",
+    "title": "The Webcomics Section.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "folio PN6726.W37 2009",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "56 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "4 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "author": "David Willis",
+        "title": "ShortPacked!"
+      },
+      {
+        "author": "Danielle Corsetto",
+        "title": "Girls with slingshots"
+      },
+      {
+        "author": "R. Stevens",
+        "title": "Diesel sweeties"
+      },
+      {
+        "author": "Ryan Schmer &amp; Lar deSouza",
+        "title": "Least I could do"
+      },
+      {
+        "author": "Jeff Zugale",
+        "title": "Just a bit off"
+      },
+      {
+        "author": "Stephanie McMillan",
+        "title": "Minimum security"
+      },
+      {
+        "author": "David Malki",
+        "title": "Wondermark"
+      },
+      {
+        "author": "Howard Tayler",
+        "title": "Schlock mercenary"
+      },
+      {
+        "author": "Bill Barnes &amp; Gene Ambaum",
+        "title": "Unshelved"
+      },
+      {
+        "author": "Jorge Cham",
+        "title": "Piled higher and deeper"
+      },
+      {
+        "author": "Chris Hallbeck",
+        "title": "The book of Biff"
+      },
+      {
+        "author": "Ryan North",
+        "title": "Dinosaur comics"
+      },
+      {
+        "author": "Jon Rosenberg",
+        "title": "Goats"
+      },
+      {
+        "author": "Zach Weiner",
+        "title": "Saturday morning breakfast cereal"
+      },
+      {
+        "author": "Lore Sjöberg",
+        "title": "Bad gods"
+      },
+      {
+        "author": "Bobby Crosby &amp; Remy 'Eisu' Mokhtar",
+        "title": "Marry me"
+      },
+      {
+        "author": "Indigo Kelleigh",
+        "title": "Ellie Connelley"
+      },
+      {
+        "author": "Eric Millikin",
+        "title": "Eric monster"
+      },
+      {
+        "author": "Spike.",
+        "title": "Templar, Arizona"
+      }
+    ],
+    "notes": [
+      "2009.",
+      "Color comics pages sampling webcomics, produced for Comic-Con International, San Diego, CA, July 22-26, 2009."
+    ]
+  },
+  "8": {
+    "heading": "Sjöstedt, Lisa.",
+    "title": "Cirkus Bodoni",
+    "author": "av Peyo och Walthéry ; efter en idé av Peyo ; teckningar, Walthéry ; text, Peyo och Gos ; översättning från franska, Ingrid Emond ; textning, Lisa Sjöstedt.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.P48B40519 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Stockholm",
+      "publisher": "Coeckelberghs",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid and superhero genres.",
+    "contents": [],
+    "notes": [
+      "(Starke Staffans Äventyr ; 4)",
+      "Translation from French to Swedish of Benoît Brisefer 5: Le Cirque Bodoni."
+    ]
+  },
+  "9": {
+    "heading": "Sjöstrand, Marika.",
+    "title": "Hämndens Pilar",
+    "author": "Hans Kresse ; Svensk text, Ingrid Emond ; textning, Marika Sjöstrand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43K7P4519 1979",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Carlsen Comics, 1979.",
+      "(Indianserien ; 5)",
+      "Translation of Les Peaux-Rouges 5: Les Flèches de la Vengeance.",
+      "Western genre, about Indians."
+    ]
+  },
+  "10": {
+    "heading": "Sjöstrand, Marika.",
+    "title": "Ner-Ramnus' Borg",
+    "author": "text, Jodorowsky ; bild, Arno ; svensk text, Stellan Nehlmark ; textning, Marika Sjöstrand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J55A919 1985",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "54 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Alvglans, 1985.",
+      "(Alef-Thaus äventyr)",
+      "Translation of Les Aventures d'Alef-Thau 1: L'Enfant Tronc."
+    ]
+  },
+  "11": {
+    "heading": "Sjors.",
+    "entry type": "index entry",
+    "title": "La Bande Dessinée en 10 Leçons",
+    "author": "Henri Filippini, Michel Bourgeois.",
+    "series": null,
+    "pages": {
+      "range": [
+        "52",
+        "105"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "12": {
+    "heading": "Sjors.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "50"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "13": {
+    "heading": "Sjors.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "éd. Marjorie Alessandrini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "39",
+        "42",
+        "206",
+        "232",
+        "223"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "14": {
+    "heading": "Sjors.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "illustrations": [
+        "404"
+      ],
+      "range": [
+        "554",
+        ""
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "15": {
+    "heading": null,
+    "title": "\"Sjors &amp; Sjimmie\" back cover of Sjors en Sjimmie Extra, nr. 23",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 4, 1991).",
+    "call number": "PN6790.N44 S8E9nr.23 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Internal numbering of page: 447."
+    ]
+  },
+  "16": {
+    "heading": null,
+    "title": "Sjors &amp; Sjimmie : In love",
+    "author": "onder redactie van Jan Van Die, Wilbert Plijnaar, Robert Van der Kroft.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjors &amp; Sjimmie ; 16)",
+      "\"Lange verhalen van Sjors &amp; Sjimmie\". 1. Dutch comics. 2. Teen humor comics. I. In Love. II. Van Die, Jan. III. Plijnaar, Wilbert. IV. Van der Kroft, Robert. V. Series. VI. Oberon. Call no.: PN6790.N44S8 I5 1989"
+    ]
+  },
+  "17": {
+    "heading": null,
+    "title": "Sjors en Sjimmie ; 10 De Lefgozers",
+    "author": "tekeningen: Robert van der Kroft ; tekst: Wilbert Plijnaar, Jan van Die ; kleurwerk Inkleurstudio Etten, Wendy van der Bijl ",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": ".. et al.",
+    "call number": "PN6790.N44 S8L4 1985",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "(Sjors en Sjimmie ; 10)"
+    ]
+  },
+  "18": {
+    "heading": null,
+    "title": "Sjors en Sjimmie ; 13 Kassa!",
+    "author": "tekeningen: Robert van der Kroft ; tekst: Wilbert Plijnaar, Jan van Die.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44 S8K3 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "(Sjors en Sjimmie ; 13)"
+    ]
+  },
+  "19": {
+    "heading": null,
+    "title": "Sjors &amp; Sjimmie ; 15 Amigos!",
+    "author": "onder redactie van Robert Van der Kroft, Wilbert Plijnaar, Jan Van Die.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44 S8A5 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1988"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjors &amp; Sjimmie ; 15)",
+      "\"Lange verhalen van Sjors &amp; Sjimmie\""
+    ]
+  },
+  "20": {
+    "heading": null,
+    "title": "Sjors &amp; Sjimmie ; 16 Sjors &amp; Sjimmie : In love",
+    "author": "onder redactie van Jan Van Die, Wilbert Plijnaar, Robert Van der Kroft.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Haarlem",
+      "publisher": "Oberon",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjors &amp; Sjimmie ; 16)",
+      "\"Lange verhalen van Sjors &amp; Sjimmie\". 1. Dutch comics. 2. Teen humor comics. I. In Love. II. Van Die, Jan. III. Plijnaar, Wilbert. IV. Van der Kroft, Robert. V. Series. VI. Oberon. Call no.: PN6790.N44S8 I5 1989"
+    ]
+  },
+  "21": {
+    "heading": null,
+    "title": "Sjors en Sjimmie ; 40 Skate-gevaar",
+    "author": "onder redactie van Robert van der Kroft, Wilbert Plijnaar, Jan van Die ; met medew",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " van: Evert Geradts, Mark Middelhuis, Wilfred Ottenheim, Michiel van de Pol en Remco Polman.",
+    "call number": "PN6790.N44S514 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Heemstede",
+      "publisher": "Big Balloon",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "(Sjors en Sjimmie ; 40)",
+      "Cover title: Lange Verhalen van Sjors &amp; Sjimmie."
+    ]
+  },
+  "22": {
+    "heading": null,
+    "title": "Sjors &amp; Sjimmie",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 11-23, 1991) \"Graaf\"",
+    "call number": "PN6790.N44S8nr.23 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "23": {
+    "heading": null,
+    "title": "Sjors &amp; Sjimmie",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 26-Feb. 2, 1998) \"Mevrouw De Kolonel\"",
+    "call number": "PN6790.N44S8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "24": {
+    "heading": "Sjors en Sjimmie--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "339"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "25": {
+    "heading": "Sjors en Sjimmie--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "580-581"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "26": {
+    "heading": null,
+    "title": "Sjors &amp; Sjimmie Collectie ; 1 Sjors en Sjimmie en de Rebellenclub ; Speed!",
+    "author": "Robert van der Kroft.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44 S8R4 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Breda",
+      "publisher": "Uitgeverij Lekturama",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "101 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "(Sjors &amp; Sjimmie Collectie ; 1)"
+    ]
+  },
+  "27": {
+    "heading": null,
+    "title": "Sjors en Sjimmie en de Rebellenclub ; Speed!",
+    "author": "Robert van der Kroft.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44 S8R4 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Breda",
+      "publisher": "Uitgeverij Lekturama",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "101 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "(Sjors &amp; Sjimmie Collectie ; 1)"
+    ]
+  },
+  "28": {
+    "heading": null,
+    "title": "Sjors en Sjimmie Extra.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44 S8E9",
+    "library has": "nr. 23 (1991).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Heemstede : Big Balloon, ."
+    ]
+  },
+  "29": {
+    "heading": null,
+    "title": "Sjors en Sjimmie Extra, nr. 23",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 4, 1991) CONTENTS: \"Boodschappenjongen\"",
+    "call number": "PN6790.N44 S8E9nr.23 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Dossier K-1\" (Agent 327) p. 6-9",
+      "\"Een Doordeweekse Dag\" (Soeperman) p. 10-11",
+      "\"Grote Truuk\" (Brian en de Brainbox) p. 12-15",
+      "\"De Hoofdprijs\" (Kanaal 13) p. 16-17",
+      "\"De Bom\" (De Leukebroeders) p. 18-21",
+      "\"Speelt met Vuurwerk\" (Tinus Trotyl) p. 22-25",
+      "\"De Valsemunter\" (De Generaal) p. 26-29",
+      "\"De Alsjemaar Bekend Band\" p. 30",
+      "\"Sjors &amp; Sjimmie\" back cover"
+    ]
+  },
+  "30": {
+    "heading": null,
+    "title": "Sjors en Sjimmie Stripblad.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44S8",
+    "library has": "1988",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Heemstede : Big Balloon, .",
+      "Continued by: Sjosji."
+    ]
+  },
+  "31": {
+    "heading": null,
+    "title": "Sjors en Sjimmie Stripblad, nr. 23",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 11-23, 1991) CONTENTS: \"Sneek\" p. 2",
+    "call number": "PN6790.N44S8nr.23 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Graaf\" (Sjors &amp; Sjimmie) p. 3-8",
+      "\"Pax Vaticanum\" (De Generaal) p. 10-13",
+      "\"Flippie Flink\" p. 14",
+      "\"De Zwarte Toto\" (Roel Dijkstra) p. 16-21",
+      "\"Heinz\" p. 22",
+      "\"Vreemdelingenlegioen\" p. 22",
+      "\"De D is van Van Driel\" ; \"De D is van Dijkman\" ; \"De F is van Francq\" ; \"De G is van Geradts\" (De T is van Tekenaar) text p. 23-26",
+      "\"Casper en Hobbes\" p. 27",
+      "\"Tom Carbon\" p. 27",
+      "\"Melk\" (De Familie Fortuin) p. 28-29",
+      "\"Mannetje en Mannetje\" p. 30",
+      "\"Hommelding\" (Leonardo) p. 32-34",
+      "\"XIII Contra I\" (XIII) p. 36-44",
+      "\"Jean-Pierre\" p. 46",
+      "\"Vreemdelingenlegioen\" p. 47",
+      "\"Roel en zijn Beestenboel\" back cover"
+    ]
+  },
+  "32": {
+    "heading": null,
+    "title": "Sjors van de Rebellenclub.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44S5",
+    "library has": "nr. 22 (1966).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid and adventure story genres.",
+    "contents": [],
+    "notes": [
+      "Haarlem : Maatschappij, ."
+    ]
+  },
+  "33": {
+    "heading": "Sjors van de Rebellenclub--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "622"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "34": {
+    "heading": "Sjors Weekblad.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "633"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "35": {
+    "heading": null,
+    "title": "Sjosji.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N44S8",
+    "library has": "nr. 3 (1998).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Heemstede : Big Balloon, .",
+      "Continues: Sjors en Sjimmie stripblad."
+    ]
+  },
+  "36": {
+    "heading": null,
+    "title": "Sjosji, nr. 3",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "26 Jan.-2 Feb. 1998) CONTENTS: \"Sneek\" p. 3",
+    "call number": "PN6790.N44S8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Zwendel in Indo-China\" (Victor Vallet) p. 4-7",
+      "\"Mevrouw De Kolonel\" (Sjors &amp; Sjimmie) p. 9-12",
+      "\"Automaffiamaat\" (Leonardo) p. 16-20",
+      "\"Trix\" p. 21",
+      "\"Formaline on the Rocks\" (Meneer Johan) p. 23-30",
+      "\"De Cowboys\" p. 32",
+      "\"Kleine Hihahoeha\" p. 32",
+      "\"Marc Van Der Holst\"* p. 33",
+      "\"Dirkjan\" p. 36",
+      "\"Flippie Flink\" p. 36",
+      "\"Meneer Johan\" p. 37",
+      "\"Mol\" p. 37",
+      "\"Jean-Pierre\" p. 38",
+      "\"Kobijn\" (Slaloms) p. 40-44",
+      "\"Errel &amp; Moes\" p. 46",
+      "\"Peer De Plintkabouter\" p. 46",
+      "\"Flippie Flink\" p. 48."
+    ]
+  },
+  "37": {
+    "heading": null,
+    "title": "De Sju Dödsdömda.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.S94 I5 Nr.205",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Bromma : Williams Förlags, 196-?",
+      "(Illustrerade Klassiker ; nr. 205)",
+      "Comics adaptation of: Rasskaz o semi poveshennykh, by Leonid Andreyev.",
+      "Novel about the last night of seven anarchists sentenced to be hanged."
+    ]
+  },
+  "38": {
+    "heading": null,
+    "title": "De Sju Kristallkulorna",
+    "author": "Hergé ; översättning, Karin och Allan Janzon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.H4T532192 1970",
+    "library has": "",
+    "publication info": {
+      "place": "Sweden",
+      "publisher": "Illustrationsförlaget",
+      "date": "1970"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Tintins Äventyr ; 3)",
+      "Swedish translation of: Les 7 Boules de Cristal."
+    ]
+  },
+  "39": {
+    "heading": null,
+    "title": "'Sjukkerne : Egons bodega",
+    "author": "Frank Margerin ; dansk tekst ved Per Vadmand.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "125 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Mini comics ; 28) 1. French comics. 2. Danish comics. I. Margerin, Frank, 1952- II. Vadmand, Per. III. Egons bodega. IV. Series. V. Chez Lucien. Danish. VI. Interpresse. Call no.: PN6747.M324L8219 1990"
+    ]
+  },
+  "40": {
+    "heading": null,
+    "title": "Sjukkerne ; 1 'Sjukkerne Trykker den af",
+    "author": "Frank Margerin ; oversat af Jens Peder Agger ; håndtekstet af Henrik Bock.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M324V619 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjukkerne ; 1)",
+      "Translation of: Votez Rocky."
+    ]
+  },
+  "41": {
+    "heading": null,
+    "title": "'Sjukkerne Trykker den af",
+    "author": "Frank Margerin ; oversat af Jens Peder Agger ; håndtekstet af Henrik Bock.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.M324V619 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Sjukkerne ; 1)",
+      "Translation of: Votez Rocky."
+    ]
+  },
+  "42": {
+    "heading": "Sjunnesson, Lars, 1962-",
+    "title": "Bosnian Flat Dog",
+    "author": "Max Andersson ; Lars Sjunnesson ; aus dem Schwedischen von Ylva Queisser.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.S93 A5B6 2004",
+    "library has": "",
+    "publication info": {
+      "place": "Berlin",
+      "publisher": "Reprodukt",
+      "date": "2004"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "85 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Alternative genre, about the Kosovo War, 1998-1999."
+    ]
+  },
+  "43": {
+    "heading": "Sjunnesson, Lars, 1962-",
+    "title": "Contribution",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 1653-1655) to Comix 2000",
+    "call number": "PN6720.C6 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "44": {
+    "heading": "Sjunnesson, Lars, 1962- --Miscellanea.",
+    "title": "Contributor note and bibliography in Comix 2000",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Paris : L'Association, 1999).",
+    "call number": "PN6720.C6 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "45": {
+    "heading": "Ska Gents.",
+    "title": "Skagents : Knights of the 2-Tone Army",
+    "author": "by Truman Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.C575S57202 2017",
+    "library has": "",
+    "publication info": {
+      "place": "East Lansing, MI",
+      "publisher": "Michigan State University",
+      "date": "2017"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "33 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "New wave genre.",
+    "contents": [],
+    "notes": [
+      "Title might also read: Ska Gents.",
+      "Done for the Spring 2017 Advanced Comic Art and Graphic Novel Studio Course at Michigan State University, with prof. Ryan Claytor."
+    ]
+  },
+  "46": {
+    "heading": "Ska Music and a Boy.",
+    "title": "\"Upbeat Feeling : a Short Story of Ska Music and a Boy\"",
+    "author": "Josh PM Frees",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 94-98 in Side A : the Music Lover's Graphic Novel (Poseur Ink, 2006).",
+    "call number": "PN6720.S499 2006",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "47": {
+    "heading": "Ska-Punk Bands.",
+    "title": "\"Fighting for Truth, Justice the Silly Way\"",
+    "author": "by Robert Ito",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " sect. 1, p. 16 in the Chicago Tribune, Mar. 3, 2012.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article about Christian Jacobs and his The Aquabats Super Show, a funny superhero television feature based on a \"ska-punk band\" formed in 1994.",
+      "Call no: folio PN6710.S35 2012"
+    ]
+  },
+  "48": {
+    "heading": null,
+    "title": "Skaar : King of the Savage Land.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.8.M3S52 2011",
+    "library has": "no. 1-5.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Worldwide",
+      "date": "2011"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero and jungle adventure genres.",
+    "contents": [],
+    "notes": [
+      "(Marvel Limited Series)",
+      "Complete in 5 nos."
+    ]
+  },
+  "49": {
+    "heading": "Skaar.",
+    "title": "Fall of the Hulks",
+    "author": "writer, Greg Pak ; pencils, Paul Pelletier ; inks, Danny Miki with Crimelab Studios ; colors, Frank D'Armata with Guru Efx &amp; Veronica Gandini ; letters, Simon Bowland.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728 .I47F3 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Worldwide",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 27 cm.",
+      "(Incredible Hulk ; v. 2)",
+      "\"Contains material originally published in magazine form as Incredible Hulk #606-608 and Fall of the Hulks Alpha.\"",
+      "Summary (from SkyRiver): Skaar is loose on Earth, hunting down his father with blood on his mind!"
+    ]
+  },
+  "50": {
+    "heading": "Skaar.",
+    "title": "Fall of the Hulks : Prelude",
+    "author": "writer, Jeph Loeb, et",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " al ; pencils Ed McGuinness, et. al ; inks Dexter Vines, et. al.",
+    "call number": "PN6728 .I47F3203 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Publishing",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 26 cm.",
+      "Contains material originally in magazine form as Hulk #2, #9 and #16 ; Skaar : Son of Hulk #1 ; Hulk : Racing, thunder, Amazing fantasy #15 ; Planet SKAAR prologue, All-new She-Hulk #4 and Incredible Hulk #600-601.",
+      "Summary (from SkyRiver): Collects adventures with the members of the Hulk family, including Red Hulk's battles against Iron Man, the son of Hulk's origin and visit to Earth, and She-Hulk's reaction to the coming apocalypse."
+    ]
+  },
+  "51": {
+    "heading": "Skaar.",
+    "title": "The Incredible Hulks : Enigma Force, Dark Son",
+    "author": "writer, Scott Reed ; pencils, Miguel Munera ; inks, Terry Pallot, Greg Adams ; colors, Veronica Gandini, Jorge Maese ; letters, Fishbrain, Dave Sharpe.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728 .I47E5 2011",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Worldwide",
+      "date": "2011"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "Collects: Realm of Kings: Son of Hulk #1-4 and Incredible Hulks: Enigma Force #1-3.",
+      "Summary (from SkyRiver): As the protectors of the new Microverse, Arcturus Rann and his Enigma Force find themselves facing a new Hulk, Hiro-Kala, the son of the Hulk and Caiera and the smaller twin brother of Skaar. Hiro-Kala has plans for Jarella's sub-atomic world and the Enigma Force is determined to stop him, at any cost."
+    ]
+  },
+  "52": {
+    "heading": "Skaar.",
+    "title": "Planet Skaar Prologue.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.M3P56 2009",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Publishing",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "40 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Marvel One-Shot)",
+      "\"No. 1, July 2009.\""
+    ]
+  },
+  "53": {
+    "heading": "Skaar.",
+    "title": "Seven the Hard Way",
+    "author": "writer, Daniel Way ; pencils, Doug Braithwaite ; inks &amp; washes, Bill Reinhold, with Doug Braithwaite (Issue #43), Gary Erskine (Issue #44) &amp; Mike Manley (Issue #45) ; colors, Andy Troy ; letters, Virtual Calligraphy's Cory Petit.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.W56S43 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Worldwide",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 27 cm.",
+      "(Wolverine Origins)",
+      "\"Contains material originally published in magazine form as Wolverine: Origins #41-45.\"",
+      "\"In the fight of his life against his most fearsome foe, Wolverine finally realizes he can't go it alone. It's time to assemble an alliance that will help him take out Romulus and give him a shred of a chance at redeeming his son, Daken. His dream team seven strong, it starts with Bruce Banner and his gamma-irradiated progeny, Skaar, and it gets harder, much harder, from there!\""
+    ]
+  },
+  "54": {
+    "heading": "Skaar.",
+    "title": "Son of Banner",
+    "author": "writer, Greg Pak ; artists, Ariel Olivetti, et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " ; letterer, Simon Bowland.",
+    "call number": "PN6728 .I47S6 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Publishing",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "(Incredible Hulk ; v. 1)",
+      "\"Collecting Incredible Hulk #601-605 &amp; Dark Reign: the list",
+      "Hulk.\"",
+      "Summary (from SkyRiver): After a clash with the Red Hulk, the Green Hulk reverted to scientist Bruce Banner. Living a normal life again, Banner still worries that the Hulk will return, so he seeks out the Hulk's half-alien son, Skaar, and begins training him to fight his father by pitting him against the deadliest opponents in the Marvel Universe."
+    ]
+  },
+  "55": {
+    "heading": "Skaar.",
+    "title": "War of Kings : Savage World of Skaar One-Shot.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Publishing",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "40 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Marvel One-Shot)",
+      "Cover title: War of Kings : the Savage World of Skaar.",
+      "\"August 2009.\"",
+      "PN6728.7.M3W2815 2009"
+    ]
+  },
+  "56": {
+    "heading": null,
+    "title": "Skaar, Son of Hulk.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.M3S53",
+    "library has": "no. 1-6, 9-12 (2008-2009).",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Publishing",
+      "date": "2008-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Aug. 2008)."
+    ]
+  },
+  "57": {
+    "heading": null,
+    "title": "Skaar, Son of Hulk Presents the Savage World of Sakaar.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.M3S533 2008",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Publishing",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Marvel One-Shot)",
+      "(Secret Invasion)"
+    ]
+  },
+  "58": {
+    "heading": "Skaaren, Warren.",
+    "title": "Batman [videorecording]",
+    "author": "Warner Bros",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " presents a Guber-Peters Company production ; produced by Jon Peters &amp; Peter Guber ; directed by Tim Burton.",
+    "call number": "PN1995.9.B298B377 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Burbank, Calif.",
+      "publisher": "Warner Home Video.",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 videocassette (126 min.) : sd., col. ; 1/2 in.",
+      "Based on Batman characters created by Bob Kane, published by DC Comics.",
+      "Credits: Screenplay by Sam Hamm, Warren Skaaren ; songs by Prince ; music score, Danny Elfman ; executive producers, Benjamin Melniker, Michael Uslan ; co-producer, Chris Kenny.",
+      "Cast: Jack Nicholson, Michael Keaton, Kim Basinger, Robert Wuhl, Pat Hingle, Billy Dee Williams, Michael Gough, Jack Palance.",
+      "VHS."
+    ]
+  },
+  "59": {
+    "heading": "Skaaren, Warren--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Batman : the Complete History",
+    "author": "by Les Daniels",
+    "series": null,
+    "pages": {
+      "range": [
+        "164"
+      ]
+    },
+    "call number": "PN6725.D193B37 1999",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Chronicle Books",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "60": {
+    "heading": null,
+    "title": "\"Skadi's Wolves\"",
+    "author": "Sarah Oleksyk",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 113-120 in The Big Feminist But. 2nd ed. (Cupertino, CA : Alternative Comics, 2014).",
+    "call number": "PN6726.B508 2014",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "61": {
+    "heading": null,
+    "title": "Skaerbaek",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Franz Fuchsel) Index entry",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "62": {
+    "heading": null,
+    "title": "Skagents : Knights of the 2-Tone Army",
+    "author": "by Truman Smith.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.C575S57202 2017",
+    "library has": "",
+    "publication info": {
+      "place": "East Lansing, MI",
+      "publisher": "Michigan State University",
+      "date": "2017"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "33 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "New wave genre.",
+    "contents": [],
+    "notes": [
+      "Title might also read: Ska Gents.",
+      "Done for the Spring 2017 Advanced Comic Art and Graphic Novel Studio Course at Michigan State University, with prof. Ryan Claytor."
+    ]
+  },
+  "63": {
+    "heading": "Skagerrak.",
+    "title": "\"Sky Sharks of the Skagerrak\"",
+    "author": "by Ace Atkins ; art: Art Peddy",
+    "title_type": "incipit",
+    "series": "Skull Squad",
+    "appears_in": " 7 p. in Wings Comics, no. 27 (Nov. 1942).",
+    "call number": "Film 15791r.309",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "64": {
+    "heading": null,
+    "title": "Skaggy the Lost",
+    "author": "written and illustrated by Igor Baranko.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.U353 B3S34 2005",
+    "library has": "",
+    "publication info": {
+      "place": "San Jose, CA",
+      "publisher": "SLG Publishing",
+      "date": "2005"
+    },
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 22 cm.",
+      "Summary (from SkyRiver): Led by the slightly incompetent but highly motivated Skaggy the Lost, 11th-century Vikings sail to Central America in search of the legendary city of the \"Golden Skraelings.\" But Skaggy and his Nordic entourage must struggle just to stay alive as they make their way through a new land. Cultures clash, blood spills, men foam at the mouth, and women spout impenetrable prophecy in this raucous adventure of exploration and discovery.",
+      "\"Collects the 4-issue SLG Publishing miniseries.\""
+    ]
+  },
+  "65": {
+    "heading": null,
+    "title": "Skakmat i Moska ; et eventyr med Jacky Gallard",
+    "author": "Barcelo, Tripp ; på dansk ved Per Vadmand ; dansk tekstning, Suzanne Mogensen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.B32S619 1988",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Jacky Gallard)",
+      "Translation of: Soviet Zigzag."
+    ]
+  },
+  "66": {
+    "heading": null,
+    "title": "Skalja : a Collection of Sequential Art",
+    "author": "by Amber Scharf.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.C575S35 2009",
+    "library has": "",
+    "publication info": {
+      "place": "East Lansing",
+      "publisher": "A. Scharf",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "59 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "New wave and fantasy genres.",
+    "contents": [],
+    "notes": [
+      "Done for the Winter 2009 Comics and Visual Narrative class at Michigan State University."
+    ]
+  },
+  "67": {
+    "heading": null,
+    "title": "Det Skalperede Lig",
+    "author": "tekst, Warn's ; tegninger, Warn's og Raives ; farver, Raives ; på dansk ved Niels Søndergaard ; dansk tekstning, Kristina Eriksen.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.W38C319 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Detective genre.",
+    "contents": [],
+    "notes": [
+      "(Den Berømte Lou Cale)",
+      "Translation of: Le Cadavre Scalpé."
+    ]
+  },
+  "68": {
+    "heading": "Skanda.",
+    "title": "\"Karttikeya : a Son of Shiva\"",
+    "author": "script: Pradip Bhattacharya &amp; Meera Ugra ; artworks: C",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " M. Vitankar. 30 p. in Amar Chitra Katha, no. 529 (1981, 1997 printing).",
+    "call number": "PN6790 .I54A5no.529",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Epics &amp; Mythology)",
+      "Summary from back cover: \"The Puranas describe Karttikeye, a son of Shiva, as the commander-in-chief of the celestial army. He is also known as Subrahmanya, Skanda, Guha and Kumara. To the Tamil-speaking people he is Murugan. The six-headed, twelve-armed Karttikeya seated on a peacock is the symbol of youth, beauty, valour and supreme wisdom.\"",
+      "Subtitle, series and summary from 2010 printing."
+    ]
+  },
+  "69": {
+    "heading": "Skanda Purana.",
+    "title": "\"Sadhu and Lilavati\"",
+    "author": "editor, D",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Kumar ; illustration, Pratap Malik. 32 p. in Adarsh Chitra Katha, no. 4 (1982?).",
+    "call number": "PN6790 .I54A3no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Retold from the Skanda Purana.\"",
+      "Begins: \"King Alkamukha and his virtuous wife led a life of truth and self-restraint. Every day they used to visit a temple and pleased the brahmanas with generous gifts.\""
+    ]
+  },
+  "70": {
+    "heading": null,
+    "title": "\"Skandal um Nick Knatterton\"",
+    "author": "von Ralf Palandt",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 99-104 in Deutsche Comicforschung, Bd. 3 (2007).",
+    "call number": "PN6755.D4 Bd.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"In den 50er Jahren ziehen Pädagogen und Erzieher mit Schmökergrab-Aktionen gegen den 'Schund und Schmutz' der Comics zu Felde. Auch Manfred Schmidts Superdektiv Nick Knatterton fällt den Tugendwächtern unangenehm auf, in Bayern und mehr noch in Holland, wo die Zeichnungen sogar retuschiert werden.\""
+    ]
+  },
+  "71": {
+    "heading": null,
+    "title": "Skandale, Sport, Olympia",
+    "author": "Jean-Pol.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.N43J37S54 1972",
+    "library has": "",
+    "publication info": {
+      "place": "Zaandijk, Holland",
+      "publisher": "Printing Service International",
+      "date": "1972"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "34 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Schlax &amp; Co. ; no. 2)",
+      "Date from artist's signature, front cover.",
+      "Characters : Space aliens.",
+      "Theme: Sports."
+    ]
+  },
+  "72": {
+    "heading": "Skanderbeg, George.",
+    "title": "\"Skanderbeg : Hero of the Balkans\" 7 p. in Real Life Comics, no. 25",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1945",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: \"More than five hundred years ago, this national hero of Albania led his valiant countrymen in their first war against oppression and established a tradition that still burns in the hearts of modern Albanians.\" I. Hero of the Balkans. k. Skanderbeg, George. k. 15th century. k. Albania. k. The Balkans. Call no.: PN6728.1.N4R4no.25"
+    ]
+  },
+  "73": {
+    "heading": null,
+    "title": "\"Skanderbeg : Hero of the Balkans\" 7 p. in Real Life Comics, no. 25",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1945",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: \"More than five hundred years ago, this national hero of Albania led his valiant countrymen in their first war against oppression and established a tradition that still burns in the hearts of modern Albanians.\" I. Hero of the Balkans. k. Skanderbeg, George. k. 15th century. k. Albania. k. The Balkans. Call no.: PN6728.1.N4R4no.25"
+    ]
+  },
+  "74": {
+    "heading": "Skandinavisk Bok.",
+    "title": "Här råder ingen svält : bilder från ett berusande 80-tal : 1980-1985",
+    "author": "av Rune Olofsson.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Göteborg?",
+      "publisher": "Skandinavisk Bok",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "30 cm. Call no.: NC1629 .O4H3 1985",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "59 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "75": {
+    "heading": "Skandinavisk Press.",
+    "title": "Rolf Kaukas Fix &amp; Foxi.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.S94R6",
+    "library has": "1980",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "Malmö : Skandinavisk Press, .",
+      "Translations of the German language title Rolf Kaukas Fix und Foxi."
+    ]
+  },
+  "76": {
+    "heading": "Skank.",
+    "entry type": "index entry",
+    "title": "Comics, Comix &amp; Graphic Novels",
+    "author": "Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "149"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Phaidon",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "77": {
+    "heading": "Skank, Janet.",
+    "title": "\"Living in the Ice Age\"",
+    "author": "by Charles Burns",
+    "title_type": "incipit",
+    "series": "El Borbah",
+    "appears_in": " p. 71-75 in Heavy Metal, v. 8, no. 1 (Apr. 1984).",
+    "call number": "PN6728.H43v.8no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Story so far: El Borbah is hired by Janet Skank to investigate the Snowboy Cryonics Institute where her husband is supposed to be safely frozen. When he finds out the frozen bodies are really dummies, el Borbah is ready to kick some ass.\""
+    ]
+  },
+  "78": {
+    "heading": "Skank, Janet.",
+    "title": "\"Living in the Ice Age\"",
+    "author": "by Charles Burns",
+    "title_type": "incipit",
+    "series": "El Borbah",
+    "appears_in": " p. 69-73 in Heavy Metal, v. 8, no. 2 (May 1984).",
+    "call number": "PN6728.H43v.8no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Story so far: El Borbah is hired by Janet Skank to find out what has happened to her husband's frozen body. While questioning the owner of Snowboy Cryonics, El Borbah discovers that Sam Skank has been brought back to life. Their discussion is interrupted by a harsh, whining voice.\""
+    ]
+  },
+  "79": {
+    "heading": "Skank, Janet.",
+    "title": "\"Living in the Ice Age\"",
+    "author": "C",
+    "title_type": "incipit",
+    "series": "El Borbah",
+    "appears_in": " Burns. p. 71-75 in Heavy Metal, v. 8, no. 3 (June 1984).",
+    "call number": "PN6728.H43v.8no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Story so far: El Borbah discovers that Sam Skank, who was believed to be dead and frozen in a cryonics lab, is indeed alive with his head attached to a tiny new body. Arriving at Janet Skank's house to tell her the news, El Borbah finds a headless client and her whimpering boyfriend.\""
+    ]
+  },
+  "80": {
+    "heading": "Skank, Sam.",
+    "title": "\"Living in the Ice Age\"",
+    "author": "by Charles Burns",
+    "title_type": "incipit",
+    "series": "El Borbah",
+    "appears_in": " p. 69-73 in Heavy Metal, v. 8, no. 2 (May 1984).",
+    "call number": "PN6728.H43v.8no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Story so far: El Borbah is hired by Janet Skank to find out what has happened to her husband's frozen body. While questioning the owner of Snowboy Cryonics, El Borbah discovers that Sam Skank has been brought back to life. Their discussion is interrupted by a harsh, whining voice.\""
+    ]
+  },
+  "81": {
+    "heading": "Skank, Sam.",
+    "title": "\"Living in the Ice Age\"",
+    "author": "C",
+    "title_type": "incipit",
+    "series": "El Borbah",
+    "appears_in": " Burns. p. 71-75 in Heavy Metal, v. 8, no. 3 (June 1984).",
+    "call number": "PN6728.H43v.8no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Story so far: El Borbah discovers that Sam Skank, who was believed to be dead and frozen in a cryonics lab, is indeed alive with his head attached to a tiny new body. Arriving at Janet Skank's house to tell her the news, El Borbah finds a headless client and her whimpering boyfriend.\""
+    ]
+  },
+  "82": {
+    "heading": "Skank Arms &amp; Bud.",
+    "title": "\"The Adventures of Skank Arms &amp; Bud!\"",
+    "author": "story, Holmstrom, Bagge Bros",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " &amp; King ; art, J.D. King. 3 p. in Weirdo, no. 3 (Fall 1981).",
+    "call number": "PN6728.45.L3W4no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "83": {
+    "heading": "Skank, Arms &amp; Bud.",
+    "title": "\"Hit and Run High-Jinx!\"",
+    "author": "J",
+    "title_type": "incipit",
+    "series": "Skank, Arms &amp; Bud",
+    "appears_in": "D. King. 3 p. in Weirdo, no. 10 (Summer 1984).",
+    "call number": "PN6728.45.L3W4no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "84": {
+    "heading": "Skapningens Heere. English.",
+    "title": "\"Lord of Creation\"",
+    "author": "Eirik Ildahl, Arild Midthun",
+    "title_type": "incipit",
+    "series": "=\"Skapningens Heere\"",
+    "appears_in": " p. 121-123 in Gare du Nord : an Anthology of Comics from Finland, Norway, Sweden, Denmark, and Iceland",
+    "call number": "PN6790.S33G313 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Stockholm",
+      "publisher": "NordiComics",
+      "date": "1997"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "English title from table of contents."
+    ]
+  },
+  "85": {
+    "heading": "Skar.",
+    "entry type": "encyclopedic entry",
+    "title": "The Great Superman Book",
+    "author": "Michael Fleisher",
+    "series": null,
+    "pages": {
+      "range": [
+        "299"
+      ]
+    },
+    "call number": "PN6725.F5v.3",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Warner Books",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "86": {
+    "heading": "Skaraggosses.",
+    "title": "\"Quaker Biggy : a Symphony for Skaraggosses\"",
+    "author": "by Pahek",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 63-76 in Heavy Metal, v. 28, no. 2 (May 2004).",
+    "call number": "PN6728.H43v.28no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "87": {
+    "heading": "Skaredoff, Lisa.",
+    "title": "\"Veronica's Mail Page\" 1 p. in Veronica, no. 8",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1990).",
+    "call number": "PN6728.5.A7V4no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from Jenny Ventura, Lisa Skaredoff, Nicole Sallate, Jami Poll, Sarah M. Howard, Danielle Anderson, and Mike Prince."
+    ]
+  },
+  "88": {
+    "heading": "Skartaris.",
+    "title": "The Warlord : the Saga",
+    "author": "Mike Grell, writer ; Joe Prado, Chad Hardin, pencillers ; Walden Wong, et al",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": ", inkers ; David Curiel, colorist ; Rob Leigh, letterer.",
+    "call number": "PN6728.W343S3 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Fantasy genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "Originally published in single magazine form as The Warlord 1-6.",
+      "Summary (from publisher via SkyRiver): \"Skartaris. A savage world at the center of the Earth, home to monstrous dinosaurs and fantastic creatures, eternal sunlight and warring tribes. The fragile peace is maintained by one man: Travis Morgan, the Warlord, a man from the surface world who built a new life for himself in Skartaris. But Morgan is no longer the only outsider. An expedition of paleontologists and adventurers has discovered Skartaris, allowing a so-called god to use modern technology in a bid for power. Now, Travis Morgan must once again take up his sword and command his army to defend his kingdom and his family from this new evil.\""
+    ]
+  },
+  "89": {
+    "heading": "Skartaris--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 21",
+        "10-11"
+      ]
+    },
+    "call number": "PN6725.W475v.21",
+    "publication info": null,
+    "notes": []
+  },
+  "90": {
+    "heading": "Skarwood Productions.",
+    "title": "Lincoln-16.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.S52L5",
+    "library has": "v. 1, no. 2 (1997).",
+    "publication info": {
+      "place": "Champlain, NY",
+      "publisher": "Skarwood Productions",
+      "date": "1997-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Began with v. 1, no. 1 (Aug. 1997).",
+      "Cover title: Geof Isherwood Presents Lincoln-16."
+    ]
+  },
+  "91": {
+    "heading": "Skarzynski, Jerzy, 1924-2004.",
+    "title": "\"Pologne\"",
+    "author": "par Jerzy Skarzynski",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 206-208 in Histoire Mondiale de la Bande Dessinée (Paris : Pierre Horay Editeur, 1989).",
+    "call number": "folio PN6710.H48 1989",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes illustrations."
+    ]
+  },
+  "92": {
+    "heading": "Skarzynski, Jerzy, 1924-2004--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "580-581"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "93": {
+    "heading": null,
+    "title": "Die Skat van Rackham die Rooie",
+    "author": "Hergé ; Afrikaanse verwerking deur E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " P. du Plessis.",
+    "call number": "PN6747.H4T53192 1977",
+    "library has": "",
+    "publication info": {
+      "place": "Kaapstad",
+      "publisher": "Human &amp; Rousseau",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Die Avonture van Kuifie)",
+      "Translation of: Le trésor de Rackham le Rouge."
+    ]
+  },
+  "94": {
+    "heading": "Skate-a-Thons.",
+    "title": "Walt Disney's Donald Duck Coloring Book.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.D63C6 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Racine, Wisconsin",
+      "publisher": "Western Publishing Company, Inc.",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "58 p.",
+      "illustrationTypes": "chiefly ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Walt Disney's Donald Duck : the Great Skate-a-Thon Coloring Book.",
+      "Funny animal genre, roller skating theme."
+    ]
+  },
+  "95": {
+    "heading": "\"Skate Date\" (Archie) / Ray Gill. 5 p. in Archie Comics, no.",
+    "title": "37",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar./Apr. 1949).",
+    "call number": "PN6728.1.A7A7m no.37",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About roller skating."
+    ]
+  },
+  "96": {
+    "heading": "\"Skate Date.\"",
+    "title": "The Best American Comics 2007",
+    "author": "edited and with an introduction by Chris Ware.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.B335 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Boston",
+      "publisher": "Houghton Mifflin",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "341 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "author": "R. and Aline Crumb",
+        "title": "Winta wundaland"
+      },
+      {
+        "author": "Sophie Crumb",
+        "title": "\"Hey, Soph, whazzup?\""
+      },
+      {
+        "author": "Alison Bechdel",
+        "title": "The canary-colored caravan of death"
+      },
+      {
+        "author": "C. Tyler",
+        "title": "Just a bad seed and Once, we ran"
+      },
+      {
+        "author": "Lynda Barry",
+        "title": "Ernie Pook's comeek (excerpt)"
+      },
+      {
+        "author": "Lauren Weinstein",
+        "title": "Skate date, Waiting, and John and I go to the movies"
+      },
+      {
+        "author": "Vanessa Davis",
+        "title": "Untitled diary strips"
+      },
+      {
+        "author": "Gabrielle Bell",
+        "title": "California journal"
+      },
+      {
+        "author": "Ivan Brunetti",
+        "title": "Six things I like about my girlfriend"
+      },
+      {
+        "author": "Jeffrey Brown",
+        "title": "These things, these things"
+      },
+      {
+        "author": "Ron Regé Jr.",
+        "title": "FUC 1997 : we share a happy secret, but beware, because the modern world emerges"
+      },
+      {
+        "title": "Country roads"
+      },
+      {
+        "author": "John Porcellino",
+        "title": "Brighton"
+      },
+      {
+        "author": "Jonathan Bennett",
+        "title": "Needles and pins"
+      },
+      {
+        "author": "Kevin Huizenga",
+        "title": "Glenn in bed"
+      },
+      {
+        "author": "David Heatley",
+        "title": "Sambo"
+      },
+      {
+        "author": "Sammy Harkham",
+        "title": "Lubavitch, Ukraine, 1876"
+      },
+      {
+        "author": "Miriam Katin",
+        "title": "Untitled (The list)"
+      },
+      {
+        "author": "Ben Katchor",
+        "title": "Shoehorn technique"
+      },
+      {
+        "author": "Adrian Tomine",
+        "title": "Shortcomings (excerpt)"
+      },
+      {
+        "author": "David Heatley",
+        "title": "Cut thru and Laundry room"
+      },
+      {
+        "author": "Gilbert Hernandez",
+        "title": "Fritz after dark"
+      },
+      {
+        "author": "Kim Deitch",
+        "title": "No midgets in Midgetville"
+      },
+      {
+        "author": "Anders Nilsen",
+        "title": "Dinner and a walk"
+      },
+      {
+        "author": "Charles Burns",
+        "title": "Black hole (excerpt)"
+      },
+      {
+        "title": "Untitled (Discrete operations vehicle"
+      },
+      {
+        "author": "Gary Panter",
+        "title": "burning gall)"
+      },
+      {
+        "author": "C.F.",
+        "title": "Blond Atchen and the bumble boys"
+      },
+      {
+        "author": "Ivan Brunetti",
+        "title": "My bumbling, corpulent mass"
+      },
+      {
+        "author": "Tim Hensley",
+        "title": "Meet the dropouts"
+      },
+      {
+        "author": "Paper Rad",
+        "title": "Kramer's ergot"
+      },
+      {
+        "author": "David Heatley",
+        "title": "Walnut Creek"
+      },
+      {
+        "author": "Dan Zettwoch.",
+        "title": "Won't be licked! The great '37 flood in Louisville"
+      }
+    ],
+    "notes": [
+      "(The Best American Series)"
+    ]
+  },
+  "97": {
+    "heading": null,
+    "title": "Skate Farm",
+    "author": "written and illustrated by Barzak.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B363S53 2009",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "IDW Publishing",
+      "date": "2009-"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "\"When a shadowy government agency pursues its ceaseless war with Ali Baba and the Dirty Deeds to Southern California, they bring with them pain and suffering for the locals. But they also bring skateboards: skateboards with mysterious and incredible abilities. With these boards, a troubled teen, a pro skater, a malcontent, and an overachiever embark on a quest to rid the world of this evil.\""
+    ]
+  },
+  "98": {
+    "heading": null,
+    "title": "Skate Farm : volume one",
+    "author": "created by Danny Neiman, John Stauffer and Barzak ; original graphic novel by Barzak.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B363S53 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Los Angeles",
+      "publisher": "SBK Publishing",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "178 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "\"When a shadowy government agency pursues its ceaseless war with Ali Baba and the Dirty Deeds to Southern California, they bring with them pain and suffering for the locals. But they also bring skateboards: skateboards with mysterious and unbelievable abilities. With these boards, a troubled teen, a pro skater, a malcontent and an overachiever embark on a quest to rid the world of this evil.\""
+    ]
+  },
+  "99": {
+    "heading": null,
+    "title": "Skate-gevaar",
+    "author": "onder redactie van Robert van der Kroft, Wilbert Plijnaar, Jan van Die ; met medew",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " van: Evert Geradts, Mark Middelhuis, Wilfred Ottenheim, Michiel van de Pol en Remco Polman.",
+    "call number": "PN6790.N44S514 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Heemstede",
+      "publisher": "Big Balloon",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "(Sjors en Sjimmie ; 40)",
+      "Cover title: Lange Verhalen van Sjors &amp; Sjimmie."
+    ]
+  },
+  "100": {
+    "heading": "Skatebirds.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "240"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "101": {
+    "heading": "Skateboard Accidents.",
+    "title": "\"A Head Over Heels in the Living Room\"",
+    "author": "Chance Browne.",
+    "title_type": "incipit-assigned",
+    "series": "Hi and Lois, May 6, 2006",
+    "call number": "PN6726 f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Hi has had a skateboard accident."
+    ]
+  },
+  "102": {
+    "heading": "The Skateboard Art of Lyndal Ferguson.",
+    "title": "\"Ink Stains : the Skateboard Art of Lyndal Ferguson\" p. 36-37 and back cover of Rip Off Comics, no. 31",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1991).",
+    "call number": "PN6728.45.R5R5no.31",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(\"Wheels\" issue)"
+    ]
+  },
+  "103": {
+    "heading": "\"Skateboard Mayhem.\"",
+    "title": "Mind Riot : Coming of Age in Comix",
+    "author": "edited and with an introduction by Karen D",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Hirsch ; foreword by Peter Bagge.",
+    "call number": "PN6726.M52 1997",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Aladdin Paperbacks",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "127 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "author": "by Ida Marx Blue Spruce",
+        "title": "Charlie Chopper"
+      },
+      {
+        "author": "by Glenn Head",
+        "title": "Skateboard mayhem"
+      },
+      {
+        "author": "by David Greenberger, illustrated by Dean Rohrer",
+        "title": "With Arthur"
+      },
+      {
+        "author": "by Diane Noomin",
+        "title": "From jawbreaker to lawbreaker"
+      },
+      {
+        "author": "by Phoebe Gloeckner",
+        "title": "The girl from a different world"
+      },
+      {
+        "author": "by Vicky Rabinowicz",
+        "title": "My body"
+      },
+      {
+        "author": "by Carol Swain",
+        "title": "Painted friends"
+      },
+      {
+        "author": "by Carol Tyler",
+        "title": "The night I rode the hard drive to heartbreak"
+      },
+      {
+        "author": "by Peter Kuper",
+        "title": "Animal urges"
+      },
+      {
+        "author": "by Roberta Gregory",
+        "title": "Weird girl"
+      },
+      {
+        "author": "by Colin Upton",
+        "title": "The paladins of destruction"
+      },
+      {
+        "author": "by Caryn Leschen",
+        "title": "When dreams come true"
+      },
+      {
+        "author": "by Maurice Vellekoop",
+        "title": "Out at the movies"
+      },
+      {
+        "author": "by Ann Decker",
+        "title": "A tale of three sisters"
+      },
+      {
+        "author": "by Kevin Quigley.",
+        "title": "Blood fiend"
+      }
+    ],
+    "notes": [
+      "Includes bibliographical references (pages 125-126)."
+    ]
+  },
+  "104": {
+    "heading": null,
+    "title": "\"Skateboard Monthly\"",
+    "author": "Jerry Mills",
+    "title_type": "incipit-assigned",
+    "series": "Poppers",
+    "appears_in": " 1 p. in Gay Comix, no. 9 (Winter 1986/1986).",
+    "call number": "PN6728.45.K4G3no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "105": {
+    "heading": null,
+    "title": "\"Skateboard of Nails\"",
+    "author": "by Caldwell.",
+    "title_type": "incipit-assigned",
+    "series": "Caldwell, Nov. 22, 1985",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A barefoot man in a turban rides a skateboard covered with the points of nails."
+    ]
+  },
+  "106": {
+    "heading": "Skateboard Ramps.",
+    "title": "\"Factory Installed Excuse\"",
+    "author": "Scott and Borgman.",
+    "title_type": "incipit-assigned",
+    "series": "Zits, July 9, 2004",
+    "call number": "PN6726 f.B55 \"brains\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The skateboard ramp from the roof of the house has something to do with teenagers' brains not being fully developed."
+    ]
+  },
+  "107": {
+    "heading": "Skateboard Tracks.",
+    "title": "\"You Might Say Our Paths Crossed\"",
+    "author": "Jim Davis.",
+    "title_type": "incipit-assigned",
+    "series": "U.S. Acres, Mar. 5, 1987",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The pig (Orson) has skateboard tracks across his stomach; the bird (Booker) asks if he's met Max yet."
+    ]
+  },
+  "108": {
+    "heading": "Skateboarders.",
+    "title": "Beyond Palomar : a Love and Rockets Book",
+    "author": "Gilbert Hernandez.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.H4B44 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Seattle, WA",
+      "publisher": "Fantagraphics Books",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "253 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [
+      {
+        "title": "Poison River"
+      },
+      {
+        "title": "Love and Rockets X"
+      },
+      {
+        "title": "Cast of characters."
+      }
+    ],
+    "notes": [
+      "\"Poison River traces the pre-Palomar childhood of Luba, her teenage marriage to the gangster Peter Rio, the secrets behind her mysterious mother",
+      "all the way to her arrival in Palomar. Love and rockets X depicts 1990's Los Angeles as a cauldron of cultural and racial resentments ready to boil over",
+      "seemingly a million miles away from placid Palomar, and yet there are echoes from the distant village, as a certain Palomar expatriate becomes a member of the cast, a skateboarding kid's fugue state lands him in a most unexpected place.\""
+    ]
+  },
+  "109": {
+    "heading": "Skateboarders.",
+    "title": "Black Heart Billy",
+    "author": "written and drawn by Rick Remender, Kieron Dwyer and Harper Jaten.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.R387B55 2008",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "IDW Publishing",
+      "date": "2008"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "\"Originally published as Black Heart Billy issues #1-8.\"",
+      "Funny horror genre, with skateboarders, punk culture, hippies, zombies and San Francisco."
+    ]
+  },
+  "110": {
+    "heading": "Skateboarders.",
+    "title": "\"The Fart and the Furious!\"",
+    "author": "Dixon",
+    "title_type": "incipit-assigned",
+    "series": "Ollie Fliptrik",
+    "appears_in": " p. 20-21 in The Dandy, no. 3451 (July 19, 2008).",
+    "call number": "PN6738.D3no.3451",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "\"Taking Extreme to the Xtreme!\"",
+      "Skateboarder feature."
+    ]
+  },
+  "111": {
+    "heading": "Skateboarders.",
+    "title": "\"Summer Highs\"",
+    "author": "by Lorenzo Mattotti",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " cover of The New Yorker, v. 78, no. 19 (July 15, 2002).",
+    "call number": "AP2.N52v.78no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Shows a skateboarder in the air over a swimming pool."
+    ]
+  },
+  "112": {
+    "heading": "Skateboarding.",
+    "title": "The Adventures of Slate Skate.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.H585S55",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Lexington, Ky.",
+      "publisher": "Hot Shot Comix",
+      "date": "1987-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Jan. 1987).",
+      "Skateboarding setting."
+    ]
+  },
+  "113": {
+    "heading": "Skateboarding.",
+    "title": "Atomic Skate Comix.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.N525A8 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Gainesville, FL",
+      "publisher": "Atomic Comix",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "8 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "By Nimrod.",
+      "Other title: Atomic Skate Comix Collection #1.",
+      "New wave mini comic about skateboarding."
+    ]
+  },
+  "114": {
+    "heading": "Skateboarding.",
+    "title": "\"I'm Still Way Cooler than You\"",
+    "author": "by Bill Amend.",
+    "title_type": "incipit-assigned",
+    "series": "Foxtrot, July 2, 1999",
+    "call number": "PN6726 f.B55 \"stitches\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Peter recalls the times he's had to have stitches, involving a 9-iron, a diving board, and skateboarding."
+    ]
+  },
+  "115": {
+    "heading": "Skateboarding.",
+    "title": "The Princess of Poverty",
+    "author": "created and written by Jim Rugg and Brian Maruca ; drawn by Jim Rugg.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.R773P7 2005",
+    "library has": "",
+    "publication info": {
+      "place": "San Jose, CA",
+      "publisher": "SLG Publishing",
+      "date": "2005"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 22 cm.",
+      "(Street Angel ; v. 1)",
+      "\"Collects issues #1-5 of the SLG Publishing series Street Angel.\"",
+      "\"In the worst ghetto on Earth, a young, homeless orphan rules the streets with her fearsome kung fu and deadly skateboarding. Jesse \"Street Angel\" Sanchez fights ninja gangs, evil geologists, nepotism, ancient gods, homework, and hunger while perpetually seeking the Holy Grail of cardboard boxes.\""
+    ]
+  },
+  "116": {
+    "heading": "Skateboarding.",
+    "title": "Shred.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-2, 4. 1. Skateboarding",
+    "publication info": {
+      "place": "Burbank, Calif.",
+      "publisher": "CFW Enterprises",
+      "date": "1989-"
+    },
+    "physical description": {
+      "dimensions": "26-28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "No. 1 (March 1989)- .",
+      "Comic books, strips, etc. Call no.: PN6728.5.C42S47"
+    ]
+  },
+  "117": {
+    "heading": "Skateboarding.",
+    "title": "Thrasher Comics.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.H5T47",
+    "library has": "no. 2-5 (1988).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "San Francisco, CA : High Speed Productions, .",
+      "Setting: Skateboarding.",
+      "Genre: Underground."
+    ]
+  },
+  "118": {
+    "heading": "Skateboarding.",
+    "title": "\"Watch It Mister!\"",
+    "author": "by Fred Lucky.",
+    "title_type": "incipit-assigned",
+    "series": "The Dumplings, Dec. 2, 1976",
+    "call number": "PN6726 f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Gabby knocks a man over skateboarding, and is asked what she should say."
+    ]
+  },
+  "119": {
+    "heading": "Skateboarding Contests.",
+    "title": "Board to Death",
+    "author": "Scott Lobdell, writer ; Paulo Henrique, artist ; Mark Lerer, letterer ; Laurie E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Smith, colorist.",
+    "call number": "PN6728.H365L608 2007",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Papercutz",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "112 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Detective genre.",
+    "contents": [],
+    "notes": [
+      "(Hardy Boys ; no. 8)",
+      "Summary (from SkyRiver): When Frank and Joe Hardy go undercover at a major skateboarding contest in California, they must discover which competitor is trying to literally kill off the competition, before it's too late."
+    ]
+  },
+  "120": {
+    "heading": "Skateboards.",
+    "title": "Big Nate on a Roll",
+    "author": "Lincoln Peirce.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B49 O5 2011",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Harper",
+      "date": "2011"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "216 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Funny kid genre.",
+    "contents": [],
+    "notes": [
+      "Summary (from SkyRiver): Middle-schooler Nate Wright vies against his rival, the \"perfect\" Artur, to win the grand prize of a customized skateboard in their scout troop contest.",
+      "Format combines text and comics."
+    ]
+  },
+  "121": {
+    "heading": "Skateboards.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "122": {
+    "heading": "Skateboards.",
+    "title": "\"Can I Cut Your Grass for Fifty Dollars?\"",
+    "author": "Young &amp; LeBrun.",
+    "title_type": "incipit-assigned",
+    "series": "Blondie, Aug. 14, 1999",
+    "call number": "PN6726 f.B55 \"earning\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Elmo has his eye on a skateboard, and wants to earn the money for it all at once."
+    ]
+  },
+  "123": {
+    "heading": "Skateboards.",
+    "title": "\"Coming Through!\"",
+    "author": "by Ted Key.",
+    "title_type": "incipit",
+    "series": "Hazel, April 21, 1986",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Hazel is speeding down the sidewalk on a skateboard, carrying a bag of groceries."
+    ]
+  },
+  "124": {
+    "heading": "Skateboards.",
+    "title": "Cowabunga, Man!",
+    "author": "Matt Groening.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN1992.77.S54T2 1990",
+    "library has": "",
+    "publication info": {
+      "place": "USA",
+      "publisher": "Park Bench Kids",
+      "date": "1990"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 t-shirt : col. ill. ; 3T.",
+      "A t-shirt showing Bart Simpson on a skateboard."
+    ]
+  },
+  "125": {
+    "heading": "Skateboards.",
+    "title": "\"Free! Take One!\"",
+    "author": "Moore.",
+    "title_type": "incipit-assigned",
+    "series": "In the Bleachers, Sept. 17, 1990",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A pile of skateboards sits on the sidewalk in front of Bob's Orthopedic &amp; Fracture Clinic, with a sign."
+    ]
+  },
+  "126": {
+    "heading": "Skateboards.",
+    "title": "\"I Told You It Would Come In Handy\"",
+    "author": "Summers.",
+    "title_type": "incipit-assigned",
+    "series": "The Middletons, Nov. 11, 1988",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Mr. Middleton got a cane for his birthday, which he thought was funny until somone else gave him a skateboard."
+    ]
+  },
+  "127": {
+    "heading": "Skateboards.",
+    "title": "\"I'll Wait Just a Few Minutes, and then Scope Out the Situation\"",
+    "author": "Dick Locher, Max Collins.",
+    "title_type": "incipit-assigned",
+    "series": "Dick Tracy, July 12, 1988",
+    "call number": "PN6726 f.B55 \"turn signals\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Riding behind a van on a skateboard means you're close to the turn signals."
+    ]
+  },
+  "128": {
+    "heading": "Skateboards.",
+    "title": "\"It's Time to Winterize Your Skateboard\"",
+    "author": "by John Long.",
+    "title_type": "incipit",
+    "series": "Long Overdue, Jan. 13, 1989",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A skateboard is shown strapped to an ice skate."
+    ]
+  },
+  "129": {
+    "heading": "Skateboards.",
+    "title": "The Magic Skateboard",
+    "author": "written and illustrated by Nick Abadzis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6737.A3M3 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Teddington, Middlesex",
+      "publisher": "Rising Trout Press",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Fantasy genre.",
+    "contents": [],
+    "notes": [
+      "Rev. ed.",
+      "(Pleebus Planet ; 3)"
+    ]
+  },
+  "130": {
+    "heading": "Skateboards.",
+    "title": "Skate Farm",
+    "author": "written and illustrated by Barzak.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B363S53 2009",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "San Diego, CA",
+      "publisher": "IDW Publishing",
+      "date": "2009-"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "\"When a shadowy government agency pursues its ceaseless war with Ali Baba and the Dirty Deeds to Southern California, they bring with them pain and suffering for the locals. But they also bring skateboards: skateboards with mysterious and incredible abilities. With these boards, a troubled teen, a pro skater, a malcontent, and an overachiever embark on a quest to rid the world of this evil.\""
+    ]
+  },
+  "131": {
+    "heading": "Skateboards.",
+    "title": "Skate Farm : volume one",
+    "author": "created by Danny Neiman, John Stauffer and Barzak ; original graphic novel by Barzak.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B363S53 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Los Angeles",
+      "publisher": "SBK Publishing",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "178 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "\"When a shadowy government agency pursues its ceaseless war with Ali Baba and the Dirty Deeds to Southern California, they bring with them pain and suffering for the locals. But they also bring skateboards: skateboards with mysterious and unbelievable abilities. With these boards, a troubled teen, a pro skater, a malcontent and an overachiever embark on a quest to rid the world of this evil.\""
+    ]
+  },
+  "132": {
+    "heading": "Skateboards.",
+    "title": "\"Slingslanger\"",
+    "author": "Ferd &amp; Tom Johnson.",
+    "title_type": "incipit",
+    "series": "Moon Mullins, Jan. 1, 1990",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Emmy trips on a skateboard, and asks Moon to say a few choice words, since he knows more of them.",
+      "Entries at: Profanity, vocabulary."
+    ]
+  },
+  "133": {
+    "heading": "Skateboards.",
+    "title": "\"So He's the Guy Who Invented the Skateboard\"",
+    "author": "MacNelly.",
+    "title_type": "incipit-assigned",
+    "series": "Shoe, Oct. 22, 1987",
+    "call number": "PN6726 f.B55 \"Franklin\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Skyler learns that Ben Franklin was an inventor."
+    ]
+  },
+  "134": {
+    "heading": null,
+    "title": "Skateman.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Superhero comics. I. Neal Adams' Skateman. II. Adams, Neal. Call no.",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "Pacific Comics",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "No. 1 (Nov. 1983).",
+      "Also called: Neal Adams' Skateman."
+    ]
+  },
+  "135": {
+    "heading": null,
+    "title": "Skateman, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1983) CONTENTS: \"Neal Adams' Skateman\"",
+    "call number": "PN6728.5.P3S48no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Futureworld\" 5 p.",
+      "\"The Rock Warrior\" 5 p."
+    ]
+  },
+  "136": {
+    "heading": "Skateman--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "267"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "137": {
+    "heading": "Skateman--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "505"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "138": {
+    "heading": "Skateman--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "éd. Marjorie Alessandrini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "11"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "139": {
+    "heading": null,
+    "title": "Skater Girl",
+    "author": "by Jennifer L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Holm &amp; Matthew Holm.",
+    "call number": "PN6727.H5785B307 2007",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Random House",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "91 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Funny animal genre.",
+    "contents": [],
+    "notes": [
+      "(Babymouse ; 7)",
+      "Summary (from Skyriver): \"In the seventh book in the Babymouse series, the intrepid heroine takes up ice-skating, learning that it takes hard work to be the best. When her training schedule begins to cut her off from her friends and from her beloved cupcakes, she must decide how badly she wants to win.\""
+    ]
+  },
+  "140": {
+    "heading": "Skaters.",
+    "title": "\"As an Ice Skater, Pud Makes a Good Pond Plow\"",
+    "author": "Ray T",
+    "title_type": "incipit-assigned",
+    "series": "[No series]",
+    "appears_in": " 2 tiers in Terry-Toons Comics, no. 78 (Jan. 1950) ; and in Archie Comics, no. 43 (Mar./Apr. 1950).",
+    "call number": "PN6728.1.A7A7m no.43",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Advertising strip for Fleer Dubble Bubble."
+    ]
+  },
+  "141": {
+    "heading": "Skaters.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "142": {
+    "heading": "Skaters.",
+    "title": "\"Daredevil on Ice!\" 4 p. in Real Fact Comics, no. 20",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May/June 1949).",
+    "call number": "PN6728.1.N3R4no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"He's a good skate, among the best skates in his profession. He can set a world's record with a 25-foot leap or dazzle 4,000,000 fans with his super-feats. That's Harris Legg.\""
+    ]
+  },
+  "143": {
+    "heading": "Skaters.",
+    "title": "Heathcliff meets the Snow Monster",
+    "author": "by Jean Waricha ; illustrated by John Costanza.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.H4M44 1990",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Watermill Press, 1990.",
+      "\"Produced by Parachute Press, Inc.\"",
+      "Summary: Heathcliff goes to the lake for the Winter Carnival, where he disrupts ice skaters and snow sculpturing, and wins the hotdog skiing contest.",
+      "Genre: Funny animal fiction."
+    ]
+  },
+  "144": {
+    "heading": "Skaters.",
+    "title": "\"Queen of the Ice\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Gretchen Merrill) 4 p. in True Comics, no. 56",
+    "call number": "PN6728.1.P3T7no.56",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Merrill is a figure skater."
+    ]
+  },
+  "145": {
+    "heading": "Skaters.",
+    "title": "\"Scanning Sports\"",
+    "author": "by Charles Brooks",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1 p. in Bang-Up Comics, no. 1 (Dec. 1941).",
+    "call number": "PN6728.1.P74B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Illustrated fact items on Sonja Henie (skating actress), Mickey Walker (fighter), Lefty Grove (pitcher), Lou Nova (boxer), and Van Lingle Mungo (pitcher)."
+    ]
+  },
+  "146": {
+    "heading": "Skaters.",
+    "title": "\"Les Trahisons du Patin\"",
+    "author": "par A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Guillaume. 1 p. in Des Bonshommes : 2me série (Paris : H. Simonis Empis, ca. 1900).",
+    "call number": "oversize NC1499.G8D42 1900z",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Elegantly-dressed ice skaters fall down in a heap."
+    ]
+  },
+  "147": {
+    "heading": "Skates.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "148": {
+    "heading": "Skates.",
+    "title": "The Brownies' Merry Adventures",
+    "author": "Palmer Cox ; edited by Jonathan Cott.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS1449.C584B67 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Boston",
+      "publisher": "Barefoot Books ; distributed in the U.S. by Random House",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "12 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "202 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Little Barefoot Books)",
+      "\"Originally published as: The Brownies, Their Book.\"",
+      "Page [203].",
+      "Summary: The Brownies have adventures in a country schoolhouse, on skates, among the bees, and in other situations.",
+      "Illustrated stories in rhyme."
+    ]
+  },
+  "149": {
+    "heading": "Skates.",
+    "title": "\"Chili on Skates\"",
+    "author": "by Stan and Dan",
+    "title_type": "incipit-assigned",
+    "series": "Millie the Model",
+    "appears_in": " 1 p. in Millie the Model Comics, no. 79 (June 1957).",
+    "call number": "PN6728.1.M3M5no.79",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"You're not gonna appear in public in that outfit\"",
+      "Data from Dan Stevenson."
+    ]
+  },
+  "150": {
+    "heading": "Skates.",
+    "title": "\"Fill-Up Time\"",
+    "author": "Ferd &amp; Tom Johnson.",
+    "title_type": "incipit",
+    "series": "Moon Mullins, July 10, 1987",
+    "call number": "PN6726 f.B55 \"taxis\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Kayo's playing taxi with roller skates and a steering wheel, and Willie calls him in for lunch."
+    ]
+  },
+  "151": {
+    "heading": "Skates.",
+    "title": "\"The Good Skate!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Rusty) 5 p. in Margie Comics, no. 36",
+    "call number": "PN6728.1.M3C58no.36",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Oh! Surprised at how good I can skate backwards\""
+    ]
+  },
+  "152": {
+    "heading": "Skates.",
+    "title": "\"Hans Brinker, or, The Silver Skates\" p. 45-53 in Children's Digest, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1950).",
+    "call number": "AP201.C46no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "153": {
+    "heading": "Skates.",
+    "title": "\"He's a Good Skate!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Georgie) 6 p. in Patsy Walker, no. 8",
+    "call number": "PN6728.1.M3P3no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "154": {
+    "heading": "Skates.",
+    "title": "\"Hey, Dad, What Does This Say?\"",
+    "author": "Bob Schroeter.",
+    "title_type": "incipit-assigned",
+    "series": "Laugh Time, Dec. 26, 1974",
+    "call number": "PN6726 f.B55 \"thin ice\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A boy on skates brings a sign to his dad, also on skates."
+    ]
+  },
+  "155": {
+    "heading": "Skates.",
+    "title": "\"It's Time to Winterize Your Skateboard\"",
+    "author": "by John Long.",
+    "title_type": "incipit",
+    "series": "Long Overdue, Jan. 13, 1989",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A skateboard is shown strapped to an ice skate."
+    ]
+  },
+  "156": {
+    "heading": "Skates.",
+    "title": "\"A Pair of Good Skates!\" 1 p. text in Funny Films, no. 20",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov./Dec. 1952).",
+    "call number": "PN6728.1.A5F8no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "157": {
+    "heading": "Skates.",
+    "title": "\"Silver Skates\" p. 27-31 in Treasure Chest of Fun &amp; Facts, v. 3, no. 9",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 23, 1947).",
+    "call number": "PN6728.1.P43T7v.3no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Adapts Hans Brinker and the Silver Skates, by Mary Mapes Dodge.",
+      "First narrative caption: \"On a cold December morning, two poorly clad children were kneeling on the bank of a canal in Holland.\"",
+      "\"In the next issue we shall learn of Dr. Boekman's visit.\""
+    ]
+  },
+  "158": {
+    "heading": "Skates.",
+    "title": "\"The Silver Skates, part 2\" p. 27-31 in Treasure Chest of Fun &amp; Facts, v. 3, no. 10",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 6, 1948).",
+    "call number": "PN6728.1.P43T7v.3no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "159": {
+    "heading": "Skates.",
+    "title": "Walt Disney's Hans Brinker : the Classic Story of The Silver Skates.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.3.D4H27 1962",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Dell Publishing Co.",
+      "date": "1962"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"No. 1273\".",
+      "A story of the Netherlands."
+    ]
+  },
+  "160": {
+    "heading": "Skatie.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "680"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "161": {
+    "heading": null,
+    "title": "\"Skating\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Our Pal Piggy) 3 p. in Ha Ha Comics, no. 77",
+    "call number": "PN6728.1.A5H3no.77",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "162": {
+    "heading": "Skating.",
+    "title": "\"The Ace of Blades\" p. 7-14 in Topix, v. 6, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1948).",
+    "call number": "PN6728.1.C3T6v.6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Bob Fitzgerald of Minneapolis, Minnesota, holder of four world records, is the number one man of this year's U.S. olympic speed skating team.\""
+    ]
+  },
+  "163": {
+    "heading": "Skating.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "164": {
+    "heading": "Skating.",
+    "title": "\"Bubbles\"",
+    "author": "by Millar-Hinds.",
+    "title_type": "incipit-assigned",
+    "series": "Tank McNamara, Feb. 4, 1994",
+    "call number": "PN6726 f.B55 \"bubbles\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The U.S. figure skating has an alternate in case any of the women is indicted or sleeps with the fishes."
+    ]
+  },
+  "165": {
+    "heading": "Skating.",
+    "title": "\"Buddy\" 1/2 p. in Star Spangled Comics, no. 12",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1942).",
+    "call number": "PN6728.1.N3S75m no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Four gags.",
+      "Begins: \"Tubby's teaching his sister to skate!\"",
+      "Data from Gene Reed, Jim Walls, Mark Gordon, et al. via Grand Comics Database."
+    ]
+  },
+  "166": {
+    "heading": "Skating.",
+    "title": "\"Deux Poules Vivaient en Paix\"",
+    "author": "par A",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Guillaume. 1 p. in Des Bonshommes : 1re série (Paris : H. Simonis Empis, 1893?)",
+    "call number": "oversize NC1499.G8D4 1893",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Two women are skating, and a man tries a trick that makes them all fall down."
+    ]
+  },
+  "167": {
+    "heading": "Skating.",
+    "title": "\"Frozen\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Cindy) 1 p. gag strip. in Wonder Woman, no. 40",
+    "call number": "PN6728.1.N3W6no.40",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: Had enough skating for today, Cindy?"
+    ]
+  },
+  "168": {
+    "heading": "Skating.",
+    "title": "\"The Great Kohler's Skating Festival\"",
+    "author": "by Ruth Burton ; R",
+    "title_type": "incipit-assigned",
+    "series": "The Mystery of Shady Falls",
+    "appears_in": " Crandall. p. 3-8 in Treasure Chest of Fun and Fact, v. 18, no. 11 (Jan. 31, 1963).",
+    "call number": "PN6728.1.M43T6v.18no.11",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"To be continued.\""
+    ]
+  },
+  "169": {
+    "heading": "Skating.",
+    "title": "\"How to Drive a Zamboni\"",
+    "author": "by Schulz.",
+    "title_type": "incipit-assigned",
+    "series": "Peanuts, Oct. 20, 1997",
+    "call number": "PN6726 f.B55 \"figure skating\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Patty says the money is in figure skating, and Marcie asks her what book she's reading."
+    ]
+  },
+  "170": {
+    "heading": "Skating.",
+    "title": "\"Ice and Roller Skating\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "How-to-do-it) p. 9-11 in Treasure Chest of Fun &amp; Fact, v. 20, no. 7",
+    "call number": "PN6728.1.P43T7v.20no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "171": {
+    "heading": "Skating.",
+    "title": "\"If I Ever Find You You'll Need Two Nurses to Hold You Up\"",
+    "author": "Ray Helle.",
+    "title_type": "incipit-assigned",
+    "series": "The Flibbertys, Jan. 15, 1955",
+    "call number": "PN6726 f.B55 \"skating\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dad didn't fall when he went skating, but he needed a girl on each arm to hold him up."
+    ]
+  },
+  "172": {
+    "heading": "Skating.",
+    "title": "\"I'll Only Skate on One Foot!\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Dudley) 1/2 p. in Sniffy the Pup, no. 6",
+    "call number": "PN6728.1.S73S5no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Sniffy the pup is worried that Dudley the St. Bernard will fall through the thin ice, but Dudley's not worried."
+    ]
+  },
+  "173": {
+    "heading": "Skating.",
+    "title": "\"Patsy and Hedy's Skating Date!\"",
+    "author": "Stan Lee and Stan G",
+    "title_type": "incipit",
+    "series": "Patsy and Hedy",
+    "appears_in": " 5 p. in Patsy and Hedy, no. 93 (Apr. 1964).",
+    "call number": "PN6728.2.M3P3no.93",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "174": {
+    "heading": "Skating.",
+    "title": "\"Roller Skating\"",
+    "author": "Stan Lee &amp; Al Hartley",
+    "title_type": "incipit-assigned",
+    "series": "Patsy and Hedy",
+    "appears_in": " 2 p. in Patsy and Hedy, no. 76 (June 1961).",
+    "call number": "PN6728.2.M3P3no.76",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Hi, kids! Where are you going?\""
+    ]
+  },
+  "175": {
+    "heading": "Skating.",
+    "title": "\"Roller Skating\"",
+    "author": "by Jay Lynch &amp; Gary Whitney.",
+    "title_type": "incipit-assigned",
+    "series": "Phoebe &amp; the Pigeon People) 1 p. in Phoebe &amp; the Pigeon People, v. 1, no. 2",
+    "call number": "PN6728.45.K5P47no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "176": {
+    "heading": "Skating.",
+    "title": "She's a Good Skate, Charlie Brown",
+    "author": "Charles M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Schulz.",
+    "call number": "PN6728.P4S3269 1981",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Scholastic Book Services",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "38 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Charlie Brown special)",
+      "About skating.",
+      "Genre: Funny kid."
+    ]
+  },
+  "177": {
+    "heading": "Skating Backwards.",
+    "title": "\"The Good Skate!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Rusty) 5 p. in Margie Comics, no. 36",
+    "call number": "PN6728.1.M3C58no.36",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Oh! Surprised at how good I can skate backwards\""
+    ]
+  },
+  "178": {
+    "heading": null,
+    "title": "\"The Skating Costume\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Mrs. Rich) 1 p. in Richie Rich Gems, no. 19",
+    "call number": "PN6728.4.H3R575no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "179": {
+    "heading": null,
+    "title": "\"Skating Doesn't Require Any Particular Application: Arnica or Horse Liniment, one is as Good as the Other\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Sally's Sallies, Mar. 12, 1936).",
+    "call number": "oversize PN6726.K52A22 1972",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "180": {
+    "heading": "Skating on Thin Ice.",
+    "title": "The Amazing Spider-Man : Skating on Thin Ice.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3A387",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Vol. 1, no. 1 (Feb. 1993)\"."
+    ]
+  },
+  "181": {
+    "heading": "Skating Outfits.",
+    "title": "\"Millie's Mirthquakes\"",
+    "author": "by Stan &amp; Dan",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1/2 p. in A Date with Millie, no. 5 (May 1957).",
+    "call number": "PN6728.2.M3D3no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Three gag cartoons about parking meters, skating outfits, and hot dog men, respectively.",
+      "This is the second of five \"Millie's Mirthquakes\" features in this issue."
+    ]
+  },
+  "182": {
+    "heading": "Skating Parties.",
+    "title": "\"Pelota Cookies\"",
+    "author": "B",
+    "title_type": "incipit-assigned",
+    "series": "Patsy Planner",
+    "appears_in": " Haines. p. 27-28 in Treasure Chest of Fun and Fact, v. 18, no. 10 (Jan. 17, 1963).",
+    "call number": "PN6728.1.P43T7v.18no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Make pelota cookies to serve your friends after the skating party.\""
+    ]
+  },
+  "183": {
+    "heading": "Skating Ponds.",
+    "title": "\"Flagpole's a Hero!\"",
+    "author": "by Max Pine ; illustrated by Frank Borth",
+    "title_type": "incipit-assigned",
+    "series": "Chuck White and His Friends",
+    "appears_in": " p. 20-25 in Treasure Chest of Fun and Fact, v. 13, no. 15 (Mar. 27, 1958).",
+    "call number": "PN6728.1.P43T7v.13no.15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Firemen with long ladders finally rescue Flagpole and little Kathy Martin from the frigid waters of the skating pond.\"",
+      "\"To be continued.\""
+    ]
+  },
+  "184": {
+    "heading": "Skating Rinks.",
+    "title": "\"Any Girl Would Just Die to Sing with a Band\"",
+    "author": "by Ruth Burton",
+    "title_type": "incipit-assigned",
+    "series": "The Mystery of Shady Falls",
+    "appears_in": " p. 3-8 in Treasure Chest of Fun and Fact, v. 18, no. 13 (Feb. 28, 1963).",
+    "call number": "PN6728.1.P43T7v.18no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"The new skating rink at Shady Falls is about to open for business, but what kind of business?\"",
+      "\"To be continued.\""
+    ]
+  },
+  "185": {
+    "heading": null,
+    "title": "Skating Rinks The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "186": {
+    "heading": "Skating Rinks.",
+    "title": "\"The City's Trying to Raise Enough Money for a New Skating Rink\"",
+    "author": "McPherson.",
+    "title_type": "incipit-assigned",
+    "series": "Close to Home, Feb. 4, 1994",
+    "call number": "PN6726 f.B55 \"parking meters\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A man finds a parking meter next to his own driveway."
+    ]
+  },
+  "187": {
+    "heading": "Skating Rinks.",
+    "title": "\"The Mystery of Shady Falls\"",
+    "author": "by Ruth Burton",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 29-34 in Treasure Chest of Fun &amp; Fact, v. 18, no. 15 (Mar. 28, 1963).",
+    "call number": "PN6728.1.P43T7v.18no.15",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Who robbed the great Kohler's safe? and who is the mysterious stranger who collided with Ted in the skating rink a few weeks ago?\"",
+      "\"To be continued.\""
+    ]
+  },
+  "188": {
+    "heading": "Skating Rinks.",
+    "title": "\"Try to Get Ahold of Yourself\"",
+    "author": "Edson and Hasen.",
+    "title_type": "incipit-assigned",
+    "series": "Dondi, Apr. 7, 1959",
+    "call number": "PN6726 f.B55 \"skating rinks\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dondi yells in the skating rink shelter, and Mother Wills hears him, but Katje doesn't believe it."
+    ]
+  },
+  "189": {
+    "heading": "Skating Scouts.",
+    "title": "Sugar Princess : Skating to Win",
+    "author": "story &amp; art by Hisaya Nakajo ; translation and adaptation, Anastasia Moreno.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 N32S813 2008",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Viz Media",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Romance genre.",
+    "contents": [],
+    "notes": [
+      "(Shojo Beat Manga)",
+      "Complete in 2 vols.",
+      "Summary (from SkyRiver): When Maya Kurinoki lands an axel her first time on ice, a skating scout convinces her to take up the sport with the intent of partnering her with experienced older skater Shun Kano, who will only skate singles since the death of his sister."
+    ]
+  },
+  "190": {
+    "heading": null,
+    "title": "Skating Skills, Featuring Secrets of Roller Skating.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.C475S53 1957",
+    "library has": "",
+    "publication info": {
+      "place": "Chicago, Ill.",
+      "publisher": "Chicago Roller Skate Co.",
+      "date": "1957"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "30 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Advertising genre.",
+    "contents": [],
+    "notes": [
+      "Preface begins: \"Roller skating has graduated from a childhood activity into a full-fledged sport!\""
+    ]
+  },
+  "191": {
+    "heading": null,
+    "title": "\"Skating Sweater\"* 1/2 p. in Archie Comics, no. 44",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May/June 1950).",
+    "call number": "PN6728.1.A7A7no.44",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Dubble Bubble advertising strip."
+    ]
+  },
+  "192": {
+    "heading": null,
+    "title": "\"Skating Through the Years\" p. 9-13 in Treasure Chest of Fun &amp; Fact, v. 5, no. 7",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 29, 1949).",
+    "call number": "PN6728.1.P43T7v.5no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"The skater-itis bug bit its first victim two hundred years ago in Holland.\""
+    ]
+  },
+  "193": {
+    "heading": "Skating to Win.",
+    "title": "Sugar Princess : Skating to Win",
+    "author": "story &amp; art by Hisaya Nakajo ; translation and adaptation, Anastasia Moreno.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 N32S813 2008",
+    "library has": "v. 1.",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Viz Media",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Romance genre.",
+    "contents": [],
+    "notes": [
+      "(Shojo Beat Manga)",
+      "Complete in 2 vols.",
+      "Summary (from SkyRiver): When Maya Kurinoki lands an axel her first time on ice, a skating scout convinces her to take up the sport with the intent of partnering her with experienced older skater Shun Kano, who will only skate singles since the death of his sister."
+    ]
+  },
+  "194": {
+    "heading": null,
+    "title": "\"The Skating Vanities Presents Gloria Nord\" 3 p. in San Francisco Comic Book, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar.-Apr. 1970).",
+    "call number": "PN6728.45.S3S3no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "By R. Crumb."
+    ]
+  },
+  "195": {
+    "heading": "Skatoon Productions.",
+    "title": "Convention Confessional.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.8.S53C6",
+    "library has": "v. 1-2 (2005).",
+    "publication info": {
+      "place": "United States",
+      "publisher": "Skatoon Productions",
+      "date": "2005-"
+    },
+    "physical description": {
+      "dimensions": "31 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Written and illustrated by Rob Reilly, Steven Walters.\"",
+      "Events and conversations at comics conventions."
+    ]
+  },
+  "196": {
+    "heading": null,
+    "title": "Skatten",
+    "author": "skrevet af Wendy og Richard Pini ; tegnet af Wendy Pini ; farvelagt af Joe Barruso med hjælp fra M",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Lucie Chin og Wendy Pini ; overssat af Edith Månsson ; tekstet af Walther Lehmann.",
+    "call number": "PN6728.E5 D318 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Elverfolket ; bd. 18)",
+      "\"Oversat og bearbejdet efter ElfQuest 18, 'The Treasure.'\""
+    ]
+  },
+  "197": {
+    "heading": "Skatterbrain, Oscar.",
+    "title": "\"Oscar Skatterbrain\"",
+    "author": "Hal Sherman, script and art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in Adventure Comics, no. 54 (Sept. 1940).",
+    "call number": "PN6728.1.N3A3m no.54",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "This is the only appearance of this humor feature.",
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "198": {
+    "heading": "Le Skblllz.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "620"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": null,
+      "publisher": "Grenoble Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "199": {
+    "entry type": "target",
+    "anchor": "/rri/srri/sj.htm#sjim",
+    "title": "Sjors en Sjimmie",
+    "notes": [
+      "Dutch teen humor/funny kid\n        feature and periodical"
+    ],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}

@@ -1,0 +1,3975 @@
+{
+  "1": {
+    "heading": "Doc.",
+    "entry type": "encyclopedic entry",
+    "title": "The Great Superman Book",
+    "author": "Michael Fleisher",
+    "series": null,
+    "pages": {
+      "range": [
+        "58"
+      ]
+    },
+    "call number": "PN6725.F5v.3",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Warner Books",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "2": {
+    "heading": "Doc.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "168"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "3": {
+    "heading": "Doc.",
+    "entry type": "index entry",
+    "title": "The Comics",
+    "author": "Coulton Waugh",
+    "series": null,
+    "pages": {
+      "range": [
+        "330"
+      ]
+    },
+    "call number": "PN6725.W36 1991",
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "4": {
+    "heading": "D'Oc, Louis--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "738"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "5": {
+    "heading": "D'Oc.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "139",
+        "198"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": "Doc.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "24"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "7": {
+    "heading": "Doc.",
+    "title": "\"The Day Doc Turned Robot\"",
+    "author": "Robert Kanigher, writer ; Andru and Esposito, artists",
+    "title_type": "incipit",
+    "series": "Metal Men",
+    "appears_in": " 25 p. in Metal Men, no. 6 (Feb./Mar. 1964) ; revamped and reprinted as \"Our Mentor the Robot,\" in Metal Men, no. 50 (Feb./Mar. 1977).",
+    "call number": "PN6728.3.N3M4no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed."
+    ]
+  },
+  "8": {
+    "heading": "Doc.",
+    "title": "\"Death on the Downbeat\"",
+    "author": "Al Avison, pencils ; Jim Mooney, inks",
+    "title_type": "incipit",
+    "series": "Captain America",
+    "appears_in": " 13 p. in Captain America Comics, no. 57 (July 1946).",
+    "call number": "PN6728.1.M3C3m no.57",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Introduction of The Crooner; villains are The Crooner's double, and Doc (both introduced).",
+      "Data from Lou Mougin and Tony R. Rose via Grand Comics Database Project."
+    ]
+  },
+  "9": {
+    "heading": "Doc.",
+    "title": "\"Atomic Bomb Testing\"",
+    "author": "Doc",
+    "title_type": "incipit-assigned",
+    "series": "Capt. Courageous",
+    "appears_in": " 6 p. in Four Favorites, no. 23 (May 1946).",
+    "call number": "Film 15791r.199",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villain is Captain Nippo."
+    ]
+  },
+  "10": {
+    "heading": "Doc.",
+    "title": "\"Electric Chairs\"",
+    "author": "Doc",
+    "title_type": "incipit-assigned",
+    "series": "Lash Lightning and Lightning Girl",
+    "appears_in": " 6 p. in Four Favorites, no. 22 (Mar. 1946).",
+    "call number": "Film 15791r.199",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A criminal dies in the electric chair, and his brother tries to get revenge by executing another man in a makeshift electric chair."
+    ]
+  },
+  "11": {
+    "heading": "Doc.",
+    "title": "\"You Missed Sneezy, Sleepy, Doc, Dopey and",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726 f.B55 \"Snow White\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "author": "Danziger.",
+        "title": "\"* (McGonigle of the Chronicle, Feb. 16, 1984)"
+      }
+    ],
+    "notes": [
+      "Summary: Checking off the candidates: Mondale, Hart, Glenn, Askew, Jackson, McGovern, Cranston, Hollings."
+    ]
+  },
+  "12": {
+    "heading": "Doc.",
+    "title": "\"According to the Rules, You Can Lift It One Club Length Away\"",
+    "author": "by Frank King",
+    "title_type": "incipit-assigned",
+    "series": "Gasoline Alley, copyright 1936",
+    "appears_in": " reproduced on p. 68 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc's ball lands at the feet of a traffic cop, as he drives his golf ball across the country."
+    ]
+  },
+  "13": {
+    "heading": "Doc.",
+    "title": "\"Doc Wants a Night Out\"",
+    "author": "King.",
+    "title_type": "incipit",
+    "series": "Gasoline Alley, Oct. 15, 1919",
+    "call number": "PN6726 f.B55 \"going out\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc and his wife discuss the possible couples they could take with them for a night out, and decide to go out by themselves."
+    ]
+  },
+  "14": {
+    "heading": "Doc.",
+    "title": "\"I Air-Mailed my Golf Ball in Nebraska\"",
+    "author": "by Frank King",
+    "title_type": "incipit-assigned",
+    "series": "Gasoline Alley, Sept. 9, 1936",
+    "appears_in": " reproduced on p. 69 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc Arrives in New York on his cross country golf drive."
+    ]
+  },
+  "15": {
+    "heading": "Doc.",
+    "title": "\"I'll Play While I Ride and Count My Strokes\"",
+    "author": "by Frank King",
+    "title_type": "incipit-assigned",
+    "series": "Gasoline Alley, copyright 1936",
+    "appears_in": " reproduced on p. 68 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc lands his ball in the bed of a truck, and accepts a ride as he continues his cross country golf drive."
+    ]
+  },
+  "16": {
+    "heading": "Doc.",
+    "title": "\"Pacific to Atlantic, and I'm Through with Golf Forever\"",
+    "author": "by Frank King",
+    "title_type": "incipit-assigned",
+    "series": "Gasoline Alley, copyright 1936",
+    "appears_in": " reproduced on p. 69 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc breaks 80 from the post office to the East River, and throws his club in the water."
+    ]
+  },
+  "17": {
+    "heading": "Doc.",
+    "title": "\"You Can't Drive Across the Bay!\"",
+    "author": "by Frank King",
+    "title_type": "incipit-assigned",
+    "series": "Gasoline Alley, copyright 1936",
+    "appears_in": " reproduced on p. 68 of Golf in the Comic Strips, ed. by Howard Ziehm (General Publishing Group, 1997).",
+    "call number": "PN6726.G595 1997",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: In San Francisco, Doc begins driving his golf ball across the country."
+    ]
+  },
+  "18": {
+    "heading": "\"Doc and His Insects\"* (Silver Streak) / by Ralph Johns. 11 p.",
+    "title": "in Silver Streak Comics, no. 4",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1940",
+    "call number": "Film 15791, r.31",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Between acts at an orphanage charity show, Silver Streak defeats giant insects, rescues a hostage and a boy about to be run over by Doc's fleeing gang, and delivers the gang to the police station."
+    ]
+  },
+  "19": {
+    "heading": "\"Doc &amp; Raider\" / by Sean Martin. p. 10-11 in Gay Comics, no.",
+    "title": "16",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Summer 1992",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Gag panels. I. Martin, Sean. Call no.: PN6728.45.K5G3no.16"
+    ]
+  },
+  "20": {
+    "heading": null,
+    "title": "\"Doc and Raider Return to Mr. Drummer\"",
+    "author": "Sean Martin",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 3 p. in Gay Comics, no. 18 (Spring 1993) I. Martin, Sean. k. Raider. k. Mr. Drummer. Call no.: PN6728.45.K5G3no.18",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "21": {
+    "heading": "Doc Attaboy.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "268"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "22": {
+    "heading": null,
+    "title": "\"Doc' BD : Patrick Gaumer, l'Encyclopédie Vivante de la BD\"",
+    "author": "Christophe Quillien",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 8 in Bachi-Bouzouk, no. 1 (fév. 1999).",
+    "call number": "PN6745.B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "23": {
+    "heading": null,
+    "title": "\"Doc Begley's India Rubber Pills!\"",
+    "author": "Kim Deitch",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 1/2 p. in Yellow Dog, v. 1, no. 5 (July 24, 1968).",
+    "call number": "PN6728.45.P7Y4v.1no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "24": {
+    "heading": null,
+    "title": "Doc Behemoth.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.C46D6",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Valley Stream, NY",
+      "publisher": "Chanting Monks Studios",
+      "date": "1998-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Parody genre.",
+    "contents": [],
+    "notes": []
+  },
+  "25": {
+    "heading": "Doc Benway--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Super Villains",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "83-84"
+      ]
+    },
+    "call number": "P96.V48R68 1987",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1987"
+    },
+    "notes": []
+  },
+  "26": {
+    "heading": "Doc Carson.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "642"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "27": {
+    "heading": null,
+    "title": "Doc Carter Comics : Phil Mann Comes Home",
+    "author": "Bill Hinnant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.V4D62 1950",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1950?",
+      "\"VDgraphic",
+      "102\".",
+      "Educational comic about gonorrhea."
+    ]
+  },
+  "28": {
+    "heading": null,
+    "title": "Doc Carter VD Comics : Doc Carter comes to Carbiville",
+    "author": "Bill Hinnant.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Raleigh, N.C.",
+      "publisher": "Venereal Disease Education Institute",
+      "date": "1949"
+    },
+    "physical description": {
+      "dimensions": "27 cm. 1. Sexually transmitted diseases",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "13 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic books, strips, etc. I. Hinnant, Bill. II. Veneral Disease Education Institute. Call no.: PN6728.1.V4D6 1949"
+    ]
+  },
+  "29": {
+    "heading": null,
+    "title": "Doc Chaos.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. New wave comics. a. British comics. Call no.",
+    "publication info": {
+      "place": "London",
+      "publisher": "Escape Publishing",
+      "date": "1984-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "30": {
+    "heading": null,
+    "title": "Doc Chaos.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6734.D57",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Picton, Ont.",
+      "publisher": "Vortex Comics",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "One issue published.",
+      "\"Issues 1-13 comprise one story entitled The Strange Attractor.\""
+    ]
+  },
+  "31": {
+    "heading": "Doc Chaos--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "166"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "32": {
+    "heading": "Doc Chaos--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Adult Comics : an Introduction",
+    "author": "by Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "81-82"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Routledge",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "33": {
+    "heading": "Doc Crock.",
+    "title": "\"The Sinister Schemes of Doc Crock!\"",
+    "author": "George Broderick Jr",
+    "title_type": "incipit",
+    "series": "Fearless Frog",
+    "appears_in": " p. 17-21 in Comic Library International, v. 6 (2001).",
+    "call number": "PN6720.C57v.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "34": {
+    "heading": null,
+    "title": "\"Doc Destiny\"",
+    "author": "Kim Deitch",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in Bijou Funnies, no. 3 (1969).",
+    "call number": "PN6728.45.K5B45no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "35": {
+    "heading": "Doc E.Z. Duzit.",
+    "title": "\"Circus Veterinarian\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Doc E.Z. Duzit) 7 p. in Ha Ha Comics, no. 65",
+    "call number": "PN6728.1.A5H3no.65",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "36": {
+    "heading": "Doc Foozle.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "112"
+      ]
+    },
+    "call number": "PN6790.A8 S47 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "37": {
+    "heading": "Doc MacSwiggle.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "122"
+      ]
+    },
+    "call number": "PN6790.A8 S47 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "38": {
+    "heading": "Doc McSwiggle.",
+    "entry type": "index entry",
+    "title": "Panel by Panel : A History of Australian Comics",
+    "author": "John Ryan",
+    "series": null,
+    "pages": {
+      "range": [
+        "176"
+      ]
+    },
+    "call number": "PN6790.A8R9",
+    "publication info": {
+      "place": "Stanmore, NSW",
+      "publisher": "Cassell Australia",
+      "date": "1979"
+    },
+    "notes": [
+      "Index by John Melloy."
+    ]
+  },
+  "39": {
+    "heading": null,
+    "title": "\"Doc Magnus and the Metal Men\"",
+    "author": "by Murray R",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Ward. p. 30-33, 38-39, 58-59 in Comic Book Marketplace, v. 2, no. 64 (Nov. 1998).",
+    "call number": "PN6714.C632v.2no.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes 18 color cover reproductions (p. 38-39), and a CBM Checklist: Metal Men (p. 58-59)."
+    ]
+  },
+  "40": {
+    "heading": "\"Doc Ock Lives!\" (Spider-Man) 20 p. in Amazing Spider-Man, no.",
+    "title": "89",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1970) ; reprinted in The Amazing Spider-Man",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "41": {
+    "heading": null,
+    "title": "Doc Ock Lives! The Amazing Spider-Man",
+    "author": "Stan Lee.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "TOR",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "The Arms of Doctor Octopus!"
+      }
+    ],
+    "notes": [
+      "1 v. : ill. ; 18 cm.",
+      "Originally published in magazine form as The Amazing Spider-Man, no. 88-90.",
+      "Doc Ock Lives!",
+      "And Death Shall Come! 1. Superhero comics. I. Lee, Stan. II. The Arms of Doctor Octopus! III. Doc Ock Lives! IV. And Death Shall Come! V. Amazing Spider-Man, no. 88-90. VI. TOR Books. Call no.: PN6728.A5L45 1992"
+    ]
+  },
+  "42": {
+    "heading": "-",
+    "title": "\"Doc Ock Wins!\"",
+    "author": "Stan Lee, story ; John Romita, pencils ; Mickey Demeo, inks",
+    "title_type": "incipit",
+    "series": "Spider-Man",
+    "appears_in": " 20 p. in Amazing Spider-Man, no. 55 (Dec. 1967) ; reprinted in Marvel Tales, no. 40 (Dec. 1972). I. [Each creator]. k. Winning. k. Doctor Octopus. Call no.: PN6728.3.M3A5no.55. Call no.: PN6728.3.M3M32no.40.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "43": {
+    "heading": null,
+    "title": "\"Doc Put Two and Two Together\"",
+    "author": "King.",
+    "title_type": "incipit",
+    "series": "Gasoline Alley, Dec. 15, 1919",
+    "call number": "PN6726 f.B55 \"Christmas presents\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc comes home from work early and his wife has Christmas presents out that he mustn't see."
+    ]
+  },
+  "44": {
+    "heading": null,
+    "title": "Doc Samson.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3D55",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Jan. 1996) - no. 4 (Apr. 1996)."
+    ]
+  },
+  "45": {
+    "heading": "Doc Samson--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "90"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "46": {
+    "heading": "Doc Samson--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "166"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "47": {
+    "heading": null,
+    "title": "Doc Savage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Adventure story comics. I. K.K. Publications. Call no.",
+    "publication info": {
+      "place": "Poughkeepsie, N.Y.",
+      "publisher": "K.K. Publications",
+      "date": "1966"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 only."
+    ]
+  },
+  "48": {
+    "heading": null,
+    "title": "Doc Savage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.4.M3D56",
+    "library has": "no. 1-8.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1972-1974"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Oct. 1972) - no. 8 (Jan. 1974)."
+    ]
+  },
+  "49": {
+    "heading": null,
+    "title": "Doc Savage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-8. 1. Adventure story comics. I. Magazine Management. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Magazine Management",
+      "date": "1975-1977"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Aug. 1975) - no. 8 (Spring 1977)"
+    ]
+  },
+  "50": {
+    "heading": "-",
+    "title": "Doc Savage",
+    "author": "by O'Neil, Kubert &amp; Kubert.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-4. 1. Superhero comics. I. O'Neil, Dennis, 1939- II. Kubert, Adam. III. Kubert, Andy. IV. DC Comics, Inc. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1987-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Complete in 4 nos."
+    ]
+  },
+  "51": {
+    "heading": null,
+    "title": "Doc Savage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 6-24. 1. Adventure story comics. I. DC Comics, Inc. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1988-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Nov. 1988), cf. Official Overstreet Comic Book Price Guide."
+    ]
+  },
+  "52": {
+    "heading": null,
+    "title": "Doc Savage : Curse of the Fire God.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D34D57 1995",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1995-"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in 4 nos.",
+      "Genre: Adventure story."
+    ]
+  },
+  "53": {
+    "heading": null,
+    "title": "Doc Savage : Curse of the Fire God",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6707.S55 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Miscellanea. Entry (p. 167) in The Slings and Arrows Comic Guide, Frank Plowright, ed. (London",
+      "publisher": "Aurum Press",
+      "date": "1997"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Reviews and analyses.\""
+    ]
+  },
+  "54": {
+    "heading": null,
+    "title": "Doc Savage : the Manual of Bronze.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M46D62 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Sun City, FL",
+      "publisher": "Millennium Publications",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "Cover title: Doc Savage : Manual of Bronze.",
+      "1 v. : col. ill. ; 26 cm.",
+      "\"No. 1\".",
+      "A handbook for Doc Savage stories, with a cast of characters, diagrams, and some early comic strips."
+    ]
+  },
+  "55": {
+    "heading": "Doc Savage.",
+    "title": "Giant-Size Doc Savage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.4.M3G42",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (1975) only.",
+      "Genre: Superhero."
+    ]
+  },
+  "56": {
+    "heading": "Doc Savage.",
+    "title": "Quest of Qui",
+    "author": "by Kenneth Robeson ; cover by Ben Otero ; illustrated by Arnie Kohn.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Racine, Wi.",
+      "publisher": "Golden Press",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "211 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Superhero Adventure)",
+      "At head of title: Doc Savage. I. Robeson, Kenneth. II. Doc Savage. III. Series. Call no.: PS3535.O2Q4 1975"
+    ]
+  },
+  "57": {
+    "heading": "Doc Savage.",
+    "title": "The Shadow and Doc Savage.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D34S46 1995",
+    "library has": "no. 1-2.",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1995"
+    },
+    "physical description": null,
+    "genre": "Detective/mystery genre.",
+    "contents": [],
+    "notes": [
+      "col ill. ; 26 cm.",
+      "Complete in 2 issues."
+    ]
+  },
+  "58": {
+    "heading": "Doc Savage--Articles About.",
+    "title": "\"Franck Sauvage Revient\"",
+    "author": "P",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Couperie. p. 16-19 in Phénix, no. 5 (4e Trimestre 1967).",
+    "call number": "PN6745.P47no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article on Doc Savage."
+    ]
+  },
+  "59": {
+    "heading": "Doc Savage--Miscellanea.",
+    "title": "Bob Larkin interview",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "4 p.) in David Anthony Kraft's Comics Interview, no. 3",
+    "call number": "PN6725.D28no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Topics: Doc Savage, Dallas, Planet of the Apes.",
+      "Data from issue 100 of magazine."
+    ]
+  },
+  "60": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Collector's Guide : The First Heroic Age",
+    "author": "Jerry Bails",
+    "series": null,
+    "pages": {
+      "range": [
+        "21"
+      ]
+    },
+    "call number": "PN6725.B28 1969",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1969"
+    },
+    "notes": []
+  },
+  "61": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Comic Book Reader's Companion, an A-to-Z Guide to Everyone's Favorite Art Form",
+    "author": "Ron Goulart",
+    "series": null,
+    "pages": {
+      "range": [
+        "46-47"
+      ]
+    },
+    "call number": "PN6725.G637 1993",
+    "publication info": {
+      "place": "New York",
+      "publisher": "HarperPerennial",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "62": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Comics Between the Panels",
+    "author": "Steve Duin, Mike Richardson",
+    "series": null,
+    "pages": {
+      "range": [
+        "134"
+      ]
+    },
+    "call number": "PN6707.D8 1998",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "63": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "417"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "64": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "589"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "65": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "90-92"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "66": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "166"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "Refers to a 1966 Gold Key comic book."
+    ]
+  },
+  "67": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "166"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "Refers to a 1970s Marvel incarnation."
+    ]
+  },
+  "68": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "166-167"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "Refers to a 1980s DC incarnation."
+    ]
+  },
+  "69": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The World Encyclopedia of Comics",
+    "author": "ed. by Maurice Horn",
+    "series": null,
+    "pages": {
+      "range": [
+        "256-257"
+      ]
+    },
+    "call number": "PN6710.W6 1999",
+    "publication info": {
+      "place": "Philadelphia",
+      "publisher": "Chelsea House",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "70": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "68",
+        "70",
+        "162",
+        "229",
+        "238"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "71": {
+    "heading": "Doc Savage--Miscellanea.",
+    "title": "Index entry to Amazing Heroes, no. 115",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Robert Klein. I. Information Center. k. Doc Savage. Call no.: PN6725.A47no.115,126"
+    ]
+  },
+  "72": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Art of the Comic Book",
+    "author": "by R.C. Harvey",
+    "series": null,
+    "pages": {
+      "range": [
+        "19"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "73": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "75"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "74": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "52",
+        "64",
+        "146",
+        "167"
+      ]
+    },
+    "call number": "PN6725.T5 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "75": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Comic Book Heroes from the Silver Age to the Present",
+    "author": "Will Jacobs &amp; Gerard Jones",
+    "series": null,
+    "pages": {
+      "range": [
+        "206",
+        "207"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "Crown",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "76": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "124"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "77": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Crawford's Encyclopedia of Comic Books",
+    "author": "Hubert H. Crawford",
+    "series": null,
+    "pages": {
+      "range": [
+        "403-404"
+      ]
+    },
+    "call number": "PN6725.C7 1978",
+    "publication info": {
+      "place": "Middle Village, N.Y.",
+      "publisher": "Jonathan David Publishers",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "78": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "102-103"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "79": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "63"
+      ]
+    },
+    "call number": "PN6725.G38 1989",
+    "publication info": null,
+    "notes": []
+  },
+  "80": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "725",
+        "1042"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "81": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "126"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "82": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Marvel : Five Fabulous Decades of the World's Greatest Comics",
+    "author": "Les Daniels",
+    "series": null,
+    "pages": {
+      "range": [
+        "16"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "H.N. Abrams",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "83": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "84",
+        "93",
+        "95",
+        "97",
+        "99"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "84": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Super Heroes: a Modern Mythology",
+    "author": "Richard Reynolds",
+    "series": null,
+    "pages": {
+      "range": [
+        "84"
+      ]
+    },
+    "call number": "PN6725.R45 1994",
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "85": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Women and the Comics",
+    "author": "by Trina Robbins and Catherine Yronwode",
+    "series": null,
+    "pages": {
+      "range": [
+        "64"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "Eclipse Books",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "86": {
+    "heading": "Doc Savage--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "illustrations": [
+        "213"
+      ],
+      "range": [
+        "212",
+        ""
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "87": {
+    "heading": null,
+    "title": "Doc Savage Annual.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Adventure story comics. I. DC Comics, Inc. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1989-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "88": {
+    "heading": null,
+    "title": "Doc Savage Comics [microform]",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "v. 1, no. 1 - v. 2, no. 8 (1940-1943)",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Street and Smith",
+      "date": "1940-1943"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "",
+      "Published v. 1, no. 1 (May 1940) - v. 2, no. 8 (Oct. 1943)",
+      "Microfilm. St. Clair Shores, Mich. : J. Bails.",
+      "positive ; 16 mm.",
+      "(Jerry Bails Microfilm Library of Comic Art)",
+      "Distribution on reels: v. 1, no. 1-10 on reel 176 v. 1, no. 11-12 on reel 175 v. 2, no. 1-3 on reel 175 v. 2, no. 4-8 on reel 161 1. Adventure story comics. I. Street and Smith. II. Series. Call no.: Film 15791"
+    ]
+  },
+  "89": {
+    "heading": "Doc Savage Comics--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "Detroit : Jerry Bails",
+        "1976"
+      ]
+    },
+    "call number": "PN6725.K4",
+    "publication info": null,
+    "notes": []
+  },
+  "90": {
+    "heading": "-",
+    "title": "Doc Savage Comics",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.G636 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Miscellanea. Index entry (p. 66, 67, 74, 136) in Over 50 Years of American Comic Books, by Ron Goulart (Lincolnwood, Ill.",
+      "publisher": "Mallard Press",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "91": {
+    "heading": "Doc Savage Comics--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "99"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "92": {
+    "heading": null,
+    "title": "Doc Savage, the Man of Bronze : Repel.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M46D6 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Sun City, FL",
+      "publisher": "Millennium Publications",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm.",
+      "\"No. 1.\""
+    ]
+  },
+  "93": {
+    "heading": null,
+    "title": "\"Le Doc se Fait Noircir\"",
+    "author": "Hugot",
+    "title_type": "incipit",
+    "series": "Les Consultations du Docteur Eaulhenchlager",
+    "appears_in": " p. 28-31 in Fluide Glacial, no. 163 (Jan. 1990).",
+    "call number": "PN6748.F55no.163",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "94": {
+    "heading": "Doc Silver.",
+    "title": "Le Chasseur Noir",
+    "author": "L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " &amp; F. Funcken ; Y. Duval.",
+    "call number": "PN6747.F8C47 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly s/Seine",
+      "publisher": "Dargaud Editeur",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure genre.",
+    "contents": [],
+    "notes": [
+      "(Doc Silver)",
+      "(Collection Jeune Europe)",
+      "\"Une histoire du journal Tintin.\"",
+      "A story of World War I."
+    ]
+  },
+  "95": {
+    "heading": "Doc Silver.",
+    "title": "Le Fièvre des Sables",
+    "author": "L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " &amp; F. Funcken ; Y. Duval.",
+    "call number": "PN6747.F8F5 1969",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly sur Seine",
+      "publisher": "Dargaud Editeur",
+      "date": "1969"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Doc Silver)",
+      "(Collection Jeune Europe)",
+      "\"Une histoire du journal Tintin.\""
+    ]
+  },
+  "96": {
+    "heading": "Doc Silver.",
+    "title": "L'Otage",
+    "author": "L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " &amp; F. Funcken ; Y. Duval.",
+    "call number": "PN6747.F8 O75 1971",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly s/Seine",
+      "publisher": "Dargaud Editeur",
+      "date": "1971"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Collection Jeune Europe)",
+      "Features Doc Silver.",
+      "\"Une histoire du journal Tintin.\""
+    ]
+  },
+  "97": {
+    "heading": "Doc Silver.",
+    "title": "La Vallée de la Peur",
+    "author": "L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " &amp; F. Funcken ; Y. Duval.",
+    "call number": "PN6757.F8V3 1972",
+    "library has": "",
+    "publication info": {
+      "place": "Neuilly s/Seine",
+      "publisher": "Dargaud Editeur",
+      "date": "1972"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Doc Silver)",
+      "(Collection Jeune Europe)",
+      "\"Une histoire du journal Tintin.\""
+    ]
+  },
+  "98": {
+    "heading": "Doc Silver.",
+    "title": "24 Heures pour Doc Silver",
+    "author": "L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " &amp; F. Funcken ; Y. Duval.",
+    "call number": "PN6747.F8V5 1968",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud S.A. Editeur",
+      "date": "1968"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Western genre.",
+    "contents": [],
+    "notes": [
+      "(Collection Jeune Europe)",
+      "\"Une histoire du journal Tintin.\""
+    ]
+  },
+  "99": {
+    "heading": "Doc Silver--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "51"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "100": {
+    "heading": "Doc Silver--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "200"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "101": {
+    "heading": "Doc Silver--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Thématique de Héros de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "36-37"
+      ]
+    },
+    "call number": "PN6707.F5 1992",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1992"
+    },
+    "notes": []
+  },
+  "102": {
+    "heading": "Doc Silver--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "593"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "103": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1946) \"Beneficial Treatments\"",
+    "call number": "PN6728.1.F3W47no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "104": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1947) \"Not a Bad Idea\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "105": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1947) \"Turn About\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "106": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1947) \"A Sight for Sore Eyes\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "107": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1947) \"Watch Out\"",
+    "call number": "PN6728.1.F3W47no.87",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "108": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1947) \"Crazy is as Crazy Does\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "109": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1947) \"Highly Charged Temperament\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "110": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1947) \"An Eyesore\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "111": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1947) \"No Loss Here\"",
+    "call number": "Film 15791,r.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "112": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1948) \"Yelling with Pain\"*",
+    "call number": "Film 15791r.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "113": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1949) \"Sad Case\"",
+    "call number": "PN6728.1.F3W47no.107",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Doc answers the question, \"Should Women Work?\""
+    ]
+  },
+  "114": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1949) \"Sob Story\"",
+    "call number": "PN6728.1.F3W47no.107",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "115": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1949) \"Two Finger Grip\"",
+    "call number": "PN6728.1.F3W47no.114",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: The patient keeps sticking his fingers in the ears of a bald man at the bowling alley."
+    ]
+  },
+  "116": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1949) \"Lumbering\"",
+    "call number": "Film 15791r.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "117": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1950) \"Clean Sweep\"",
+    "call number": "Film 15791r.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "118": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1950) \"Some Cure!\"",
+    "call number": "Film 15791r.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Doc cures an inferiority complex."
+    ]
+  },
+  "119": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1951) \"Must be Notes\"",
+    "call number": "Film 15791 r.88",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via Grand Comic-Book Database."
+    ]
+  },
+  "120": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1952) \"A Ticklish Situation!\"",
+    "call number": "Film 15791 r.96",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "121": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1953) \"Hot and Cold!\"",
+    "call number": "Film 15791 r.96",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Inside front cover."
+    ]
+  },
+  "122": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1953) \"The Flexible Fee!\"",
+    "call number": "Film 15791 r.96",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "123": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1953) \"A Chesty Report\"",
+    "call number": "Film 15791 r.96",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "124": {
+    "heading": null,
+    "title": "Doc Sorebones",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1953) \"A Man of Metal\"",
+    "call number": "Film 15791 r.96",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "125": {
+    "heading": null,
+    "title": "Doc Stearn, Mr. Monster.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-10; v. 2, no. 3, 5, 7. 1. Horror comic books, strips, etc. I. Mr. Monster. Call no.",
+    "publication info": {
+      "place": "Guerneville, Calif.",
+      "publisher": "Eclipse Comics",
+      "date": "1985-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "No. 1 (Jan. 1985)- ."
+    ]
+  },
+  "126": {
+    "heading": "Doc Stearn, Mr. Monster.",
+    "title": "\"The Case of the Reluctant Werewolf\"",
+    "author": "script, layouts, colors, Michael T",
+    "title_type": "incipit",
+    "series": "Doc Stearn, Mr. Monster",
+    "appears_in": " Gilbert ; pencils, inks, William F. Loebs. 8 p. in Vanguard Illustrated, no. 7 (July 1984) I. [Each creator] II. Doc Stearn, Mr. Monster. k. Reluctant Werewolf. k. Werewolves. Call no.: PN6728.5.P3V3no.7",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "127": {
+    "heading": "Doc Stearn, Mr. Monster.",
+    "title": "Mr. Monster.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Horror comic books, strips, etc. I. Doc Stearn, Mr. Monster. II. Michael T. Gilbert's Doc Stearn, Mr. Monster. Call no.",
+    "publication info": {
+      "place": "Portland, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1988-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "No. 1 (Feb. 1988)- .",
+      "Other title: Michael T. Gilbert's Doc Stearn, Mr. Monster."
+    ]
+  },
+  "128": {
+    "heading": "Doc Stearn Mr. Monster Triple Threat 3-D Pin-Up Special.",
+    "title": "Mr. Monster's Triple Threat 3-D.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.Z6M5 1993",
+    "library has": "",
+    "publication info": {
+      "place": "LA, CA",
+      "publisher": "The 3-D Zone",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Funny horror genre.",
+    "contents": [],
+    "notes": [
+      "Other title: Doc Stearn Mr. Monster Triple Threat 3-D Pin-Up Special."
+    ]
+  },
+  "129": {
+    "heading": "Doc Strange.",
+    "entry type": "encyclopedic entry",
+    "title": "The Collector's Guide : The First Heroic Age",
+    "author": "Jerry Bails",
+    "series": null,
+    "pages": {
+      "range": [
+        "21"
+      ]
+    },
+    "call number": "PN6725.B28 1969",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1969"
+    },
+    "notes": []
+  },
+  "130": {
+    "heading": "Doc Strange.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "92"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": [
+      "Reference is to a 1940s hero named Hugo Strange."
+    ]
+  },
+  "131": {
+    "heading": "Doc Strange.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "233"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "132": {
+    "heading": "Doc Strange.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "22",
+        "103"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "133": {
+    "heading": "Doc Strong.",
+    "entry type": "encyclopedic entry",
+    "title": "The Collector's Guide : The First Heroic Age",
+    "author": "Jerry Bails",
+    "series": null,
+    "pages": {
+      "range": [
+        "21"
+      ]
+    },
+    "call number": "PN6725.B28 1969",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1969"
+    },
+    "notes": []
+  },
+  "134": {
+    "heading": "Doc Sykes.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "188"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "135": {
+    "heading": null,
+    "title": "\"Doc Trader\"",
+    "author": "by Jessica Abel",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 19-22 of \"Lumpen Goes Comix\" in Lumpen : the Comics Issue (Lumpen, v. 5, no. 5 (Sept. 1996).",
+    "call number": "AP2.L89v.5no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "136": {
+    "heading": null,
+    "title": "\"Doc Wants a Night Out\"",
+    "author": "King.",
+    "title_type": "incipit",
+    "series": "Gasoline Alley, Oct. 15, 1919",
+    "call number": "PN6726 f.B55 \"going out\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc and his wife discuss the possible couples they could take with them for a night out, and decide to go out by themselves."
+    ]
+  },
+  "137": {
+    "heading": null,
+    "title": "Doc Weird's Thrill Book!",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.55.P79D6",
+    "library has": "no. 1, 3 (1985?-1988).",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Pure Imagination Pub.",
+      "date": "1985"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Science fiction reprints."
+    ]
+  },
+  "138": {
+    "heading": null,
+    "title": "Doc Wellfish's Aquarium Adventures",
+    "author": "Gary Cohn, writer ; Scott Neely, artist.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.A67D6 1997",
+    "library has": "",
+    "publication info": {
+      "place": "Chalfont, PA",
+      "publisher": "Aquarium Pharmaceuticals, Inc.",
+      "date": "1997"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Educational comic on aquariums and tropical fish."
+    ]
+  },
+  "139": {
+    "heading": "Doc Wright--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Art of the Funnies",
+    "author": "by R.C. Harvey",
+    "series": null,
+    "pages": {
+      "range": [
+        "124"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "140": {
+    "heading": "Doc Wright--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "152"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "141": {
+    "heading": "Doc Wright--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Funnies, 100 Years of American Comic Strips",
+    "author": "Ron Goulart",
+    "series": null,
+    "pages": {
+      "range": [
+        "137"
+      ]
+    },
+    "call number": "PN6725.G62 1995",
+    "publication info": {
+      "place": "Holbrook, Mass.",
+      "publisher": "Adams Publishing",
+      "date": "1995"
+    },
+    "notes": []
+  },
+  "142": {
+    "heading": "Doc Wright--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "285"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "143": {
+    "heading": "Doc Wright--Miscellanea.",
+    "title": "\"Rube Goldberg's Doc Wright\" p. 35 in Hogan's Alley, v. 1, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1995).",
+    "call number": "PN6700.H6v.1no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Stripper's Guide)",
+      "Describes and shows samples of the strip."
+    ]
+  },
+  "144": {
+    "heading": "Doc Yak.",
+    "title": "\"Farewell Doc Yak\"",
+    "author": "Sidney Smith",
+    "title_type": "incipit",
+    "series": "The Gumps, 1919",
+    "appears_in": " p. 112 in The Comic Strip Century (Kitchen Sink Press, 1995).",
+    "call number": "PN6726.C595 1995v.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Doc Yak sells his car, \"Old 348,\" to go away with his adopted son Yutch and \"start life all over again.\""
+    ]
+  },
+  "145": {
+    "heading": null,
+    "title": "\"Una Docena de Huevos\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Pepito el Niño Prodigio) 1 p. in Daniel el Travieso, no. 2",
+    "call number": "PN6790.M44D29no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "146": {
+    "heading": "Docherty, Michael, 1947-",
+    "title": "Conan, the Ravagers Out of Time",
+    "author": "written by Roy Thomas ; pencils by Michael Docherty ; inks by Alfredo Alcala ; letters by John Costanza ; color by Tom Vincent.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Graphic Novel)",
+      "\"Featuring the character created by Robert E. Howard.\" 1. Sword and sorcery comics. I. Thomas, Roy. II. Howard, Robert Ervin, 1906-1936. III. Docherty, Michael, 1947- IV. Alcala, Alfredo P. V. Costanza, John. VI. Vincent, Tom. VII. The Ravagers Out of Time. VIII. Series. Call no.: PN6728.C657R3 1992"
+    ]
+  },
+  "147": {
+    "heading": "-",
+    "title": "\"Docil\"",
+    "author": "Mastroserio",
+    "title_type": "incipit",
+    "series": "Furia Negra",
+    "appears_in": " 6 p. in Rodeo, no. 40 (Apr. 1958).",
+    "call number": "PN6790.M44R55no.40",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "148": {
+    "heading": null,
+    "title": "\"Docil Days\"",
+    "author": "by Robert Williams",
+    "title_type": "incipit",
+    "series": "Coochy Cooty",
+    "appears_in": " 4 p. in Zap Comix, no. 5 (1970).",
+    "call number": "PN6728.45.P7Z3no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "149": {
+    "heading": "Dock, Leslie A.",
+    "title": "The Iron Flowerpotters",
+    "author": "by Willy Vandersteen ; translated by Nicholas J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Lahey and edited by Leslie A. Dock.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco, Calif.",
+      "publisher": "Hiddigeigei Books",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "55 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Willy and Wanda ; 11)",
+      "Originally published in Flemish. 1. Adventure story comics. I. Vandersteen, Willy, 1913- II. Dock, Leslie A. III. Lahey, Nicholas J. IV. Series. a. Belgian comics. Call no.: PN6790.N44W5I7 1977"
+    ]
+  },
+  "150": {
+    "heading": "-",
+    "title": "Dock 21 ; 1 L'Abîme du Temps",
+    "author": "Rodolphe, Mounier.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dock 21 ; 1) 1. French comics. I. Jacquette, Rodolphe, 1948- II. Mounier, Alain. III. Series. IV. Dargaud Editeur. Call no.: PN6747.J28A2 1992"
+    ]
+  },
+  "151": {
+    "heading": null,
+    "title": "Dock 21 ; 2 Je suis un autre",
+    "author": "Rodolphe, Mounier.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.J28J4 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dock 21 ; 2)"
+    ]
+  },
+  "152": {
+    "heading": null,
+    "title": "Dockan som inte Kunde Sova",
+    "author": "av Rolf Gohs.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.S93G6D6 1974",
+    "library has": "",
+    "publication info": {
+      "place": "Stockholm",
+      "publisher": "Coeckelberghs",
+      "date": "1974"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Mystiska 2:an ; 1)",
+      "Genre: Horror."
+    ]
+  },
+  "153": {
+    "heading": "Docker, John.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "172"
+      ]
+    },
+    "call number": "PN6710.P85 1999",
+    "publication info": null,
+    "notes": []
+  },
+  "154": {
+    "heading": "Dockery, Will.",
+    "title": "Small Press Comic Sampler.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6726.S497 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Bastrop, Texas",
+      "publisher": "Jumbo Comics",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": [
+      "Includes index of artists.",
+      "Artists: Bob Dale Tran, Beth Templeton, Androo Robinson, Will Dockery, Steve Skeates, Jim Conatser, Mike Kelly, Richard Howe, Mike Tolento, Jim Siergey, Liam Brooks, Jerry Smith, Jason Whitley, and Scott Eckelaert.",
+      "Other title: Small Press Sampler."
+    ]
+  },
+  "155": {
+    "heading": "Docking.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "156": {
+    "heading": "Docking.",
+    "title": "\"Pull That Percolator Out of There so I Can Dock!\"",
+    "author": "Fisher",
+    "title_type": "incipit-assigned",
+    "series": "Mutt and Jeff, 1928",
+    "appears_in": " p. 74 in The Smithsonian Collection of Newspaper Comics, ed. by Bill Blackbeard and Martin Williams (Washington, D.C. : Smithsonian Institution Press, 1977).",
+    "call number": "PN6726.S6 1977",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Strip numbered 200."
+    ]
+  },
+  "157": {
+    "heading": "Docks, Carl.",
+    "title": "\"Qualified Praise\"",
+    "author": "by Carl Docks",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 108-109 in Comics Feature, no. 12/13 (Sept./Oct. 1981).",
+    "call number": "PN6725.C63no.12/13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Fandom Zone)",
+      "Reviews of The Legion Outpost, no. 10, and Weird Faan Fiction, no. 5."
+    ]
+  },
+  "158": {
+    "heading": "-",
+    "title": "Docks, Carl. \"Qualified Praise\"",
+    "author": "by Carl Docks",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " p. 50-51 in Comics Feature, no. 16 (Feb. 1982).",
+    "call number": "PN6725.C63no.16",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews of Amazing Heroes, no. 5 ; Lost Loves, no. 1 ; The R. Crumb Checklist ; and Starjack."
+    ]
+  },
+  "159": {
+    "heading": "Docks.",
+    "title": "\"About those Private Fishing Lessons\"",
+    "author": "Jack Elrod.",
+    "title_type": "incipit-assigned",
+    "series": "Mark Trail, July 31, 1997",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Mrs. Kennedy thinks she could get someone to take over as chairperson of the club dance, they'll get her fishing clothes and equipment, and Pat has her arm through Steve's.",
+      "Key words: Deer, docks. Call no.: PN6726f.B55 \"Chairpersons\""
+    ]
+  },
+  "160": {
+    "heading": "Docks.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "161": {
+    "heading": "Docks.",
+    "title": "\"Bold Impersonation\"",
+    "author": "by Phil Nowlan and Lt",
+    "title_type": "incipit",
+    "series": "Buck Rogers, 25th Century A.D., May 16, 1935",
+    "appears_in": " Dick Calkins.",
+    "call number": "PN6726 f.B55 \"monorails\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Wilma takes the monorail to the docks and prepares to impersonate Nelda."
+    ]
+  },
+  "162": {
+    "heading": "Docks.",
+    "title": "\"He Said Hop in the Canoe\"",
+    "author": "Ketcham.",
+    "title_type": "incipit",
+    "series": "Dennis the Menace, July 28, 1997",
+    "call number": "PN6726f.B55 \"Hopping\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Docks, paddles, capsizing, overturned, Mr. Wilson."
+    ]
+  },
+  "163": {
+    "heading": "Docks.",
+    "title": "\"So Sudden and Exciting\"",
+    "author": "Jack Elrod.",
+    "title_type": "incipit-assigned",
+    "series": "Mark Trail, July 30, 1997",
+    "call number": "PN6726f.B55 \"Excitement\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Mrs. Kennedy is happy to meet the Congressman and his family, and seems ready to give fishing a try.",
+      "Key words: Geese, docks."
+    ]
+  },
+  "164": {
+    "heading": "Docks.",
+    "title": "\"Time to Face the Music\"",
+    "author": "Bill Freyse.",
+    "title_type": "incipit",
+    "series": "Our Boarding House, Apr. 13, 1964",
+    "call number": "PN6726 f.B55 \"docks\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The Major had been hoping to withdraw from his financial misunderstandings, and explain in an interview at the dock when he got back, but there's a reporter in the front room."
+    ]
+  },
+  "165": {
+    "heading": "Docktor, Irv.",
+    "title": "\"With Silver Bells, Cockle Shells, and...\"",
+    "author": "art by Irv Docktor ; story by F",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Paul Wilson. p. 6-11 in Creepy, no. 44 (Mar. 1972).",
+    "call number": "PN6728.3.W3C7no.44",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Ex-con Bill Carey sows murder and reaps horror in return.\""
+    ]
+  },
+  "166": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Airboy : index entry to Amazing Heroes, no. 134",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Airboy. Call no.: PN6725.A47no.134"
+    ]
+  },
+  "167": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Alternate history : index entry to Amazing Heroes, no. 126",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Alternate history. Call no.: PN6725.A47no.126"
+    ]
+  },
+  "168": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Aria : index entry to Amazing Heroes, no. 113",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Aria. Call no.: PN6725.A47no.113"
+    ]
+  },
+  "169": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Artist, Becoming an : index entry to Amazing Heroes, no. 169",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Artist, Becoming an. Call no.: PN6725.A47no."
+    ]
+  },
+  "170": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Atlas-Seaboard : index entry to Amazing Heroes, no. 117",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Atlas-Seaboard. Call no.: PN6725.A47no.117"
+    ]
+  },
+  "171": {
+    "heading": "Doc's Bookshelf.",
+    "title": "The Avengers : index entry to Amazing Heroes, no. 161",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. The Avengers. Call no.: PN6725.A47no.161"
+    ]
+  },
+  "172": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Barks, Carl : index entry to Amazing Heroes, no. 129",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. Call no.: PN6725.A47no.129"
+    ]
+  },
+  "173": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Batman : index entry to Amazing Heroes, no. 154",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1, 1988) - 155",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Batman. Call no.: PN6725.A47no.154-155"
+    ]
+  },
+  "174": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Bridwell, E. Nelson : index entry to Amazing Heroes, no. 115",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Bridwell, E. Nelson. Call no.: PN6725.A47no.115"
+    ]
+  },
+  "175": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Captain Confederacy : index entry to Amazing Heroes, no. 126",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Captain Confederacy. Call no.: PN6725.A47no.126"
+    ]
+  },
+  "176": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Censorship : index entry to Amazing Heroes, no. 123",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 15, 1987) - 125",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Censorship. Call no.: PN6725.A47no.123-125"
+    ]
+  },
+  "177": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Censorship : index entry to Amazing Heroes, no. 131",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Censorship. Call no.: PN6725.A47no.131"
+    ]
+  },
+  "178": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Censorship : index entry to Amazing Heroes, no. 135",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 15, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Robert Klein and Brian Mowbray. I. Doc's Bookshelf. k. Censorship. Call no.: PN6725.A47no.135"
+    ]
+  },
+  "179": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Censorship : index entry to Amazing Heroes, no. 142",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1, 1988) - 143",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Censorship. Call no.: PN6725.A47no.142-143"
+    ]
+  },
+  "180": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Censorship : index entry to Amazing Heroes, no. 153",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 15, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Censorship. Call no.: PN6725.A47no.153"
+    ]
+  },
+  "181": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Collectors and collecting of comics : index entry to Amazing Heroes, no. 159",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Collectors and collecting of comics. Call no.: PN6725.A47no.159"
+    ]
+  },
+  "182": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Conventions and congresses : index entry to Amazing Heroes, no. 148",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. 8. Doc's Bookshelf. k. Conventions and congresses. Call no.: PN6725.A47no.148"
+    ]
+  },
+  "183": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Copyright : index entry to Amazing Heroes, no. 165",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Copyright. Call no.: PN6725.A47no.165"
+    ]
+  },
+  "184": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Disney Company : index entry to Amazing Heroes, no. 134",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Disney Company. Call no.: PN6725.A47no.134"
+    ]
+  },
+  "185": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Disney Company : index entry to Amazing Heroes, no. 163",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Disney Company. Call no.: PN6725.A47no.163"
+    ]
+  },
+  "186": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Ditko, Steve : index entry to Amazing Heroes, no. 156",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Ditko, Steve. Call no.: PN6725.A47no."
+    ]
+  },
+  "187": {
+    "heading": "Doc's Bookshelf.",
+    "title": "France and Europe : index entry to Amazing Heroes, no. 122",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. France and Europe. Call no.: PN6725.A47no.122"
+    ]
+  },
+  "188": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Hong Kong : index entry to Amazing Heroes, no. 152",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Hong Kong. Call no.: PN6725.A47no.152"
+    ]
+  },
+  "189": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Invaders : index entry to Amazing Heroes, no. 167",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Invaders. Call no.: PN6725.A47no.167"
+    ]
+  },
+  "190": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Korea, South : index entry to Amazing Heroes, no. 152",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Korea, South. Call no.: PN6725.A47no.152"
+    ]
+  },
+  "191": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Lockman, Vic : index entry to Amazing Heroes, no. 140",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Lockman, Vic. Call no.: PN6725.A47no.140"
+    ]
+  },
+  "192": {
+    "heading": "Doc's Bookshelf.",
+    "title": "McCloskey, Robert : index entry to Amazing Heroes, no. 147",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 15, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. McCloskey, Robert. Call no.: PN6725.A47no.147"
+    ]
+  },
+  "193": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Mai the Psychic Girl : index entry to Amazing Heroes, no. 150",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Mai the Psychic Girl. Call no.: PN6725.A47no.150"
+    ]
+  },
+  "194": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Man from UNCLE : index entry to Amazing Heroes, no. 116",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Robert Klein and Brian Mowbray. I. Doc's Bookshelf. k. Man from UNCLE. Call no.: PN6725.A47no.116"
+    ]
+  },
+  "195": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Marvel Comics : index entry to Amazing Heroes, no. 158",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Marvel Comics. Call no.: PN6725.A47no.158"
+    ]
+  },
+  "196": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Mickey Mouse : index entry to Amazing Heroes, no. 114",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Mickey Mouse. Call no.: PN6725.A47no.114"
+    ]
+  },
+  "197": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Mighty Mouse : index entry to Amazing Heroes, no. 150",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Robert Klein and Brian Mowbray. I. Doc's Bookshelf. k. Mighty Mouse. Call no.: PN6725.A47no.129"
+    ]
+  },
+  "198": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Motorbike comics : index entry to Amazing Heroes, no. 152",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Motorbike comics. Call no.: PN6725.A47no.152"
+    ]
+  },
+  "199": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Nancy : index entry to Amazing Heroes, no. 158",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Nancy. Call no.: PN6725.A47no.158"
+    ]
+  },
+  "200": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Overstreet : index entry to Amazing Heroes, no. 120",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Overstreet. Call no.: PN6725.A47no.120"
+    ]
+  },
+  "201": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Oz : index entry to Amazing Heroes, no. 132",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Oz. Call no.: PN6725.A47no.132"
+    ]
+  },
+  "202": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Page, Betty : index entry to Amazing Heroes, no. 138",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Page, Betty. Call no.: PN6725.A47no.138"
+    ]
+  },
+  "203": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Page count : index entry to Amazing Heroes, no. 117",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Page count. Call no.: PN6725.A47no.117"
+    ]
+  },
+  "204": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Railways : index entry to Amazing Heroes, no. 165",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 15, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Railways. Call no.: PN6725.A47no.165"
+    ]
+  },
+  "205": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Red Sonja : index entry to Amazing Heroes, no. 127",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Red Sonja. Call no.: PN6725.A47no.127"
+    ]
+  },
+  "206": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Robots : index entry to Amazing Heroes, no. 118",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Robots. Call no.: PN6725.A47no.118"
+    ]
+  },
+  "207": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Sex in comics : index entry to Amazing Heroes, no. 112",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Sex in comics. Call no.: PN6725.A47no.112"
+    ]
+  },
+  "208": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Stinz : index entry to Amazing Heroes, no. 173",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Stinz. Call no.: PN6725.A47no.173"
+    ]
+  },
+  "209": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Superman : index entry to Amazing Heroes, no. 128",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Superman and Nazi propaganda)",
+      "Data from Robert Klein and Brian Mowbray. I. Doc's Bookshelf. k. Superman. k. Superman and Nazi propaganda. k. Nazi propaganda. k. Propaganda. Call no.: PN6725.A47no.128"
+    ]
+  },
+  "210": {
+    "heading": "Doc's Bookshelf.",
+    "title": "TV Writing : index entry to Amazing Heroes, no. 146",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. TV Writing. k. Television writing. Call no.: PN6725.A47no.146"
+    ]
+  },
+  "211": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Thorgal : index entry to Amazing Heroes, no. 113",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Thorgal. Call no.: PN6725.A47no.113"
+    ]
+  },
+  "212": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Translation : index entry to Amazing Heroes, no. 160",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Translation. Call no.: PN6725.A47no.160"
+    ]
+  },
+  "213": {
+    "heading": "Doc's Bookshelf.",
+    "title": "UFOs : index entry to Amazing Heroes, no. 146",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. UFOs. Call no.: PN6725.A47no.146"
+    ]
+  },
+  "214": {
+    "heading": "Doc's Bookshelf.",
+    "title": "UFOs : index entry to Amazing Heroes, no. 172",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. UFOs. Call no.: PN6725.A47no.172"
+    ]
+  },
+  "215": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Uncle Scrooge : index entry to Amazing Heroes, no. 117",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Uncle Scrooge. Call no.: PN6725.A47no.117"
+    ]
+  },
+  "216": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Wrestling : index entry to Amazing Heroes, no. 110",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Wrestling. Call no.: PN6725.A47no.110"
+    ]
+  },
+  "217": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Wrestling : index entry to Amazing Heroes, no. 119",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 15, 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Wrestling. Call no.: PN6725.A47no.119"
+    ]
+  },
+  "218": {
+    "heading": "Doc's Bookshelf.",
+    "title": "Wrestling : index entry to Amazing Heroes, no. 146",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Doc's Bookshelf. k. Wrestling. Call no.: PN6725.A47no.146"
+    ]
+  },
+  "219": {
+    "entry type": "target",
+    "anchor": "/rri/drri/doc.htm#alley",
+    "title": "Doc",
+    "notes": [
+      "Character in the Gasoline Alley comic\n        strip"
+    ],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}

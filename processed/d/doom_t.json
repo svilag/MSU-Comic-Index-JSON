@@ -1,0 +1,2939 @@
+{
+  "1": {
+    "heading": "Doom Theatre.",
+    "title": "Devil Jack.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D58D4",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Reddick, IL",
+      "publisher": "Doom Theatre",
+      "date": "1995-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Horror and superhero genres.",
+    "contents": [],
+    "notes": []
+  },
+  "2": {
+    "heading": "Doom Theatre.",
+    "title": "Hades.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D58H4",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Reddick, IL",
+      "publisher": "Doom Theatre",
+      "date": "1995-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "By Tim Tyler."
+    ]
+  },
+  "3": {
+    "heading": "Doom Time.",
+    "title": "The All-New Tenchi Muyô!",
+    "author": "story and art by Hitoshi Okuda.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.J33 O57A5 2003",
+    "library has": "v. 1-8.",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Viz",
+      "date": "2003-"
+    },
+    "physical description": {
+      "dimensions": "19 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "v. 1. Alien nation"
+      },
+      {
+        "title": "v. 2. Doom time"
+      },
+      {
+        "title": "v. 3. Dark washu"
+      },
+      {
+        "title": "v. 4. Girls get busy"
+      },
+      {
+        "title": "v. 5. Point and shoot"
+      },
+      {
+        "title": "v. 6. Pet peeves"
+      },
+      {
+        "title": "v. 7. Picture book"
+      },
+      {
+        "title": "v. 8. Brain drain."
+      }
+    ],
+    "notes": [
+      "(Viz Graphic Novel)"
+    ]
+  },
+  "4": {
+    "heading": null,
+    "title": "Doom Town : The Story of Sodom",
+    "author": "Jack T",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Chick.",
+    "call number": "PN6728.C47D63 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Chino, CA",
+      "publisher": "Chick Publications",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "8 x 13 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About homosexuality in the Bible."
+    ]
+  },
+  "5": {
+    "heading": "\"Doom Town.\"",
+    "title": "The Best of Simon and Kirby",
+    "author": "Joe Simon and Jack Kirby ; introduction by Joe Simon ; essays by Mark Evanier ; art restoration by Harry Mendryk ; edited by Steve Saffel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.K53B4 2009",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Titan Books",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "240 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero, science fiction, romance, detective, western and parody genres.",
+    "contents": [
+      {
+        "title": "Captain America and the riddle of the Red Skull (from Captain America Comics #1, Mar. 1941)"
+      },
+      {
+        "title": "The vision (from Marvel Mystery Comics #14, Dec. 1940)"
+      },
+      {
+        "title": "The Sandman [in] The villain from Valhalla (from Adventure Comics #75, Jun. 1942)"
+      },
+      {
+        "title": "Killer in the big top (from Stuntman Comics #1, Apr. 1946)"
+      },
+      {
+        "title": "Assignment : find the king of the crime syndicate (from Fighting American #2, Jun. 1954)"
+      },
+      {
+        "title": "Come into my parlor (from Adventures of the Fly #1, Aug. 1959)"
+      },
+      {
+        "title": "Solar Patrol [in] The tree men of Uranus (from Silver Streak Comics #2, Jan. 1940)"
+      },
+      {
+        "title": "Blue Bolt (from Blue Bolt Comics #4, Sep. 1940)"
+      },
+      {
+        "title": "The thing on Sputnik 4 (from Race for the Moon #4, Sep. 1958)"
+      },
+      {
+        "title": "Satan wears a swastika (from Boy Commandos #1, Winter 1942)"
+      },
+      {
+        "title": "The duke of Broadway [in] My city is no more (from Black Cat Comics #5, Apr. 1947)"
+      },
+      {
+        "title": "Booby trap (from Foxhole #2, Dec. 1954)"
+      },
+      {
+        "title": "Weddin' at Red Rock! (from Western Love #1, Jul. 1949)"
+      },
+      {
+        "title": "The savage in me! (from Young Romance Comics #22, Jun. 1950)"
+      },
+      {
+        "title": "Trapping New England's chain murderer! (from Headline Comics #24, May 1947)"
+      },
+      {
+        "title": "Mother of crime (from Real Clue Crime Stories, vol. 2, no. 4, Jun. 1947)"
+      },
+      {
+        "title": "The case against Scarface (from Justice Traps the Guilty #1, Oct. 1947)"
+      },
+      {
+        "title": "Apache justice! (from The Kid Cowboys of Boys' Ranch #2, Dec. 1950)"
+      },
+      {
+        "title": "Remember the Alamo! (from The Kid Cowboys of Boys' Ranch #6, Aug. 1951)"
+      },
+      {
+        "title": "Doom town (from Bulls Eye #4, Feb. 1955)"
+      },
+      {
+        "title": "The scorn of the faceless people! (from Black Magic #2, vol. 1, no. 2, Dec. 1950)"
+      },
+      {
+        "title": "Up there! (from Black Magic #13, vol. 2, no. 7, Jun. 1952)"
+      },
+      {
+        "title": "The woman in the tower! (from The Strange World of Your Dreams #3, Nov. 1952)"
+      },
+      {
+        "title": "Cover: Black Magic #29 (vol. 4, no. 5, Mar. 1954)"
+      },
+      {
+        "title": "A rainy day with house-date Harry (from My Date #4, Jan. 1948)"
+      },
+      {
+        "title": "20,000 lugs under the sea (from From Here to Insanity #11, Aug. 1955)"
+      },
+      {
+        "title": "Lenny Bruce (from Sick, vol. 1, no. 2, Oct. 1960)"
+      },
+      {
+        "title": "Editorial page (from Sick, vol. 1, no. 2, Oct. 1960)."
+      }
+    ],
+    "notes": [
+      "\"A Simon and Kirby checklist\": p. 238."
+    ]
+  },
+  "6": {
+    "heading": null,
+    "title": "Doom 2099.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3D6",
+    "library has": "no. 1-5, 7, 9-11, 13, 16-17, 19-20, 22-27, 29-44 (1993-1996).",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1992-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Jan. 1993)",
+      "Genre: Superhero."
+    ]
+  },
+  "7": {
+    "heading": "Doom 2099--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "175"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "8": {
+    "heading": "Doom 2099--Reviews.",
+    "title": "\"Doom 2099/X-Men 2099 - Marvel Comics\"",
+    "author": "reviewed by Kevin F",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Moreau. p. 12-15 in Comic Effect, no. 7 (Autumn 1994) k. Doom 2099",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. k. X-Men 2099",
+      "Reviews. I. Moreau, Kevin F. Call no.: PN6725.K52C6no.7"
+    ]
+  },
+  "9": {
+    "heading": "\"Doom 2099/X-Men 2099 - Marvel Comics\" / reviewed by Kevin F.",
+    "title": "Moreau. p. 12-15 in Comic Effect, no. 7",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Autumn 1994) k. Doom 2099",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. k. X-Men 2099",
+      "Reviews. I. Moreau, Kevin F. Call no.: PN6725.K52C6no.7"
+    ]
+  },
+  "10": {
+    "heading": null,
+    "title": "\"Doom Was His Partner\"",
+    "author": "George Roussos, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in House of Secrets, no. 35 (Aug. 1960).",
+    "call number": "PN6728.2.N3H62no.35",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "11": {
+    "heading": "The Doom Wind.",
+    "title": "\"The Isle of the Doom Wind\"",
+    "author": "by Philippe Druillet ; lettering by David Jackson",
+    "title_type": "incipit",
+    "series": "Lone Sloane ; 2",
+    "appears_in": " p. 51-59 in Cheval Noir, no. 2 (Oct. 1989).",
+    "call number": "PN6720.C47no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "12": {
+    "heading": "Doom Zine.",
+    "title": "Doomzine.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6735.D6",
+    "library has": "no. 1-4 (1978-1980).",
+    "publication info": {
+      "place": "Harpenden, Herts.",
+      "publisher": "Warp Inc.",
+      "date": "1978-"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Nov. '78).",
+      "Cover title: Doom Zine.",
+      "Periodical about comics."
+    ]
+  },
+  "13": {
+    "heading": null,
+    "title": "\"Doomball!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "The Defenders) 18 p. in The Defenders, no. 19",
+    "call number": "PN6728.4.M3D4no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "14": {
+    "heading": "Doombringer.",
+    "title": "Wolverine : Doombringer",
+    "author": "writer, Doug Moench ; penciler, Michal Dutkiewicz ; inker, Jimmy Palmiotti.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.W56D4 1997",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1997"
+    },
+    "physical description": null,
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 26 cm."
+    ]
+  },
+  "15": {
+    "heading": "Doombringer--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Super Villains",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "107-108"
+      ]
+    },
+    "call number": "P96.V48R68 1987",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1987"
+    },
+    "notes": []
+  },
+  "16": {
+    "heading": null,
+    "title": "Doomed.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7 .I15D6",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "IDW Publishing",
+      "date": "2005-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Horror genre.",
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Oct. 2005)."
+    ]
+  },
+  "17": {
+    "heading": "The Doomed.",
+    "title": "\"Barn of the Doomed!\"",
+    "author": "H",
+    "title_type": "incipit",
+    "series": "Buckskin",
+    "appears_in": " Kurtzman. 7 p. in Super-Mystery Comics, v. 3, no. 5 (July 1943).",
+    "call number": "Film 15791r.199",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "18": {
+    "heading": "The Doomed.",
+    "title": "\"Dance of the Doomed\" 10 p. in Strange Stories from Another World, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1953).",
+    "call number": "PN6728.2.F3U53no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Peter Croome and Wilhelm Dohmeier via Grand Comics Database."
+    ]
+  },
+  "19": {
+    "heading": "The Doomed.",
+    "title": "\"The Desert and the Doomed!\"",
+    "author": "Jack Abel",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 9 p. in Our Army at War, no. 165 (Mar. 1966).",
+    "call number": "PN6728.2.N3 O85no.165",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "20": {
+    "heading": "The Doomed.",
+    "title": "\"Isle of the Doomed\" 6 p. in Mysteries, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1953).",
+    "call number": "PN6734.M93no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Another title, in bold at the end of the first block of text, reads: \"Isle of Dead Lovers.\""
+    ]
+  },
+  "21": {
+    "heading": "The Doomed.",
+    "title": "\"The Vault of the Doomed\"",
+    "author": "script, Stan Lee? ; pencils, Al Avison? ; inks, Syd Shores? 12 p",
+    "title_type": "incipit",
+    "series": "Captain America",
+    "appears_in": " in Captain America Comics, no. 22 (Jan. 1943).",
+    "call number": "PN6728.1.M3C3m no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A villain called Dr. Eternity is introduced.",
+      "Data from Lou Mougin and Tony R. Rose via Grand Comics Database Project."
+    ]
+  },
+  "22": {
+    "heading": null,
+    "title": "Doomed by Cartoon : How Cartoonist Thomas Nast and the New-York Times brought down Boss Tweed and His Ring of Thieves",
+    "author": "John Adler, with Draper Hill.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "F128.47.T96A32 2008",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Morgan James Publishing",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "310 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "23": {
+    "heading": "Doomed by Time.",
+    "title": "\"The Man Who was Doomed by Time\"",
+    "author": "Mort Meskin &amp; George Roussos, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in House of Mystery, no. 113 (Aug. 1961).",
+    "call number": "PN6728.2.N3H6no.113",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "24": {
+    "heading": null,
+    "title": "The Doomed Cities : Bible story adapted",
+    "author": "drawing and script by Lin Li Nan.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN 6790.C43L53D6 1968",
+    "library has": "",
+    "publication info": {
+      "place": "Tainan",
+      "publisher": "Christian Witness Press",
+      "date": "1968"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "40 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The story of Sodom and Gomorrah.",
+      "Word balloons in Chinese, with captions in English."
+    ]
+  },
+  "25": {
+    "heading": null,
+    "title": "\"The Doomed Convoy!\"",
+    "author": "GW",
+    "title_type": "incipit",
+    "series": "Our Fighting Fleet",
+    "appears_in": " 4 p. in Navy Combat, no. 14 (Aug. 1957).",
+    "call number": "PN6728.2.M3N3no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"GW\" is thought to be George Woodbridge."
+    ]
+  },
+  "26": {
+    "heading": "Doomed Division.",
+    "entry type": "index entry",
+    "title": "Comics, Comix &amp; Graphic Novels",
+    "author": "Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "44"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Phaidon",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "27": {
+    "heading": "The Doomed Dominion.",
+    "title": "\"Earth, the Doomed Dominion\"",
+    "author": "Jack Kirby, writer and penciler ; Mike Royer, inker",
+    "title_type": "incipit",
+    "series": "New Gods",
+    "appears_in": " 22 p. in New Gods, no. 10 (Sept. 1972) k. The Doomed Dominion. k. Dominions. I. Kirby, Jack. II. Royer, Mike. Call no.: PN6728.4.N3N4no.10",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "28": {
+    "heading": "The Doomed Duck.",
+    "title": "\"Skipper of the Doomed Duck\"",
+    "author": "Jack Abel",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 6 p. in G.I. Combat, no. 84 (Oct./Nov. 1960).",
+    "call number": "PN6728.2.Q3G2no.84",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "29": {
+    "heading": "Doomed Heroes.",
+    "title": "\"Bracelet of Doomed Heroes\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Metal Men) 25 p. in Metal Men, no. 4",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed. I. Metal Men. k. Doomed Heroes. k. Heroes. Call no.: PN6728.3.N3M4no.4"
+    ]
+  },
+  "30": {
+    "heading": null,
+    "title": "\"The Doomed Legionnaire!\" 23 p.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Legion of Super-Heroes) in Adventure Comics, no. 353",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "31": {
+    "heading": null,
+    "title": "\"The Doomed Patrol\" 8 p. in The American Air Forces, no. 7",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "A-1 no. 54",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "32": {
+    "heading": "Doomed Raiders.",
+    "title": "\"Oklahoma Smith and the Lost Temple of the Doomed Raiders\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Cherry) 9 p. in Cherry, no. 3",
+    "call number": "PN6728.45.L3C49no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "33": {
+    "heading": null,
+    "title": "\"The Doomed Safari\"",
+    "author": "Ralph Mayo, art",
+    "title_type": "incipit",
+    "series": "Johnny Quick",
+    "appears_in": " 8 p. in Adventure Comics, no. 152 (May 1950).",
+    "call number": "PN6728.1.N3A3m no.152",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Bob Cherry, Gene Reed, Lou Mougin, et al., via Grand Comics Database Project."
+    ]
+  },
+  "34": {
+    "heading": null,
+    "title": "Doomed to Die : a Cap Hank story",
+    "author": "by Charles T",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Clinton ; illustrated by Paton Edwards.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Akron, Ohio",
+      "publisher": "Saalfield",
+      "date": "1938"
+    },
+    "physical description": {
+      "dimensions": "12 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "394 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"1137\". 1. Adventure story comics. I. Clinton, Charles T. II. Edwards, Paton. III. A Cap Hank Story. Call no.: PN6728.S12C32 1938"
+    ]
+  },
+  "35": {
+    "heading": "-",
+    "title": "\"The Doomed Universe\"",
+    "author": "art: Nick Cardy? 8 p",
+    "title_type": "incipit",
+    "series": "Space Admiral Curry",
+    "appears_in": " in Planet Comics, no. 5 (May 1940).",
+    "call number": "PN6728.1.F5P55m no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Introduces Space Admiral Curry and the Universal President; villain Rocko is introduced and dies.",
+      "Data from Lou Mougin via the Grand Comics Database Project."
+    ]
+  },
+  "36": {
+    "heading": "Doomed Worlds.",
+    "title": "\"Marooned on a Doomed World!\"",
+    "author": "by Frances Crandall",
+    "title_type": "incipit",
+    "series": "Kidnapped by a Space Ship, pt. 4",
+    "appears_in": " p. 22-28 in Treasure Chest of Fun and Fact, v. 14, no. 14 (Mar. 12, 1959).",
+    "call number": "PN6728.1.P43T7v.14no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"To be continued.\""
+    ]
+  },
+  "37": {
+    "heading": "Doomgate.",
+    "title": "Fantastic Four : Doomgate : a Novel",
+    "author": "by Jeffrey Lang ; based on the Marvel comic book.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS3612.A552F3 2008",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Pocket Star Books",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "309 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Superhero fiction."
+    ]
+  },
+  "38": {
+    "heading": "Dooming Democracy.",
+    "title": "\"Doubles to Doom Democracy\"",
+    "author": "L",
+    "title_type": "incipit",
+    "series": "The Sword",
+    "appears_in": "F. 13 p. in Super-Mystery Comics, v. 4, no. 2 (Apr. 1944).",
+    "call number": "Film 15791r.286",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "39": {
+    "heading": "Doomlord--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "74"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "40": {
+    "heading": "Doomlord--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Encyclopedia of Comic Characters",
+    "author": "Denis Gifford",
+    "series": null,
+    "pages": {
+      "range": [
+        "70"
+      ]
+    },
+    "call number": "PN6707.G5 1987",
+    "publication info": {
+      "place": "Harlow",
+      "publisher": "Longman",
+      "date": "1987"
+    },
+    "notes": []
+  },
+  "41": {
+    "heading": "Doomnation.",
+    "title": "Vault of Doomnation.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.B2V3",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "South Bend, Ind.",
+      "publisher": "B-Movie Comics",
+      "date": "1986-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Horror."
+    ]
+  },
+  "42": {
+    "heading": "Dooms.",
+    "title": "\"Between Two Dooms\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Aquaman). 23 p. in Aquaman, no. 35",
+    "call number": "PN6728.4.N3D34no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Mera and Aqualad appear."
+    ]
+  },
+  "43": {
+    "heading": "Dooms.",
+    "title": "\"The Box of Three Dooms!\"",
+    "author": "pencils by Ross Andru ; inks by Mike Esposito ; script by Robert Kanigher",
+    "title_type": "incipit",
+    "series": "Wonder Woman",
+    "appears_in": " 15 p. in Wonder Woman, no. 103 (Jan. 1959).",
+    "call number": "PN6728.1.N3W6no.103",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Introduces new villain, The Gadget-Maker.",
+      "Data from Gene Reed and Lou Mougin, via Grand Comic-Book Database."
+    ]
+  },
+  "44": {
+    "heading": "Dooms.",
+    "title": "\"The Creature of 1,000 Dooms\"",
+    "author": "Lee Elias, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in Tales of the Unexpected, no. 72 (Aug./Sept. 1962).",
+    "call number": "PN6728.2.N3T3no.72",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "45": {
+    "heading": "Dooms.",
+    "title": "\"The Diamond of Deadly Dooms!\"",
+    "author": "Gardner Fox, story ; Gil Kane and Murphy Anderson, art",
+    "title_type": "incipit",
+    "series": "The Atom",
+    "appears_in": " 15 p. in The Atom, no. 5 (Mar. 1963) I. Fox, Gardner F. II. Kane, Gil. III. Anderson, Murphy. k. Deadly dooms. k. Dooms. Call no.: PN6728.3.N3A8no.5",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "46": {
+    "heading": "Dooms.",
+    "title": "\"The Dozen Dooms of Adam Strange\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Adam Strange) 10 p. in Showcase, no. 18",
+    "call number": "Film 15791r.77",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed."
+    ]
+  },
+  "47": {
+    "heading": "Dooms.",
+    "title": "\"The Dream Dooms!\"",
+    "author": "Harry G",
+    "title_type": "incipit",
+    "series": "Wonder Woman",
+    "appears_in": " Peter, art ; Robert Kanigher, script. 8 p. in Wonder Woman, no. 81 (Apr. 1956).",
+    "call number": "PN6728.1.N3W6no.81",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villain is Duke of Deception.",
+      "Data from Gene Reed and Lou Mougin, via Grand Comic-Book Database."
+    ]
+  },
+  "48": {
+    "heading": "Dooms.",
+    "title": "\"Five Dooms to Save Tomorrow!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "The Avengers) 21 p. in The Avengers, no. 101",
+    "call number": "PN6728.3.M3A87no.101",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "49": {
+    "heading": "Dooms.",
+    "title": "\"The Four Dooms, part 1: Paradise Island Condemned\"",
+    "author": "by Charles Moulton &amp; H",
+    "title_type": "incipit",
+    "series": "Wonder Woman",
+    "appears_in": "G. Peter. 12 p. in Wonder Woman, no. 33 (Feb. 1949) ; rewritten and redrawn for Wonder Woman, no. 207 (Sept. 1973).",
+    "call number": "PN6728.1.N3W6no.33",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "50": {
+    "heading": "Dooms.",
+    "title": "\"The Four Dooms, part 2: The Titanic Trials\"",
+    "author": "by Charles Moulton &amp; H",
+    "title_type": "incipit",
+    "series": "Wonder Woman",
+    "appears_in": "G. Peter. 12 p. in Wonder Woman, no. 33 (Feb. 1949) ; rewritten and redrawn for Wonder Woman, no. 208 (Nov. 1973).",
+    "call number": "PN6728.1.N3W6no.33",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "51": {
+    "heading": "Dooms.",
+    "title": "\"The Four Dooms, pt. 1: Revolt of Transformation Island\"",
+    "author": "Ric Estrada, pencils ; Vince Colletta, inks",
+    "title_type": "incipit",
+    "series": "Wonder Woman",
+    "appears_in": " 10 p. in Wonder Woman, no. 207 (Aug./Sept. 1973) ; rewritten and redrawn from Wonder Woman, no. 33 (Feb. 1949) k. Dooms. k. Transformation Island. k. Islands. I. Revolt of Transformation Island. II. Estrada, Ric. III. Colletta, Vince. Call no.: PN6728.1.N3W6 no.207",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "52": {
+    "heading": "Dooms.",
+    "title": "\"The Golden Doom!\"",
+    "author": "Harry G",
+    "title_type": "incipit",
+    "series": "Wonder Woman",
+    "appears_in": " Peter, art ; Robert Kanigher, script. 8 p. in Wonder Woman, no. 72 (Feb. 1955).",
+    "call number": "PN6728.1.N3W6no.72",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The villains are the Mole Goldings, an underground race planning to invade the surface."
+    ]
+  },
+  "53": {
+    "heading": "Dooms.",
+    "title": "\"Sand Doom\"",
+    "author": "art by Al Williamson ; script by Archie Goodwin",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 22-27 in Creepy, no. 5 (1965).",
+    "call number": "PN6728.3.W3C7no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Grab a camel and join the scare-avan for a desert trek into terror.\""
+    ]
+  },
+  "54": {
+    "heading": "Dooms.",
+    "title": "\"The Sea King's Double Doom\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Aquaman) 25 p. in Aquaman, no. 20",
+    "call number": "PN6728.3.N3A7no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Aqualad and Mera appear."
+    ]
+  },
+  "55": {
+    "heading": "Dooms.",
+    "title": "\"The Second Doom\"",
+    "author": "Jim Steranko, story and Art",
+    "title_type": "incipit",
+    "series": "SHIELD",
+    "appears_in": " 12 p. in Strange Tales, no. 161 (Oct. 1967) ; reprinted in Captain Britain, no. 5-6 (Nov. 10-17, 1976).",
+    "call number": "PN6728.2.M3S75no.161",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "In the reprint the second half is titled \"The Return of the Yellow Claw.\""
+    ]
+  },
+  "56": {
+    "heading": "Dooms.",
+    "title": "\"Three Dooms for Sheriff Trigger\"",
+    "author": "Robert Kanigher, script ; Carmine Infantino, pencils ; Joe Giella, inks",
+    "title_type": "incipit",
+    "series": "Trigger Twins",
+    "appears_in": " 8 p. in All-Star Western, no. 106 (Apr./May 1959).",
+    "call number": "Film 15791r.608",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Walt Trigger, the twin wearing the sheriff's suit this time around, must face the three dooms of Doc Doom. Two of the dooms are ambushes set up by Doom's men. The third doom is Doom himself with a gun pointed at Wayne Trigger's head.",
+      "Data from Gene Reed, Bob Hughes, Ed Boner, et al. via Grand Comics Database."
+    ]
+  },
+  "57": {
+    "heading": "Dooms.",
+    "title": "\"The Up and Down Dooms of the Atom\"",
+    "author": "Gardner Fox, story ; Gil Kane and Sid Greene, art",
+    "title_type": "incipit",
+    "series": "The Atom",
+    "appears_in": " 23 p. in The Atom, no. 32 (Aug./Sept. 1967) I. Fox, Gardner F. II. Kane, Gil. III. Greene, Sid. k. Down. k. Dooms. Call no.: PN6728.3.N3A8no.32",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "58": {
+    "heading": null,
+    "title": "Dooms IV.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6 .I45 D6",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "Anaheim, Ca.",
+      "publisher": "Image Comics",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (July 1994) - no. 4 (Oct. 1994)."
+    ]
+  },
+  "59": {
+    "heading": "Doom's IV--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "175"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "60": {
+    "heading": null,
+    "title": "Doom's Day",
+    "author": "by Scott Ciencin.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS3551.W55D6 2006",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Scholastic Inc.",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Fantastic Four)",
+      "(Marvel Super Heroes Collector's Club)",
+      "Superhero fiction."
+    ]
+  },
+  "61": {
+    "heading": null,
+    "title": "\"The Dooms from Beyond\"",
+    "author": "Gardner Fox, story ; Gil Kane and Murphy Anderson, art",
+    "title_type": "incipit",
+    "series": "The Atom",
+    "appears_in": " 25 p. in Showcase, no. 35 (Nov./Dec. 1961)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed. I. Fox, Gardner F. II. Kane, Gil. III. Anderson, Murphy. IV. The Atom. k. Beyond. Call no.: PN6728.2.N3S47no.35"
+    ]
+  },
+  "62": {
+    "heading": "Doomschild.",
+    "title": "Tales of Antediluvia : Doomschild",
+    "author": "story and art by Donald D",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Ensign.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Bernardino, Ca.",
+      "publisher": "D.D. Ensign",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "\"Comments: author's perspective ...\", 6 p. laid in.",
+      "\"No. 1\". 1. Sword and sorcery comics. I. Ensign, Donald D. II. Doomschild. Call no.; PN6728.55.E5T3 1977"
+    ]
+  },
+  "63": {
+    "heading": null,
+    "title": "\"Doomscult\"",
+    "author": "Richard Corben",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 31-41 in Heavy Metal, v. 7, no. 3 (June 1983).",
+    "call number": "PN6728.H43v.7no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"In photo-collage,\" \"with Bruce Jones, Karen Feeley, Stan Dresser, Harvey Sea, Estelle Gunderson, Octave Lee, additional photography by Jan Strnad.\""
+    ]
+  },
+  "64": {
+    "heading": "Doomscult--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "876"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "65": {
+    "heading": null,
+    "title": "Doomsday.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.M3 H4D62 2000",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "2000"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Heroes Reborn)",
+      "\"Vol. 1, no. 1, Jan. 2000.\""
+    ]
+  },
+  "66": {
+    "heading": null,
+    "title": "Doomsday",
+    "author": "by Marv Wolfman ; packaged and edited by Len Wein and Marv Wolfman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Pocket Books",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "191 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marvel Novel Series ; no. 5) (Pocket ; 82087-7)",
+      "Starring the Fantastic Four. 1. Superhero comics",
+      "Fiction. I. Wolfman, Marv. II. Fantastic Four. III. Series. Call no.: PS3573.O544D6"
+    ]
+  },
+  "67": {
+    "heading": null,
+    "title": "\"Doomsday\"",
+    "author": "Tom Alexander (Toni Blum)",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Jumbo Comics, no. 76 (June 1945).",
+    "call number": "PN6728.1.F5J8m no.76",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin, Henry Steele, Hames Ware &amp; Jim Vadeboncoeur Jr. via Grand Comics Database Project."
+    ]
+  },
+  "68": {
+    "heading": null,
+    "title": "Doomsday",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Animated series) \"Stern Lends his 'Bark' to Cartoon\" p. 48 in Chicago Sun-Times",
+    "call number": "NC1765.S39 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Item from the Hollywood Reporter on Howard Stern, who will voice-act the part of the family dog Orinthal in a series to be called Doomsday."
+    ]
+  },
+  "69": {
+    "heading": null,
+    "title": "\"Doomsday\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Fantastic Four) 20 p. in Fantastic Four, no. 59",
+    "call number": "PN6728.3.M3F3no.59",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "70": {
+    "heading": null,
+    "title": "\"Doomsday\"",
+    "author": "story &amp; art by James Starlin",
+    "title_type": "incipit",
+    "series": "Metamorphosis Odyssey, chapter 13",
+    "appears_in": " p. 8-24 in Epic Illustrated, no. 9 (Dec. 1981)",
+    "call number": "PN6728.5.M3E6no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "71": {
+    "heading": null,
+    "title": "\"'Doomsday' : Nothing Really Novel\" p. 38-39",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #50 October 1979) I. Huneryager, Greg. Call no.: PN6700.C62no.50",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "72": {
+    "heading": null,
+    "title": "\"Doomsday: 200º Below!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Fantastic Four) 19 p. in Fantastic Four, no. 146",
+    "call number": "PN6728.3.M3F3no.146",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "73": {
+    "heading": "Doomsday.",
+    "title": "\"The Day After Doomsday\" 2 p. in Witching Hour, no. 9",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June/July 1970) ; reprinted in Weird War Tales, no. 22",
+    "call number": "PN6728.3.N3W5no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title as transcribed by Gene Reed: \"Day After Doomsday #1.\"",
+      "Begins: \"Over there! Someone moved! thank\""
+    ]
+  },
+  "74": {
+    "heading": "Doomsday.",
+    "title": "\"Day After Doomsday!\"",
+    "author": "Len Wein, script ; Rich Buckler, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in Weird War Tales, no. 23 (Mar. 1974).",
+    "call number": "PN6728.4.N3W37no.23",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"I can't take any more! The loneliness\""
+    ]
+  },
+  "75": {
+    "heading": "Doomsday.",
+    "title": "\"The Day After Doomsday\"",
+    "author": "Steve Skeates, story ; Bill Draut, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in Weird War Tales, no. 32 (Dec. 1974).",
+    "call number": "PN6728.4.N3W37no.32",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Set in the future.",
+      "This is called \"Day After Doomsday #6\" by Gene Reed in earlier indexing.",
+      "Data from Gene Reed, Lou Mazzella, Ramon Schenk, et al. via Grand Comics Database."
+    ]
+  },
+  "76": {
+    "heading": "Doomsday.",
+    "title": "\"The Day After Doomsday!\"",
+    "author": "Steve Skeates, script ; Alfred P",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Alcala, art. 2 p. in Weird War Tales, no. 35 (Mar. 1975).",
+    "call number": "PN6728.4.N3W37no.35",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Unngh. Gotta have it. Feel it.\"",
+      "Set sometime in the future.",
+      "Data from Gene Reed, Lou Mazzella, Ramon Schenk, et al. via Grand Comics Database."
+    ]
+  },
+  "77": {
+    "heading": "Doomsday.",
+    "title": "\"The Day After Doomsday\"",
+    "author": "Len Wein, script ; Jack Sparling, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in House of Secrets, no. 86 (June/July 1970) ; reprinted in Weird War Tales, no. 36 (Apr. 1975).",
+    "call number": "PN6728.2.N3H62no.86",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"God, look at it! Nothing but rubble.\""
+    ]
+  },
+  "78": {
+    "heading": "Doomsday.",
+    "title": "\"The Day After Doomsday\" 2 p. in House of Secrets, no. 95",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec./Jan. 1971/1972).",
+    "call number": "PN6728.2.N3H62no.95",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"It's not much different here than\""
+    ]
+  },
+  "79": {
+    "heading": "Doomsday.",
+    "title": "\"The Day After Doomsday\"",
+    "author": "Len Wein, story ; Jack Sparling, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. in House of Secrets, no. 97 (Apr./May 1972).",
+    "call number": "PN6728.2.N3H62no.97",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Darling! I've found another food\""
+    ]
+  },
+  "80": {
+    "heading": "Doomsday.",
+    "title": "\"The Day Before Doomsday!\"",
+    "author": "pencils, Jack Kirby ; inks, Dick Ayers",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 5 p. in Strange Tales, no. 99 (Aug. 1962) ; reprinted in Tomb of Darkness, no. 21 (July 1976).",
+    "call number": "PN6728.2.M3S75 no.99",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A US scientist defects to the USSR and builds a large dome to protect their leaders from retaliation, allowing a massive strike on the US. The dome is really a pod to launch them into space.",
+      "Characters are named John Peterson and Premier Zorkon.",
+      "Data from Bob Klein, Lou Mougin, Martin O'Hearn, et al. via Grand Comics Database."
+    ]
+  },
+  "81": {
+    "heading": "Doomsday.",
+    "title": "\"Do Not Open Till Doomsday\"",
+    "author": "Sid Gerson, script ; Carmine Infantino, pencils ; Bernard Sachs, inks",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 6 p. in Mysteries in Space : The Best of DC Science-Fiction Comics (New York : Simon and Schuster, 1980) ; reprinted from Strange Adventures, no. 36 (Sept. 1953).",
+    "call number": "PN6726.M9 1980",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comics Database."
+    ]
+  },
+  "82": {
+    "heading": "Doomsday.",
+    "title": "\"If This Be Doomsday\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Fantastic Four) 20 p. in Fantastic Four, no. 49",
+    "call number": "PN6728.3.M3F3no.49",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "83": {
+    "heading": "Doomsday.",
+    "title": "\"One Hour to Doomsday!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Justice League of America) 26 p. in Justice League of America, no. 11",
+    "call number": "PN6728.3.N3J8no.11",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "84": {
+    "heading": "Doomsday.",
+    "title": "Punisher, Black Widow : Spinning Doomsday's Web",
+    "author": "script, D",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "G. Chichester ; pencils, Larry Stroman ; inks, Mark Farmer ; colors, Gloria Vasquez ; letterers, Michael Heisler, Chris Eliopoulos ; assistant editor, Richard Ashford ; editor, Nelson Yomtov ; editor in chief, Tom Defalco.",
+    "call number": "PN6728.P8C47 1992",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": null,
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "46 p.",
+      "illustrationTypes": "col. ill., 28 cm."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Superhero."
+    ]
+  },
+  "85": {
+    "heading": "Doomsday.",
+    "title": "Superman/Doomsday : Hunter/Prey",
+    "author": "Dan Jurgens, story and layouts ; Brett Breeding, finished art ; Bill Oakley, lettering ; Greg Wright, color guides.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D3 S8196 1994",
+    "library has": "no. 1-3.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1994"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Complete in 3 nos."
+    ]
+  },
+  "86": {
+    "heading": "Doomsday and Beyond.",
+    "title": "Superman : Doomsday and Beyond",
+    "author": "Louise Simonson ; interior pencil art by Dan Jurgens ; interior inks by Jose Luis Garcia-Lopez.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Bantam Books",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "20 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "190 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(A Skylark Book) 1. Superhero comics",
+      "Fiction. I. Simonson, Louise. II. Jurgens, Dan. III. Garcia-Lopez, Jose Luis. IV. Doomsday and Beyond. V. Series. VI. Bantam Books. Call no.: PS3569.I487S8 1993"
+    ]
+  },
+  "87": {
+    "heading": "Doomsday and Beyond.",
+    "title": "Superman Lives! [sound recording]",
+    "author": "BBC Enterprises Ltd",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " ; written and directed by Dirk Maggs.",
+    "call number": "PN6728.S8M27 2005",
+    "library has": "",
+    "publication info": {
+      "place": "Los Angeles, CA",
+      "publisher": "Time Warner Audio Books",
+      "date": "2005"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "3 sound discs (2 hr., 35 min.) : digital ; 4 3 /4 in.",
+      "Compact discs.",
+      "\"Based on stories by Dan Jurgens, Karl Kesel, Jerry Ordway, Louise Simonson, and Roger Stern, edited by Mike Carlin, published by DC Comics.\"",
+      "\"Originally produced under the title \"The Adventures of Superman",
+      "Doomsday and beyond\" by BBC Enterprises Ltd.\"",
+      "\"Full-cast audio drama.\"",
+      "Music composed and performed by Mark Russell.",
+      "Cast: William Hootkins as Lex Luthor ; Lorelei King as Lois Lane ; Vincent Marzello as Jimmy Olsen ; Garrick Hagon as Jonathan Kent ; Kerry Shale as Superboy &amp; the Cyborg ; Eric Meyers as Guy Gardner ; Denica Fairman as Maggie Sawyer ; Liz Ross as Supergirl ; Stuart Milligan as Superman &amp; the Kryptonian ; Burt Kwouk as Doctor Teng ; and Leon Herbert as John Henry Irons."
+    ]
+  },
+  "88": {
+    "heading": null,
+    "title": "Doomsday Annual.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D3D6",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1995-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Superhero."
+    ]
+  },
+  "89": {
+    "heading": null,
+    "title": "\"Doomsday Down Under!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Hulk) 19 p. in The Incredible Hulk, no. 174",
+    "call number": "PN6728.2.M3T3no.174",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "90": {
+    "heading": null,
+    "title": "\"The Doomsday Drum\"",
+    "author": "Joe Maneely &amp; Joe Sinnott, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 6 p. in Tales of the Unexpected, no. 102 (Aug./Sept. 1967) ; reprinted from House of Secrets, no. 9 (Mar./Apr. 1958) ; reprinted again in The Unexpected, no. 126 (Aug. 1971).",
+    "call number": "PN6728.2.N3T3no.102",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "91": {
+    "heading": null,
+    "title": "\"The Doomsday Gambit\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Spider-Man and the Inhumans) 19 p. in Marvel Team-Up, no. 11",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Beppe Sabatini. k. Gambits. Call no.: PN6728.4.M3M37no.11."
+    ]
+  },
+  "92": {
+    "heading": "Doomsday Machines.",
+    "title": "Meanwhile : Pick any Path : 3,856 Story Possibilities",
+    "author": "Jason Shiga.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.S485M4 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Amulet Books",
+      "date": "2010"
+    },
+    "physical description": null,
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. ; 24 cm.",
+      "Summary (from SkyRiver): In this choose-your-own adventure graphic novel, a boy stumbles on the laboratory of a mad scientist who asks him to choose between testing a mind-reading device, a time machine, and a doomsday machine."
+    ]
+  },
+  "93": {
+    "heading": "Doomsday Machines.",
+    "title": "Missile Mouse : the Star Crusher",
+    "author": "by Jake Parker.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.P3805M5 2010",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Graphix",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "172 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero and funny animal genres.",
+    "contents": [],
+    "notes": [
+      "Summary (from SkyRiver): Missile Mouse, a secret agent for the Galactic Security Agency, battles deadly foes in order to rescue a scientist from the Rogue Imperium of Planets, which is trying to steal a doomsday machine capable of destroying the universe."
+    ]
+  },
+  "94": {
+    "heading": "Doomsday Man.",
+    "title": "\"Death is the Doomsday Man!\"",
+    "author": "Chris Claremont, author ; Jim Mooney &amp; Joe Sinnott, artists",
+    "title_type": "incipit",
+    "series": "Ms. Marvel",
+    "appears_in": " 17 p. in Ms. Marvel, no. 4 (Apr. 1977)",
+    "call number": "PN6728.4.M3M73no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "95": {
+    "heading": null,
+    "title": "\"Doomsday on St. Pierre\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Famous Disasters ; no. 3) 4 p. in Real Fact Comics, no. 10",
+    "call number": "PN6728.1.N3R4no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Describes the Mt. Pelée volcano eruption in 1902, which killed 40,000 people."
+    ]
+  },
+  "96": {
+    "heading": "\"Doomsday + Mail\" 1 p. letters in Doomsday + 1, no. 3 (Nov.",
+    "title": "1975) ; reprinted in Doomsday + 1, no. 9",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1978).",
+    "call number": "PN6728.4.C47D6no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters from Daniel Pei and Ken Meyer Jr.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "97": {
+    "heading": "\"Doomsday + Mail\" 2 p. letters in Doomsday + 1, no. 5 (Mar.",
+    "title": "1976).",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.4.C47D6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from Ken Meyer Jr. and Bob Rodi ; illustrations by John Byrne.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "98": {
+    "heading": null,
+    "title": "Doomsday + 1.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.4.C47D6",
+    "library has": "no. 1-8, 10-12.",
+    "publication info": {
+      "place": "Derby, Conn.",
+      "publisher": "Charlton",
+      "date": "1975-1979"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Science fiction genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (July 1975) - no. 12 (May 1979), cf. Overstreet Comic Book Price Guide."
+    ]
+  },
+  "99": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1975) CONTENTS: \"They Live Again\"",
+    "call number": "PN6728.4.C47D6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"What If?\" 1 p. text",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "100": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1975) CONTENTS: \"A Faceless Foe\"",
+    "call number": "PN6728.4.C47D6no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"The Last Red Rage\" 1 p. text",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "101": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 3",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1975) CONTENTS: \"The Peace Keepers\"",
+    "call number": "PN6728.4.C47D6no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Doomsday + Mail\" 1 p. letters",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "102": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 4",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1976) CONTENTS: \"Hidden Empire!\"",
+    "call number": "PN6728.4.C47D6no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Mutant from the Sea\" 1 p. text",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "103": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 5",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1976) CONTENTS: \"Prologue\"",
+    "call number": "PN6728.4.C47D6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Rule of Fear\" (Doomsday + 1) 19 p.",
+      "\"The U.F.O.'s that Aren't There\" 1 p.",
+      "\"A Long Way from Home\" 1 p.",
+      "\"Doomsday + Mail\" 2 p. letters",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "104": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 6",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1976) CONTENTS: \"All the Beautiful People\"",
+    "call number": "PN6728.4.C47D6no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Another Dawn\" 1 p. text",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "105": {
+    "heading": null,
+    "title": "Doomsday + 1.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6734.D62",
+    "library has": "no. 3-4, 6 (1999).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": "Science Fiction genre.",
+    "contents": [],
+    "notes": [
+      "St. Laurent, Quebec : Avalon Communications, .",
+      "Publisher logo on cover: ACG."
+    ]
+  },
+  "106": {
+    "heading": null,
+    "title": "Doomsday + 1, no. 5.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Modern Promotions",
+      "date": "1977"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reprints an issue published in 1975 by Charlton. 1. Science fiction comic books, strips, etc. I. Modern Promotions. Call no.: PN6728.4.M6D6 1977"
+    ]
+  },
+  "107": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; art, John Byrne",
+    "title_type": "official",
+    "series": "July 1975) \"They Live Again\"",
+    "appears_in": " 23 p. in Doomsday + 1, no. 1 (July 1975) ; reprinted in Doomsday + 1, no. 7 (June 1978) ; and in The Doomsday Squad, no. 1 (Aug. 1986).",
+    "call number": "PN6728.4.C47D6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: After General Rykos starts a nuclear war, three NASA astronauts return to a devastated Earth and find a caveman frozen in the ice.",
+      "Also appearances of Captain Boyd Ellis, Jill Malden, Ikei Yashida, General Steel, and Kuno.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "108": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; art, John Byrne",
+    "title_type": "official",
+    "series": "Sept. 1975) \"A Faceless Foe\"",
+    "appears_in": " 23 p. in Doomsday + 1, no. 2 (Sept. 1975) ; reprinted in Doomsday + 1, no. 8 (Sept. 1978) ; and in The Doomsday Squad, no. 2 (Sept. 1986).",
+    "call number": "PN6728.4.C47D6no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dr. Vladislav Yomorow sends his robots to destroy Boyd Ellis and his crew.",
+      "Also appearances of Kuno, Jill Malden, and Dr. Ikei Yashida.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "109": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill &amp; John Byrne ; art, John Byrne",
+    "title_type": "official",
+    "series": "Nov. 1975) \"The Peace Keepers\"",
+    "appears_in": " 23 p. in Doomsday + 1, no. 3 (Nov. 1975) ; reprinted in Doomsday + 1, no. 9 (Nov. 1978) ; and in The Doomsday Squad, no. 3 (Oct. 1986).",
+    "call number": "PN6728.4.C47D6no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: An alien race investigates what has happened on Earth and finds Ellis Boyd and his crew.",
+      "Also appearances of Kuno, Jill Malden, Dr. Ikei Yashida, and Prime Director.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "110": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; art, John Byrne ; colors, Wendy Fiore",
+    "title_type": "official",
+    "series": "Jan. 1976) \"Hidden Empire!\"",
+    "appears_in": " 22 p. in Doomsday + 1, no. 4 (Jan. 1976) ; reprinted in Doomsday + 1, no. 10 (Jan. 1979); and in The Doomsday Squad, no. 4 (Nov. 1986).",
+    "call number": "PN6728.4.C47D6no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Captain Boyd Ellis and his crew are captured by a race of fishmen and are rescued by another underwater race.",
+      "Also appearances of Jill Malden, Ikei Yashida, Yis, Lor, and Meri, with flashback appearances of General Rykos, President Cole, and Comrade Bekinov.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "111": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; art, John Byrne",
+    "title_type": "official",
+    "series": "Mar. 1976) \"Prologue\"",
+    "appears_in": " 1 p. in Doomsday + 1, no. 5 (Mar. 1976) ; reprinted from Doomsday + 1, no. 3 (Nov. 1975).",
+    "call number": "PN6728.4.C47D6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "112": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; pencils, John Byrne ; inks, Bruce Patterson",
+    "title_type": "official",
+    "series": "Mar. 1976) \"Rule of Fear\"",
+    "appears_in": " 19 p. in Doomsday + 1, no. 5 (Mar. 1976) ; reprinted in Doomsday + 1, no. 11 (Mar. 1979) ; and in The Doomsday Squad, no. 5 (Oct. 1986).",
+    "call number": "PN6728.4.C47D6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Captain Boyd and his crew come across a missile silo that is still inhabited.",
+      "Also appearances of Kuno, Jill Malden, Dr. Ikei Yashida, Sarge, Ace, and Slick.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "113": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; pencils, Doug Bevan &amp; John Byrne ; inks, John Byrne ; colors, Wendy Fiore",
+    "title_type": "official",
+    "series": "May 1976) \"All the Beautiful People\"",
+    "appears_in": " 22 p. in Doomsday + 1, no. 6 (May 1976) ; reprinted in Doomsday + 1, no. 12 (May 1979) ; also reprinted in The Doomsday Squad, no. 6 (Apr. 1987).",
+    "call number": "PN6728.4.C47D6no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Captain Boyd and his crew are taken to an alternate Earth.",
+      "Also appearances of Kuno, Jill Malden, Dr. Ikei Yashida, Karg, and Jad.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "114": {
+    "heading": null,
+    "title": "Doomsday + 1",
+    "author": "script, Joe Gill ; art, John Byrne ; colors, Mark Wheatley, George Kochell",
+    "title_type": "official",
+    "series": "July-Sept. 1976) \"There Will Be Time\"",
+    "appears_in": " 23 p. in Doomsday Squad, no. 7 (June 1987) ; reprinted from Charlton Bullseye, no. 4-5 (July-Sept. 1976).",
+    "call number": "PN6728.5.F3D6no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin, Derek Reinhard, Gordon Keys, et al. via Grand Comics Database."
+    ]
+  },
+  "115": {
+    "heading": "Doomsday + 1--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "175"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "116": {
+    "heading": "The Doomsday Prophecy.",
+    "title": "Batman : The Doomsday Prophecy",
+    "author": "Richard Wenk ; illustrated by Jose Delbo.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Pocket Books",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "119 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Which Way Books ; 4) (Super powers) (An Archway Paperback) 1. Superhero fiction. I. Wenk, Richard. II. Delbo, Jose. III. The Doomsday Prophecy. IV. Series. V. Series2. VI. Series3. VII. Pocket Books. Call no.: PS3573.E58B3 1986"
+    ]
+  },
+  "117": {
+    "heading": "The Doomsday Room.",
+    "title": "\"Trapped in the Doomsday Room!\"",
+    "author": "Michael Fleisher, script ; Trevor von Eeden and Mike Esposito, art",
+    "title_type": "incipit",
+    "series": "Spider-Woman",
+    "appears_in": " 17 p. in Spider-Woman, no. 24 (Mar. 1980).",
+    "call number": "PN6728.4.M3S64no.24",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "118": {
+    "heading": "Doomsday School.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1118"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "119": {
+    "heading": null,
+    "title": "The Doomsday Squad.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-7. 1. Science fiction comic books, strips, etc. Call no.",
+    "publication info": {
+      "place": "Agoura, CA",
+      "publisher": "Fantagraphics Books",
+      "date": "1986-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "120": {
+    "heading": null,
+    "title": "The Doomsday Squad, no. 1",
+    "author": "script, Joe Gill ; art, John Byrne",
+    "title_type": "official",
+    "series": "Aug. 1986) \"They Live Again\"",
+    "appears_in": " 23 p. in Doomsday + 1, no. 1 (July 1975) ; reprinted in Doomsday + 1, no. 7 (June 1978) ; and in The Doomsday Squad, no. 1 (Aug. 1986).",
+    "call number": "PN6728.4.C47D6no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: After General Rykos starts a nuclear war, three NASA astronauts return to a devastated Earth and find a caveman frozen in the ice.",
+      "Also appearances of Captain Boyd Ellis, Jill Malden, Ikei Yashida, General Steel, and Kuno.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "121": {
+    "heading": null,
+    "title": "The Doomsday Squad, no. 2",
+    "author": "script, Joe Gill ; art, John Byrne",
+    "title_type": "official",
+    "series": "Sept. 1986) \"A Faceless Foe\"",
+    "appears_in": " 23 p. in Doomsday + 1, no. 2 (Sept. 1975) ; reprinted in Doomsday + 1, no. 8 (Sept. 1978) ; and in The Doomsday Squad, no. 2 (Sept. 1986).",
+    "call number": "PN6728.4.C47D6no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dr. Vladislav Yomorow sends his robots to destroy Boyd Ellis and his crew.",
+      "Also appearances of Kuno, Jill Malden, and Dr. Ikei Yashida.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "122": {
+    "heading": null,
+    "title": "The Doomsday Squad, no. 3",
+    "author": "script, Joe Gill &amp; John Byrne ; art, John Byrne",
+    "title_type": "official",
+    "series": "Oct. 1986) \"The Peace Keepers\"",
+    "appears_in": " 23 p. in Doomsday + 1, no. 3 (Nov. 1975) ; reprinted in Doomsday + 1, no. 9 (Nov. 1978) ; and in The Doomsday Squad, no. 3 (Oct. 1986).",
+    "call number": "PN6728.4.C47D6no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: An alien race investigates what has happened on Earth and finds Ellis Boyd and his crew.",
+      "Also appearances of Kuno, Jill Malden, Dr. Ikei Yashida, and Prime Director.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "123": {
+    "heading": null,
+    "title": "The Doomsday Squad, no. 4",
+    "author": "script, Joe Gill ; art, John Byrne ; colors, Wendy Fiore",
+    "title_type": "official",
+    "series": "Nov. 1986) \"Hidden Empire!\"",
+    "appears_in": " 22 p. in Doomsday + 1, no. 4 (Jan. 1976) ; reprinted in Doomsday + 1, no. 10 (Jan. 1979); and in The Doomsday Squad, no. 4 (Nov. 1986).",
+    "call number": "PN6728.4.C47D6no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Captain Boyd Ellis and his crew are captured by a race of fishmen and are rescued by another underwater race.",
+      "Also appearances of Jill Malden, Ikei Yashida, Yis, Lor, and Meri, with flashback appearances of General Rykos, President Cole, and Comrade Bekinov.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "124": {
+    "heading": null,
+    "title": "The Doomsday Squad, no. 5",
+    "author": "script, Joe Gill ; pencils, John Byrne ; inks, Bruce Patterson",
+    "title_type": "official",
+    "series": "Oct. 1986) \"Rule of Fear\"",
+    "appears_in": " 19 p. in Doomsday + 1, no. 5 (Mar. 1976) ; reprinted in Doomsday + 1, no. 11 (Mar. 1979) ; and in The Doomsday Squad, no. 5 (Oct. 1986).",
+    "call number": "PN6728.4.C47D6no.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Captain Boyd and his crew come across a missile silo that is still inhabited.",
+      "Also appearances of Kuno, Jill Malden, Dr. Ikei Yashida, Sarge, Ace, and Slick.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "125": {
+    "heading": null,
+    "title": "The Doomsday Squad, no. 6",
+    "author": "script, Joe Gill ; pencils, Doug Bevan &amp; John Byrne ; inks, John Byrne ; colors, Wendy Fiore",
+    "title_type": "official",
+    "series": "Apr. 1987) \"All the Beautiful People\"",
+    "appears_in": " 22 p. in Doomsday + 1, no. 6 (May 1976) ; reprinted in Doomsday + 1, no. 12 (May 1979) ; also reprinted in The Doomsday Squad, no. 6 (Apr. 1987).",
+    "call number": "PN6728.4.C47D6no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Captain Boyd and his crew are taken to an alternate Earth.",
+      "Also appearances of Kuno, Jill Malden, Dr. Ikei Yashida, Karg, and Jad.",
+      "Data from Martin O'Hearn, Ramon Schenk, Derek Reinhard et al. via Grand Comics Database."
+    ]
+  },
+  "126": {
+    "heading": null,
+    "title": "Doomsday Squad, no. 7",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1987) CONTENTS: \"There Will Be Time\"",
+    "call number": "PN6728.5.F3D6no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Treaty\" (Kief Llama) 7 p.",
+      "Data from Lou Mougin, Derek Reinhard, Gordon Keys, et al. via Grand Comics Database."
+    ]
+  },
+  "127": {
+    "heading": "Doomsday Squad--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "175-176"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "128": {
+    "heading": "Doomsday Stars.",
+    "title": "\"Dr. Cyclops, the Villain with the Doomsday Stars\"",
+    "author": "Jim Mooney, art",
+    "title_type": "incipit",
+    "series": "Dial H for Hero",
+    "appears_in": " 15 p. in House of Mystery, no. 164 (Jan. 1967) ; reprinted in DC 100 Page Super Spectacular, no. DC-15 (Mar. 1973).",
+    "call number": "PN6728.2.N3H6no.164",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "129": {
+    "heading": "Doomsday Trek.",
+    "title": "\"The Voodoo Claws of Doomsday Trek\"",
+    "author": "art: Robert Webb",
+    "title_type": "incipit",
+    "series": "Sheena",
+    "appears_in": " 10 p. in Jumbo Comics, no. 151 (Sept. 1951).",
+    "call number": "Film 15791r.283",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "130": {
+    "heading": "The Doomsman.",
+    "title": "\"Unto You is Born the Doomsman!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Dr. Doom) 10 p. in Astonishing Tales, no. 1",
+    "call number": "PN6728.4.M3A8no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "131": {
+    "heading": null,
+    "title": "The Doomsmen",
+    "author": "by Frank Bellamy, John Allard &amp; Jim Edgar.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "J. Dakin",
+      "date": "1981"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "20 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Garth Daily Strips ; no. 7)",
+      "Reprints the comic strip Garth, dailies first published May 3 - August 15, 1975. 1. Androids",
+      "Comic books, strips, etc. I. Bellamy, Frank. II. Allard, John. III. Edgar, Jim. IV. Series. a. British comics. Call no.: PN6738f.G3D6 1981"
+    ]
+  },
+  "132": {
+    "heading": "Doomstalker--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Super Villains",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "108"
+      ]
+    },
+    "call number": "P96.V48R68 1987",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1987"
+    },
+    "notes": []
+  },
+  "133": {
+    "heading": "Doomster--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "415"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "134": {
+    "heading": "\"The Doomsters\" (Griffith Observatory) / Bill Griffith. 1 p.",
+    "title": "in Rip Off Comix, no. 2",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1977).",
+    "call number": "PN6728.45.R5R5no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "135": {
+    "heading": null,
+    "title": "\"The Doomsters\" 1 p. in Griffith Observatory, no. 1",
+    "author": "by Bill Griffith.",
+    "title_type": "official",
+    "series": "1979",
+    "call number": "PN6728.45.R5G67no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "136": {
+    "heading": "Doomsters.",
+    "title": "\"The Coming of the Doomsters\"",
+    "author": "Denny O'Neil, story ; Dick Dillin and Joe Giella, art",
+    "title_type": "incipit",
+    "series": "Justice League of America",
+    "appears_in": " 23 p. in Justice League of America, no. 78 (Feb. 1970)",
+    "call number": "PN6728.3.N3J8no.78",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "137": {
+    "heading": "Doom2.",
+    "title": "The Ultimate Super-Villains",
+    "author": "Stan Lee, editor.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS648.S3 U365 1996",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Byron Preiss Multimedia Co.",
+      "date": "1996"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "341 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "Richard Lee Byers",
+        "title": "To the victor"
+      },
+      {
+        "author": "Adam-Troy Castro",
+        "title": "Connect the dots"
+      },
+      {
+        "author": "Michael Jan Friedman",
+        "title": "Firetrap"
+      },
+      {
+        "author": "Tony Isabella &amp; Bob Ingersoll",
+        "title": "If wishes were horses"
+      },
+      {
+        "author": "Joey Cavalieri",
+        "title": "Doom2"
+      },
+      {
+        "author": "Robert L. Washington III",
+        "title": "Child's play"
+      },
+      {
+        "author": "Pierce Askegen",
+        "title": "Private exhibition"
+      },
+      {
+        "author": "Greg Cox",
+        "title": "All creatures great and skrull"
+      },
+      {
+        "author": "Glenn Greeberg",
+        "title": "The deviant ones"
+      },
+      {
+        "author": "Steve Lyons",
+        "title": "Sins of the flesh"
+      },
+      {
+        "author": "Steve Rasnic Tem",
+        "title": "Jason's nightmare"
+      },
+      {
+        "author": "D'Spayre",
+        "title": "Ripples"
+      },
+      {
+        "author": "Robert Sheckley",
+        "title": "Mayhem party"
+      },
+      {
+        "author": "Tom DeFalco",
+        "title": "The night I almost saved Silver Sable"
+      },
+      {
+        "author": "Ann Nocenti",
+        "title": "Who do you want me to be?"
+      },
+      {
+        "author": "Ken Grobe",
+        "title": "Traps"
+      },
+      {
+        "author": "James Dawson.",
+        "title": "One for the road"
+      }
+    ],
+    "notes": [
+      "\"Stories based on characters in Marvel Comics.\""
+    ]
+  },
+  "138": {
+    "heading": null,
+    "title": "Doomwar.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.8.M3D6 2010",
+    "library has": "no. 1-3.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Worldwide",
+      "date": "2010"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "(Marvel Limited Series)",
+      "Complete in 6 nos.",
+      "Summary (from SkyRiver): The royal family of Wakanda is unseated by a group of conservative dissidents in a coup funded and organized by Dr. Doom. Having unlocked the mystical properties of the rare and precious metal Vibranium, Doom's political maneuvering gains him access to the world's largest store of the metal and the source of unlimited magical power. The royal family will require the help of Marvel's best",
+      "the X-Men, Fantastic Four and Deadpool",
+      "to stop Doom before he unlocks the power to rule the world."
+    ]
+  },
+  "139": {
+    "heading": null,
+    "title": "Doomzine.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6735.D6",
+    "library has": "no. 1-4 (1978-1980).",
+    "publication info": {
+      "place": "Harpenden, Herts.",
+      "publisher": "Warp Inc.",
+      "date": "1978-"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with no. 1 (Nov. '78).",
+      "Cover title: Doom Zine.",
+      "Periodical about comics."
+    ]
+  },
+  "140": {
+    "heading": "Doonan Gang.",
+    "title": "\"The Aces Doonan Gang\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Lois Lane) 4 p. in Superman, no. 31",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed. I. Lois Lane. k. Doonan Gang. k. Gangs. Call no.: Film 15791,r.89"
+    ]
+  },
+  "141": {
+    "heading": "Doone, Crime Brain.",
+    "entry type": "encyclopedic entry",
+    "title": "Wonder Woman : The Encyclopedia of Comic Book Heroes, v. 2",
+    "author": "Michael Fleisher",
+    "series": null,
+    "pages": {
+      "range": [
+        "65"
+      ]
+    },
+    "call number": "PN6725.F5v.2",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Collier Books",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "142": {
+    "heading": "Doone, Devil.",
+    "title": "\"The Big Belt\"",
+    "author": "by R",
+    "title_type": "incipit",
+    "series": "The Adventures of Devil Doone",
+    "appears_in": " Carson Gold ; illustrated by Hart Amos. p. 7-10 in Devil Doone Adventure Comic, no. 42 (1969?).",
+    "call number": "PN6790.A84D44no.42",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Brutal veteran boxer Bruiser Banning has been beating up younger boxers, and Dev gives him a taste of his own medicine, ending his career."
+    ]
+  },
+  "143": {
+    "heading": "Doone, Devil.",
+    "title": "\"The Black Angel of Looz\"",
+    "author": "by R",
+    "title_type": "incipit",
+    "series": "The Adventures of Devil Doone",
+    "appears_in": " Carson Gold ; illustrated by Hart Amos. p. 19-22 in Devil Doone Adventure Comic, no. 42 (1969?).",
+    "call number": "PN6790.A84D44no.42",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Angela Carmody uses Morna Rondeen as bait, to set Devil Doone up for a beating by Bear Man Riley."
+    ]
+  },
+  "144": {
+    "heading": "Doone, Devil.",
+    "title": "\"The Frightened Film Star\"",
+    "author": "written by R",
+    "title_type": "incipit",
+    "series": "The Adventures of Devil Doone",
+    "appears_in": " Carson Gold and illustrated by Hart Amos. p. 23-32 in Devil Doone Adventure Comic, no. 42 (1969?).",
+    "call number": "PN6790.A84D44no.42",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Hollywood actress Sonia Cherkov was supposed to gather American atom bomb secrets, but refused; enforcers follow her to Australia, and Dev rescues her from captivity."
+    ]
+  },
+  "145": {
+    "heading": "Doone, Devil.",
+    "title": "\"The Whiskey Bandits\"",
+    "author": "by R",
+    "title_type": "incipit",
+    "series": "The Adventures of Devil Doone",
+    "appears_in": " Carson Gold ; illustrated by Hart Amos. p. 15-18 in Devil Doone Adventure Comic, no. 42 (1969?).",
+    "call number": "PN6790.A84D44no.42",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: In Scotland, Devil Doone hides in a whiskey truck and apprehends hijackers."
+    ]
+  },
+  "146": {
+    "entry type": "target",
+    "anchor": "/rri/drri/doom_t.htm#omed",
+    "title": "Doomed",
+    "notes": [],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}

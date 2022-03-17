@@ -1,0 +1,2372 @@
+{
+  "1": {
+    "heading": "Della Duck.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "129"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "2": {
+    "heading": "Della Vision.",
+    "entry type": "index entry",
+    "title": "From Girls to Grrrlz : a history of [female] comics from teens to zines",
+    "author": "Trina Robbins",
+    "series": null,
+    "pages": {
+      "range": [
+        "38"
+      ]
+    },
+    "call number": "PN6725.R58 1999",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Chronicle Books",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "3": {
+    "heading": "Della Casa, Agostino.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "392"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "4": {
+    "heading": "Della Corte, Carlo.",
+    "title": "Il Giallo a Fumetti",
+    "author": "Piero Zanotto ; prefazione di Carlo della Corte.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6714.Z3 1976",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Libri Edizioni",
+      "date": "1976"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "125 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About detective and crime comics."
+    ]
+  },
+  "5": {
+    "heading": "Dell'Acqua, Anna-Maria--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "689"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": "Dell'Acqua, Edgardo, 1919- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "735"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "7": {
+    "heading": "Dell'Acqua, Edgardo, 1919- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "372",
+        "374",
+        "387",
+        "388",
+        "391",
+        "392",
+        "613"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "8": {
+    "heading": "Dell'Acqua, Edgardo, 1919- --Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "illustrations": [
+        "279"
+      ],
+      "range": [
+        "280",
+        ""
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "9": {
+    "heading": "Della Monica, Raffaele, 1961- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "689"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "10": {
+    "heading": "De Llano, Rodrigo.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos I, 1874-1934",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "202",
+        "271"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "México, D.F.",
+      "publisher": "Grijalbo",
+      "date": "1988"
+    },
+    "notes": []
+  },
+  "11": {
+    "heading": "De Llano, Rodrigo.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos II, 1934-1950",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "79"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "México",
+      "date": null
+    },
+    "notes": []
+  },
+  "12": {
+    "heading": "Della Porta, Caroline.",
+    "title": "Contribution",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 44, 48) to The Worm : the Longest Comic Strip in the World",
+    "call number": "PN6737.M6W6 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "13": {
+    "heading": "Della Porta, Caroline.",
+    "title": "7 Ages of Woman",
+    "author": "edited by Carol Bennett ; cover, Caroline Della Porta.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "London",
+      "publisher": "Knockabout Crack Editions",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm. 1. Women's comics. 2. British comics. I. Bennett, Carol. II. Della Porta, Caroline. Call no.: PN6737.S4 1990",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "14": {
+    "heading": "Delle-Femine, Michael.",
+    "title": "\"Delle-Femine Leaves Cracked\"",
+    "author": "MCH.",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 20 in Comics Journal #137, September 1990. 1. Delle-Femine, Michael. 2. Cracked. I. Humphrey, M. Clark. Call no.: PN6700.C62no.137"
+    ]
+  },
+  "15": {
+    "heading": "Delle-Femine, Michael.",
+    "title": "\"No Work-Made-For-Hire\" p. 29",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #117 September 1987",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "16": {
+    "heading": null,
+    "title": "\"Delle-Femine Leaves Cracked\"",
+    "author": "MCH.",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 20 in Comics Journal #137, September 1990. 1. Delle-Femine, Michael. 2. Cracked. I. Humphrey, M. Clark. Call no.: PN6700.C62no.137"
+    ]
+  },
+  "17": {
+    "heading": "Dellinger, David T., 1915-",
+    "title": "Pictures at a Prosecution : drawings &amp; text from the Chicago Conspiracy Trial",
+    "author": "Jules Feiffer.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Grove Press",
+      "date": "1971"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "179 p."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Has rearranged sections of the trial of D.T. Dellinger and others, which commenced in the U.S. District Court in Chicago on Sept. 24, 1969. 1. Chicago Seven Trial, 1969-1970. 2. Dellinger, David T., 1915- 3. Chicago",
+      "Riot, August, 1968. I. Feiffer, Jules. II. United States. District Court. Illinois (Northern District). Call no: KF224f.D37F4"
+    ]
+  },
+  "18": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "The Art of Bob Powell",
+    "author": "edited by Ed Lane ; art copy by Al Dellinges.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: The Art of Bob Powell, a Golden Age Index. 1. Powell, Bob. I. Lane, Ed. II. Dellinges, Al. Call no.: PN6727.P6A4"
+    ]
+  },
+  "19": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "The Art of Gill Fox.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.F6A4 1979",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges and B. Sheridan",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill., ports"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes an interview with Gill Fox and many examples of his cartooning.",
+      "\"Special artist issue of Cartoonews\"."
+    ]
+  },
+  "20": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "The Art of Lou Fine",
+    "author": "through the courtesy of Gill Fox.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.F5A4 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Reprints Uncle Sam feature from National Comics no. 16 (Oct. 1940) ; also reprinted in Lou Fine Comics (New York",
+      "publisher": "Pure Imagination",
+      "date": "1991"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Special artist issue of Cartoonews #23\"."
+    ]
+  },
+  "21": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "The Comic Book Art of Dick Briefer.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.B65A4 1979",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Al Dellinges",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "22": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "A Display of Art Work by Frank Thorne.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.T47A4",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Al Dellinges and B. Sheridan",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: The Art of Frank Thorne Featuring Red Sonja."
+    ]
+  },
+  "23": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "A Display of Art Work by George Evans.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.E87A4",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Al Dellinges and B. Sheridan",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "27 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Special artist issue of Cartoonews no. 20\".",
+      "Cover title: Its Evans, by George: The Art of George Evans."
+    ]
+  },
+  "24": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "A Display of Art Work by Joe Kubert.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.K8A4 1979a",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges and Bill Sheridan",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "42 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Golden Age Art of Joe Kubert ; book 2)"
+    ]
+  },
+  "25": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Fiction House : A Golden Age Index",
+    "author": "compiled by Henry Steele.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "62 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Contents and credits of Fiction House output, with 32 p. of redrawn art.",
+      "Back cover: Compiled by Henry Steele and Ray Funk; art copy, Al Dellinges. 1. Fiction House Magazines",
+      "Indexes. I. Steele, Henry, 1931- II. Funk, Ray. III. Dellinges, Al. Call no.: PN6725.S75F5"
+    ]
+  },
+  "26": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Fiction House : A Golden Age Index of Planet Comics.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: The Book of Planet Comics Covers. 1. Planet Comics",
+      "Indexes. I. Dellinges, Al. II. A Golden Age Index of Planet Comics. III. The Book of Planet Comics Covers. Call no.: PN6725.F46"
+    ]
+  },
+  "27": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Joe Kubert : the War Years",
+    "author": "by Al Dellinges.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.K8D4 1990z",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "118 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "San Francisco : A. Dellinges, 199-?"
+    ]
+  },
+  "28": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Joe Kubert Index : DC Comics material",
+    "author": "artwork redrawn and index compiled by Al Dellinges.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Al Dellinges",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "120 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: Joe Kubert, a Golden Age Index.",
+      "Index portion occupies final 4 pages. I. Kubert, Joe. II. Dellinges, Al. Call no.: PN6727.K8A4"
+    ]
+  },
+  "29": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Kubert Goes to War.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title.",
+      "\"All art work contained herein is redrawn ... by Al Dellinges.\" 1. War comics",
+      "History and criticism. I. Kubert, Joe. II. Dellinges, Al. Call no.: PN6727.K8A4 1979"
+    ]
+  },
+  "30": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Near Mint.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-26, 36. 1. Comic books, strips, etc.",
+    "publication info": {
+      "place": "San Francisco, Ca.",
+      "publisher": "A. Dellinges",
+      "date": "1980-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Comic books, old movies, art.\"",
+      "History and criticism",
+      "Periodicals. I. Dellinges, Al. Call no.: PN6725.N4"
+    ]
+  },
+  "31": {
+    "heading": "-",
+    "title": "Dellinges, Al, 1932- Original Art Catalog : featuring the art of Alex Toth, George Evans, Jerry Bails original art collection, Al Dellinges art copy",
+    "author": "Al Dellinges.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Al Dellinges",
+      "date": "1980"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "20 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A sale catalog of original art for comic books.",
+      "APA-I, 12th mailing.",
+      "\"Special issue of Cartoonews.\"",
+      "Cover title: Al Dellinges Illustrated Original Art Catalog. 1. Bails, Jerry G.",
+      "Art collections",
+      "Catalogs. I. Dellinges, Al. II. Al Dellinges Illustrated Original Art Catalog. III. Cartoonews. Call no.: PN6727.D4O7"
+    ]
+  },
+  "32": {
+    "heading": "Dellinges, Al, 1932-",
+    "title": "Quality Comic Group : A Golden Age Index",
+    "author": "compiled by Henry Steele.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "A. Dellinges",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "37 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "P. 24 mounted after p. 29.",
+      "\"All art work contained herein is redrawn twice up and rendered in india ink\" by Al Dellinges. I. Steele, Henry, 1931- II. Dellinges, Al. Call no.: PN6725.S75Q3"
+    ]
+  },
+  "33": {
+    "heading": "Dellinges, Al, 1932- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Art of the Comic Book",
+    "author": "by R.C. Harvey",
+    "series": null,
+    "pages": {
+      "range": [
+        "58"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "34": {
+    "heading": "Dellinges, Al, 1932- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Who's Who of American Comic Books",
+    "author": "Jerry Bails &amp; Hames Ware",
+    "series": null,
+    "pages": {
+      "range": [
+        "308-309"
+      ]
+    },
+    "call number": "PN6725.B3v.4",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1973"
+    },
+    "notes": []
+  },
+  "35": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"L'Absence de Miroir\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 27-29 in Les Cahiers de la Bande Dessinée, no. 68 (Mar./Apr. 1986).",
+    "call number": "PN6745.S37no.68",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier : Rivière-Floc'h)",
+      "About Blitz."
+    ]
+  },
+  "36": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"L'Affaire Xanos\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 68 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible : Notes de Lecture)",
+      "Brief review of the Marc Sevrin &amp; Jean-Louis Gillot album."
+    ]
+  },
+  "37": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Arrière Saison\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 72 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of the Loustal album.",
+      "(Le Crible)"
+    ]
+  },
+  "38": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Un Automne à Berlin\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 58 in Les Cahiers de la Bande Dessinée, no. 63 (May/June 1985).",
+    "call number": "PN6745.S37no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews the Dethorey-Giroud album."
+    ]
+  },
+  "39": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Avec Machines, Moi Machin\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 84-86 in Les Cahiers de la Bande Dessinée, no. 64 (July/Aug. 1985).",
+    "call number": "PN6745.S37no.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article on things mechanical in the works of Manara: The remote in Click, the truck and riverboat in Giuseppe Bergman, plus a comment on the mechanics of walking on hands an knees.",
+      ""
+    ]
+  },
+  "40": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Bilal, La Femme Piège\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "L'Indispensable) p. 4-5 in Les Cahiers de la Bande Dessinée, no. 69",
+    "call number": "PN6745.S37no.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comments on the new Bilal album by Thierry Groensteen, Luc Dellisse, Bruno Lecigne, Anita Van Belle, Arnaud de la Croix, and Thierry Smolderen."
+    ]
+  },
+  "41": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Boucq et Charyn, La Femme du Magicien\"",
+    "author": "Thierry Groensteen, Patrick Delperdange, Luc Dellisse, Arnaud de la Croix, Thierry Smolderen",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 4-5 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(L'Indispensable)",
+      "Brief reviews of the album, and a brief interview with Boucq about the collaboration."
+    ]
+  },
+  "42": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Ça Gaze à Casino\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 74-75 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of the Jean-Louis Floch &amp; Marc Voline album.",
+      "(Le Crible)"
+    ]
+  },
+  "43": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Chaman\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 64 in Les Cahiers de la Bande Dessinée, no. 61 (Jan./Feb. 1985).",
+    "call number": "PN6745.S37no.61",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible : Notes de Lecture)",
+      "Brief review of the album by Frank Giroud and AB'84.",
+      "\"AB'84\" and later in the review, \"AB'85,\" seem to refer to the artist Ab'Aigre."
+    ]
+  },
+  "44": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"La Comète de Carthage\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 67 in Les Cahiers de la Bande Dessinée, no. 68 (Mar./Apr. 1986).",
+    "call number": "PN6745.S37no.68",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Review of the Yves Chaland/Yann LePennetier album."
+    ]
+  },
+  "45": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Coup de Pouce du Destin\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 26-28 in Les Cahiers de la Bande Dessinée, no. 64 (July/Aug. 1985).",
+    "call number": "PN6745.S37no.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Franz)",
+      "Article on the Franz series Lester Cockney."
+    ]
+  },
+  "46": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"La Course au Savoir\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 26-28 in Les Cahiers de la Bande Dessinée, no. 65 (Sept./Oct. 1985).",
+    "call number": "PN6745.S37no.65",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": "On Bourgeon's philosophical use of the adventure genres.",
+    "contents": [],
+    "notes": [
+      "(Dossier Bourgeon)"
+    ]
+  },
+  "47": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Les Deux du Balcon\" p. 4-5 in Les Cahiers de la Bande Dessinée, no. 65",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept./Oct. 1985).",
+    "call number": "PN6745.S37no.65",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Brief interview of Francis Masse, and recommendations of his album, Les Deux du Balcon, by Thierry Groensteen, Arnaud de la Croix, Sylvain Bouyer, Bruno Lecigne, Luc Dellisse and Jacques de Pierpont.",
+      "(L'Indispensable)"
+    ]
+  },
+  "48": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Domaines Publics\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 54 in Les Cahiers de la Bande Dessinée, no. 65 (Sept./Oct. 1985).",
+    "call number": "PN6745.S37no.65",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Déclics)",
+      "About the revival, by Johan de Moor, of Quick et Flupke."
+    ]
+  },
+  "49": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Une Duplicité Stratégique\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 11-13 in Les Cahiers de la Bande Dessinée, no. 57 (Apr./May 1984).",
+    "call number": "PN6745.S37no.57",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Régis Franc)"
+    ]
+  },
+  "50": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Goldberg\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 56-57 in Les Cahiers de la Bande Dessinée, no. 61 (Jan./Feb. 1985).",
+    "call number": "PN6745.S37no.61",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews a collection of Rube Goldberg work published in French translation by Futuropolis."
+    ]
+  },
+  "51": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"La Grace Originelle\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 33 in Les Cahiers de la Bande Dessinée, no. 70 (July/Aug. 1986).",
+    "call number": "PN6745.S37no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Rosinski et Van Hamme)",
+      "About the early work of Jean Van Hamme, with Cuvelier on Epoxy and Corentin."
+    ]
+  },
+  "52": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"L'Histoire Énergumène\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 28-29 in Les Cahiers de la Bande Dessinée, no. 60 (Nov./Dec. 1984).",
+    "call number": "PN6745.S37no.60",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier F'Murr)",
+      "Article on F'Murr's use of French cultural and historical context in his work."
+    ]
+  },
+  "53": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Jeune Albert\" p. 4-5 in Les Cahiers de la Bande Dessinée, no. 64",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July/Aug. 1985).",
+    "call number": "PN6745.S37no.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(L'Indispensable)",
+      "Brief interview with Yves Chaland on the the publication of his album Le Jeune Albert (collected from Métal Hurlant), with comments by Thierry Groensteen, Arnaud de la Croix, Didier Pasamonik, Luc Dellisse, Moebius, Jacques de Pierpont, and Patrick Delperdange."
+    ]
+  },
+  "54": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Lames de Fond à Bruxelles\"",
+    "author": "par Arnaud de la Croix et Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 39-41 in Les Cahiers de la Bande Dessinée, no. 66 (Nov./Dec. 1985).",
+    "call number": "PN6745.S37no.66",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Caniff)",
+      "Article on the popularity of Caniff in Belgium, citing current exhibitions and publications."
+    ]
+  },
+  "55": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Mort de Jeannette Pointu\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 34-35 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Wasterlain)",
+      "Brief article on the series Les Aventures de Jeannette Pointu."
+    ]
+  },
+  "56": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Moustache et Trottinette\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 67 in Les Cahiers de la Bande Dessinée, no. 69 (May/June 1986).",
+    "call number": "PN6745.S37no.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews the first volume of a reprint series, by Calvo."
+    ]
+  },
+  "57": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Mystère de la Case Vide\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 47-48 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(L'Appel de la BD)",
+      "(Passions)"
+    ]
+  },
+  "58": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"L'Optique du Travestissement\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 80-82 in Les Cahiers de la Bande Dessinée, no. 60 (Nov./Dec. 1984).",
+    "call number": "PN6745.S37no.60",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Galerie)",
+      "(Pastiches &amp; Parodies (1))",
+      "Essay on \"travestissement,\" or the re-doing of stories in different styles. Concentrates on a page of Morris's The Tenderfoot as re-done in his Blueberry style by Jean Giraud."
+    ]
+  },
+  "59": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Peau des Gorilles\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 21-23 in Les Cahiers de la Bande Dessinée, no. 61 (Jan./Feb. 1985).",
+    "call number": "PN6745.S37no.61",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Cauvin)",
+      "Article on the series Sammy."
+    ]
+  },
+  "60": {
+    "heading": "Dellisse, Luc.",
+    "title": "La Péniche Bleue : l'étrange héritage",
+    "author": "Griesmar, Dellisse ; couleurs, Etienne Young, Anne Crapon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.G69P4 1990",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud Editeur",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Three cousins travel by barge through the rivers of France in order to inherit their uncle's fortune.",
+      "Genre: Adventure story."
+    ]
+  },
+  "61": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Un Point de Non-Retour\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 24-25 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Veyron)",
+      "On Veyron's album, L'Amour Propre ne le reste jamais très longtemps, and how it introduced the author's career."
+    ]
+  },
+  "62": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Points de Vue sur Corentin chez les Peaux-Rouges\"",
+    "author": "Luc Dellisse, Jacques de Pierpont",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 59 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Two reviews of the reprint of a Cuvelier album."
+    ]
+  },
+  "63": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Privé d'Hollywood\" ; \"L'Ombre qui Tue\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 64-65 in Les Cahiers de la Bande Dessinée, no. 65 (Sept./Oct. 1985).",
+    "call number": "PN6745.S37no.65",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews two albums, the first by Berthet, Riviere &amp; Bocquet; the second by Dodier, Makyo &amp; Letendre."
+    ]
+  },
+  "64": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Quelle Jungle? Quelle Folle?\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 24-25 in Les Cahiers de la Bande Dessinée, no. 59 (Sept./Oct. 1984).",
+    "call number": "PN6745.S37no.59",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Godard)",
+      "Article on the Godard-Delinx feature La Jungle en Folle, and especially on the character Joé le Tigre."
+    ]
+  },
+  "65": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Reine d'un Jour\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 71 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Review of the Denis Jourdin album.",
+      "(Le Crible)"
+    ]
+  },
+  "66": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Ric Hochet\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 92-95 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Rélecture)"
+    ]
+  },
+  "67": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Sambre : Plus ne m'est rien\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "L'Indispensable) p. 6-7 in Les Cahiers de la Bande Dessinée, no. 70",
+    "call number": "PN6745.S37no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Recommendations of the work by Yslaire (=Bernard Hislaire) &amp; Balac (=Yann Le Pennetier), by Thierry Groensteen, Bruno Lecigne, Luc Dellisse and Arnaud de la Croix, and a 5-question interview with the creators."
+    ]
+  },
+  "68": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Semestre de Jean-Michel Charlier\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 62-63 in Les Cahiers de la Bande Dessinée, no. 61 (Jan./Feb. 1985).",
+    "call number": "PN6745.S37no.61",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews Charlier's \"L'Archipel de l'Épouvante\" (art by Aldoma Puig) ; \"L'Espion Venu du Ciel\" (art by Patrice Serres) ; \"Les Pilotes de l'Enfer\" (art by Francis Bergèse) ; and \"L'Or Maudit de Huacapac\" (art by Gaty)."
+    ]
+  },
+  "69": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Syndrome d'lÉternité\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 85-87 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Alberto Breccia)",
+      "Article on the Oesterheld &amp; Breccia work, L'Éternaute (Eternauta)."
+    ]
+  },
+  "70": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Tim Galère\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 66 in Les Cahiers de la Bande Dessinée, no. 62 (Mar./Apr. 1985).",
+    "call number": "PN6745.S37no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews the F'Murr album."
+    ]
+  },
+  "71": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Tire-moi, Mec\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 64 in Les Cahiers de la Bande Dessinée, no. 63 (May/June 1985).",
+    "call number": "PN6745.S37no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible : Notes de Lecture)",
+      "Brief review of the Chester Himes &amp; Florenci Clavé album."
+    ]
+  },
+  "72": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Tout est Bon dans le Bébé\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 67 in Les Cahiers de la Bande Dessinée, no. 64 (July/Aug. 1985).",
+    "call number": "PN6745.S37no.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible : Notes de Lecture)",
+      "Brief review of the Nicole Claveloux album."
+    ]
+  },
+  "73": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Tube et la Tour\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 31-33 in Les Cahiers de la Bande Dessinée, no. 69 (May/June 1986).",
+    "call number": "PN6745.S37no.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier : Schuiten)"
+    ]
+  },
+  "74": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Underground USA",
+    "author": "Luc Dellisse",
+    "title_type": "official",
+    "series": "Jacques Bisceglia &amp; Sylvie Brod)\"",
+    "appears_in": " p. 70 in Les Cahiers de la Bande Dessinée, no. 70 (July/Aug. 1986).",
+    "call number": "PN6745.S37no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Le Crible)",
+      "Reviews a book about American underground comics."
+    ]
+  },
+  "75": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Le Vague à l'Ame du Bibiographe\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 61 in Les Cahiers de la Bande Dessinée, no. 67 (Jan./Feb. 1986).",
+    "call number": "PN6745.S37no.67",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Déclics)",
+      "Item on Franz Van Cauwenbergh."
+    ]
+  },
+  "76": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Vécu: L'Histoire Intime\"",
+    "author": "Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 88 in Les Cahiers de la Bande Dessinée, no. 66 (Nov./Dec. 1985).",
+    "call number": "PN6745.S37no.66",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Déclics)",
+      "Item on the periodical Vécu."
+    ]
+  },
+  "77": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Vingt-six Leçons sur la Patrie\"",
+    "author": "par Luc Dellisse et Thierry Groensteen",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 27-29 in Les Cahiers de la Bande Dessinée, no. 63 (May/June 1985).",
+    "call number": "PN6745.S37no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Dossier Tardi)",
+      "An alphabet of remarks evoking aspects of the works of Jacques Tardi."
+    ]
+  },
+  "78": {
+    "heading": "Dellisse, Luc.",
+    "title": "\"Un Visage Perdu : Ardeur, par les fréres Varenne\"",
+    "author": "par Luc Dellisse",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 94-96 in Les Cahiers de la Bande Dessinée, no. 69 (May/June 1986).",
+    "call number": "PN6745.S37no.69",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Relecture)"
+    ]
+  },
+  "79": {
+    "heading": "Dellisse, Luc--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "689"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "80": {
+    "heading": "Delmonico.",
+    "entry type": "index entry",
+    "title": "A History of American Graphic Humor, v. 2 (1865-1938)",
+    "author": "William Murrell",
+    "series": null,
+    "pages": {
+      "range": [
+        "82"
+      ]
+    },
+    "call number": "NC1420.M8v.2",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Macmillan Company for the Whitney Museum of American Art",
+      "date": "1938"
+    },
+    "notes": []
+  },
+  "81": {
+    "heading": "Dell'Orto, Suzanne.",
+    "title": "The Last American",
+    "author": "Alan Grant, John Wagner, writers ; Michael McMahon, artist ; Phil Felix, letterer ; Suzanne Dell'Orto, assistant editor ; Nel Yomtov, editor ; Carl Potts, executive editor, Epic Comics.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3L27",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Epic Comics",
+      "date": "1990-1991"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 1 (Dec. 1990) - no. 4 (Mar. 1991).",
+      "Genre: Science fiction."
+    ]
+  },
+  "82": {
+    "heading": "Dell'Orto, Suzanne.",
+    "title": "Robocop 2",
+    "author": "Alan Grant, writer ; Mark Bagley, penciler ; Tony DeZuniga, inker ; Rick Parker, letterer ; Steve Buccellato, Suzanne Dell'Orto, colorists ; Gregory Wright, editor ; Tom DeFalco, editor in chief.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.R574G7 1990",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"The official adaptation of the hit film\".",
+      "Character is a cyborg.",
+      "Genre: Science fiction."
+    ]
+  },
+  "83": {
+    "heading": "Dell's Early Tarzan.",
+    "title": "A Review of Dell's Early Tarzan, 1948-1953",
+    "author": "by C",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "E. \"Caz\" Cazedessus, Jr.",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "6 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1971.",
+      "Caption title.",
+      "Photocopy from ERBdom, no. 52. 1. Jungle adventure comics",
+      "History and criticism. 2. Tarzan. I. Cazedessus, Camille E. II. Dell's Early Tarzan. III. ERB-dom. Call no.: PN6725.C37R4 1971"
+    ]
+  },
+  "84": {
+    "heading": null,
+    "title": "\"Dell's Tarzan Turns 50!\"",
+    "author": "by Pat S",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Calhoun. p. 11-12 in Comic Book Marketplace, v. 2, no. 55 (Jan. 1998).",
+    "call number": "PN6714.C632v.2no.55",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Adventures into Weird Words)",
+      "Concentrates on the work of Jesse Marsh."
+    ]
+  },
+  "85": {
+    "heading": "Dell'Uomo, Luca, 1957- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "689"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "86": {
+    "heading": "Delmar, Horatio.",
+    "entry type": "encyclopedic entry",
+    "title": "Batman : The Encyclopedia of Comic Book Heroes, v. 1",
+    "author": "Michael Fleisher",
+    "series": null,
+    "pages": {
+      "range": [
+        "189"
+      ]
+    },
+    "call number": "PN6725.F5v.1",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Collier Books",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "87": {
+    "heading": "Delmar, Kenny.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "107",
+        "132"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "88": {
+    "heading": "Delmasso, Gian Giacomo.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "538"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "89": {
+    "heading": "Del Mestre, Alberto--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "794"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "90": {
+    "heading": "Del Mestre, Alberto--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Encyclopédie de la bande dessinée érotique",
+    "author": "Henri Filippini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "106-107"
+      ]
+    },
+    "call number": "PN6707.F52 1999",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "La Musardine",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "91": {
+    "heading": "Delmón.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "145",
+        "158"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "92": {
+    "heading": "Del Monico.",
+    "title": "\"The Laughter of Del Monico\"",
+    "author": "art: Charlie Sultan ; script: R",
+    "title_type": "incipit-assigned",
+    "series": "Sky Rangers",
+    "appears_in": " W. Colt. 6 p. in Rangers Comics, no. 34 (Apr. 1947).",
+    "call number": "Film 15791r.154",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "93": {
+    "heading": null,
+    "title": "Delmonico's Erotika.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44D39",
+    "library has": "no. 96, 108-109 (2000)",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "14 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México, D.F. : Editorial Toukán, ."
+    ]
+  },
+  "94": {
+    "heading": "Del Mundo, Amante.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "69"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "95": {
+    "heading": "Del Mundo, Clodualdo.",
+    "title": "Komiks : an Industry, a Potent Medium, our National Book, and Pablum of Art Appreciation",
+    "author": "Clodualdo del Mundo, Jr.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.P47D4 1986",
+    "library has": "",
+    "publication info": {
+      "place": "Photocopy from: Philippine Mass Media / Clodualdo del Mundo, ed. (Manila",
+      "publisher": "Communication Foundation for Asia",
+      "date": "1986"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 179-185 ; 28 cm."
+    ]
+  },
+  "96": {
+    "heading": "Del Mundo, Clodualdo--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "12",
+        "20",
+        "35",
+        "41",
+        "55",
+        "67-69",
+        "78",
+        "125"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "97": {
+    "heading": "Del Mundo, Clodualdo--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "343",
+        "520"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "98": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Adèle et la Bête",
+    "author": "Tardi ; lettrage et couleurs de Anne Delobel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.T3A4 1987",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Éditions J'ai Lu",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "127 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Aventures Extraordinaires d'Adèle Blanc-Sec)",
+      "(J'ai lu BD ; 18)"
+    ]
+  },
+  "99": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Adele og Uhyret",
+    "author": "tekst og tegninger, Jacques Tardi ; farver Anne Delobel ; dansk oversætelse, Jens Peder Agger.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Copenhagen",
+      "publisher": "Carlsen",
+      "date": "1978"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Adeles Ekstraordinære Oplevelser) 1. French comics. 2. Danish comics. 3. Funny horror comics. I. Tardi, Jacques. II. Delobel, Anne. III. Agger, Jens Peder. IV. Series. V. Adèle et la Bête. Danish. VI. Carlsen. Call no.: PN6747.T3A419 1978"
+    ]
+  },
+  "100": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Ann de la Jungle",
+    "author": "Hugo Pratt ; lettrage, Anne Delobel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Casterman",
+      "date": "1978"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "122 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Grands Romans de la Bande Dessinee) 1. Jungle adventure comics. 2. Italian comics. 3. French comics. I. Pratt, Hugo. II. Delobel, Anne. III. Series. Call no.: PN6767f.P7A5514 1978"
+    ]
+  },
+  "101": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Les Disparus d'Apostrophes!",
+    "author": "texte et dessins de Petillon ; couverture, conception, Alain Josset ; couleurs, Anne Delobel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.P4D5 1982",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1982"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Jack Palmer)",
+      "Detective."
+    ]
+  },
+  "102": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Ici Même",
+    "author": "texte Forest ; dessin, Tardi ; lettrage, A",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Delobel.",
+    "call number": "PN6747.F64 I34 1979",
+    "library has": "",
+    "publication info": {
+      "place": "Tournai",
+      "publisher": "Casterman",
+      "date": "1979"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "198 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Les Romans à Suivre).",
+      "Genre: Adventure."
+    ]
+  },
+  "103": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Maus II : un survivant raconte : et c'est là que mes ennuis ont commencé",
+    "author": "Art Spiegelman ; traduit de l'anglais par Judith Ertel ; lettrage d'Anne Delobel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "24 cm. 1. Spiegelman, Vladek",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "135 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Paris : Flammarion,",
+      "Comic books, strips, etc. 2. Holocaust survivors",
+      "Comic books, strips, etc. 3. Children of Holocaust survivors",
+      "Comic books, strips, etc. 4. Jews",
+      "Comic books, strips, etc. 5. Funny animal comics. 6. French comics. I. Spiegelman, Art. II. Ertel, Judith. III. Delobel, Anne. IV. Et c'est là que mes ennuis ont commencé. V. Maus. French. VI. Flammarion. Call no.: D810.J4S643214 1991"
+    ]
+  },
+  "104": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Plus con on tue!",
+    "author": "textes de Guy Vidal ; dessins de Alain Bignon ; couleurs, Anne Delobel.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.V46P55 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Dargaud",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "60 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Adventure story genre.",
+    "contents": [],
+    "notes": [
+      "(Portraits Souvenirs)"
+    ]
+  },
+  "105": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "\"Polonius\"",
+    "author": "writer: Picaret ; lettrage: Delobel ; artist: Tardi",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 66-74 in Heavy Metal, no. 6 (Sept. 1977).",
+    "call number": "PN6728.H43no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "106": {
+    "heading": "Delobel, Anne, 1949-",
+    "title": "Une Sacrée Salade",
+    "author": "Pétillon ; mise en couleurs, Anne Delobel ; conception couverture Alain Josset.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.P47S3 1983",
+    "library has": "",
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Albin Michel",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "52 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Aventures de Jack Palmer)"
+    ]
+  },
+  "107": {
+    "heading": "Delobel, Anne, 1949- --Miscellanea.",
+    "title": "\"Profession: Coloriste\"",
+    "author": "Sylvain Bouyer",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 40-43, 57 in Les Cahiers de la Bande Dessinée, no. 60 (Nov./Dec. 1984).",
+    "call number": "PN6745.S37no.60",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Responses by ten colorists to a questionnaire about their profession: Isabelle Beaumenay-Joannet, Pascale Bénureau (1958-), Christine Couturier (1959-), Anne Delobel (1949-), Danielle Dubos (1940-), Didier Eberoni (1958-), Raymond Fernandez (1953-), Marianne Rousseau (1956-), Jean Solé (1948-), and Evelyne Tran-Lê (1940-)."
+    ]
+  },
+  "108": {
+    "heading": "De Long, Victor.",
+    "title": "\"Marketplace Mail\" p. 56-59 in Comic Book Marketplace, no. 13",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1992).",
+    "call number": "PN6714.C632no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters from Andy Marinkovich, Ray Bottorff Jr., Bill Campbell, Bruce W. Edwards, Keith Contarino, Victor De Long, Richard Olson, Jerry Jacobs, Harry W. Miller, Frank Rohr, Craig Olson, Bill Vanderveer, Russ Majors, Michael Scanlon, The Arnolds, Brian Bukowski, Brandt W. Reese, Grant Overton, John Russell, and Michael Sanchez."
+    ]
+  },
+  "109": {
+    "heading": "DeLorean.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "110": {
+    "heading": "The Delorean.",
+    "entry type": "encyclopedic entry",
+    "title": "Aliens, Robots, and Spaceships",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "74-75"
+      ]
+    },
+    "call number": "PN3433.8.R68 1995",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1995"
+    },
+    "notes": [
+      "Refers to the car in Back to the Future."
+    ]
+  },
+  "111": {
+    "heading": "Delos Reyes, Jose.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "73"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "112": {
+    "heading": "Delos Santos, Rennie.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "128",
+        "152"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "113": {
+    "heading": "Deloule, Yves.",
+    "title": "\"Yves Deloule ou le Miroir Brisé\"",
+    "author": "par Bruno Lecigne",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 82-83 in Les Cahiers de la Bande Dessinée, no. 70 (July/Aug. 1986).",
+    "call number": "PN6745.S37no.70",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Balises : Bande Dessinée et Peinture (3))",
+      "A page in color by Deloule is found on the inside front cover of this issue."
+    ]
+  },
+  "114": {
+    "heading": "Delouya, Nelly.",
+    "title": "Mi Hermano",
+    "author": "libreto: Socorro Valdez, Peter Rabinowitz, Edgar Bravo, Nelly Delouya, Esther Ricardo ; fotografía, Richard Lewis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Seattle, Wash.",
+      "publisher": "American Red Cross",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "22 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Producido por the Novela Health Education para el Programa Hispano sobre el VIH/SIDA de la Cruz Roja Americana\".",
+      "English version entitled My brother inverted at end.",
+      "\"This publication was supported by Cooperative Agreement No. U62/CCU 303031-04 from the Centers for Disease Control and Prevention of the U.S. Public Health Service. . .\"",
+      "Revised 1994. 1. AIDS (Disease)",
+      "Comic books, strips, etc. 2. Safe sex in AIDS prevention. 3. Fotonovelas. I. [Each creator (6)] II. Novela Health Foundation. III. American Red Cross. Hispanic HIV/AIDS Program. IV. Center for Disease Control. V. United States. Office of Disease Prevention and Health Promotion. Call no.: RA644.A25.V3 1990"
+    ]
+  },
+  "115": {
+    "heading": "Delouya, Nelly.",
+    "title": "My Brother",
+    "author": "script: Socorro Valdez, Peter Rabinowitz, Edgar Bravo, Nelly Delouya, Esther Ricardo ; photography, Richard Lewis.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Seattle, Wash.",
+      "publisher": "American Red Cross",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "22 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Produced by Novela Health Education for the Amer ican Red Cross Hispanic HIV/AIDS Program\"",
+      "Spanish version entitled Mi Hermano inverted at end.",
+      "\"This publication was supported by Cooperative Agreement No. U62/CCU 303031-04 from the Centers for Disease Control and Prevention of the U.S. Public Health Service. . .\"",
+      "Revised 1994. 1. AIDS (Disease)",
+      "Comic books, strips, etc. 2. Safe sex in AIDS prevention. 3. Fotonovelas. I. [Each creator (6)]. II. Novela Health Foundation. III. American Red Cross. Hispanic HIV/AIDS Program. IV. Center for Disease Control. V. United States. Office of Disease Prevention and Health Promotion. Call no.: RA644.A25.V3 1990"
+    ]
+  },
+  "116": {
+    "entry type": "target",
+    "anchor": "/rri/drri/della.htm#alex",
+    "title": "Dellinges, Al, 1932-",
+    "notes": [
+      "American comics artist and\n        indexer of comics"
+    ],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}

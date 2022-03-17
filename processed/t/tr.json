@@ -1,0 +1,4925 @@
+{
+  "1": {
+    "heading": "Tra La La.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "225"
+      ]
+    },
+    "call number": "PN6725.T5 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "2": {
+    "heading": "Trabaca.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "176; fig. 196"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "3": {
+    "heading": null,
+    "title": "Die Trabantenstadt",
+    "author": "Text von Rene Goscinny ; Zeichnungen von Albert Uderzo ; Übersetzungen aus dem Französischen: Gudrun Penndorf.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.U3A8715 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Berlin",
+      "publisher": "Egmont EHAPA",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "47 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Asterix ; Bd. 17)",
+      "Translation of: Le Domaine des Dieux."
+    ]
+  },
+  "4": {
+    "heading": "Trac et Boum.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "452"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "5": {
+    "heading": "Les Tracas de Raoul. English.",
+    "title": "\"Claire Bretécher's Comédie Française\" p. 64-66 in Ms., v. 6, no. 9",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1978",
+    "call number": "HQ1101.M73v.6no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Brief report of a conversation between Bretécher and Claude Servan-Schreiber, and translation of a story: The Trials of Raoul (Les Tracas de Raoul) about learning the facts of life.",
+      "Cover title: Bretécher, France's Funniest Strip."
+    ]
+  },
+  "6": {
+    "heading": "Tracassin.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "633"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "7": {
+    "heading": null,
+    "title": "\"La Trace Ecarlate\"",
+    "author": "dessins de Daniel Ceppi sur une idée de Jean-Jacques Mendez",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 42-43 in Spécial Lovecraft (Métal Hurlant ; no. 33 bis) (Paris : Humanoïdes Associés, 1978).",
+    "call number": "PN6748.M4L6 1978",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "8": {
+    "heading": "Tracer, Gray W.",
+    "title": "\"New Gladstone Ducks May Mean Collector Bucks\"",
+    "author": "by Gray W",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Tracer. p. 125 in Comic Book Marketplace, no. 1 (Mar./Apr. 1993).",
+    "call number": "Z1000.C59no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Forward to the Past)"
+    ]
+  },
+  "9": {
+    "heading": "Tracer, Gray W.",
+    "title": "\"The Rarest Marvel Annual?\"",
+    "author": "by Gray W",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Tracer. p. 160 in Comic Book Marketplace, no. 2 (June 1993).",
+    "call number": "Z1000.C59no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(CBM Fandom Flashbacks)",
+      "Item about Millie the Model Annual #1 (1962)."
+    ]
+  },
+  "10": {
+    "heading": "Tracer, Gray W.",
+    "title": "\"Shop Talk\"",
+    "author": "script, Gray W",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Tracer ; art, Shannon Gallant. p. 153 in Comic Book Marketplace, no. 2 (June 1993).",
+    "call number": "Z1000.C59no.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comic strip shows a comics retailer calculating a price."
+    ]
+  },
+  "11": {
+    "heading": "Traces.",
+    "title": "How Santa Claus had a Long and Difficult Journey Delivering His Presents",
+    "author": "by Fernando Krahn.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PS3573.A393H6 1970",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Delacorte Press",
+      "date": "1970"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "28 leaves : ill. ; 23 x 28 cm.",
+      "Summary: Pictures without words show Santa Claus trying to get airborne after the reindeer break away from their traces.",
+      "\"A Seymour Lawrence book.\""
+    ]
+  },
+  "12": {
+    "heading": null,
+    "title": "\"Traces de Little Nemo dans la BD Contemporaine\"",
+    "author": "par Gilles Ciment",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 84-86 in Les Cahiers de la Bande Dessinée, no. 63 (May/June 1985).",
+    "call number": "PN6745.S37no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Little Nemo in Slumberland : Relecture)"
+    ]
+  },
+  "13": {
+    "heading": "Tracey.",
+    "title": "\"Do You Think She'll Like It, Tracey?\"",
+    "author": "by Lynn Johnston.",
+    "title_type": "incipit-assigned",
+    "series": "For Better or For Worse, Dec. 29, 1999",
+    "call number": "PN6726 f.B55 \"engagement rings\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Michael has bought a ring for Deanna."
+    ]
+  },
+  "14": {
+    "heading": "Trachte, Don, 1915-",
+    "title": "\"Handwriting on the Wall\"",
+    "author": "Don Trachte",
+    "title_type": "incipit-assigned",
+    "series": "Henry, copyright 1980",
+    "appears_in": " 1 p. in Indrajal Comics, no. 408 (Apr. 21, 1982).",
+    "call number": "PN6790.I54 I5 no.408",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "A Sunday strip.",
+      "Summary: A man doodles on the wall while talking on the telephone, and Henry gets out a book on handwriting analysis."
+    ]
+  },
+  "15": {
+    "heading": "Trachte, Don, 1915-",
+    "title": "\"Whip for the Lawnmower\"",
+    "author": "Don Trachte",
+    "title_type": "incipit-assigned",
+    "series": "Henry",
+    "appears_in": " p. 167 in The National Cartoonists Society Album 1965 ; p. 168 in The National Cartoonists Society Album 1972-77 ed. ; and p. 178 in The National Cartoonists Society Album 1988 ed.",
+    "call number": "NC1300.N3 1965, 1972, 1988",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A man is frustrated trying to start his lawnmower with its cord; Henry brings him a bullwhip."
+    ]
+  },
+  "16": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "title": "Biographical entry",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 190) in The Great American Comic Strip, by Judith O'Sullivan",
+    "call number": "folio PN6725 .O75 1990",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "17": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "633"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "18": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "167"
+      ]
+    },
+    "call number": "NC1300.N3 1965",
+    "publication info": null,
+    "notes": []
+  },
+  "19": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "168"
+      ]
+    },
+    "call number": "NC1300.N3 1972",
+    "publication info": null,
+    "notes": []
+  },
+  "20": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "178"
+      ]
+    },
+    "call number": "NC1300.N3 1988",
+    "publication info": null,
+    "notes": []
+  },
+  "21": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "title": "Index entry to Cartoonist Profiles, no. 82",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1989), p. 22-27",
+    "call number": "NC1300.C35no.82",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from R.C. Harvey."
+    ]
+  },
+  "22": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "93"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "23": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "180"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "24": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "14"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "25": {
+    "heading": "Trachte, Don, 1915- --Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "79",
+        "312"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "26": {
+    "heading": "Trachtenberg, Michelle.",
+    "title": "Richie Rich's Christmas Wish [videorecording]",
+    "author": "Saban Entertainment ; in association with The Harvey Entertainment Company.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN1997.R525 1998",
+    "library has": "",
+    "publication info": {
+      "place": "Burbank, Calif.",
+      "publisher": "Warner Home Video",
+      "date": "1998"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 videocassette (84 min.) : sd., col. ; 1/2 in.",
+      "VHS format.",
+      "Cast: David Gallagher, Martin Mull, Jake Richardson, Keene Curtis, Michelle Trachtenberg, Marla Maples, Richard Fancy, Richard Riehle, Kathleen Freeman, Blake Jeremy Collins, Austin Stout, Lesley Ann Warren, Eugene Levy.",
+      "Credits: music composed by Deddy Tzur ; edited by John Gilbert ; director of photography, Christian Sebaldt ; executive producers, Haim Saban, Lance H. Robbins, Jeffrey A. Montgomery ; produced by Mike Elliott ; story by Rob Kerchner &amp; Jason Jeffer ; screenplay, Mark Furey ; directed by John Murlowski.",
+      "Summary: When Richie accidentally wrecks a sleigh full of presents for needy children, he wishes he'd never been born. He gets more than he bargained for when Professor Keenbean's Wishing Machine actually makes his wish come true. Now he's caught in the middle of an upside-down world where nothing's the way he remembers it, and no one remembers him either."
+    ]
+  },
+  "27": {
+    "heading": "Trachtenberg, Peter.",
+    "title": "Maus, a Survivor's tale I : My Father Bleeds History : teacher's guide",
+    "author": "written by Peter Trachtenberg.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "D810.J4S6442 1994",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Random House Academic Marketing",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "8 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Other title: Maus teacher's guide",
+      "Subjects: Art Spiegelman ; Maus; study and teaching of comics."
+    ]
+  },
+  "28": {
+    "heading": "Trachtman, Philip.",
+    "title": "Motor Mania : Cartoons for Collector Car Fanatics",
+    "author": "by Philip Trachtman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1763.A8T7 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Princeton, NJ",
+      "publisher": "Paramount Press",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "63 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cartoons about automobile collecting."
+    ]
+  },
+  "29": {
+    "heading": "Tracing.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "30": {
+    "heading": "Tracing Books.",
+    "title": "Bat Man : Trace &amp; Color.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B37T7 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Racine, Wisc.",
+      "publisher": "Western Publishing Co.",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "31 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes tracing tissue."
+    ]
+  },
+  "31": {
+    "heading": "Tracing Books.",
+    "title": "Blondie Trace and Color.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B55C6 1968c",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Saalfield",
+      "date": "1968"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 28 cm.",
+      "\"From the famous comic strip by Chic Young\".",
+      "\"Artcraft\".",
+      "\"4394.\"",
+      "Cover vignette of the cast of the Blondie television program."
+    ]
+  },
+  "32": {
+    "heading": null,
+    "title": "Tracing Comic Art Traditions in India to Pre-Colonial Times",
+    "author": "Aruna Rao.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1993?",
+      "40 leaves : ill. ; 28 cm.",
+      "A conference paper.",
+      "Includes bibliographical references. 1. Indian comics",
+      "History and criticism. I. Rao, Aruna. Call no.: PN6790.I5R3 1993"
+    ]
+  },
+  "33": {
+    "heading": "\"Tracing the Phone Call\"* (Dinky Dinkerton) / JM Wallace. 1 p.",
+    "title": "in Reg'lar Fellers Heroic Comics, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1940",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Sunday page reprint. I. Huhta, Art. II. Dinky Dinkerton. k. Phone Calls. Call no.: Film 15791r.194"
+    ]
+  },
+  "34": {
+    "heading": "The Track.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "35": {
+    "heading": "Track and Field.",
+    "title": "\"Tom Jones\" 1 p. in Real Fact Comics, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar./Apr. 1946).",
+    "call number": "Film 15791r.11",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Wheaties advertisement.",
+      "Jones is a college track and field coach."
+    ]
+  },
+  "36": {
+    "heading": "Track and Field Athletes.",
+    "title": "Jackie Joyner-Kersee in High Hurdles.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.D3J3 1992",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Tony's Sports Comics)",
+      "\"Presented by Sports Illustrated.\"",
+      "Breakfast cereal giveaway about the African American woman track and field athlete.",
+      "Genres: Educational, sports."
+    ]
+  },
+  "37": {
+    "heading": "Track Man.",
+    "title": "Trackman.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.S75T7",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Maiden, N.C.",
+      "publisher": "Stroker Comics",
+      "date": "1989-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Other title: Track Man.",
+      "Setting: Automobile racing.",
+      "Genres: Superhero, sports."
+    ]
+  },
+  "38": {
+    "heading": null,
+    "title": "Tracker",
+    "author": "William Van Horn.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Detective and mystery comic books, strips, etc. 2. Funny animal comics. I. Van Horn, William. II. Blackthorne. Call no.",
+    "publication info": {
+      "place": "El Cajon, Calif.",
+      "publisher": "Blackthorne",
+      "date": "1988-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in 4 nos."
+    ]
+  },
+  "39": {
+    "heading": null,
+    "title": "\"Tracking\"",
+    "author": "by Bill Woggon",
+    "title_type": "incipit-assigned",
+    "series": "Dotty and Ditto",
+    "appears_in": " 6 p. in Archie Comics, no. 19 (Mar./Apr. 1946).",
+    "call number": "PN6728.1.A7A7no.19",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Still working on his Second Class requirements, cousin Dickie polishes a cuspidor and studies animal tracks."
+    ]
+  },
+  "40": {
+    "heading": "Tracking.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "41": {
+    "heading": "Tracking.",
+    "title": "\"He's Got the Scent\"",
+    "author": "Sternecky.",
+    "title_type": "incipit-assigned",
+    "series": "Pogo, Dec. 6, 1991",
+    "call number": "PN6726 f.B55 \"scents\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Bosco sniffs Owl's sneakers and begins tracking."
+    ]
+  },
+  "42": {
+    "heading": "Tracking.",
+    "title": "\"I Worked Part-Time for the IRS One Summer\"",
+    "author": "by Bill Rechin and Don Wilder.",
+    "title_type": "incipit-assigned",
+    "series": "Crock, Mar. 13, 1991",
+    "call number": "PN6726 f.B55 \"tracking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Grout will find the Lost Patrol. He could track a gnat to the Moon, with his training."
+    ]
+  },
+  "43": {
+    "heading": "Tracking.",
+    "title": "\"Play Watchdog Till You Hear From Me\"",
+    "author": "Dick Locher, Max Collins.",
+    "title_type": "incipit-assigned",
+    "series": "Dick Tracy, June 4, 1991",
+    "call number": "PN6726 f.B55 \"dognapping\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Tracy is tracking the dognappers."
+    ]
+  },
+  "44": {
+    "heading": "Tracking.",
+    "title": "\"Reglements des Comptes\" 6 p. in Soleils Bleus, by Rafa Gonzalez Negrete",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Grenoble : Comics USA, 1988).",
+    "call number": "PN6777.G6S6 1988",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Fox Malcom tracks the androids that ran away with his wife, and kills them both and the chicken he rode in on."
+    ]
+  },
+  "45": {
+    "heading": "Tracking.",
+    "title": "\"Score Again\"",
+    "author": "by Blosser.",
+    "title_type": "incipit",
+    "series": "Freckles and His Friends, Apr. 13, 1946",
+    "call number": "PN6728.F675F6 1939 v.2",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Freckles changes Pat's tire without looking at her, and she gives him a sniff of her perfume in case he wants to track her down."
+    ]
+  },
+  "46": {
+    "heading": "Tracking.",
+    "title": "\"Sleeping Dogcatcher\"* p. 26 in Willy and Wanda : The Iron Flowerpotters",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Hiddigeigei Books, 1977).",
+    "call number": "PN6790.N44W517 1977",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Wanda and Lambik come upon an alchemist, asleep with a net over a dog. He has brewed a potion called K-9, which improves the tracking ability of dogs."
+    ]
+  },
+  "47": {
+    "heading": "Tracking.",
+    "title": "\"The Snowman!\" 5 p. in Dead of Night, no. 6",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1974) ; reprinted from Astonishing, no. 36",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: \"Deep in the Himalayas\" two greedy mountaineers conduct a deadly quarrel as they track the Abominable Snowman, until the survivor, reduced to a \"sub-human,\" staggers through the snow leaving the same footprints they were originally following. k. Himalayas. k. Tibet. k. Nepal. k. Mountaineers. k. Abominable Snowman. k. Yeti. k. Sub-humans. k. Tracking. Call no.: PN6728.4.M3D36no.6"
+    ]
+  },
+  "48": {
+    "heading": "Tracking.",
+    "title": "\"Special Agent of the Federal Bureau of Investigation\". 5 p. in True Comics, no. 41",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1944",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(6th story; pages 25-29 of magazine; not mentioned on cover)",
+      "SUMMARY: Notorious Texas car thief Newton Baird crosses state lines, so FBI Agent Steve Saunders tracks him to Louisiana, Minnesota, and back to Texas. 1. United States. Federal Bureau of Investigation. k. Notoriety. k. Texas. k. Car thieves. k. Thieves. k. Crossing state lines. k. FBI agents. k. Tracking. k. Louisiana. k. Minnesota. Call no.: PN6728.1.P3T7no.41"
+    ]
+  },
+  "49": {
+    "heading": "Tracking.",
+    "title": "\"Special Agent of the Federal Bureau of Investigation\". 5 p. in True Comics, no. 43",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1945",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Serviceman Charles Sullivan writes an extortion note to try to get some easy money out of the New York Central Railroad. FBI agents watching from an airplane, posing as a boy and girl friend, as a colonel, as a sergeant, and as a cab driver, track the culprit down through a series of stakeouts. 1. United States. Federal Bureau of Investigation. k. Servicemen. k. Extortion. k. Notes. k. Easy money. k. New York Central Railroad. k. Railroads. k. Tracking. k. FBI agents. k. Stakeouts. Call no.: PN6728.1.P3T7no.43"
+    ]
+  },
+  "50": {
+    "heading": "Tracking.",
+    "title": "\"You Want My Bloodhound to Help Track It Down?\"",
+    "author": "by James Esmer.",
+    "title_type": "incipit",
+    "series": "Grandpa Zeke, Mar. 11, 1991",
+    "call number": "PN6726 f.B55 \"elephants\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A policeman tells Grandpa Zeke, who is holding an elephant on a leash, that an elephant is missing from the circus."
+    ]
+  },
+  "51": {
+    "heading": "Tracking.",
+    "title": "\"You Was Trackin' Him?\"",
+    "author": "Dick Locher, Mike Kilian.",
+    "title_type": "incipit-assigned",
+    "series": "Dick Tracy, July 31, 1997",
+    "call number": "PN6726f.B55 \"Tracking\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Key words: Catching up, mountain men, reasons."
+    ]
+  },
+  "52": {
+    "heading": "Tracking In.",
+    "title": "\"Scattergrained\"",
+    "author": "Ferd &amp; Tom Johnson.",
+    "title_type": "incipit",
+    "series": "Moon Mullins, Sept. 24, 1988",
+    "call number": "PN6726 f.B55 \"hoeing\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Kayo hoes in the garden, then tracks it indoors while asking for his pay."
+    ]
+  },
+  "53": {
+    "heading": null,
+    "title": "\"Tracking the Manhunter\"",
+    "author": "by Dafydd Neal Dyar",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 20-21, 38-39 in Whizzard, no. 12 (Spring 1979).",
+    "call number": "PN6725.W47no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Article traces the history of the DC character."
+    ]
+  },
+  "54": {
+    "heading": "Trackless Wastes.",
+    "title": "\"Across the Roof of the World\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Black Venus) 6 p. in Contact Comics, no. 7",
+    "call number": "PN6728.1.A83C6no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: \"Over the craggy mountain peaks and trackless wastes of that land of mystery, Tibet, roars the Black Venus!\""
+    ]
+  },
+  "55": {
+    "heading": null,
+    "title": "Trackman.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.S75T7",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "Maiden, N.C.",
+      "publisher": "Stroker Comics",
+      "date": "1989-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Other title: Track Man.",
+      "Setting: Automobile racing.",
+      "Genres: Superhero, sports."
+    ]
+  },
+  "56": {
+    "heading": "Tracks.",
+    "title": "\"All the Guys on Last Year's Basketball Team also ate Library Paste with a Spoon\"",
+    "author": "by Ray Billingsley.",
+    "title_type": "incipit-assigned",
+    "series": "Curtis, Sept. 8, 1993",
+    "call number": "PN6726 f.B55 \"paste\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Curtis tries to get Barry to take a shortcut across the train tracks, like the cool guys on last year's basketball team did."
+    ]
+  },
+  "57": {
+    "heading": "Tracks.",
+    "title": "Alpha Track.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Fantasy comics. I. Fantasy General Comics. k. Tracks. Call no.",
+    "publication info": {
+      "place": "Williamsport, PA",
+      "publisher": "Fantasy General Comics",
+      "date": "1985-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "To be complete in 12 nos."
+    ]
+  },
+  "58": {
+    "heading": "Tracks.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "59": {
+    "heading": "Tracks.",
+    "title": "\"Car Leaves Tracks\"",
+    "author": "by Phil Nowlan and Lt",
+    "title_type": "incipit",
+    "series": "Buck Rogers, 25th Century A.D., Sept. 30, 1935",
+    "appears_in": " Dick Calkins.",
+    "call number": "PN6726 f.B55 \"monorails\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Buck and Wilma are fleeing with Eenan on a monorail; the track ends but their tunnel car is also an air car, and they are well launched."
+    ]
+  },
+  "60": {
+    "heading": "Tracks.",
+    "title": "\"Click Track\"",
+    "author": "by Scott Roberts",
+    "title_type": "incipit",
+    "series": "pt. 7",
+    "appears_in": " p. 3-26 in Comic Library International, v. 5 (2000).",
+    "call number": "PN6720.C57v.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: \"After a series of labyrinthine misadventures, Click and Billie are about to solve the mystery of the missing Duane Shane when they're waylaid by Kay Madura (a.k.a The Mannequin).\""
+    ]
+  },
+  "61": {
+    "heading": "Tracks.",
+    "title": "\"Click Track\"",
+    "author": "by Scott Roberts",
+    "title_type": "incipit",
+    "series": "pt. 8",
+    "appears_in": " p. 128-151 in Comic Library International, v. 5 (2000).",
+    "call number": "PN6720.C57v.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: \"The final act. That's a wrap!\""
+    ]
+  },
+  "62": {
+    "heading": "Tracks.",
+    "title": "Grendel Classics",
+    "author": "by Matt Wagner.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D34G68 1995",
+    "library has": "no. 1-2.",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "1. Devil Tracks"
+      },
+      {
+        "title": "2. Devil Eyes."
+      }
+    ],
+    "notes": [
+      "Complete in 2 nos."
+    ]
+  },
+  "63": {
+    "heading": "Tracks.",
+    "title": "\"If We Can Get Off at All, I'll Take One of the Kids Right to the Track!\"",
+    "author": "Frank Godwin.",
+    "title_type": "incipit-assigned",
+    "series": "Rusty Riley, Dec. 18, 1948",
+    "call number": "PN6726 f.B55 \"Havana\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The pilot is delivering a plane to Havana, and offers to help prevent the dirty work at the Royal Palm Track."
+    ]
+  },
+  "64": {
+    "heading": "Tracks.",
+    "title": "\"I'm Makin' Tracks Like that Little Kid in The Family Circus\"",
+    "author": "by Brian Crane.",
+    "title_type": "incipit-assigned",
+    "series": "Pickles, May 12, 1997",
+    "call number": "PN6726 f.B55 \"Family Circus\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Nelson is putting sheets of black construction paper in rows all over the house."
+    ]
+  },
+  "65": {
+    "heading": "Tracks.",
+    "entry type": "index entry",
+    "title": "Panel by Panel : A History of Australian Comics",
+    "author": "John Ryan",
+    "series": null,
+    "pages": {
+      "range": [
+        "212"
+      ]
+    },
+    "call number": "PN6790.A8R9",
+    "publication info": {
+      "place": "Stanmore, NSW",
+      "publisher": "Cassell Australia",
+      "date": "1979"
+    },
+    "notes": [
+      "Index by John Melloy."
+    ]
+  },
+  "66": {
+    "heading": "Tracks.",
+    "title": "\"The Inside Track on the Bathroom and the Phone!\"",
+    "author": "by Kate Osann.",
+    "title_type": "incipit-assigned",
+    "series": "Tizzy, July 28, 1970",
+    "call number": "PN6726 f.B55 \"sisters\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Debbie is happy that her sister's getting married; life will improve at home."
+    ]
+  },
+  "67": {
+    "heading": "Tracks.",
+    "title": "\"Off the Track\"",
+    "author": "by Collins and Beatty",
+    "title_type": "incipit",
+    "series": "A Mike Mist Private Eye Minute Mist-ery",
+    "appears_in": " p. 22 in The Mike Mist Minute Mist-eries (New York : Eclipse Enterprises, 1981).",
+    "call number": "PN6728.5.E25M5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "68": {
+    "heading": "Tracks.",
+    "title": "\"On the Track of the She-Pirate!\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Conan) 17 p. in Conan the Barbarian, no. 61",
+    "call number": "PN6728.4.M3C6no.61",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "69": {
+    "heading": "Tracks.",
+    "title": "\"Sudden Death at the Race Track\"",
+    "author": "[No author]",
+    "title_type": "incipit-assigned",
+    "series": "Doll Man) 12 p. in Doll Man, no. 33",
+    "call number": "Film 15791r.81",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Crooks try to fix a horse race, Doll Man falls on the track in front of the horses and Elmo saves him."
+    ]
+  },
+  "70": {
+    "heading": "Tracks.",
+    "title": "\"You Might Say Our Paths Crossed\"",
+    "author": "Jim Davis.",
+    "title_type": "incipit-assigned",
+    "series": "U.S. Acres, Mar. 5, 1987",
+    "call number": "PN6726f.B55 \"skateboards\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The pig (Orson) has skateboard tracks across his stomach; the bird (Booker) asks if he's met Max yet."
+    ]
+  },
+  "71": {
+    "heading": "Tracks magazine.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "144"
+      ]
+    },
+    "call number": "PN6790.A8 S47 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "72": {
+    "heading": "Tracks Publishing Co.",
+    "title": "Captain Goodvibes Strange Tales",
+    "author": "by Tony Edwards.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Avalon Beach, NSW",
+      "publisher": "Tracks Publishing Co.",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "42 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Caption title: Captain Goodvibes, the pig of steel. 1. Underground comic books, strips, etc. 2. Superhero comics. 3. Funny animal comics. 4. Australian comics. I. Edwards, Tony. II. Strange Tales. III. The Pig of Steel. IV. Tracks Publishing Co. k. Goodvibes. Call no.: PN6790.A83E3 1975"
+    ]
+  },
+  "73": {
+    "heading": "Traction.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "74": {
+    "heading": "Traction.",
+    "title": "\"Next Time, Leroy, Tell Me When You're Going to be Working Under the Car\"",
+    "author": "by Hoest &amp; Reiner.",
+    "title_type": "incipit",
+    "series": "The Lockhorns, Mar. 8, 2000",
+    "call number": "PN6726 f.B55 \"traction\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Leroy's in traction."
+    ]
+  },
+  "75": {
+    "heading": "Tractors.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "76": {
+    "heading": "Tractors.",
+    "title": "\"Harnessed Power : the Tractor\" 6 p. in Sparkling Stars, no. 20",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1946).",
+    "call number": "PN6728.1.H6S63no.20",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "77": {
+    "heading": "Tractors.",
+    "title": "\"My Very Own Riding Mower!\"",
+    "author": "by Brian Basset.",
+    "title_type": "incipit-assigned",
+    "series": "Adam, July 7, 1984",
+    "call number": "PN6726 f.B55 \"lawnmowers\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Adam's new lawnmower is overshadowed by his neighbor's big farm tractor."
+    ]
+  },
+  "78": {
+    "heading": "Tractors.",
+    "title": "\"Now I Got Holes from Cigarette Butts, a Whole Acre to Vacuum, a Four-Wheel Drive Rug Shampoo Tractor with a Carpet Deodorizer Spreader\"",
+    "author": "MacNelly.",
+    "title_type": "incipit-assigned",
+    "series": "Shoe, Nov. 30, 1985",
+    "call number": "PN6726 f.B55 \"astroturf\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Cosmo had the 'Marquis d'Sod Lawn Service' install astroturf, and there's no more weeds, seeds, fertilizing or watering."
+    ]
+  },
+  "79": {
+    "heading": "Tractors.",
+    "title": "\"Restless!\" 5 p. in True Life Romance, no. 3",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1956",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Distraught that Jay is spending all their money on a tractor, newlywed Betsy tries a night on the town without him, and finds it isn't fun any more. k. Money. k. Tractors. k. Nights on the Town. k. Newlyweds. k. Fun. Call no.: PN6728.2.A3T7no.3"
+    ]
+  },
+  "80": {
+    "heading": "Tracts.",
+    "title": "The Last Missionary",
+    "author": "by J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "T.C.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Chino, Calif.",
+      "publisher": "Chick Publications",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "72 x 126 mm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "A tract encouraging Christians to aid missionaries by supplying them with large numbers of Chick Publications tracts. 1. Missionaries",
+      "Comic books, strips, etc. 2. Tracts",
+      "Comic books, strips, etc. I. Chick, Jack T. Call no.: PN6728.C47L33 1987"
+    ]
+  },
+  "81": {
+    "heading": "Tracts.",
+    "title": "Who Are They Gonna Remember?",
+    "author": "by J",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": "T.C.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Cucamonga, CA",
+      "publisher": "Chick Publications",
+      "date": "1987"
+    },
+    "physical description": {
+      "dimensions": "72 x 127 mm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Tract addressed to pastors encouraging them to buy and distribute large numbers of Chick Publications tracts. 1. Tracts",
+      "Comic books, strips, etc. I. Chick, Jack T. Call no.: PN6728.C47W46 1987"
+    ]
+  },
+  "82": {
+    "heading": "Tracy, Dick.",
+    "title": "Dick Tracy Comics Monthly [microform]",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "Film 15791 r.282",
+    "library has": "no. 69-93 (1953-1955).",
+    "publication info": {
+      "place": "St. Louis, Mo.",
+      "publisher": "Harvey Publications",
+      "date": "1950-1961"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published no. 25 (Mar. 1950) - no. 145 (Apr. 1961), cf. Official Overstreet Comic Book Price Guide.",
+      "Continues: Dick Tracy Monthly.",
+      "Microfilm. St. Clair Shores, Mich. : J. Bails.",
+      "positive ; 16 mm.",
+      "(Jerry Bails Microfilm Library of Comic Art)",
+      "Genre: Detective."
+    ]
+  },
+  "83": {
+    "heading": "Tracy, Dick.",
+    "title": "\"In Here Quick!\"",
+    "author": "Dick Locher, Mike Kilian.",
+    "title_type": "incipit-assigned",
+    "series": "Dick Tracy, July 28, 1997",
+    "call number": "PN6726f.B55 \"Trap Doors\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Dick Tracy and Ranger Echo duck into a trap door opened by Rattlesnake Thelma, as a landslide threatens to demolish the cabin."
+    ]
+  },
+  "84": {
+    "heading": "Tracy, Dick.",
+    "title": "\"Play Watchdog Till You Hear From Me\"",
+    "author": "Dick Locher, Max Collins.",
+    "title_type": "incipit-assigned",
+    "series": "Dick Tracy, June 4, 1991",
+    "call number": "PN6726 f.B55 \"dognapping\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Tracy is tracking the dognappers."
+    ]
+  },
+  "85": {
+    "heading": "Tracy, Dick.",
+    "title": "\"What Can we Do but Tuck Our Tails Between Our Legs and Run?\"",
+    "author": "Dick Locher, Max Collins.",
+    "title_type": "incipit-assigned",
+    "series": "Dick Tracy, May 21, 1991",
+    "call number": "PN6726 f.B55 \"dognapping\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Tracy has exposed the dognappers' activities to the press."
+    ]
+  },
+  "86": {
+    "heading": "Tracy, Dick--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "16",
+        "199",
+        "206"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "87": {
+    "heading": "Tracy, Dick--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "12",
+        "323",
+        "335"
+      ]
+    },
+    "call number": "PN6725.T5 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "88": {
+    "heading": "Tracy, George.",
+    "title": "\"Adventures in Aluminum\"",
+    "author": "George Tracy 2 p",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " text in Fight Comics, no. 45 (Aug. 1946).",
+    "call number": "Film 15791 r.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "89": {
+    "heading": "Tracy, George.",
+    "title": "\"Banquet of Doom\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 36 (Feb. 1945).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "90": {
+    "heading": "Tracy, George.",
+    "title": "\"Blaze of Glory\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 37 (Apr. 1945).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "91": {
+    "heading": "Tracy, George.",
+    "title": "\"Blind Man's Bluff\"",
+    "author": "George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 43 (Apr. 1946).",
+    "call number": "Film 15791 r.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "92": {
+    "heading": "Tracy, George.",
+    "title": "\"Bombs Away\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 29 (Dec. 1943).",
+    "call number": "Film 15791 r.145",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "93": {
+    "heading": "Tracy, George.",
+    "title": "\"Comrade Hellcat\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 28 (Oct. 1943).",
+    "call number": "Film 15791 r.145",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "94": {
+    "heading": "Tracy, George.",
+    "title": "\"The Corpse Had a Message\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 38 (June 1945).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "95": {
+    "heading": "Tracy, George.",
+    "title": "\"Death Cut the Cards\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 39 (Aug. 1945).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "96": {
+    "heading": "Tracy, George.",
+    "title": "\"Flying Jeep\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 41 (Dec. 1945).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Inside front and back covers."
+    ]
+  },
+  "97": {
+    "heading": "Tracy, George.",
+    "title": "\"4-F\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 35 (Dec. 1944).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "98": {
+    "heading": "Tracy, George.",
+    "title": "\"Golden Rubber\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 26 (June 1943).",
+    "call number": "Film 15791 r.145",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "99": {
+    "heading": "Tracy, George.",
+    "title": "\"The Intruder\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 33 (Aug. 1944).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "100": {
+    "heading": "Tracy, George.",
+    "title": "\"It's Smart to Be Dumb\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 47 (Dec. 1946).",
+    "call number": "Film 15791 r.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "101": {
+    "heading": "Tracy, George.",
+    "title": "\"Joker\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 40 (Oct. 1945).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Inside front and back covers."
+    ]
+  },
+  "102": {
+    "heading": "Tracy, George.",
+    "title": "\"The Lieutenant Meets a Lady\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 31 (Apr. 1944).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "103": {
+    "heading": "Tracy, George.",
+    "title": "\"Luck Is Where You Find It\"",
+    "author": "George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 46 (Oct. 1946).",
+    "call number": "Film 15791 r.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "104": {
+    "heading": "Tracy, George.",
+    "title": "\"Pass the Ammunition\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 32 (June 1944).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "105": {
+    "heading": "Tracy, George.",
+    "title": "\"The Pig Headed Pug\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 50 (June 1947).",
+    "call number": "Film 15791 r.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "106": {
+    "heading": "Tracy, George.",
+    "title": "\"Puzzle For a Murderer\"",
+    "author": "George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 49 (Apr. 1947).",
+    "call number": "Film 15791 r.5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "107": {
+    "heading": "Tracy, George.",
+    "title": "\"Rosin Is So Restful\"",
+    "author": "George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 44 (June 1946).",
+    "call number": "Film 15791 r.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "108": {
+    "heading": "Tracy, George.",
+    "title": "\"Silent Cannons\"",
+    "author": "by George Tracy",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 2 p. text in Fight Comics, no. 34 (Oct. 1944).",
+    "call number": "Film 15791 r.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "109": {
+    "heading": "Tracy, Katherine.",
+    "title": "For Laughing Out Loud",
+    "author": "by Herman L",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Masin ; cover by Willard Mullin ; illustrations by Katherine Tracy.",
+    "call number": "GV959.M36 1954",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Scholastic Book Services",
+      "date": "1954"
+    },
+    "physical description": {
+      "dimensions": "16 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "90 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(SBS ; T17)",
+      "Football stories."
+    ]
+  },
+  "110": {
+    "heading": "Tracy, Marsh--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Adventure Heroes, Legendary Characters from Odysseus to James Bond",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "72"
+      ]
+    },
+    "call number": "P96.H46R67 1994",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "111": {
+    "heading": "Tracy, Miss.",
+    "entry type": "encyclopedic entry",
+    "title": "The Great Superman Book",
+    "author": "Michael Fleisher",
+    "series": null,
+    "pages": {
+      "range": [
+        "474"
+      ]
+    },
+    "call number": "PN6725.F5v.3",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Warner Books",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "112": {
+    "heading": "Tracy, Spencer.",
+    "entry type": "index entry",
+    "title": "The Mad World of William M. Gaines",
+    "author": "Frank Jacobs",
+    "series": null,
+    "pages": {
+      "range": [
+        "230",
+        "239"
+      ]
+    },
+    "call number": "PN4874.G28J3",
+    "publication info": {
+      "place": "Secaucus, N.J.",
+      "publisher": "L. Stuart",
+      "date": "1972"
+    },
+    "notes": []
+  },
+  "113": {
+    "heading": "Tracy, Tom.",
+    "title": "\"The Isle of Lost Conquistadores\"",
+    "author": "Tom Tracy",
+    "title_type": "incipit-assigned",
+    "series": "Shark Brodie",
+    "appears_in": " 7 p. in Fight Comics, no. 43 (Apr. 1946).",
+    "call number": "Film 15791 r.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "114": {
+    "heading": "Tracy, Tom.",
+    "title": "\"The Lost Liliani Pearl\"",
+    "author": "Tom Tracy",
+    "title_type": "incipit-assigned",
+    "series": "Shark Brodie",
+    "appears_in": " 5 p. in Fight Comics, no. 42 (Feb. 1946).",
+    "call number": "Film 15791 r.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed via Grand Comic Book Database."
+    ]
+  },
+  "115": {
+    "heading": "Tracy, William.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "662"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "116": {
+    "heading": null,
+    "title": "Tracy.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.T695",
+    "library has": "no. 181-182 (1983).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "London : D.C. Thomson, .",
+      "Published no. 1 (6 Oct. 1979) to no. 277 (19 Jan. 1985), cf. Gifford, D. The complete catalogue of British comics.",
+      "Absorbed by: Judy.",
+      "Other title: Tracy for Girls.",
+      "Genre: Girls'."
+    ]
+  },
+  "117": {
+    "heading": "Tracy--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, Comix &amp; Graphic Novels",
+    "author": "Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "83"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Phaidon",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "118": {
+    "heading": null,
+    "title": "\"Tracy Cartoon Furor\" p. 17",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Comics Journal #138 October 1990) 1. Dick Tracy. Call no.: PN6700.C62no.138",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "119": {
+    "heading": "Tracy for Girls.",
+    "title": "Tracy.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6738.T695",
+    "library has": "no. 181-182 (1983).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "London : D.C. Thomson, .",
+      "Published no. 1 (6 Oct. 1979) to no. 277 (19 Jan. 1985), cf. Gifford, D. The complete catalogue of British comics.",
+      "Absorbed by: Judy.",
+      "Other title: Tracy for Girls.",
+      "Genre: Girls'."
+    ]
+  },
+  "120": {
+    "heading": "Tracy Tabloid.",
+    "title": "The Dick Tracy Tabloid.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "Issue 1 (Sept. 1983) 1. Detective and mystery comic books, strips, etc.",
+    "publication info": {
+      "place": "Mt. Carmel, Ct.",
+      "publisher": "Vece",
+      "date": "1983-"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Also called: Tracy Tabloid.",
+      "History and criticism",
+      "Periodicals. I. Vece, Chuck. II. Tracy Tabloid. Call no.: PN6725.V37D5"
+    ]
+  },
+  "121": {
+    "heading": "Tracy Twins.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "732"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "122": {
+    "heading": "Tracy's Wartime Memories.",
+    "title": "Dick Tracy : Tracy's Wartime Memories",
+    "author": "Max Collins, Dick Locher.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Park Forest, Ill.",
+      "publisher": "K. Pierce",
+      "date": "1986"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "64 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(U.S. Classics Series) 1. Detective and mystery comic books, strips, etc. I. Collins, Max Allan. II. Locher, Dick. III. Tracy's Wartime Memories. IV. Series. Call no.: PN6728.D5T7 1986"
+    ]
+  },
+  "123": {
+    "heading": "Trade.",
+    "title": "\"Could We Focus on Saturday Night?\"",
+    "author": "Nicole Hollander.",
+    "title_type": "incipit-assigned",
+    "series": "Sylvia, June 23, 1993",
+    "call number": "PN6726 f.B55 \"fortunetellers\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The fortuneteller sees items on trade with China and Japan, and natural disasters, and an upcoming date."
+    ]
+  },
+  "124": {
+    "heading": "Trade.",
+    "title": "\"Fur Trade\"",
+    "author": "by Richard Corben",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 88-95 in Heavy Metal, v. 22, no. 6 (Jan. 1999).",
+    "call number": "PN6728.H43v.22no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "125": {
+    "heading": "Trade and Mark.",
+    "title": "\"Saved by Trade and Mark\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Adventures of Nip &amp; Tuck) 1/2 p. advertising in Master Comics, no. 99",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Smith Brothers Cough Drops ad. I. Adventures of Nip &amp; Tuck. k. Advertising Strips. k. Smith Brothers Cough Drops. k. Trade and Mark. k. Nip &amp; Tuck. Call no.: Film 15791r.244"
+    ]
+  },
+  "126": {
+    "heading": "Trade association, comic book industry.",
+    "entry type": "index entry",
+    "title": "Marvel : Five Fabulous Decades of the World's Greatest Comics",
+    "author": "Les Daniels",
+    "series": null,
+    "pages": {
+      "range": [
+        "74"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "H.N. Abrams",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "127": {
+    "heading": "Trade Group Associates Incorporated.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "58"
+      ]
+    },
+    "call number": "PN6710.P85 1999",
+    "publication info": null,
+    "notes": []
+  },
+  "128": {
+    "heading": "Trade-ins.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "129": {
+    "heading": "Trade Journals.",
+    "title": "\"Slave Labor Debuts Trade Journal\" p. 16 in The Comics Journal, no. 112",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1986).",
+    "call number": "PN6700.C62no.112",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Pete Coogan."
+    ]
+  },
+  "130": {
+    "heading": "Trade Magazine Cartoons.",
+    "title": "\"Fifty Years with Russ Johnson\"",
+    "author": "Dale Luciano",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 82-91 in The Comics Journal, no. 83 (Aug. 1983).",
+    "call number": "PN6700.C62no.83",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About trade magazine cartoons, and the book Forty Years with Mr. Oswald, which collects Russ Johnson's strip Mr. Oswald.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "131": {
+    "heading": "Trade Organizations.",
+    "title": "\"New Trade Organization\" p. 22-23 in The Comics Journal, no. 206",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1998).",
+    "call number": "PN6700.C62no.206",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(News Watch)",
+      "Formed in Hawaii, the organization is called Comic Artists, Retailers and Publishers (CARP)."
+    ]
+  },
+  "132": {
+    "heading": "Trade Paperback Collections.",
+    "title": "\"Putting the Books Back in Comic Books\"",
+    "author": "Nat Gertler on comic books",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 22-23 in Hogan's Alley, v. 2, no. 3 (=no. 7) (1999).",
+    "call number": "PN6700.H6no.7",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(The Quarterly Planet)",
+      "Column on book-length comics and trade paperback collections."
+    ]
+  },
+  "133": {
+    "heading": null,
+    "title": "\"Trade Paperback Comic Collections Lead Bestseller List\" p. 27 in The Comics Journal, no. 122",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1988).",
+    "call number": "PN6700.C62no.122",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About newspaper strip collections.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "134": {
+    "heading": "Trade Paperbacks.",
+    "title": "\"Rough Trades\"",
+    "author": "by Ray Mescallado",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 115-117 in The Comics Journal, no. 217 (Nov. 1999).",
+    "call number": "PN6700.C62no.217",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About trade paperbacks.",
+      "(Fanboi Politik)"
+    ]
+  },
+  "135": {
+    "heading": "Trade policy.",
+    "entry type": "index entry",
+    "title": "Tomorrow",
+    "author": "by Tom Tomorrow.",
+    "series": null,
+    "pages": {
+      "range": [
+        "89"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "St. Martin's Press",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "136": {
+    "heading": "Trade protection.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "137": {
+    "heading": "Trade Shows.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "138": {
+    "heading": "Trade Shows.",
+    "title": "\"1994 Major Conventions and Trade Show Calendar\" p. 46 in The Comics Journal, no. 166",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1994",
+    "call number": "PN6700.C62no.166",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch)"
+    ]
+  },
+  "139": {
+    "heading": "Trade Shows.",
+    "title": "\"Star*Reach News\" p. 19 in The Comics Journal, no. 97",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1985",
+    "call number": "PN6700.C62no.97",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About trade shows.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "140": {
+    "heading": "Trade union.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "316"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "141": {
+    "heading": "Trade Unions.",
+    "title": "Los Afortunados.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1965.",
+      "Title from cover.",
+      "Summary: Jose, Joaquin and Juan get jobs in a factory, join the union, and learn how to make the union work democratically in the interests of all.",
+      "Donor's note: Script/plot by Will Eisner, art by Andre Le Blanc, for U.S.I.A. 1. Trade-unions",
+      "Comic books, strips, etc. I. Eisner, Will. II. Le Blanc, Andre, 1921- III. United States Information Agency. Call no.: PN6728.3.U5A34 1965"
+    ]
+  },
+  "142": {
+    "heading": "Trade Unions.",
+    "title": "Cartoons : Drawn and Quartered",
+    "author": "William Puette.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Photocopy from the author's Through Jaundiced Eyes, How the Media View Organized Labor (Ithaca, NY",
+      "publisher": "ILR Press",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "p. 74-99 : ill.",
+      "Bibliographical references not included with photocopy. 1. Trade-unions in comic books, strips, etc. I. Puette, William. II. Through Jaundiced Eyes, How the Media View Organized Labor. III. ILR Press. Call no.: PN6725.P82C3 1992"
+    ]
+  },
+  "143": {
+    "heading": "Trade Unions.",
+    "title": "Pepe Obrero y su Sueno.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "16 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1965?",
+      "Title from cover.",
+      "Donor's note: Eisner, script; Le Blanc, art.",
+      "Symbol and name of Alianza para el Progreso on back cover. 1. Industrialization",
+      "Comic books, strips, etc. 2. Trade-unions",
+      "Comic books, strips, etc. I. Eisner, Will. II. Le Blanc, Andre, 1921- III. Alliance for Progress. Call no.: PN6728.3.U5P4 1965"
+    ]
+  },
+  "144": {
+    "heading": "Trade Winds.",
+    "title": "\"Flash Facts\" 1 p. in The Flash, no. 133",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1962).",
+    "call number": "PN6728.1.N3F55no.133",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Facts about Halley's Comet, Hans Lippershey and the telescope, homogenization of milk, and trade winds."
+    ]
+  },
+  "145": {
+    "heading": null,
+    "title": "\"Trademark Challenge Forces DC to Change Imprint Name\" p. 15 in The Comics Journal, no. 188",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1996",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Matrix\" changed to \"Helix\". 1. DC Comics, Inc. k. Matrix. k. Helix. Call no.: PN6700.C62no.188"
+    ]
+  },
+  "146": {
+    "heading": "Trademarks.",
+    "title": "Character Trademarks",
+    "author": "by John Mendenhall.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Chronicle Books",
+      "date": "1990"
+    },
+    "physical description": {
+      "dimensions": "20 x 22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "130 p.",
+      "illustrationTypes": "ill. (part col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references. 1. Trademarks",
+      "United States",
+      "History. I. Mendenhall, John, 1950- Call no.: T223.V2M42 1990"
+    ]
+  },
+  "147": {
+    "heading": "Trademarks.",
+    "title": "\"Iguana Comics x 2\" p. 28 in The Comics Journal, no. 161",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1993",
+    "call number": "PN6700.C62no.161",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch)",
+      "Rip Off Press changes it's Iguana Comics imprint to Magnecom because of a prior claim to the Iguana trademark."
+    ]
+  },
+  "148": {
+    "heading": "Trademarks.",
+    "title": "Index entry to Amazing Heroes, no. 154",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1, 1988",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Brian Mowbray. I. Information Center. k. Trademarks. Call no.: PN6725.A47no.154"
+    ]
+  },
+  "149": {
+    "heading": "Trademarks.",
+    "title": "\"MGM Stalks Pink Panthers in Trademark Lawsuit\"",
+    "author": "by Nina Reyes",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 12-13, 28 in OutWeek, no. 82 (Jan. 23, 1991)",
+    "call number": "HQ76.3.U5 O98no.82",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Lawsuit by MGM to attempts to stop gay activist group from using the name Pink Panthers."
+    ]
+  },
+  "150": {
+    "heading": "Trademarks.",
+    "title": "\"Managing Trademark Risk : A Self-Help Guide to Picking the Title of Your Feature\"",
+    "author": "by Stuart M",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Rees. p. 63-65 in Cartoonist Profiles, no. 129 (Mar. 2001).",
+    "call number": "NC1300.C35no.129",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "151": {
+    "heading": "Trademarks.",
+    "title": "\"Marvel Loses Champions Trademark\" p. 7-8 in The Comics Journal, no. 125",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1988).",
+    "call number": "PN6700.C62no.125",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About a lawsuit.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "152": {
+    "heading": "Trademarks.",
+    "title": "\"Piranha Signs Two Titles\" p. 20-21 in The Comics Journal, no. 127",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1989).",
+    "call number": "PN6700.C62no.127",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About trademarks.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "153": {
+    "heading": "Trader.",
+    "title": "Classic Comics &amp; Crosswords.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "v. 1, no. 1-5, 7-8 v. 2, no. 1-12, 14-17 1. Newspaper comic strips",
+    "publication info": {
+      "place": "Norfolk, Va.",
+      "publisher": "Trader",
+      "date": "1991-1992"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published v. 1, no.1 - v. 2, no. 17.",
+      "Twenty-five total issues, reprinting in order a large selection of comic strips and crossword puzzles original published Nov. 3, 1986 to Apr. 25, 1987.",
+      "Periodicals. 2. Crossword puzzles",
+      "Periodicals. I. Trader. Call no.: PN6726.C55"
+    ]
+  },
+  "154": {
+    "heading": "Trader.",
+    "title": "Classic Comics &amp; Crosswords.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "v. 1, no. 1-9. 1. Newspaper comic strips",
+    "publication info": {
+      "place": "Norfolk, Va.",
+      "publisher": "Trader",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published v. 1, no. 1 - v. 1, no. 9.",
+      "Reprints in order a large selection of comic strips and a few crossword puzzles originally published Mar. 2, 1987 to Nov. 7, 1987.",
+      "Periodicals. 2. Crossword puzzles",
+      "Periodicals. I. Trader. Call no.: PN6726.C552"
+    ]
+  },
+  "155": {
+    "heading": null,
+    "title": "Trader Tom",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1946) \"A Trusting Soul\"",
+    "call number": "folio PN6728.M38no.72",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "156": {
+    "heading": null,
+    "title": "Trader Tom",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1947) \"Fast Thinker\"",
+    "call number": "Film 15791r.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "157": {
+    "heading": null,
+    "title": "Trader Tom",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1947) \"Pardon My Glove\"",
+    "call number": "Film 15791r.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "158": {
+    "heading": null,
+    "title": "Trader Tom",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1948) \"E-Z Does It!\"",
+    "call number": "Film 15791r.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Gag on installment payments."
+    ]
+  },
+  "159": {
+    "heading": null,
+    "title": "Trader Tom",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1948) \"Invisible\"",
+    "call number": "Film 15791r.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "160": {
+    "heading": null,
+    "title": "Trader Tom",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1949) \"Yarn Teller\"",
+    "call number": "PN6728.M38no.103",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Storytelling."
+    ]
+  },
+  "161": {
+    "heading": "Trader Vic's.",
+    "title": "\"I Met Her Dumpster-Diving Behind Trader Vic's\"",
+    "author": "by Garry Trudeau.",
+    "title_type": "incipit-assigned",
+    "series": "Doonesbury, May 17, 1985",
+    "call number": "PN6726 f.B55 \"dumpsters\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Elmont and Alice talk about how they met; Elmont uses the occasion to decry wasteful military spending."
+    ]
+  },
+  "162": {
+    "heading": "Traders.",
+    "title": "\"Fur Traders\"",
+    "author": "art: Bob Lubbers",
+    "title_type": "incipit",
+    "series": "Firehair",
+    "appears_in": " 10 p. in Rangers Comics, no. 37 (Oct. 1947).",
+    "call number": "Film 15791r.109",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "163": {
+    "heading": "Traders.",
+    "title": "\"Jeff Barter, Trader\"",
+    "author": "by J",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Olson. 6 p. in Bang-Up Comics, no. 1 (Dec. 1941).",
+    "call number": "PN6728.1.P74B3no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Setting is West Africa."
+    ]
+  },
+  "164": {
+    "heading": "Traders.",
+    "title": "\"The Renegade Fur-Traders\"",
+    "author": "John Prentice, art",
+    "title_type": "incipit",
+    "series": "Davy Crockett",
+    "appears_in": " 8 p. in All-Star Western, no. 8 (Oct./Nov. 1971) ; reprinted from Frontier Fighters, no. 6 (July/Aug. 1956)",
+    "call number": "PN6728.4.N3A5no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Gene Reed, who says the art is by Len Starr."
+    ]
+  },
+  "165": {
+    "heading": null,
+    "title": "\"The Traders' Trap!\"",
+    "author": "Steve Skeates, script ; Jim Aparo, art",
+    "title_type": "incipit",
+    "series": "Aquaman",
+    "appears_in": " 14 p. + 2 p. epilogue in Aquaman, no. 52 (July/Aug. 1970).",
+    "call number": "PN6728.3.N3A7no.52",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "166": {
+    "heading": "Trades.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "167": {
+    "heading": "Trades.",
+    "title": "\"One Tummy Scoot for One Crunchy Yummy, a Fair Trade Any Day\"",
+    "author": "Russell Myers.",
+    "title_type": "incipit-assigned",
+    "series": "Broom-Hilda, Jan. 17, 1986",
+    "call number": "PN6726 f.B55 \"dog food\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Wolfie the dog lets Broom-Hilda be the boss."
+    ]
+  },
+  "168": {
+    "heading": "Trades.",
+    "title": "\"Trick of the Trade\" 2 p. text in Saddle Justice, no. 4",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Summer 1948).",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via Grand Comics Database Project.",
+      "Reprint call no.: PN6728.1.E15H3a v.3no.4"
+    ]
+  },
+  "169": {
+    "heading": "Trades Union Act of 1871.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "325"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "170": {
+    "heading": "Tradesman.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "148"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "171": {
+    "heading": "Tradesmen.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "328"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "172": {
+    "heading": null,
+    "title": "Tradiciones y Leyendas de la Colonia.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 60. 1. Horror comic books, strips, etc. 2. Mexican comics. Call no.",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Mexico, D.F. : Ediciones Latinoamericanas, .",
+      "Description based on no. 60 = epoca 4, ano 4, no. 416 (16-V-70); title from cover."
+    ]
+  },
+  "173": {
+    "heading": "Tradiciones y Leyendas de la Colonia--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos III, 1934-1950",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "134",
+        "147"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "México",
+      "date": null
+    },
+    "notes": []
+  },
+  "174": {
+    "heading": null,
+    "title": "Tradiciones y Leyendas de los Martes.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6790.M44T72",
+    "library has": "no. 802 (1974).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "México, D.F. : Ediciones Latinoamericanas, .",
+      "Horror."
+    ]
+  },
+  "175": {
+    "heading": "Tradimento alle Mille Isole.",
+    "title": "Le Avventure di Calza di Cuoio",
+    "author": "James Fenimore Cooper ; riduzione e disegni di Mario Leone.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6767.L4A9 1972",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "Cartoon Museum (Museo dei Fumetti)",
+      "date": "1972"
+    },
+    "physical description": {
+      "dimensions": "32 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "36 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "Gli Irochesi del Lago Terso"
+      },
+      {
+        "title": "Tradimento alle Mille Isole."
+      }
+    ],
+    "notes": [
+      "\"Suppl. all'Informatore Rhodense no 17.\"",
+      "Leatherstocking Tales, in Italian."
+    ]
+  },
+  "176": {
+    "heading": null,
+    "title": "\"Tradin' Paint\"",
+    "author": "by Ged Brooks",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 38-45 in Cartoonist Profiles, no. 116 (Dec. 1997).",
+    "call number": "NC1300.C35no.116",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Photos of Brooks, and discussion of his strip and career, with samples of his work."
+    ]
+  },
+  "177": {
+    "heading": "Trading.",
+    "title": "\"América\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Condorito) p. 41 in Condorito de Oro, no. 75",
+    "call number": "PN6790.M44C5675no.75",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Condorito tries to intervene on behalf of the Indian who has traded his wife for a mirror, but the Indian says when the European finds out how disagreeable his wife is he'll give 8 mirrors to return her."
+    ]
+  },
+  "178": {
+    "heading": "Trading Cards.",
+    "title": "Batman [realia]",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Duryea, Pa.",
+      "publisher": "Topps",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Deluxe reissue ed.",
+      "143 cards : col. ill. ; in box, 7 x 10 x 7 cm.",
+      "Facsimiles of bubble gum cards originally issued in 1966. 1. Comic art paraphernalia. 2. Trading cards. 3. Superhero comics",
+      "Miscellanea. I. Topps. Call no.: PN6728.B37C33 1989"
+    ]
+  },
+  "179": {
+    "heading": "Trading Cards.",
+    "title": "Batman Masterpieces : Portraits of the Dark Knight and his World",
+    "author": "Ruth Morrison ; original story by Doug Moench.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.B37M68 1998",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Watson-Guptill",
+      "date": "1998"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "208 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Based on a trading card series from DC Comics."
+    ]
+  },
+  "180": {
+    "heading": "Trading Cards.",
+    "title": "Batman versus Predator",
+    "author": "Dave Gibbons, writer ; Andy Kubert, penciller ; Adam Kubert, inker &amp; letterer ; Sherilyn Van Valkenburgh, color artist ; Arthur Suydam, cover artist ; Diana Schutz, Denny O'Neil, editors.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.D3B3 1991",
+    "library has": "no. 1-3.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "DC Comics ; Milwaukie, OR : Dark Horse Comics",
+      "date": "1991-1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Trading cards on cover stock bound at end.",
+      "Complete in 3 nos.",
+      "Genres: Horror, superhero."
+    ]
+  },
+  "181": {
+    "heading": "Trading Cards.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "182": {
+    "heading": "Trading Cards.",
+    "title": "Coup d'Etat [realia] : The Assassination of John F. Kennedy Trading Cards",
+    "author": "writer, Paul Brancato ; artist, Bill Sienkiewicz ; editor, Catherine Yronwode.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1990"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill ; in box, 11 x 8 x 2 cm.",
+      "Running title: Coup d'Etat Trading Cards. 1. Kennedy, John F. (John Fitzgerald), 1917-1963",
+      "Assassination",
+      "Miscellanea. 2. Trading cards. I. Brancato, Paul. II. Sienkiewicz, Bill. III. Yronwode, Catherine, 1947- IV. The Assassination of John F. Kennedy Trading Cards. V. Eclipse Enterprises. Call no.: E842.9.B67 1990"
+    ]
+  },
+  "183": {
+    "heading": "Trading Cards.",
+    "title": "Crimes Against the Eye",
+    "author": "by Robt",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Williams.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Princeton, WI",
+      "publisher": "Kitchen Sink Press",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; each 7 x 10 cm., in box, 8 x 11 x 3 cm.",
+      "Each card has a painting reproduced on one side, with a brief text on the reverse. 1. Trading cards. 2. Grotesque in art. I. Williams, Robert. Call no.: ND237.W716C7 1991"
+    ]
+  },
+  "184": {
+    "heading": "Trading Cards.",
+    "title": "\"D'Accordion\"",
+    "author": "by R",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Crumb. p. 60-61 in The New Yorker, v. 70, no. 22 (July 25, 1994).",
+    "call number": "AP2.N52v.70no.22",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Samples Crumb's set of \"musette\" accordionist trading cards."
+    ]
+  },
+  "185": {
+    "heading": "Trading Cards.",
+    "title": "Drug Wars Trading Cards [realia] : The Straight Dope on America's Dirtiest Deals",
+    "author": "writers, Paul Brancato, Bob Callahan ; artist, Salim Yaqub ; editor, Catherine Yronwode.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm. 1. Drug traffic",
+      "Miscellanea. 2. Trading cards. 3. United States",
+      "Politics and government",
+      "1981-1989",
+      "Miscellanea. I. Brancato, Paul. II. Callahan, Bob. III. Yaqub, Salim. IV. Yronwode, Catherine, 1947- V. The Straight Dope on America's Dirtiest Deals. VI. Eclipse Enterprises. Call no.: E882.2.B7 1989"
+    ]
+  },
+  "186": {
+    "heading": "-",
+    "title": "Trading Cards. Early Jazz Greats.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Yazoo Records",
+      "date": "1982"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; each 7 x 10 cm.",
+      "Drawn by R. Crumb.",
+      "Each card has a portrait of a jazz musician on one side, with a brief biographical description on the reverse. 1. Jazz musicians. 2. Musicians. 3. Trading cards. I. Crumb, R. II. Yazoo Records, Inc. Call no.: ML87.E37 1982"
+    ]
+  },
+  "187": {
+    "heading": "Trading Cards.",
+    "title": "Early Jazz Greats",
+    "author": "art by R",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Crumb ; editor, Catherine Yronwode.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; each 7 x 10 cm.",
+      "Each card has a portrait of a jazz musician on one side, with a brief biographical description on the reverse. 1. Jazz musicians. 2. Musicians. 3. Trading cards. I. Crumb, R. II. Yronwode, Catherine, 1947- III. Eclipse Enterprises. Call no.: ML87.E37 1992"
+    ]
+  },
+  "188": {
+    "heading": "Trading Cards.",
+    "title": "Electrified! : Blues Legends Trading Cards",
+    "author": "Timothy Truman &amp; Michael H",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Price.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "39 cards",
+      "publisher": "col. ill. ; in box, 10 x 7 x 2 cm. 1. Blues musicians. 2. Trading cards. I. Truman, Timothy. II. Price, Michael H.",
+      "date": "1947-"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "189": {
+    "heading": "Trading Cards.",
+    "title": "Famous Comic Book Creators Trading Cards.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6710.F3 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "110 cards : col. ill. ; in loose-leaf folder, 30 cm.",
+      "Each card features a photographic portrait, and on verso a biography and (for artists) an art sample."
+    ]
+  },
+  "190": {
+    "heading": "Trading Cards.",
+    "title": "Guardians of the North : The National Superhero in Canadian Comic-Book Art",
+    "author": "John Bell.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Ottawa",
+      "publisher": "National Archives of Canada",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "16 pieces : ill. ; 11-28 cm. in envelope.",
+      "Includes: Guardians of the North (English exhibition catalog) ; Protecteurs du Nord (French exhibition catalog) ; one English news release ; one French news release ; two bookmarks, in English and French ; Calendar of events, in English and French ; and nine Canadian superhero trading cards, in English and French.",
+      "Title from English exhibition catalog. 1. Superhero comics",
+      "History and criticism. 2. Canadian comics",
+      "History and criticism. 3. Superhero comics",
+      "Exhibitions. 4. Canadian comics",
+      "Exhibitions. 5. Trading cards. 6. Exhibitions of comics. I. Bell, John, 1952- II. The National Superhero in Canadian Comic-Book Art. III. National Archives of Canada. Call no.: PN6731.B4G8 1992"
+    ]
+  },
+  "191": {
+    "heading": "Trading Cards.",
+    "title": "Heroes of the Blues",
+    "author": "art by R",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Crumb ; editor, Catherine Yronwode.",
+    "call number": "ML87.H47 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ; each 7 x 10 cm. in box.",
+      "Each card has a portrait of a musician on on side, with a brief biographical description on the referse."
+    ]
+  },
+  "192": {
+    "heading": "Trading Cards.",
+    "title": "Iran-Contra Scandal Trading Cards [realia] : featuring the secret team",
+    "author": "writer, Paul Brancato ; artist, Salim Yaqub ; additional research, Leonard Rifas ; editor, Catherine Yronwode.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "36 cards",
+      "publisher": "col. ill. ; in box 11 x 8 x 2 cm. 1. Iran-Contra Affair",
+      "date": "1985-"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Caricatures and cartoons. 2. Trading cards. I. Brancato, Paul. II. Yaqub, Salim. III. Rifas, Leonard. IV. Yronwode, Catherine, 1947- V. The Secret Team. VI. Eclipse Enterprises. Call no.: E876.B7 1988"
+    ]
+  },
+  "193": {
+    "heading": "Trading Cards.",
+    "title": "\"It's Not Like Paige Rides It Much\"",
+    "author": "by Bill Amend.",
+    "title_type": "incipit-assigned",
+    "series": "Fox Trot, Nov. 8, 1994",
+    "call number": "PN6726 f.B55 \"bicycles\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Jason got the last bubble gum card he needed by trading for it."
+    ]
+  },
+  "194": {
+    "heading": "Trading Cards.",
+    "title": "The Marvel Masterpieces Collection",
+    "author": "by Joe Jusko.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3 M3319 1993",
+    "library has": "no. 2-3.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Entertainment Group",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Complete in 4 nos.",
+      "Collects paintings done for trading cards."
+    ]
+  },
+  "195": {
+    "heading": "Trading Cards.",
+    "title": "The Marvel X-Men Collection",
+    "author": "by Jim Lee.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1-2. 1. Superhero comics. 2. Trading cards. I. Lee, Jim. II. X-Men Collection. III. Marvel Entertainment Group. Call no.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Entertainment Group",
+      "date": "1993-"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Previously published as Marvel X-Men trading cards\".",
+      "To be complete in 3 nos."
+    ]
+  },
+  "196": {
+    "heading": "Trading Cards.",
+    "title": "Pioneers of Country Music.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Yazoo Records",
+      "date": "1985"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "40 trading cards : col. ; each 7 x 10 cm.",
+      "\"Trading cards drawn by R. Crumb. Biographies are written by Rich Nevins.\"",
+      "in box, 8 x 11 x 3 cm.",
+      "Each card has a portrait of a country musician on one side, with a brief biography on the reverse. 1. Country musicians. 2. Trading cards. I. Crumb, R. II. Nevins, Rich. III. Yazoo Records. k. Musicians. Call no.: ML87.P56 1985"
+    ]
+  },
+  "197": {
+    "heading": "Trading Cards.",
+    "title": "\"La Polynésie\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Peuples Étranges) p. 27-30 in Spirou, no. 1794",
+    "call number": "PN6748.S65no.1794",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Trading cards of Polynesian scenes, numbered 9-16."
+    ]
+  },
+  "198": {
+    "heading": "Trading Cards.",
+    "title": "R. Crumb Trading Cards",
+    "author": "card backs written by Dave Schreiner.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6727.C7R24 1991",
+    "library has": "",
+    "publication info": {
+      "place": "Princeton, WI",
+      "publisher": "Kitchen Sink Press",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm."
+    ]
+  },
+  "199": {
+    "heading": "Trading Cards.",
+    "title": "Ralph Snart 3-D special.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "no. 1. 1. Funny horror comics. 2. Three dimensional comic books. 3. Trading cards. I. Ralph Snart adventures 3-D special. II. NOW Comics. Call no.",
+    "publication info": {
+      "place": "Northbrook, Ill.",
+      "publisher": "NOW Comics",
+      "date": "1992"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes 12 trading cards and 3-D glasses.",
+      "Published no. 1 (Nov. 1992) only."
+    ]
+  },
+  "200": {
+    "heading": "Trading Cards.",
+    "title": "Republicans Attack! : A Paranoid Fantasy in 36 Parts",
+    "author": "James Vance &amp; Mark Landman.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E839.3.V3 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Princeton, Wis.",
+      "publisher": "Kitchen Sink Press",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; each 7 x 10 cm. in box.",
+      "Cards have humorously retouched photographs of conservative U.S. politicians on one side, with brief text on the reverse to form a story."
+    ]
+  },
+  "201": {
+    "heading": "Trading Cards.",
+    "title": "The Rise and Fall of the Soviet Union",
+    "author": "author, Dave Thorpe ; illustrator, Greg Copeland ; consulting editor, William Mandel ; photo research, D",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Kingsley Hahn ; cover design, Quinn Supplee, Chris Pitzer ; editor, Catherine Yronwode.",
+    "call number": "DK266.T48 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; each 7 x 10 cm., in box.",
+      "Summary: Each card has a portrait or revolutionary scene on one side, with a brief biographical or historical description on the reverse.",
+      "On box: From Lenin to Yeltsin."
+    ]
+  },
+  "202": {
+    "heading": "Trading Cards.",
+    "title": "Rotten to the Core Trading Cards [realia] : The Best and Worst of New York City's Politics",
+    "author": "writers, Peggy Gordon &amp; Dean Mullaney ; artists, Rick Bryant &amp; George Kochell ; editor, Catherine Yronwode.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm. 1. New York (N.Y.)",
+      "Politics and government",
+      "Caricatures and cartoons. 2. Trading cards. I. Gordon, Peggy. II. Mullaney, Dean. III. Bryant, Rick. IV. Kochell, George. V. Yronwode, Catherine, 1947- VI. The Best and Worst of New York City's Politics. VII. Eclipse Enterprises. Call no.: F128.35.G6 1989"
+    ]
+  },
+  "203": {
+    "heading": "-",
+    "title": "Trading Cards. Savings &amp; Loan Scandal Trading Cards [realia]",
+    "author": "writers, Dennis Bernstein, Laura Sydell ; artist, Stewart Stanyard ; whip, Paul Brancato ; editor, Catherine Yronwode.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; each 7 x 10 cm. in box.",
+      "Each card has a portrait on one side, with a brief biographical description on the reverse. 1. Trading cards. I. Bernstein, Dennis. II. Sydell, Laura. III. Stanyard, Stewart. IV. Yronwode, Catherine, 1947- V. Eclipse Enterprises. Call no.: HG2151.B4 1992"
+    ]
+  },
+  "204": {
+    "heading": "Trading Cards.",
+    "title": "Scott Shaw! Presents Oddball Comics. Set one: The Craziest Comic Books Ever Published.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.S455O3 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Princeton, WI",
+      "publisher": "Kitchen Sink Press",
+      "date": "1993"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm.",
+      "Each trading card reproduces the cover of a classic comic book, with annotations on the verso by Shaw."
+    ]
+  },
+  "205": {
+    "heading": "Trading Cards.",
+    "title": "The Spirit Collector Cards [realia]",
+    "author": "written by Tom Heintjes.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Northampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1995"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm. 1. Trading cards. 2. Comic art paraphernalia. 3. Detective and mystery comic books, strips, etc.",
+      "Miscellanea. I. EIsner, Will. II. Heintjes, Tom. III. Kitchen Sink Press. Call no.: PN6727.E35S66 1995"
+    ]
+  },
+  "206": {
+    "heading": "Trading Cards.",
+    "title": "Stars of the Negro Leagues [realia] : a set of 36 cards",
+    "author": "writer, Jack Morelli ; artist, Mark Chiarello ; editor, Catherine Yronwode.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1990"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm.",
+      "Title from box. 1. African American baseball players",
+      "Biography. 2. Baseball players",
+      "Biography. 3. African American athletes",
+      "Biography. 4. Trading cards. I. Morelli, Jack. II. Chiarello, Mark. III. Yronwode, Catherine, 1947- IV. Eclipse Enterprises. Call no.: GV865.A1M6 1990"
+    ]
+  },
+  "207": {
+    "heading": "Trading Cards.",
+    "title": "The Todd McFarlane Trading Card Set.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Saddle Brook, N.J.",
+      "publisher": "Comic Images",
+      "date": "1989"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "45 trading cards : col. ill. ; each 89 mm. x 63 mm.",
+      "Title and imprint from card 45, \"Checklist.\"",
+      "Each card pictures a character or characters from Marvel comics on one side, with the reversides to be assembled in the manner of a jigsaw puzzle to show a larger drawing. 1. Superhero comics",
+      "Miscellanea. 2. Trading cards. 3. Marvel Comics",
+      "Miscellanea. I. McFarlane, Todd. II. Comic Images. Call no.: PN6727.M265T7 1989"
+    ]
+  },
+  "208": {
+    "heading": "Trading Cards.",
+    "title": "True Crime. v. 1, G-Men and Gangsters from Slum Gangs to the Mafia",
+    "author": "by Max Allan Collins &amp; George Hagenauer ; illustrated by Paul Lee.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HV6786.C6 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Ca",
+      "publisher": "Eclipse Books",
+      "date": "1993"
+    },
+    "physical description": {
+      "dimensions": "13 x 17 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "61 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Trading cards in book format."
+    ]
+  },
+  "209": {
+    "heading": "Trading Cards.",
+    "title": "True Crime. v. 2, Serial Killers &amp; Mass Murderers",
+    "author": "by Valarie Jones &amp; Peggy Collier ; illustrated by Jon Bright.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HV6786.J6 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, CA",
+      "publisher": "Eclipse Books",
+      "date": "8993"
+    },
+    "physical description": {
+      "dimensions": "13 x 17 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "61 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Trading cards in book format."
+    ]
+  },
+  "210": {
+    "heading": "Trading Cards.",
+    "title": "True Crime Trading Cards [realia]",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "HV6786.T7 1992",
+    "library has": "",
+    "publication info": {
+      "place": "Forestville, Calif.",
+      "publisher": "Eclipse Enterprises",
+      "date": "1992"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "Series one, G-Men &amp; Gangsters (55 cards)"
+      },
+      {
+        "title": "Series two, Serial Killers &amp; Mass Murderers (55 cards)"
+      }
+    ],
+    "notes": [
+      "110 cards : col. ill. ; in loose-leaf notebook, 30 cm.",
+      "Text by Max Allan Collins, George Hagenauer, Valarie Jones, Peggy Collier ; art by Paul Lee, Jon Bright."
+    ]
+  },
+  "211": {
+    "heading": "Trading Cards.",
+    "title": "Veil of Delirium [realia]",
+    "author": "by Todd Schorr.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "ND237.S434V4 1996",
+    "library has": "",
+    "publication info": {
+      "place": "Northampton, Mass.",
+      "publisher": "Kitchen Sink Press",
+      "date": "1996"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 cards : col. ill. ; in box, 11 x 8 x 2 cm.",
+      "Topic: Surrealism.",
+      "Genre: Trading cards."
+    ]
+  },
+  "212": {
+    "heading": "Trading Cards.",
+    "title": "Window on the Unspeakable [realia]",
+    "author": "by Robt",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Williams.",
+    "call number": "ND237.W716W5 1993",
+    "library has": "",
+    "publication info": {
+      "place": "Northhampton, MA",
+      "publisher": "Kitchen Sink Press",
+      "date": "1993"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "36 trading cards : col. ill. ; in box, 11 x 8 x 2 cm.",
+      "Each card has a painting reproduced on one side, with brief text by the artist on reverse.",
+      "Keyword: Grotesque."
+    ]
+  },
+  "213": {
+    "heading": "Trading Cards.",
+    "title": "X-Men, the Ultra Collection.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.6.M3X337 1994",
+    "library has": "no. 1-5.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Entertainment Group",
+      "date": "1994-1995"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Mainly illustrations previously published as '94 Fleer Ultra X-Men trading cards.",
+      "Complete in 5 nos.",
+      "Genre: Superhero."
+    ]
+  },
+  "214": {
+    "heading": "Trading Cards--Catalogs.",
+    "title": "Comic Cards and Their Prices",
+    "author": "Stuart Wells, III.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Radnor, Penn.",
+      "publisher": "Wallace-Homestead Book Co.",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "28 cm. 1. Comic cards",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "131 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Catalogs. 2. Trading cards",
+      "Catalogs. 3. Comic art paraphernalia",
+      "Catalogs. I. Wells, Stuart W. II. Wallace-Homestead Book Co. Call no.: NC1002.C4W46 1994"
+    ]
+  },
+  "215": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Aladdin Trading Cards\" p. 36 in The Comics Journal, no. 157",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1993",
+    "call number": "PN6700.C62no.157",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch).",
+      "Skybox will produce cards based on the Disney movie."
+    ]
+  },
+  "216": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Articles\"",
+    "author": "edited by Louise Tucker",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 4-5 in Escape, no. 12 (1987).",
+    "call number": "PN6738.E75no.12",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "News and miscellanea.",
+      "\"Crumb and Kerouac. Terrorist cards. Betty Boop watch. Batman clock. Krazy Kat kalendar. On.\""
+    ]
+  },
+  "217": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"CA May Regulate Collectables : Bill Would Put Stricter Controls on Limited Editions\" p. 22 in The Comics Journal, no. 158",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1993).",
+    "call number": "PN6700.C62no.158",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "California State Senate gets a bill regarding trading cards and other collectibles, sponsored by consumer advocate Michael C. Ross.",
+      "(Newswatch)"
+    ]
+  },
+  "218": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Card Company Cuts Off Marvel/Heroes World\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Newswatch: Miscellaneous news) p. 27 in The Comics Journal, no. 175",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Publication and distribution. Call no.: PN6700.C62no.175"
+    ]
+  },
+  "219": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Cartoon Characters on Cards\" p. 24 in The Comics Journal, no. 154",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1992",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(NewsWatch)",
+      "SkyBox International (Minnie Mouse) and Upper Deck Company (Looney Tunes). k. Trading cards",
+      "Miscellanea. k. [Each company]",
+      "Miscellanea. k. Minnie Mouse",
+      "Miscellanea. k. Looney Tunes",
+      "Miscellanea. Call no.: PN6700.C62no.154"
+    ]
+  },
+  "220": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Collectors\"",
+    "author": "script, George Gladir ; pencils, Dan Parent ; inks, Jon D'Agostino",
+    "title_type": "incipit",
+    "series": "Archie &amp; Friends",
+    "appears_in": " 6 p. in Archie &amp; Friends, no. 21 (Feb. 1997)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Trading card collecting interferes with Archie and Betty's social lives. I. [Each creator] II. Archie &amp; Friends. k. Trading Cards. k. Social Lives. k. Archie. k. Betty. Call no.: PN6728.6.A7A67no.21"
+    ]
+  },
+  "221": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Comic Industry Trading Cards!!\"",
+    "author": "Evan Dorkin",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 11 in The Comics Journal, no. 145 (Oct. 1991)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Hey, Kids! Comics!) k. Trading cards",
+      "Comic books, strips, etc. I. Dorkin, Evan. Call no.: PN6700.C62no.145"
+    ]
+  },
+  "222": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Comics In, Cards Out\" p. 36 in The Comics Journal, no. 157",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1993",
+    "call number": "PN6700.C62no.157",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch).",
+      "Trouble in the stock market for trading card companies."
+    ]
+  },
+  "223": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Convicted Murderer Sues Eclipse\" p. 23 in The Comics Journal, no. 156",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1993).",
+    "call number": "PN6700.C62no.156",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch)",
+      "True Crime Trading Cards lawsuit."
+    ]
+  },
+  "224": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Eclipse to Produce AIDS Cards\" p. 29 in The Comics Journal, no. 155",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1993",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch) k. Eclipse Comics",
+      "Miscellania. k. AIDS Awareness Trading Cards. k. Trading Cards",
+      "Miscellanea. Call no.: PN6700.C62no.155"
+    ]
+  },
+  "225": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "Eclipse Trading Cards : file of clippings and miscellanea.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 porfolio : ill. ; 25 x 38 cm.",
+      "Collected at Michigan State University Libraries in the Russel B. Nye Popular Culture Collection's Popular Culture Vertical File (PCVF). 1. Trading cards",
+      "History and criticism. 2. Eclipse Enterprises."
+    ]
+  },
+  "226": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "Foul Ball Trading Cards.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "MS 213",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "2 folders : ill. ; 25 x 38 cm.",
+      "Files assembled by Eclipse Comics (also called Eclipse Books, Eclipse Enterprises, etc.) typically photocopies of scripts and art with examples of the published item, sometimes including research and/or correspondence relating to the title."
+    ]
+  },
+  "227": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"From Hither and Yon\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Newswatch) p. 24 in The Comics Journal, no. 159",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Snippets about Ren &amp; Stimpy, Dark Horse trading cards, Ray Harryhausen, The Hillside Strangler. 1. Ren &amp; Stimpy. 2. Trading cards. 3. Harryhausen, Ray. 4. Hillside Strangler. Call no.: PN6700.C62no.159"
+    ]
+  },
+  "228": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"George White\" p. 39-53 in David Anthony Kraft's Comics Interview, no. 114",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1992).",
+    "call number": "PN6725.D28no.114",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Interviewer is Sandra Dincher.",
+      "White is a trading card publisher.",
+      "Cover title: \"The Skybox Story.\""
+    ]
+  },
+  "229": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Get Set for Jurassic Park Blitz\" p. 34 in The Comics Journal, no. 157",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1993",
+    "call number": "PN6700.C62no.157",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch).",
+      "Topps will be producing trading cards and comic books to go with the movie."
+    ]
+  },
+  "230": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Judge Dismisses Chase-Card Lawsuit\" p. 16 in Comics Retailer, no. 101",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "v. 9, no. 8",
+    "call number": "PN6714.C645v.9no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Industry News)",
+      "About lawsuits that say trading-card games are illegal lotteries."
+    ]
+  },
+  "231": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Marvel Acquires Fleer Corp\" p. 27 in The Comics Journal, no. 153",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1992",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch) k. Marvel Comics",
+      "Miscellanea. k. Fleer Corp.",
+      "Miscellanea. k. Trading Cards",
+      "Miscellanea. Call no.: PN6700.C62no.153"
+    ]
+  },
+  "232": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Marvel Trading Cards Go Cold Turkey\" p. 31 in The Comics Journal, no. 169",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1994",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch)",
+      "No more smokers on Marvel trading cards. k. Trading cards. k. Smoking in popular culture. Call no.: PN6700.C62no.169"
+    ]
+  },
+  "233": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Politicans Blast True Crime Cards\" p. 15 in The Comics Journal, no. 149",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1992",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch) k. True Crime Trading Cards. k. Trading Cards. k. Eclipse Enterprises. Call no.: PN6700.C62no.149"
+    ]
+  },
+  "234": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Pro Set Files for Chapter 11\" p. 32 in The Comics Journal, no. 153",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1992",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch) k. Trading cards",
+      "Miscellanea. k. Pro Set, Inc.",
+      "Miscellanea. k. Bankruptcy. Call no.: PN6700.C62no.153"
+    ]
+  },
+  "235": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Rotten to the Core\" trading cards. p. 16- in Comics Buyer's Guide, no. 832",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 27, 1989",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Kim Metzger. 1. Trading cards. Call no.: PN6725 f.B8no.832"
+    ]
+  },
+  "236": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"The Strange Case of the Superman Primrose Cards\"",
+    "author": "by Mike Curtis",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 52-53, plus back cover in Comic Book Marketplace, v. 2, no. 63 (Sept/Oct. 1998).",
+    "call number": "PN6714.C632v.2no.63",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Describes and shows the pictures from about half of a series of British collector cards."
+    ]
+  },
+  "237": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Topps : Len Brown &amp; Gari Gerani\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Spotlight) p. 4-10 in David Anthony Kraft's Comics Interview, no. 115",
+    "call number": "PN6725.D28no.115",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Topps (trading cards and comics) principals interviewed by Charles S. Novinskie."
+    ]
+  },
+  "238": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Topps Chewing Gum Slams Lid on Garbage Pail Kids Creative Team\" p. 15-17 in The Comics Journal, no. 109",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1986",
+    "call number": "PN6700.C62no.109",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "About the trading cards.",
+      "Data from Pete Coogan."
+    ]
+  },
+  "239": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Up from Bubblegum\"",
+    "author": "by Rich Kreiner",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 42-48 in The Comics Journal, no. 155 (Jan. 1993) k. Trading cards",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "History. I. Kreiner, Rich. Call no.: PN6700.C62no.155"
+    ]
+  },
+  "240": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Upper Deck and Valiant Sign Agreement\" p. 38 in The Comics Journal, no. 157",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1993",
+    "call number": "PN6700.C62no.157",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch).",
+      "Trading cards of Valiant characters to be produced."
+    ]
+  },
+  "241": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"WWF Card Game Suit Settled\" p. 16 in Comics Retailer, no. 101",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "v. 9, no. 8",
+    "call number": "PN6714.C645v.9no.8",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Industry News)"
+    ]
+  },
+  "242": {
+    "heading": "Trading Cards--Miscellanea.",
+    "title": "\"Who's More Exploitive? : True Crime Cards vs. Sensational Media\" p. 15 in The Comics Journal, no. 148",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1992",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch) 1. Eclipse Enterprises. k. Trading cards",
+      "History and criticism. I. True Crime Cards vs. Sensational Media. Call no.: PN6700.C62no.148"
+    ]
+  },
+  "243": {
+    "heading": "Trading Cards--Periodicals About.",
+    "title": "Card &amp; Comic Trader.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "some 1994 issues. 1. Collectors and collecting of comics",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Tampa, FL : Card &amp; Comic Trader, .",
+      "Monthly.",
+      "Some numbers lack numeration.",
+      "Periodicals. 2. Sports cards",
+      "Collectors and collecting",
+      "Periodicals. 3. Trading cards",
+      "Collectors and collecting",
+      "Periodicals. Call no.: Z999.C37"
+    ]
+  },
+  "244": {
+    "heading": "Trading Cards--Periodicals About.",
+    "title": "Entertainment Retailing.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "oversize PN6714.E5",
+    "library has": "v. 1, no. 2-4, 7, 9-12, 14-15 (1993-1994)",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Chestnut Ridge, NY : Gareb Shamus Enterprises, .",
+      "Also called: ER : Entertainment Retailing.",
+      "Magazine for comic book and trading card retailers."
+    ]
+  },
+  "245": {
+    "heading": "Trading Cards--Prices.",
+    "title": "The Overstreet Comics &amp; Cards Price Guide.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "Z1000.C6",
+    "library has": "1st ed.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Avon Books",
+      "date": "1993-"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with 1st ed. (1993)",
+      "(The Confident Collector)"
+    ]
+  },
+  "246": {
+    "heading": "Trading Cards--Reviews.",
+    "title": "\"Comic Images Cards Reviewed\"",
+    "author": "by Chris Knowles",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 3 in The Jack Kirby Collector, v. 2, no. 4 (Mar. 1995) 1. Trading cards",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Reviews. 2. Jack Kirby, the Unpublished Archives",
+      "Reviews. I. Knowles, Chris. Call no.: PN6727.K53J28v.2no.4"
+    ]
+  },
+  "247": {
+    "heading": null,
+    "title": "\"Trading Exchange Opens\" p. 25 in The Comics Journal, no. 141",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1991",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Newswatch : Miscellanea) 1. Pacific Comic Exchange Inc. 2. Collectors and collecting of comics. Call no.: PN6700.C62no.141"
+    ]
+  },
+  "248": {
+    "heading": "Trading Insults.",
+    "title": "\"One Thing I Can't Stand is a Clever Ad-libber\"",
+    "author": "Henry Formhals.",
+    "title_type": "incipit-assigned",
+    "series": "Freckles, June 2, 1970",
+    "call number": "PN6726 f.B55 \"insults\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Pepi the goat and the Scotty dog trade insults about body odor and fleas."
+    ]
+  },
+  "249": {
+    "heading": "Trading Lunches.",
+    "title": "\"I Suppose I Should Be Flattered\"",
+    "author": "by Brian Basset.",
+    "title_type": "incipit-assigned",
+    "series": "Adam, May 20, 1985",
+    "call number": "PN6726 f.B55 \"cooks\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Theodore knows he likes Adam's cooking because he usually gets the lunch Adam makes when they trade at school."
+    ]
+  },
+  "250": {
+    "heading": "Trading Places.",
+    "title": "\"The Great Experiment\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Captain Marvel) 9 p. in Whiz Comics, no. 107",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "SUMMARY: Eskimos and South Sea Islanders decide to trade places. I. Captain Marvel. k. Experiments. k. Eskimos. k. South Sea Islanders. k. Trading Places. Call no.: PN6728.1.F3W47no.107"
+    ]
+  },
+  "251": {
+    "heading": "Trading Places.",
+    "title": "\"The S.P.C.A.\"",
+    "author": "Christian Binet",
+    "title_type": "incipit",
+    "series": "Kador",
+    "appears_in": " p. 6-10 in French Ticklers, no. 1 (Oct. 1989).",
+    "call number": "PN6746.F7no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Dog and master trade places, in the dog's attempt to show how thoughtlessly he's being treated."
+    ]
+  },
+  "252": {
+    "heading": null,
+    "title": "\"Trading Words with Tim Conrad\" p. 18-22 in Whizzard, no. 13",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1980).",
+    "call number": "PN6725.W47no.13",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"In an exclusive interview Tim Conrad talks about his past comic projects and his three years of work adapting Robert E. Howard's Almuric for Epic Illustrated.\"",
+      "Interview conducted on Dec. 9, 1979 by Jerry E. Durrwachter.",
+      "Includes a Tim Conrad Index (i.e., checklist), p. 22."
+    ]
+  },
+  "253": {
+    "heading": "Tradition.",
+    "title": "\"The Game's in Georgia. How About We Bet 20 Pounds of Peaches?\"",
+    "author": "by Millar-Hinds.",
+    "title_type": "incipit-assigned",
+    "series": "Tank McNamara, Jan. 26, 1994",
+    "call number": "PN6726 f.B55 \"peaches\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The mayors of super bowl cities traditionally make silly bets."
+    ]
+  },
+  "254": {
+    "heading": "Tradition.",
+    "title": "Navy History and Tradition",
+    "author": "by Stokes Walesby and Theodore Roscoe.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "E182.W35 1958",
+    "library has": "no. [1] only.",
+    "publication info": {
+      "place": "Washington, D.C.",
+      "publisher": "S. Walesby",
+      "date": "1958-1961"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "[1] \"The Daring and diplomacy that built a great nation and navy, 1772-1778\""
+      }
+    ],
+    "notes": [
+      "Line drawings interspersed with text.",
+      "[2] \"Naval actions of the Civil War, 1861-1865.\""
+    ]
+  },
+  "255": {
+    "heading": null,
+    "title": "\"Tradition and Transgression : The Laughter of Claire Brétecher.\" \"Comics, Transgression and Cultural Argument\" p. 32 in The Comics Journal, no. 208",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1998).",
+    "call number": "PN6700.C 62no.208",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(News Watch)",
+      "Describes presentations at the Fourth International Comics and Animation Festival (Sept. 24-27, 1998): Alvise Mattozzi (\"A Socio-Semiotic Analysis of the Underground Comix\") ; Libbie McQuillan (\"Tradition and Transgression : The Laughter of Claire Brétecher\") ; Heather Sinclair (\"Julie Doucet's Dirty Plotte : Reflections of a Fan, a Female, and a Fellow Artist\")"
+    ]
+  },
+  "256": {
+    "heading": "The Traditional Meets the Popular.",
+    "title": "Folklore and the Comic Book : the traditional meets the popular",
+    "author": "Amanda Carson Banks, Elizabeth E",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Wein.",
+    "call number": "PN6725.B32 1998",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "11 leaves : ill. ; 28 cm.",
+      "Printed with permission on Jan. 4, 1999 from Newfolklore: The Impromptu Journal, issue 2 (Jan. 1998).",
+      "Includes bibliographical references.",
+      "Summary: A discussion of traditional folkloric archetypes used to creative effect in contemporary comic books Hellblazer, Swamp Thing, and Sandman."
+    ]
+  },
+  "257": {
+    "heading": "Traditions.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "258": {
+    "heading": "Traditions.",
+    "title": "\"Do You Like Weddings, Mr. Bobo?\"",
+    "author": "by Dan Wright and Tom Spurgeon.",
+    "title_type": "incipit-assigned",
+    "series": "Bobo's Progress, Dec. 18, 1999",
+    "call number": "PN6726 f.B55 \"weddings\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Bobo likes wedding traditions: bouquets, garters, cake, toasts, and dancing."
+    ]
+  },
+  "259": {
+    "heading": "Traditions.",
+    "title": "\"In the Heart of the Impregnable Meta Bunker\"",
+    "author": "Jodo-Moebius",
+    "title_type": "incipit",
+    "series": "Incal",
+    "appears_in": " 8 p. in Moebius 1/2 (Anaheim, CA : Graphitti Designs, 1991).",
+    "call number": "PN6747.G5M6213 1991",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A story of fathers and sons, and a destructive tradition of initiations.",
+      "Originally done in 1989, this story appeared in color in Heavy Metal, Mar. 1990."
+    ]
+  },
+  "260": {
+    "heading": "Traditions.",
+    "title": "\"Kissing Forfeit\" 1 p. non-fiction feature in Wonder Woman, no. 61",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept./Oct. 1953",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Kissing traditions. k. Forfeits. k. Traditions. Call no.: PN6728.1.N3W6no.61"
+    ]
+  },
+  "261": {
+    "heading": "Il Traditore.",
+    "title": "La Voce nella Tempesta.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Milano",
+      "publisher": "S. Bonelli",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "122 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "title": "La Voce nella Tempesta"
+      },
+      {
+        "title": "Il Traditore"
+      },
+      {
+        "title": "L'Assedio. 1. Western comic books, strips, etc. 2. Italian comics. I. Tex Gigante"
+      },
+      {
+        "title": "n. 400. II. Bonelli, S. III. Il Traditore. IV. L'Assedio. Call no.: PN6768.T4V6 1994"
+      }
+    ],
+    "notes": [
+      "(Tex ; 400)"
+    ]
+  },
+  "262": {
+    "entry type": "target",
+    "anchor": "/rri/trri/tr.htm#tracking",
+    "title": "Tracking",
+    "notes": [
+      "See also <a href=\"/rri/brri/bloodb.htm#bldhnds\">Bloodhounds</a>"
+    ],
+    "links": [
+      {
+        "Link Text": "Bloodhounds",
+        "Link URL": "/rri/brri/bloodb.htm#bldhnds"
+      }
+    ],
+    "callNumber": "need to find programatically still"
+  }
+}

@@ -1,0 +1,4044 @@
+{
+  "1": {
+    "heading": null,
+    "title": "\"Falacia Cortesana\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Robin Hood) 6 p. in Robin Hood, no. 10",
+    "call number": "PN6790.M44R52no.10",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "2": {
+    "heading": null,
+    "title": "\"Falacia Malévola\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Durango Kid) 7 p. in Durango Kid, no. 74",
+    "call number": "PN6790.M44D8no.74",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "3": {
+    "heading": "Fal'afelman / Dorit Maya-Gur. -- Chops n Pops Comics, 2006- .",
+    "call number": "PN6790 .I83M3 F3",
+    "library has": "no. 1-2 (2006).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": []
+  },
+  "4": {
+    "heading": null,
+    "title": "\"La Falaise du Sacrifice\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Rahan) p. 509-528 in Tout Rahan : l'Intégrale. t. 4",
+    "call number": "PN6748.R3T64 1992",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "5": {
+    "heading": "Falange Española de las J.O.N.S.",
+    "entry type": "index entry",
+    "title": "Historia del Comic Español, 1875-1939",
+    "author": "Antonio Martín",
+    "series": null,
+    "pages": {
+      "range": [
+        "166"
+      ]
+    },
+    "call number": "PN6775.M37 1978",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Editorial Gustavo Gili",
+      "date": "1978"
+    },
+    "notes": []
+  },
+  "6": {
+    "heading": null,
+    "title": "\"Falanges, que no Commandos\" p. 44-45 text in Cimoc, no. 84",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1988).",
+    "call number": "PN6778.C5no.84",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Discusses the reception in Spain of the French album Les Phalanges de l'ordre noir."
+    ]
+  },
+  "7": {
+    "heading": "Falardeau, Mira, 1948-",
+    "title": "La Bande Dessinée au Québec",
+    "author": "Mira Falardeau.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6731.F34 1994",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal",
+      "publisher": "Boréal",
+      "date": "1994"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "125 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Comprend des réf. bibliogr. (p. 117) et un index.",
+      "(Collection Boréal Express ; 9)"
+    ]
+  },
+  "8": {
+    "heading": "Falardeau, Mira, 1948-",
+    "title": "Histoire de la Bande Dessinée au Québec",
+    "author": "Mira Falardeau.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6731.F342 2008",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal, Québec",
+      "publisher": "VLB",
+      "date": "2008"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "190 p.",
+      "illustrationTypes": "ill. (some col.)"
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Collection \"Études Québécoises\" ; 24)",
+      "Includes bibliographical references (p. 187) and index."
+    ]
+  },
+  "9": {
+    "heading": "Falardeau, Mira, 1948-",
+    "title": "Histoire du Cinéma d'Animation au Québec : Essai",
+    "author": "Mira Falardeau.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC1766.C3F35 2006",
+    "library has": "",
+    "publication info": {
+      "place": "Montréal, QC",
+      "publisher": "Typo",
+      "date": "2006"
+    },
+    "physical description": {
+      "dimensions": "18 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "186 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references (p. 183-187).",
+      "Book about animated films in Québec."
+    ]
+  },
+  "10": {
+    "heading": "Falardeau, Mira, 1948-",
+    "title": "L'Oreille Coupée et Autres Scénarios",
+    "author": "André-Philippe Côté et Mira Falardeau ; scénarios illustrés par les auteurs et par Jean-François Bergeron.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6733.C64 O7 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Québec",
+      "publisher": "L'Instant même",
+      "date": "2007"
+    },
+    "physical description": null,
+    "genre": "Alternative genre.",
+    "contents": [],
+    "notes": [
+      "(Instant Ciné)"
+    ]
+  },
+  "11": {
+    "heading": "Falardeau, Mira, 1948- --Miscellanea.",
+    "title": "\"La Bande Dessinée au Québec, by Mira Falardeau\"",
+    "author": "reviewed by Bruce Barber",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 39-41 in Inks, v. 4, no. 1 (Feb. 1997)",
+    "call number": "PN6700.I45v.4, no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "12": {
+    "heading": "Falardeau, Mira, 1948- --Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "178"
+      ]
+    },
+    "call number": "PN6745.F69 1990",
+    "publication info": null,
+    "notes": []
+  },
+  "13": {
+    "heading": "Falardeau, Mira, 1948- --Miscellanea.",
+    "entry type": "index entry",
+    "title": "Women and the Comics",
+    "author": "by Trina Robbins and Catherine Yronwode",
+    "series": null,
+    "pages": {
+      "range": [
+        "96",
+        "97"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "Eclipse Books",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "14": {
+    "heading": "Falas, Salvador.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "398 in Puros Cuentos III",
+        "1934-1950 / Juan Manuel Aurrecoechea",
+        "Armando Bartra (México",
+        "D.F.: Grijalbo",
+        "1994"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "15": {
+    "heading": "Falaschini, Leonardo M.",
+    "title": "\"Fuga de Lápices\"",
+    "author": "Leonardo M",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Falaschini. p. 187-192 in La Revista Latinoamericana de Estudios sobre la Historieta, v. 1, no. 3 (Sept. 2001).",
+    "call number": "PN6790.L29R4v.1no.3",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Resumen: \"En épocas de represión y censura, muchos historietistas argentinos se vieron obligados a llevear sus talentos fuera del pais, y aquello asfixió a l historieta argentina. Hoy se da otro tip de emigración por razones distintas, pero la asfixia es similar.\"",
+      "Abstract: \"In times of repression and censorship, many Argentine comic makers had to take their talents outside of the country, and that produced a suffocation of the local comic industry. Today there is a new kind of emigration for other reasons, but the suffocation is similar.\"",
+      "Abstracts as printed with the article, with some editing of the English.",
+      "Includes illustrations and bibliographical references."
+    ]
+  },
+  "16": {
+    "heading": null,
+    "title": "Falatoff.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6745.F25",
+    "library has": "no. 22-23, 26-27, 32-33 (1973-1977).",
+    "publication info": null,
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Soisy : Falatoff, .",
+      "Periodical about comics."
+    ]
+  },
+  "17": {
+    "heading": null,
+    "title": "Falatoff, no. 32/33",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1977) Special Druillet.",
+    "call number": "PN6745.F25no.32/33",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [
+      {
+        "title": "\"Entrevue avec Druillet\" p. 3-12"
+      }
+    ],
+    "notes": [
+      "\"M.C. Escher\" p. 24-15",
+      "\"H.P. Lovecraft\" p. 16",
+      "\"Lob : Entrevue Dirigée\" p. 17-25",
+      "\"Druillet : La Voie de la Nuit\" p. 28-42",
+      "\"Aurore\" p. 43",
+      "\"Druillet : Bibliographie\" p. 45-50"
+    ]
+  },
+  "18": {
+    "heading": "Falatoff--Articles About.",
+    "title": "\"L'Edition selon Artefact\" : Conversation avec Jean-Pierre Mercier\" p. 44-46 in Les Cahiers de la Bande Dessinée, no. 64",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July/Aug. 1985).",
+    "call number": "PN6745.S37no.64",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Describes the genesis and productions of the publisher Artefact, which grew out of the fanzine Falatoff (1971-1977)."
+    ]
+  },
+  "19": {
+    "heading": "Falatoff--Miscellanea.",
+    "entry type": "index entry",
+    "title": "La Bande Dessinée en 10 Leçons",
+    "author": "Henri Filippini, Michel Bourgeois.",
+    "series": null,
+    "pages": {
+      "range": [
+        "96"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "20": {
+    "heading": "Falatoff--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. ed.",
+    "series": null,
+    "pages": {
+      "range": [
+        "52"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "21": {
+    "heading": "Falcão Negro--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "57"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "22": {
+    "heading": "Falcão Negro--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Thématique de Héros de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "135"
+      ]
+    },
+    "call number": "PN6707.F5 1992",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1992"
+    },
+    "notes": []
+  },
+  "23": {
+    "heading": "Falcao Negro, O Filho de Jim West.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1210"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "24": {
+    "heading": "Falcetti, Anna--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "699"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "25": {
+    "heading": "Falcó, Robert.",
+    "title": "El Estirón",
+    "author": "por Jerry Scott y Jim Borgman ; traducción, Robert Falcó ; rotulación, Rosa Romeu.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.Z55G716 2001",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Norma Editorial",
+      "date": "2001"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "127 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Zits ; v. 2)",
+      "Translation of: Growth Spurt."
+    ]
+  },
+  "26": {
+    "heading": "Falcó, Robert.",
+    "title": "Existe un \"Nosotros\"?",
+    "author": "por Jerry Scott y Jim Borgman ; traducción, Robert Falcó.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.Z55A816 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Norma Editorial",
+      "date": "2002"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Zits ; v. 4)",
+      "Translation of: Are We an \"Us\"?"
+    ]
+  },
+  "27": {
+    "heading": "Falcó, Robert.",
+    "title": "Mírame Cuando te Hablo, Jovencito!",
+    "author": "por Jerry Scott y Jim Borgman ; traducción, Robert Falcó.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.Z55D616 2002",
+    "library has": "",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Norma Editorial",
+      "date": "2002"
+    },
+    "physical description": {
+      "dimensions": "23 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "128 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Zits ; v. 3)",
+      "Translation of: Don't Roll Your Eyes at Me, Young Man."
+    ]
+  },
+  "28": {
+    "heading": "Falcon, Flick.",
+    "title": "\"Into the Fourth Dimension\"",
+    "author": "Don Rico, art",
+    "title_type": "incipit-assigned",
+    "series": "Flick Falcon",
+    "appears_in": " 6 p. in Fantastic Comics, no. 1 (Dec. 1939).",
+    "call number": "Film 15791r.153",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Introduction of Flick Falcon and Adele ; villains introduced are Martians called the Three-Armed Men.",
+      "Data from Lou Mougin via Grand Comics Database Project."
+    ]
+  },
+  "29": {
+    "heading": "Falcon, Johnny.",
+    "title": "\"Johnny Falcon was a Hot-Shot with a Shotgun\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "The Jinx on Johnny Falcon!) p. 27-28 in The Hornet, no. 504",
+    "call number": "PN6738.H575no.504",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "30": {
+    "heading": "Falcón, Manuel.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1204"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "31": {
+    "heading": "The Falcon.",
+    "title": "\"The Bride of the Falcon\"",
+    "author": "Frank Robbins, story ; Alex Toth, Frank Giacoia, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 36 p. in Sinister House of Secret Love, no. 3 (Mar. 1972) k. The Falcon. I. Robbins, Frank. II. Toth, Alex. III. Giacoia, Frank. Call no.: PN6728.4.N3S5no.3",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "32": {
+    "heading": "The Falcon.",
+    "title": "\"The Flying Dutchman\"",
+    "author": "Bill Everett, story and art",
+    "title_type": "incipit",
+    "series": "Sub-Mariner",
+    "appears_in": " 12 p. in Marvel Mystery Comics, no. 28 (Feb. 1942).",
+    "call number": "PN6728.1.M3M3m no.28",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villains The Falcon (who dies) and Chuck \"Slug\" McCarthy are introduced ; also introduced is Baby Dean McCarthy (Betty Dean's sister and Slug's wife).",
+      "Data from Lou Mougin and Tony Rose, via Grand Comics Database Project."
+    ]
+  },
+  "33": {
+    "heading": "The Falcon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Collector's Guide : The First Heroic Age",
+    "author": "Jerry Bails",
+    "series": null,
+    "pages": {
+      "range": [
+        "24"
+      ]
+    },
+    "call number": "PN6725.B28 1969",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1969"
+    },
+    "notes": [
+      "Points to a feature in Daring Mystery and Human Torch comics."
+    ]
+  },
+  "34": {
+    "heading": "The Falcon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "597"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": [
+      "Reference to a British superhero drawn by George Heath."
+    ]
+  },
+  "35": {
+    "heading": "The Falcon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Encyclopedia of Comic Characters",
+    "author": "Denis Gifford",
+    "series": null,
+    "pages": {
+      "range": [
+        "76"
+      ]
+    },
+    "call number": "PN6707.G5 1987",
+    "publication info": {
+      "place": "Harlow",
+      "publisher": "Longman",
+      "date": "1987"
+    },
+    "notes": [
+      "Feature by George Heath."
+    ]
+  },
+  "36": {
+    "heading": "The Falcon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "106"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": [
+      "Hero from Pepe Comics."
+    ]
+  },
+  "37": {
+    "heading": "Falcon (compañero de Savarese).",
+    "entry type": "index entry",
+    "title": "La Historieta Argentina : una Historia",
+    "author": "Judith Gociol, Diego Rosemberg",
+    "series": null,
+    "pages": {
+      "range": [
+        "408"
+      ]
+    },
+    "call number": "PN6790.A7G6 2000",
+    "publication info": {
+      "place": "Buenos Aires",
+      "publisher": "Ediciones de la Flor",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "38": {
+    "heading": null,
+    "title": "The Falcon.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.5.M3F3 1983",
+    "library has": "no. 1-4.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics Group",
+      "date": "1983-1984"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Complete in 4 nos.",
+      "Genre: Superhero."
+    ]
+  },
+  "39": {
+    "heading": "The Falcon.",
+    "title": "Captain America &amp; the Falcon.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.7.M3C305",
+    "library has": "no. 1.",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Marvel Comics",
+      "date": "2004-2005"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": "Superhero genre.",
+    "contents": [],
+    "notes": [
+      "Published no. 1 (May 2004) - no. 14 (June 2005)."
+    ]
+  },
+  "40": {
+    "heading": "Falcon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "201"
+      ]
+    },
+    "call number": "PN6707.S55 1997",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "About the Marvel miniseries."
+    ]
+  },
+  "41": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Stan Lee and Gene Colan, story and art ; Joe Sinnott, embellisher ; Sam Rosen, letterer",
+    "title_type": "official",
+    "series": "Sept. 1969) \"The Coming of the Falcon\"",
+    "appears_in": " 20 p. in Captain America, no. 117 (Sept. 1969)",
+    "call number": "PN6728.2.M3T25no.117",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: The Red Skull, using the power of the Cosmic Cube, has switched bodies with Captain America. He tries to break the Captain's spirit by sending him to the tropical \"Isle of the Exiles.\" The Exiles (supervillains named Baldini, Chang, Cadavus, Gruning, Iron-Hand Hauptmann, and Krushki) attack thinking their enemy the Red Skull is before them. A mysterious bird, a falcon, saves Captain America from the Exiles. It is revealed that the falcon is controlled by a Black man. Captain America disguises the Red Skull's body using clay to make new facial features, and thanks the man, remarking that he sounds \"more Harlem than Haitian.\" The man indeed grew up in Harlem, raising pigeons on a rooftop, but on a vacation in Rio de Janeiro he found a different bird, a falcon named Redwing. A newspaper job advertisement brought him to the Isle of the Exiles, but the Exiles don't actually hire people, they enslave them. The two men talk about strategy for defeating the Exiles, and Captain America convinces the man (still nameless) to put on a green mask and costume to \"serve as a symbol to the natives.\" \"The Falcon\" is born. Back in New York, the Skull enjoys impersonating Captain America, though Modok, at A.I.M headquarters, is looking for a way to make the Cosmic Cube power down."
+    ]
+  },
+  "42": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1969) \"The Falcon Fights On\"",
+    "call number": "PN6728.2.M3T25no.118",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "43": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1969) \"Now Falls the Skull!\"",
+    "call number": "PN6728.2.M3T25no.119",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon is a guest star per Olshevsky."
+    ]
+  },
+  "44": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "script and art by Stan Lee and Gene Colan ; embellishment: Frank Giacoia ; lettering: Sam Rosen",
+    "title_type": "official",
+    "series": "June 1970) \"The Fate of the Falcon!\"",
+    "appears_in": " 20 p. in Captain America, no. 126 (June 1970).",
+    "call number": "PN6728.2.M3T25no.126",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: \"The Falcon Returns!\""
+    ]
+  },
+  "45": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1970) \"The Fearful Secret of Bucky Barnes\"",
+    "call number": "PN6728.2.M3T25no.132",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Appearance of The Falcon, per Olshevsky."
+    ]
+  },
+  "46": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1971) \"Madness in the Slums\"",
+    "call number": "PN6728.2.M3T25no.133",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon is a guest star, per Olshevsky."
+    ]
+  },
+  "47": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1971) \"More Monster than Man!\"",
+    "call number": "PN6728.2.M3T25no.135",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "48": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1971) \"To Stalk the Spider-Man!\"",
+    "call number": "PN6728.2.M3T25no.137",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "49": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1971) \"The Badge of Betrayal!\"",
+    "call number": "PN6728.2.M3T25no.139",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "50": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1971) \"In the Grip of Gargoyle!\"",
+    "call number": "PN6728.2.M3T25no.140",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "51": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1971) \"The Unholy Alliance!\"",
+    "call number": "PN6728.2.M3T25no.141",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "52": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1971) \"And In The End...\"",
+    "call number": "PN6728.2.M3T25no.142",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "53": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1971) \"Power to the People\"",
+    "call number": "PN6728.2.M3T25no.143",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "54": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1971) \"Hydra Over All!\"",
+    "call number": "PN6728.2.M3T25no.144",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "55": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1972) \"Mission: Destroy the Femme Force!\"",
+    "call number": "PN6728.2.M3T25no.146",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "56": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1972) \"And Behind the Hordes of Hydra\"",
+    "call number": "PN6728.2.M3T25no.147",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "57": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1972) \"The Big Sleep!\"",
+    "call number": "PN6728.2.M3T25no.148",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "58": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1972) \"All the Colors of Evil!\"",
+    "call number": "PN6728.2.M3T25no.149",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "59": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Conway ; S",
+    "title_type": "official",
+    "series": "June 1972) \"Mirror, Mirror!\"",
+    "appears_in": " Buscema, J. Verpoorten. 21 p. in Captain America, no. 150 (June 1972).",
+    "call number": "PN6728.2.M3T25no.150",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: Jakar (as The Stranger) kidnaps Earthian children in a scheme to repopulate his homeworld.",
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "60": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1972) \"Panic on Park Avenue\"",
+    "call number": "PN6728.2.M3T25no.151",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "61": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1972) \"Terror in the Night!\"",
+    "call number": "PN6728.2.M3T25no.152",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "62": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1972) \"The Falcon Fights Alone\"",
+    "call number": "PN6728.2.M3T25no.154",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "63": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Nov. 1972) \"The Incredible Origin of the Other Captain America!\"",
+    "call number": "PN6728.2.M3T25no.155",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "64": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1972) \"Two Into One Won't Go!\"",
+    "call number": "PN6728.2.M3T25no.156",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "65": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1973) \"Veni, Vidi, Vici: Viper!\"",
+    "call number": "PN6728.2.M3T25no.157",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "66": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Feb. 1973) \"The Crime Wave Breaks!\"",
+    "call number": "PN6728.2.M3T25no.158",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "67": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1973) \"Enter: Solarr!\"",
+    "call number": "PN6728.2.M3T25no.160",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "68": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "script, Steve Englehart ; art, Sal Buscema ; inking, John Verpoorten ; lettering, Artie Simek ; coloring, Stan Goldberg",
+    "title_type": "official",
+    "series": "May 1973) \"If He Loseth His Soul!\"",
+    "appears_in": " 20 p. in Captain America, no. 161 (May 1973).",
+    "call number": "PN6728.2.M3T25no.161",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: \"If a Soul be Lost!\""
+    ]
+  },
+  "69": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Steve Englehart, author ; Sal Buscema, artist ; John Verpoorten, inker ; John Costanza, letterer ; P",
+    "title_type": "official",
+    "series": "June 1973) \"This Way Lies Madness!\"",
+    "appears_in": " Goldberg, colorist. 20 p. in Captain America, no. 162 (June 1973).",
+    "call number": "PN6728.2.M3T25no.162",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "70": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Roy Thomas and Steve Englehart, story ; Sal Buscema, pencils ; John Verpoorten and Tony Mortellaro, inks",
+    "title_type": "official",
+    "series": "July 1973) \"Beware of Serpents\"",
+    "appears_in": " 20 p. in Captain America, no. 163 (July 1973).",
+    "call number": "PN6728.2.M3T25no.163",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars.",
+      "Data from George Olshevsky."
+    ]
+  },
+  "71": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Steve Englehart, author ; Alan Lee Weiss, artist ; John Costanza, lettering ; Jim Starlin, colorist",
+    "title_type": "official",
+    "series": "Aug. 1973) \"Queen of the Werewolves!\"",
+    "appears_in": " 20 p. in Captain America, no. 164 (Aug. 1973).",
+    "call number": "PN6728.2.M3T25no.164",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "72": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Roy Thomas &amp; Tony Isabella, writers ; Sal Buscema, artist ; J",
+    "title_type": "official",
+    "series": "Dec. 1973) \"And a Phoenix Shall Arise!\"",
+    "appears_in": " Tartag &amp; G. Roussos, inkers ; L. Lessmann, colorist ; C. Jetter, letterer. 20 p. in Captain America, no. 168 (Dec. 1973).",
+    "call number": "PN6728.2.M3T25no.168",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "73": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1974) \"Before the Dawn!\"",
+    "call number": "PN6728.2.M3T25no.175",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "74": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1974) \"Captain America Must Die!\"",
+    "call number": "PN6728.2.M3T25no.176",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "75": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Dec. 1974) \"The Coming of the Nomad!\"",
+    "call number": "PN6728.2.M3T25no.180",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "76": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1975) \"Nomad: C'est Fini!\"",
+    "call number": "PN6728.2.M3T25no.183",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: Nomad: No More!, in Captain America, no. 183 (Mar. 1975).",
+      "Falcon co-stars per Olshevsky."
+    ]
+  },
+  "77": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Apr. 1975) \"Cap's Back!\"",
+    "call number": "PN6728.2.M3T25no.184",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "78": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "May 1975) \"Scream the Scarlet Skull!\"",
+    "call number": "PN6728.2.M3T25no.185",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "79": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1975) \"Mind Cage!\"",
+    "call number": "PN6728.2.M3T25no.186",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Falcon guest appearance per Olshevsky."
+    ]
+  },
+  "80": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "July 1975) \"The Madness Maze!\"",
+    "call number": "PN6728.2.M3T25no.187",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "81": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1975) \"Druid-War\"",
+    "call number": "PN6728.2.M3T25no.188",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "82": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Oct. 1975) \"Nightshade is Deadlier the Second Time Around!\"",
+    "call number": "PN6728.2.M3T25no.190",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "The Falcon co-stars, per Olshevsky."
+    ]
+  },
+  "83": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Jack Kirby, writer, artist, editor ; Frank Giacoia, inker ; John Costanza, letterer ; Janice Cohen, colorist",
+    "title_type": "official",
+    "series": "Jan. 1976) \"The Madbomb Screamer in the Brain!\"",
+    "appears_in": " 18 p. in Captain America, no. 193 (Jan. 1976).",
+    "call number": "PN6728.2.M3T25no.193",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "84": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Jack Kirby, writer, artist, editor ; Frank Giacoia, inker ; Gaspar Saladino, letterer ; Janice Cohen, colorist",
+    "title_type": "official",
+    "series": "Feb. 1976) \"The Trojan Horde\"",
+    "appears_in": " 18 p. in Captain America, no. 194 (Feb. 1976).",
+    "call number": "PN6728.2.M3T25no.194",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "85": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "written &amp; drawn by Jack Kirby ; inks &amp; lettering by D",
+    "title_type": "official",
+    "series": "Mar. 1976) \"1984!\"",
+    "appears_in": " Bruce Berry ; coloring by Janice Cohen. 17 p. in Captain America, no. 195 (Mar. 1976).",
+    "call number": "PN6728.2.M3T25no.195",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "86": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "editor, writer artist: Jack Kirby ; inked and lettered by D",
+    "title_type": "official",
+    "series": "Apr. 1976) \"Kill-Derby\"",
+    "appears_in": " Bruce Berry ; colored by Janice Cohen. 17 p. in Captain America, no. 196 (Apr. 1976).",
+    "call number": "PN6728.2.M3T25no.196",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "87": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "written, drawn &amp; edited by Jack Kirby ; inked by Frank Giacoia ; J",
+    "title_type": "official",
+    "series": "May 1976) \"The Rocks are Burning!\"",
+    "appears_in": " Costanza, letterer ; P. Rache, colorist. 17 p. in Captain America, no. 197 (May 1976).",
+    "call number": "PN6728.2.M3T25no.197",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "88": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written and drawn by Jack Kirby ; inks: Frank Giacoia ; letters: John Costanza ; colors: Phil Rache",
+    "title_type": "official",
+    "series": "Sept. 1976) \"The Night People\"",
+    "appears_in": " 17 p. in Captain America, no. 201 (Sept. 1976).",
+    "call number": "PN6728.2.M3T25no.201",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "89": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written &amp; drawn by Jack Kirby ; inked by Frank Giacoia ; lettered by John Costanza ; colored by G",
+    "title_type": "official",
+    "series": "Oct. 1976) \"Mad, Mad Dimension!\"",
+    "appears_in": " Roussos. 17 p. in Captain America, no. 202 (Oct. 1976).",
+    "call number": "PN6728.2.M3T25no.202",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: \"Danger in a Dark Dimension.\""
+    ]
+  },
+  "90": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written &amp; drawn by Jack Kirby ; inks, Frank Giacoia ; letters, Gaspar ; colors, H",
+    "title_type": "official",
+    "series": "Nov. 1976) \"Alamo II!\"",
+    "appears_in": " Paley. 17 p. in Captain America, no. 203 (Nov. 1976).",
+    "call number": "PN6728.2.M3T25no.203",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "91": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written and drawn by Jack Kirby ; inks, F",
+    "title_type": "official",
+    "series": "Dec. 1976) \"The Unburied One!\"",
+    "appears_in": " Giacoia ; letters, Gaspar ; colors, J. Cohen. 17 p. in Captain America, no. 204 (Dec. 1976).",
+    "call number": "PN6728.2.M3T25no.204",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: \"Crushed by the Unliving Enemy!\""
+    ]
+  },
+  "92": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written &amp; drawn by Jack Kirby ; inked by John Verpoorten ; colored by Michele W",
+    "title_type": "official",
+    "series": "Jan. 1977) \"Agron Walks the Earth\"",
+    "appears_in": " ; lettered by Jim Novak. 17 p. in Captain America, no. 205 (Jan. 1977).",
+    "call number": "PN6728.2.M3T25no.205",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      ""
+    ]
+  },
+  "93": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written &amp; drawn by Jack Kirby ; inked by Frank Giacoia ; lettered by J",
+    "title_type": "official",
+    "series": "Feb. 1977) \"Face to Face with the Swine!\"",
+    "appears_in": " Novak ; colored by P. Goldberg. 17 p. in Captain America, no. 206 (Feb. 1977).",
+    "call number": "PN6728.2.M3T25no.206",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Appearances of Sharon Carter and Leila.",
+      "Cover title: \"Prison of Death.\""
+    ]
+  },
+  "94": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "written, drawn, and edited by Jack Kirby ; inked by Frank Giacoia ; letterer: J",
+    "title_type": "official",
+    "series": "Mar. 1977) \"The Tiger and the Swine!\"",
+    "appears_in": " Novak ; colors: G. Roussos. 17 p. in Captain America, no. 207 (Mar. 1977).",
+    "call number": "PN6728.2.M3T25no.207",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "95": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written &amp; drawn by Jack Kirby ; inked by Frank Giacoia ; lettered by Jim Novak ; colored by G",
+    "title_type": "official",
+    "series": "Apr. 1977) \"The River of Death!\"",
+    "appears_in": " Roussos. 17 p. in Captain America, no. 208 (Apr. 1977).",
+    "call number": "PN6728.2.M3T25no.208",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "96": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written and drawn by Jack Kirby ; lettered and inked by Michael W",
+    "title_type": "official",
+    "series": "July 1977) \"Nazi 'X'!\"",
+    "appears_in": " Royer ; colored by Glynis Wein. 17 p. in Captain America, no. 211 (July 1977).",
+    "call number": "PN6728.2.M3T25no.211",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "97": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written and drawn by Jack Kirby ; inked by Dan Green ; lettered by Joe Rosen ; colored by G",
+    "title_type": "official",
+    "series": "Sept. 1977) \"The Night Flyer!\"",
+    "appears_in": " Roussos. 17 p. in Captain America, no. 213 (Sept. 1977).",
+    "call number": "PN6728.2.M3T25no.213",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "98": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "edited, written and drawn by Jack Kirby ; letters n' inks by Royer ; coloring by Sam Kato",
+    "title_type": "official",
+    "series": "Oct. 1977) \"Power\"",
+    "appears_in": " 17 p. in Captain America, no. 214 (Oct. 1977).",
+    "call number": "PN6728.2.M3T25no.214",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: \"Assault of the Night Flyer!\""
+    ]
+  },
+  "99": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Roy Thomas, writer ; George Tuska and Pablo Marcos, artists ; Rosen, letterer ; Roussos, colorist",
+    "title_type": "official",
+    "series": "Nov. 1977) \"The Way it Really Was!\"",
+    "appears_in": " 17 p. in Captain America, no. 215 (Nov. 1977).",
+    "call number": "PN6728.2.M3T25no.215",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "100": {
+    "heading": null,
+    "title": "The Falcon",
+    "author": "Don Glut, guest writer ; Sal Buscema, Esposito and Tartag, artists ; J",
+    "title_type": "official",
+    "series": "Feb. 1978) \"One Day in Newfoundland!\"",
+    "appears_in": " Costanza, letterer ; G. Roussos, colorist. 17 p. in Captain America, no. 218 (Feb. 1978).",
+    "call number": "PN6728.2.M3T25no.218",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "101": {
+    "heading": "The Falcon--Miscellanea.",
+    "title": "Captain America and the Struggle of the Superhero : Critical Essays",
+    "author": "edited by Robert G",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Weiner ; foreword by John Shelton Lawrence ; afterword by J.M. DeMatteis.",
+    "call number": "PN6725.W427C3 2009",
+    "library has": "",
+    "publication info": {
+      "place": "Jefferson, N.C.",
+      "publisher": "McFarland &amp; Co.",
+      "date": "2009"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "255 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Includes bibliographical references and index.",
+      "Includes filmography: p. 218-226.",
+      "\"The topics discussed include the ways Nazi Germany was represented in Captain America Comics from the 1940s to the 1960s; the creation of Captain America in the Jewish American experience; the relationship between Captain America and Captain Britain; the partnership between Captain America and The Falcon; and various attempts to kill Captain America before his \"real\" death\"",
+      "Provided by publisher."
+    ]
+  },
+  "102": {
+    "heading": "The Falcon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Encyclopedia of Superheroes",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "106-107"
+      ]
+    },
+    "call number": "PN6707.R6 1985",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Facts on File",
+      "date": "1985"
+    },
+    "notes": [
+      "Marvel superhero, companion of Captain America."
+    ]
+  },
+  "103": {
+    "heading": "The Falcon--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comic Book Nation",
+    "author": "Bradford W. Wright",
+    "series": null,
+    "pages": {
+      "range": [
+        "237-238",
+        "245"
+      ]
+    },
+    "call number": "PN6725.W69 2001",
+    "publication info": {
+      "place": "Baltimore",
+      "publisher": "Johns Hopkins University Press",
+      "date": "2001"
+    },
+    "notes": []
+  },
+  "104": {
+    "heading": "Falcon--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Dark Knights, the New Comics in Context",
+    "author": "Greg S. McCue with Clive Bloom",
+    "series": null,
+    "pages": {
+      "range": [
+        "52"
+      ]
+    },
+    "call number": "PN6710.M34 1993",
+    "publication info": {
+      "place": "London",
+      "publisher": "Pluto Press",
+      "date": "1993"
+    },
+    "notes": []
+  },
+  "105": {
+    "heading": "Falcon--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Super Heroes: a Modern Mythology",
+    "author": "Richard Reynolds",
+    "series": null,
+    "pages": {
+      "range": [
+        "75",
+        "77",
+        "79",
+        "115"
+      ]
+    },
+    "call number": "PN6725.R45 1994",
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "106": {
+    "heading": null,
+    "title": "The Falcon and the Flame",
+    "author": "written and illustrated by Walter S",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Crane IV.",
+    "call number": "PN6727.C683S472 2001",
+    "library has": "",
+    "publication info": {
+      "place": "N. Cambridge, MA",
+      "publisher": "Sick Mind Press",
+      "date": "2001"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : ill. ; 26 cm.",
+      "(Sheba ; v. 2)",
+      "Most of this material was previously printed in Sheba, v. 2, issues 5-8.",
+      "\"From the wilds of Persia to the pyramids of the Yucatan, Sheba's racking up the frequent flyer miles as Seth closes in on his target, a large striped box. But does the secret to thwarting this self-described 'ultimate evil' lie in the past, in the court of Egypt's final queen?\""
+    ]
+  },
+  "107": {
+    "heading": "Falcon Comics.",
+    "entry type": "index entry",
+    "title": "Panel by Panel : A History of Australian Comics",
+    "author": "John Ryan",
+    "series": null,
+    "pages": {
+      "range": [
+        "144",
+        "145"
+      ]
+    },
+    "call number": "PN6790.A8R9",
+    "publication info": {
+      "place": "Stanmore, NSW",
+      "publisher": "Cassell Australia",
+      "date": "1979"
+    },
+    "notes": [
+      "Index by John Melloy."
+    ]
+  },
+  "108": {
+    "heading": null,
+    "title": "\"The Falcon Fights Alone\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Captain America) 20 p. in Captain America, no. 154",
+    "call number": "PN6728.2.M3T25no.154",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "109": {
+    "heading": null,
+    "title": "\"The Falcon Fights On\"",
+    "author": "[No author]",
+    "title_type": "incipit",
+    "series": "Captain America) 20 p. in Captain America, no. 118",
+    "call number": "PN6728.2.M3T25no.118",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "110": {
+    "heading": "Falcon Flats.",
+    "title": "\"Fury at Falcon Flats!\"",
+    "author": "Larry Lieber, story ; Dick Ayers, art ; Vince Colletta, inks",
+    "title_type": "incipit",
+    "series": "Two-Gun Kid",
+    "appears_in": " 17 p. in Two-Gun Kid, no. 85 (Jan. 1967); reprinted in Two-Gun Kid, no. 108 (Jan. 1973)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Begins: We've tracked the owlhoots down. k. Falcon Flats. k. Flats. I. Lieber, Larry. II. Ayers, Dick. III. Colletta, Vince. Call no.: PN6728.1.M3T9no.85. Call no.: PN6728.1.M3T9no.108"
+    ]
+  },
+  "111": {
+    "heading": "Falcon Island.",
+    "title": "\"Attack on Falcon Island\"",
+    "author": "art: Art Saaf",
+    "title_type": "incipit-assigned",
+    "series": "Phantom Falcons",
+    "appears_in": " 8 p. in Rangers of Freedom Comics, no. 6 (Aug. 1942).",
+    "call number": "Film 15791r.149",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villains are Maj. Holstein (introduced), and the Japanese.",
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "112": {
+    "heading": "Falcon Island.",
+    "title": "\"Invasion of Falcon Island\"",
+    "author": "art: Art Saaf",
+    "title_type": "incipit-assigned",
+    "series": "Phantom Falcons",
+    "appears_in": " 8 p. in Rangers of Freedom Comics, no. 7 (Oct. 1942).",
+    "call number": "Film 15791r.162",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villains are Kapitan Bruno Vogel (introduced), and Nazis.",
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "113": {
+    "heading": null,
+    "title": "\"Falcon of the Yard\"",
+    "author": "Mark 'Guv' Robinson",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 50-53 in Escape, no. 14 (1988).",
+    "call number": "PN6738.E75no.14",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"Can you solve this thrilling detecto-mystery?\""
+    ]
+  },
+  "114": {
+    "heading": null,
+    "title": "The Falcon Returns!\" \"The Fate of the Falcon!\"",
+    "author": "script and art by Stan Lee and Gene Colan ; embellishment: Frank Giacoia ; lettering: Sam Rosen",
+    "title_type": "official",
+    "series": "Captain America",
+    "appears_in": " 20 p. in Captain America, no. 126 (June 1970).",
+    "call number": "PN6728.2.M3T25no.126",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Cover title: \"The Falcon Returns!\""
+    ]
+  },
+  "115": {
+    "heading": "Falconcrest.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "116": {
+    "heading": "Falcone, Karin.",
+    "title": "Reign of Toads.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6725.R44",
+    "library has": "v. 1, no. 1.",
+    "publication info": {
+      "place": "Albany, NY",
+      "publisher": "Karin Falcone and Kyle Silfer",
+      "date": "1991-"
+    },
+    "physical description": {
+      "dimensions": "22 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Began with v. 1, no. 1 (Winter 1991).",
+      "\"Comix, commentary, cacophony.\"",
+      "Periodical about comics."
+    ]
+  },
+  "117": {
+    "heading": "Falcone, Lou.",
+    "title": "The Iron Horse Goes to War : a picture story about railroads in the war between the states : how they first became the great basic military asset that they are today",
+    "author": "Bill Bunce, art ; lettering by Lou Falcone.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.25.A75I7 1963",
+    "library has": "",
+    "publication info": {
+      "place": "Washington, D.C.",
+      "publisher": "School and College Service, Association of American Railroads",
+      "date": "1963"
+    },
+    "physical description": {
+      "dimensions": "26 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "15 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Genre: Historical."
+    ]
+  },
+  "118": {
+    "heading": "Il Falcone Sardese.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1092"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "119": {
+    "heading": "Falconer, Lee--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Who's Who of American Comic Books : 1978 Yearbook",
+    "author": "by Jerry Bails",
+    "series": null,
+    "pages": {
+      "range": [
+        "6"
+      ]
+    },
+    "call number": "PN6725.B3 1978",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1979"
+    },
+    "notes": []
+  },
+  "120": {
+    "heading": "Falconers.",
+    "title": "\"Hawk and Bat\"",
+    "author": "Coverly.",
+    "title_type": "incipit-assigned",
+    "series": "Speed Bump, May 4, 2006",
+    "call number": "PN6726 f.B55 \"bats\"",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: A falconer sees a man next to him with a bat on a glove."
+    ]
+  },
+  "121": {
+    "heading": "Falcons.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "122": {
+    "heading": "Falcons.",
+    "title": "\"The Corsican Falcon\"",
+    "author": "by Collins and Beatty",
+    "title_type": "incipit",
+    "series": "A Mike Mist Private Eye Minute Mist-ery",
+    "appears_in": " p. 13 in The Mike Mist Minute Mist-eries (New York : Eclipse Enterprises, 1981).",
+    "call number": "PN6728.5.E25M5",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "123": {
+    "heading": "Falcons.",
+    "title": "\"The Fantastic Falcon\"",
+    "author": "Bill Ely, art",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " 8 p. in House of Secrets, no. 33 (June 1960).",
+    "call number": "PN6728.2.N3H62no.33",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Michael Tiefenbacher."
+    ]
+  },
+  "124": {
+    "heading": "Falcons.",
+    "title": "\"The Hunting Falcons\"",
+    "author": "Robert Webb, art",
+    "title_type": "incipit-assigned",
+    "series": "Long Bow",
+    "appears_in": " 4 p. in Jumbo Comics, no. 160 (June 1952).",
+    "call number": "Film 15791r.315",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin, Henry Steele, Hames Ware, Jim Vadeboncoeur Jr. via Grand Comics Database Project."
+    ]
+  },
+  "125": {
+    "heading": "Falcons.",
+    "title": "\"The Hunting Party\"",
+    "author": "by P",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " Christin ; illustrated by Enki Bilal. p. 52-59 in Heavy Metal, v. 8, no. 6 (Sept. 1984).",
+    "call number": "PN6728.H43v.8no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"While awaiting the arrival of the last of their group, the members of the hunting party joined the charming Tadeusz in the falcon house. Since his forced retirement from the party hierarchy, Tadeusz had devoted his time to the training of the falcons, with deadly results.\"",
+      "\"To be continued.\""
+    ]
+  },
+  "126": {
+    "heading": "Falcons.",
+    "title": "\"Les Six Cents de Portland\" p. 95-102 in Cosmos, no. 57",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "1981).",
+    "call number": "PN6748.C63no.57",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Summary: In 2065 A.D., Tom Stone kills a giant mutant falcon menacing the sheep of the beleaguered last people on Earth."
+    ]
+  },
+  "127": {
+    "heading": "Falcons.",
+    "title": "\"The Space Falcon\"",
+    "author": "art: Murphy Anderson",
+    "title_type": "incipit-assigned",
+    "series": "Star Pirate",
+    "appears_in": " 7 p. in Planet Comics, no. 50 (Sept. 1947).",
+    "call number": "PN6728.1.F5P55m no.50",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Villains The Space Falcon, Tara, and Laro are all introduced.",
+      "Data from Lou Mougin via the Grand Comics Database Project."
+    ]
+  },
+  "128": {
+    "heading": null,
+    "title": "\"Falcons of Malta\"",
+    "author": "Gordon Wayne",
+    "title_type": "incipit",
+    "series": "John Perry",
+    "appears_in": " 2 p. text. in Wings Comics, no. 18 (Feb. 1942).",
+    "call number": "PN6728.1.F5W5m no.18",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from Lou Mougin via The Grand Comics Database Project."
+    ]
+  },
+  "129": {
+    "heading": null,
+    "title": "Faldet",
+    "author": "skrevet af Wendy og Richard Pini ; tegnet af Wendy Pini med hjælp til rentegningen af Jane Fancher ; oversat af Edith Månsson ; tekstet af Walther Lehmann.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6728.E5D314 1989",
+    "library has": "",
+    "publication info": {
+      "place": "Bagsværd",
+      "publisher": "Interpresse",
+      "date": "1989"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "32 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Elverfolket ; bd. 14)",
+      "\"Originaltitel: ElfQuest 14, 'The Fall.'\""
+    ]
+  },
+  "130": {
+    "heading": "Fales, John.",
+    "title": "\"Big John Fales\"",
+    "author": "Art Seymour, art",
+    "title_type": "incipit",
+    "series": "Uncle Sam",
+    "appears_in": " 11 p. in National Comics, no. 34 (Aug. 1943)",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover; villain: Big John Fales (introduced, dies, comes back as a ghost)",
+      "Data from Lou Mougin of Grand Comic-Book Database. I. Seymour, Art. II. Uncle Sam. k. Fales, John. k. Ghosts. Call no.: Film 15791r.244"
+    ]
+  },
+  "131": {
+    "heading": "Faline.",
+    "entry type": "index entry",
+    "title": "The Illustrated Encyclopedia of Cartoon Animals",
+    "author": "Jeff Rovin",
+    "series": null,
+    "pages": {
+      "range": [
+        "17"
+      ]
+    },
+    "call number": "NC1766.U5R6 1991",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Prentice Hall",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "132": {
+    "heading": "Falise, Thierry.",
+    "title": "L'Inconnu de la Tamise",
+    "author": "B",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " de Ville ; d'après une idée de Thierry Falise.",
+    "call number": "PN6747.D395 I5 1984",
+    "library has": "",
+    "publication info": {
+      "place": "Bruxelles",
+      "publisher": "Éditions Bedescope",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "133": {
+    "heading": "Falk, Adalbert.",
+    "entry type": "index entry",
+    "title": "History of the Comic Strip, v. 2",
+    "author": "by David Kunzle",
+    "series": null,
+    "pages": {
+      "range": [
+        "257"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Berkeley, Calif.",
+      "publisher": "University of California Press",
+      "date": "1990"
+    },
+    "notes": []
+  },
+  "134": {
+    "heading": "Falk, Bertil.",
+    "title": "Dick Tracy : 1940-43",
+    "author": "Chester Gould ; svensk text, Bertil Falk.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Malmö",
+      "publisher": "Hemmets Journal",
+      "date": "1976"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "1 v. : col. ill. (black &amp; orange) ; 31 cm.",
+      "(Seriebiblioteket ; 4) 1. Detective and mystery comic books, strips, etc. 2. Swedish comics. I. Gould, Chester. II. Falk, Bertil. III. Series. IV. Dick Tracy. Swedish. V. Hemmets Journal. Call no.: PN6728.D5 G6519 1976"
+    ]
+  },
+  "135": {
+    "heading": "Falk, Jon.",
+    "title": "\"Letters\" p. 55-56 in Comic Book Profiles, no. 6",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Spring 1999",
+    "call number": "PN6700.C59no.6",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters not separately captioned from Christopher Smits, Jon Falk, Dennis Barger, Tim Townsend, Frederic Massa."
+    ]
+  },
+  "136": {
+    "heading": "Falk, Lee, 1905-1999--Death.",
+    "title": "\"Creator of Mandrake, Phantom Comic Strips\" in The Chicago Tribune",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 16, 1999), sect. 2, p. 7.",
+    "call number": "PN6710.S35 1999",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Associated Press obituary for Lee Falk."
+    ]
+  },
+  "137": {
+    "heading": "Falk, Lee, 1905-1999--Death.",
+    "title": "\"Phantom, Mandrake Creator Lee Falk Dies\"",
+    "author": "Greg Stump",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 23-24 in The Comics Journal, no. 212 (May 1999).",
+    "call number": "PN6700.C62no.212",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(News Watch)",
+      "Birth year in doubt; died Mar. 13, 1999."
+    ]
+  },
+  "138": {
+    "heading": "Falk, Lee, 1905-1999--Interviews.",
+    "title": "\"The Phantom 60th Anniversary\" p. 16-28 in Cartoonist Profiles, no. 110",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "June 1996).",
+    "call number": "NC1300.C35no.110",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Interview with Lee Falk by Jud Hurd, with photographs of Falk and of the making of the Paramount movie about to be released, and sample strips."
+    ]
+  },
+  "139": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "title": "\"Animated Shorts: Quick Looks at the World of Animation\" p. 21 in Hogan's Alley, v. 1, no. 1",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Autumn 1994",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Short items on Stan Lee, Beu Weaver, Lori Alan, Brian Austin Green, Chuck McCann, Jack Kirby, Robert Hays, Gabor Csupo, Arlene Klasky, Lee Falk, and Peter Chung. 1. Lee, Stan. 2. Weaver, Beu. 3. Alan, Lori. 4. Green, Brian Austin. 5. McCann, Chuck. 6. Kirby, Jack. 7. Hays, Robert. 8. Csupo, Gabor. 9. Klasky, Arlene. 10. Falk, Lee. 11. Chung, Peter. I. Quick Looks at the World of Animation. Call no.: PN6700.H6v.1no.1"
+    ]
+  },
+  "140": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "title": "\"Bande Dessinée et Figuration Narrative\" p. 90-94 in Phénix, no. 4",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "3e Trimestre 1967).",
+    "call number": "PN6745.P47no.4",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Report on the exhibition at the Musée des Arts Décoratifs (Louvre), with 13 photographs, including pictures of Maurice Horn, Milton Caniff, Gérald Gassiot-Talabot, Pierre Couperie, François Mathey, Burne Hogarth, Alain Saint-Ogan, Claude Le Gallo, Raymond Poïvet, Robert Gigi, Isabelle Coutrot, and Lee Falk."
+    ]
+  },
+  "141": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "title": "Biographical entry",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "p. 162-163) in The Great American Comic Strip, by Judith O'Sullivan",
+    "call number": "folio PN6725 .O75 1990",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "142": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "title": "\"The Class of '34\"",
+    "author": "Rick Marschall",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 108-111 in Hogan's Alley, v. 1, no. 1 (Autumn 1994)",
+    "call number": "PN6700.H6v.1no.1",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "\"The year of the adventure strip has its anniversary: celebrating alumnae Alex Raymond, Milt Caniff, Al Capp and Lee Falk.\""
+    ]
+  },
+  "143": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Comics Between the Panels",
+    "author": "Steve Duin, Mike Richardson",
+    "series": null,
+    "pages": {
+      "range": [
+        "159"
+      ]
+    },
+    "call number": "PN6707.D8 1998",
+    "publication info": {
+      "place": "Milwaukie, OR",
+      "publisher": "Dark Horse Comics",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "144": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 2",
+        "743"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.2",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "145": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Mondial de la Bande Dessinée",
+    "author": "Patrick Gaumer, Claude Moliterni",
+    "series": null,
+    "pages": {
+      "range": [
+        "236"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Larousse",
+      "date": "1997"
+    },
+    "notes": []
+  },
+  "146": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Das grosse Comic-Lexikon",
+    "author": "Marcel Feige",
+    "series": null,
+    "pages": {
+      "range": [
+        "181"
+      ]
+    },
+    "call number": "PN6707.F48 2001",
+    "publication info": {
+      "place": null,
+      "publisher": "Berlin: Lexikon Imprint Verlag",
+      "date": "2001"
+    },
+    "notes": [
+      "Entry notes birth year in dispute."
+    ]
+  },
+  "147": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "46"
+      ]
+    },
+    "call number": "NC1300.N3 1965",
+    "publication info": null,
+    "notes": []
+  },
+  "148": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "47"
+      ]
+    },
+    "call number": "NC1300.N3 1972",
+    "publication info": null,
+    "notes": []
+  },
+  "149": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "46"
+      ]
+    },
+    "call number": "NC1300.N3 1980",
+    "publication info": null,
+    "notes": []
+  },
+  "150": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "63"
+      ]
+    },
+    "call number": "NC1300.N3 1988",
+    "publication info": null,
+    "notes": []
+  },
+  "151": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "102"
+      ]
+    },
+    "call number": "NC1300.N3 1996",
+    "publication info": null,
+    "notes": []
+  },
+  "152": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Who's Who of American Comic Books",
+    "author": "Jerry Bails &amp; Hames Ware",
+    "series": null,
+    "pages": {
+      "range": [
+        "58"
+      ]
+    },
+    "call number": "PN6725.B3v.1",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1973"
+    },
+    "notes": []
+  },
+  "153": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The Who's Who of American Comic Books",
+    "author": "Jerry Bails &amp; Hames Ware",
+    "series": null,
+    "pages": {
+      "range": [
+        "311"
+      ]
+    },
+    "call number": "PN6725.B3v.4",
+    "publication info": {
+      "place": "Detroit, Mich.",
+      "publisher": "J. Bails",
+      "date": "1973"
+    },
+    "notes": []
+  },
+  "154": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "The World Encyclopedia of Comics",
+    "author": "ed. by Maurice Horn",
+    "series": null,
+    "pages": {
+      "range": [
+        "290-291"
+      ]
+    },
+    "call number": "PN6710.W6 1999",
+    "publication info": {
+      "place": "Philadelphia",
+      "publisher": "Chelsea House",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "155": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Adventurous Decade",
+    "author": "Ron Goulart",
+    "series": null,
+    "pages": {
+      "range": [
+        "54",
+        "63"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New Rochelle, NY",
+      "publisher": "Arlington House",
+      "date": "1975"
+    },
+    "notes": []
+  },
+  "156": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "204"
+      ]
+    },
+    "call number": "NC1426.A43 1997",
+    "publication info": null,
+    "notes": []
+  },
+  "157": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Art of the Comic Book",
+    "author": "by R.C. Harvey",
+    "series": null,
+    "pages": {
+      "range": [
+        "19"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "158": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Art of the Funnies",
+    "author": "by R.C. Harvey",
+    "series": null,
+    "pages": {
+      "range": [
+        "124"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1994"
+    },
+    "notes": []
+  },
+  "159": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "La bande dessinée",
+    "author": "Thierry Groensteen",
+    "series": null,
+    "pages": {
+      "range": [
+        "22"
+      ]
+    },
+    "call number": "PN6710.G7 1996",
+    "publication info": {
+      "place": "Toulouse",
+      "publisher": "Milan",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "160": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "La Bande Dessinée en 10 Leçons",
+    "author": "Henri Filippini, Michel Bourgeois.",
+    "series": null,
+    "pages": {
+      "range": [
+        "33",
+        "163"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "Hachette",
+      "date": "1976"
+    },
+    "notes": []
+  },
+  "161": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Batman : the Complete History",
+    "author": "by Les Daniels",
+    "series": null,
+    "pages": {
+      "range": [
+        "23"
+      ]
+    },
+    "call number": "PN6725.D193B37 1999",
+    "publication info": {
+      "place": "San Francisco",
+      "publisher": "Chronicle Books",
+      "date": "1999"
+    },
+    "notes": []
+  },
+  "162": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "316",
+        "317"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "163": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "title": "Index entry to Cartoonist Profiles, no. 27",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Sept. 1975), p. 20-24",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Data from R.C. Harvey. Call no.: NC1300.C35no.27"
+    ]
+  },
+  "164": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comic Art in America",
+    "author": "Stephen D. Becker",
+    "series": null,
+    "pages": {
+      "range": [
+        "213"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "New York",
+      "publisher": "Simon and Schuster",
+      "date": "1959"
+    },
+    "notes": []
+  },
+  "165": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "138"
+      ]
+    },
+    "call number": "PN6725.T5 1998",
+    "publication info": null,
+    "notes": []
+  },
+  "166": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Comics",
+    "author": "Coulton Waugh",
+    "series": null,
+    "pages": {
+      "range": [
+        "259-260"
+      ]
+    },
+    "call number": "PN6725.W36 1991",
+    "publication info": {
+      "place": "Jackson",
+      "publisher": "University Press of Mississippi",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "167": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, Comix &amp; Graphic Novels",
+    "author": "Roger Sabin",
+    "series": null,
+    "pages": {
+      "range": [
+        "54"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "London",
+      "publisher": "Phaidon",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "168": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "126",
+        "127-128"
+      ]
+    },
+    "call number": "PN6714.H57",
+    "publication info": null,
+    "notes": []
+  },
+  "169": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "82"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "170": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "91",
+        "249-250",
+        "291"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "171": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Encyclopédie des bandes dessinées",
+    "author": "ed. Marjorie Alessandrini. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "96",
+        "210",
+        "229",
+        "273"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Paris",
+      "publisher": "A. Michel",
+      "date": "1986"
+    },
+    "notes": []
+  },
+  "172": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Funnies, 100 Years of American Comic Strips",
+    "author": "Ron Goulart",
+    "series": null,
+    "pages": {
+      "range": [
+        "116"
+      ]
+    },
+    "call number": "PN6725.G62 1995",
+    "publication info": {
+      "place": "Holbrook, Mass.",
+      "publisher": "Adams Publishing",
+      "date": "1995"
+    },
+    "notes": []
+  },
+  "173": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "The Great American Comic Strip",
+    "author": "Judith O'Sullivan",
+    "series": null,
+    "pages": {
+      "range": [
+        "17",
+        "162"
+      ]
+    },
+    "call number": "folio PN6725 .O75 1990",
+    "publication info": {
+      "place": "Boston",
+      "publisher": "Little",
+      "date": null
+    },
+    "notes": []
+  },
+  "174": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Histoire de la Bande Dessinée",
+    "author": "Gérard Blanchard. Nouv. éd.",
+    "series": null,
+    "pages": {
+      "range": [
+        "207",
+        "222-223",
+        "239"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": "Verviers",
+      "publisher": "Marabout",
+      "date": "1974"
+    },
+    "notes": []
+  },
+  "175": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "167",
+        "226",
+        "706"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "176": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "La Historieta Argentina : una Historia",
+    "author": "Judith Gociol, Diego Rosemberg",
+    "series": null,
+    "pages": {
+      "range": [
+        "24",
+        "347",
+        "540"
+      ]
+    },
+    "call number": "PN6790.A7G6 2000",
+    "publication info": {
+      "place": "Buenos Aires",
+      "publisher": "Ediciones de la Flor",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "177": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "184",
+        "185",
+        "272",
+        "273"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "178": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of the Comic Strip",
+    "author": "Pierre Couperie, et al.",
+    "series": null,
+    "pages": {
+      "range": [
+        "71",
+        "73"
+      ]
+    },
+    "call number": "NC1355.B28513",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Crown Publishers",
+      "date": "1968"
+    },
+    "notes": []
+  },
+  "179": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "India's Immortal Comic Books",
+    "author": "Karline McLain",
+    "series": null,
+    "pages": {
+      "range": [
+        "30"
+      ]
+    },
+    "call number": "PN6790 .I5M56 2009",
+    "publication info": {
+      "place": null,
+      "publisher": "Indiana University Press",
+      "date": "2009"
+    },
+    "notes": []
+  },
+  "180": {
+    "heading": "-",
+    "title": "Falk, Lee, 1905-1999",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Miscellanea. Index entry (p. 16) in Marvel",
+      "publisher": "Five Fabulous Decades of the World's Greatest Comics, by Les Daniels (New York : H.N. Abrams",
+      "date": "1991"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "181": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Over 50 Years of American Comic Books",
+    "author": "Ron Goulart",
+    "series": null,
+    "pages": {
+      "range": [
+        "37"
+      ]
+    },
+    "call number": "PN6725.G636 1991",
+    "publication info": {
+      "place": "Lincolnwood, Ill.",
+      "publisher": "Mallard Press",
+      "date": "1991"
+    },
+    "notes": []
+  },
+  "182": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "110",
+        "154"
+      ]
+    },
+    "call number": "NC1340.P4 1971",
+    "publication info": null,
+    "notes": []
+  },
+  "183": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos II, 1934-1950",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "62",
+        "63",
+        "99",
+        "126"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "México",
+      "date": null
+    },
+    "notes": []
+  },
+  "184": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Puros Cuentos III, 1934-1950",
+    "author": "Juan Manuel Aurrecoechea, Armando Bartra",
+    "series": null,
+    "pages": {
+      "range": [
+        "13",
+        "56",
+        "62"
+      ]
+    },
+    "call number": null,
+    "publication info": {
+      "place": null,
+      "publisher": "México",
+      "date": null
+    },
+    "notes": []
+  },
+  "185": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "40"
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "186": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Women in the Comics",
+    "author": "Maurice Horn.",
+    "series": null,
+    "pages": {
+      "range": [
+        "95",
+        "108",
+        "169"
+      ]
+    },
+    "call number": "PN6725.H6",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Chelsea House",
+      "date": "1977"
+    },
+    "notes": []
+  },
+  "187": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "illustrations": [
+        "391",
+        "476",
+        "551"
+      ],
+      "range": [
+        "22",
+        "198",
+        "240",
+        "475",
+        "551",
+        ""
+      ]
+    },
+    "call number": null,
+    "publication info": null,
+    "notes": []
+  },
+  "188": {
+    "heading": "Falk, Lee, 1905-1999--Miscellanea.",
+    "title": "\"Lee Falk at the Zoo!\"",
+    "author": "Tony Didio",
+    "title_type": "incipit",
+    "series": "[No series]",
+    "appears_in": " p. 10 in Comic Book Marketplace, v. 2, no. 62 (Aug. 1998).",
+    "call number": "PN6714.C632v.2no.62",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Marketplace Mail)",
+      "Letter on the Australian Comic Convention in Sydney, (Sept. 27-28, 1998), and an opportunity to meet Lee Falk."
+    ]
+  },
+  "189": {
+    "heading": "Falk, Nat.",
+    "title": "How to Make Animated Cartoons : the history and technique",
+    "author": "by Nat Falk, illustrated by the author and the cartoon studios ; foreword by Paul Terry.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Foundation Books",
+      "date": "1941"
+    },
+    "physical description": {
+      "dimensions": "29 cm. 1. Animated films",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "79 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Technique. I. Falk, Nat. II. Terry, Paul. Call no.: NC1765.F3"
+    ]
+  },
+  "190": {
+    "heading": "Falk, Nat.",
+    "title": "It's Fun to Draw",
+    "author": "edited by Alan Dale Bogorad.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "NC650.B62 1944",
+    "library has": "",
+    "publication info": {
+      "place": "New York",
+      "publisher": "Wm. Penn Publishing Corporation",
+      "date": "1944"
+    },
+    "physical description": {
+      "dimensions": "28 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "127 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "Arthur Zaidenberg",
+        "title": "How to draw illustrations"
+      },
+      {
+        "author": "Charles Carlson",
+        "title": "Drawing the human figure"
+      },
+      {
+        "author": "by Chuck Thorndike",
+        "title": "Cartooning made easy"
+      },
+      {
+        "author": "Nat Falk",
+        "title": "Animated cartoons"
+      },
+      {
+        "author": "Raymond Cohn",
+        "title": "Practical guide to lettering"
+      },
+      {
+        "author": "by Alan Bogorad",
+        "title": "The elements of advertising art"
+      },
+      {
+        "author": "Henry Westphalen",
+        "title": "Fun in art"
+      },
+      {
+        "author": "George Heitmanek",
+        "title": "Color in art"
+      },
+      {
+        "author": "Michael Estrin.",
+        "title": "Breaking into professional art"
+      }
+    ],
+    "notes": [
+      "\"Color measurement chart\" on back cover."
+    ]
+  },
+  "191": {
+    "heading": "Falk, Terry.",
+    "title": "\"Dear Uncle Creepy\" p. 4-5 in Creepy, no. 44",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Mar. 1972).",
+    "call number": "PN6728.3.W3C7no.44",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters to the editor from David Doray, Steven Mitchell, Ron Ford (response by T. Casey Brennan), Cruz Milagros Sepulveda, John McAloon, Kevin Miller, Robert Cohen, Glenn S. Nunnamaker, Deborah Woodson, Ron Snider, Kevin McQuae, Dave Dapkewicz, John Mulder, Terry Falk, Arnold Klein (response by Steve Skeates), Robert Ochoa, Mike Chojnacki, Harvey MacKinnon, Scott Overall, Sean P. Kendall, and Laney Loftin."
+    ]
+  },
+  "192": {
+    "heading": "Falk, William.",
+    "title": "\"Marketplace Mail\" p. 72-77 in Comic Book Marketplace, no. 9",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Jan. 1992).",
+    "call number": "PN6714.C632no.9",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Letters not separately captioned from Steve Walker, Willie Iltulski, Paul Koster, Ed Sobolak, Gary Hackenbury, Greg Styles, Charles West, Wayne Richardson, Satoshi Hirota, William Falk, Arnie Sawyer, Guy Miles Budziak, R. Riddell, West Stephan, Rob Rankin, Gerard Voland, Shaun Hamilton, Jeff Lande, John Walsh, Steve Kortus, Marty Stadterman, Mark Steel, Steve Sibra, Helen Hamilton, J. Keith Contarino, Dave Anderson, and Mark Hamashaw."
+    ]
+  },
+  "193": {
+    "heading": null,
+    "title": "Falk.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6758.F3 1985",
+    "library has": "Bd. 1-3.",
+    "publication info": {
+      "place": "Schonau",
+      "publisher": "N. Hethke",
+      "date": "1985-"
+    },
+    "physical description": {
+      "dimensions": "25 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover.",
+      "Spine title: Hansrudi Wäschers Falk.",
+      "Caption title: Falk, Ritter ohne Furcht und Tadel.",
+      "Reprints Falk-Grossbände, originally published 1963- .",
+      "Genre: Adventure story."
+    ]
+  },
+  "194": {
+    "heading": null,
+    "title": "Falk ; 18 Der Verborgene Dolch.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6758.F3V4 1999",
+    "library has": "",
+    "publication info": {
+      "place": "Schönau",
+      "publisher": "N. Hethke",
+      "date": "1999"
+    },
+    "physical description": {
+      "dimensions": "77 x 170 mm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "34 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "(Falk, Ritter ohne Furcht und Tadel ; 18)",
+      "Reprints a miniature comic book from the 1950s or 1960s.",
+      "\"Piccolo\"."
+    ]
+  },
+  "195": {
+    "heading": "Falk--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Das grosse Comic-Lexikon",
+    "author": "Marcel Feige",
+    "series": null,
+    "pages": {
+      "range": [
+        "181"
+      ]
+    },
+    "call number": "PN6707.F48 2001",
+    "publication info": {
+      "place": null,
+      "publisher": "Berlin: Lexikon Imprint Verlag",
+      "date": "2001"
+    },
+    "notes": []
+  },
+  "196": {
+    "heading": "Falk--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Comics, vom Massenblatt ins multimediale Abenteuer",
+    "author": "Andreas C. Knigge",
+    "series": null,
+    "pages": {
+      "range": [
+        "221"
+      ]
+    },
+    "call number": "PN6710.K53 1996",
+    "publication info": {
+      "place": "Reinbeck bei Hamburg",
+      "publisher": "Rowohlt",
+      "date": "1996"
+    },
+    "notes": []
+  },
+  "197": {
+    "heading": "Falk--Miscellanea.",
+    "entry type": "index entry",
+    "title": "Historia de los Comics",
+    "author": "J. Toutain, J. Coma",
+    "series": null,
+    "pages": {
+      "range": [
+        "1286"
+      ]
+    },
+    "call number": "PN6710.H5 1982a",
+    "publication info": {
+      "place": "Barcelona",
+      "publisher": "Toutain",
+      "date": "1982"
+    },
+    "notes": []
+  },
+  "198": {
+    "heading": "Falk--Miscellanea.",
+    "entry type": "index entry",
+    "title": "A History of Komiks of the Philippines and Other Countries",
+    "author": "Cynthia Roxas &amp; Joaquin Arevalo Jr.",
+    "series": null,
+    "pages": {
+      "range": [
+        "255"
+      ]
+    },
+    "call number": "PN6790.P47R6 1985",
+    "publication info": {
+      "place": null,
+      "publisher": "Islas Filipinas Pub. Co.",
+      "date": "1985"
+    },
+    "notes": []
+  },
+  "199": {
+    "heading": "Falk--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "79",
+        "85-86"
+      ]
+    },
+    "call number": "NC1355.B34 1972",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "(Bochum : F. Kamp, 1972)."
+    ]
+  },
+  "200": {
+    "heading": "Falk--Miscellanea.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "691"
+      ]
+    },
+    "call number": "PN6710.W6 1976",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": []
+  },
+  "201": {
+    "heading": null,
+    "title": "Falk, Ritter ohne Furcht und Tadel.",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6758.F28",
+    "library has": "Bd. 16, 18 (1963?)",
+    "publication info": {
+      "place": "Hannover",
+      "publisher": "Walter Lehning Verlag",
+      "date": "1963-1967"
+    },
+    "physical description": {
+      "dimensions": "24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Published Bd. 1 (Apr. 1963) - Bd. 119 (Nov. 1967), cf. Allgemeiner Deutscher Comic Preiskatalog, 2001."
+    ]
+  },
+  "202": {
+    "heading": "Falkenauge.",
+    "entry type": "index entry",
+    "title": null,
+    "author": null,
+    "series": null,
+    "pages": {
+      "range": [
+        "108"
+      ]
+    },
+    "call number": "NC1355.B34 1972",
+    "publication info": {
+      "place": null,
+      "publisher": null,
+      "date": null
+    },
+    "notes": [
+      "(Bochum : F. Kamp, 1972)."
+    ]
+  },
+  "203": {
+    "heading": "Falkenburg, Bob.",
+    "title": "\"Bob Falkenburg\" 1 p. in True Comics, no. 63",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "Aug. 1947",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Single-panel page about the tennis player. 1. Falkenburg, Bob",
+      "Comic books, strips, etc. 2. Tennis players",
+      "Comic books, strips, etc. Call no.: PN6728.1.P3T7no.63"
+    ]
+  },
+  "204": {
+    "heading": "Falkenberg, E.",
+    "title": "Berufswahl ein Glücksspiel?",
+    "author": "Text u",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Zeichnungen, E. Falkenberg.",
+    "call number": "HF5382.5.G3F3 1975",
+    "library has": "",
+    "publication info": {
+      "place": "Fischerhude in der Bredenau",
+      "publisher": "Verlag Atelier im Bauernhaus",
+      "date": "1975"
+    },
+    "physical description": {
+      "dimensions": "21 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "24 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Educational comic book about career choices."
+    ]
+  },
+  "205": {
+    "heading": "Falkenberg--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 3",
+        "83"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.3",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "2000"
+    },
+    "notes": []
+  },
+  "206": {
+    "heading": "Falkland Islands.",
+    "title": "The Tin-Pot Foreign General and the Old Iron Woman",
+    "author": "Raymond Briggs.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Boston",
+      "publisher": "Little, Brown",
+      "date": "1984"
+    },
+    "physical description": {
+      "dimensions": "30 cm. 1. Falkland Islands",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "History",
+      "Anecdotes, facetiae, satire, etc. I. Briggs, Raymond. Call no.: PN6737f.B7T5 1984"
+    ]
+  },
+  "207": {
+    "heading": "Falkland Islands War, 1982.",
+    "title": "Biggles Recounts the Falklands War",
+    "author": "written by Bernard Asso and Joël Rideau ; illustrated by Daniel Chauvin and Marcel Uderzo ; colour work, Fréderic Bergese ; translator, Luke Spear.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "PN6747.C4713B313 2007",
+    "library has": "",
+    "publication info": {
+      "place": "Ashford",
+      "publisher": "Cinebook",
+      "date": "2007"
+    },
+    "physical description": {
+      "dimensions": "29 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "48 p.",
+      "illustrationTypes": "col. ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Translation of: La Bataille des Malouines.",
+      "Historical comic about the Falkland Islands War, 1982."
+    ]
+  },
+  "208": {
+    "heading": "Falkland Islands War, 1982.",
+    "title": "Carry on Yomping! : more cartoons from Up the Falklands!",
+    "author": "Roy Carr, Arthur Huddart, John R",
+    "title_type": "official",
+    "series": "[No series]",
+    "appears_in": " Webb.",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "64 p.",
+      "publisher": "ill. ; 15 x 21 cm. 1. Falkland Islands War",
+      "date": "1982"
+    },
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Caricatures and cartoons. I. Carr, Roy. II. Huddart, Arthur. III. Webb, John R. IV. Up the Falklands! Call no.: NC1479.C33 1982"
+    ]
+  },
+  "209": {
+    "heading": "Falkland Islands War, 1982.",
+    "title": "The Log of the Irish Navy : from the Falklands to San Fr…ncisco Bay",
+    "author": "O'Neill.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": {
+      "place": "Nevada City, Cal.",
+      "publisher": "H. O'Neill",
+      "date": "1983"
+    },
+    "physical description": {
+      "dimensions": "16 x 24 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "13 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [],
+    "notes": [
+      "Title from cover. 1. Falkland Islands War, 1982",
+      "Comic books, strips, etc. I. O'Neill, Dan, 1942- Call no.: PN6727.O5L6 1983"
+    ]
+  },
+  "210": {
+    "heading": "Falklands.",
+    "title": "The Blank in the Comics strip collection includes a file of one or more daily comic strips related to this keyword or topic. Call no.: PN6726 f.B55",
+    "author": "[No author]",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "",
+    "library has": "",
+    "publication info": null,
+    "physical description": null,
+    "genre": null,
+    "contents": [],
+    "notes": []
+  },
+  "211": {
+    "heading": "Falko en Donjon--Miscellanea.",
+    "entry type": "encyclopedic entry",
+    "title": "Dictionnaire Encyclopédique de Héros et Auteurs de BD",
+    "author": "Henri Filippini",
+    "series": null,
+    "pages": {
+      "range": [
+        "v. 1",
+        "227"
+      ]
+    },
+    "call number": "PN6707.F5 1998 v.1",
+    "publication info": {
+      "place": "Grenoble",
+      "publisher": "Glénat",
+      "date": "1998"
+    },
+    "notes": []
+  },
+  "212": {
+    "heading": "Falkon, Felix Lance.",
+    "title": "A Historic Collection of Gay Art",
+    "author": "Felix Lance Falkon.",
+    "title_type": "official",
+    "series": "[No series]",
+    "call number": "N72.H64F3 1972",
+    "library has": "",
+    "publication info": {
+      "place": "San Diego, Calif.",
+      "publisher": "Greenleaf Classics",
+      "date": "1972"
+    },
+    "physical description": {
+      "dimensions": "27 cm.",
+      "pages": null,
+      "illustrations": null,
+      "totalPages": "224 p.",
+      "illustrationTypes": "ill."
+    },
+    "genre": null,
+    "contents": [
+      {
+        "author": "D. Gilmore",
+        "title": "Foreword"
+      },
+      {
+        "author": "G.G. Stoctay",
+        "title": "Preface"
+      },
+      {
+        "title": "Introduction"
+      },
+      {
+        "title": "Early sources"
+      },
+      {
+        "title": "Modern musclemen"
+      },
+      {
+        "title": "The artists: Nate"
+      },
+      {
+        "title": "Hank"
+      },
+      {
+        "title": "Steve"
+      },
+      {
+        "title": "Tom (of Finland)"
+      },
+      {
+        "title": "Robin"
+      },
+      {
+        "title": "Kevin"
+      },
+      {
+        "title": "Graewolf"
+      },
+      {
+        "title": "Themes: Preliminaries"
+      },
+      {
+        "title": "The main event"
+      },
+      {
+        "title": "Orgies"
+      },
+      {
+        "title": "Youth"
+      },
+      {
+        "title": "The super-stud"
+      },
+      {
+        "title": "Dungeons and domination"
+      },
+      {
+        "title": "Humor"
+      },
+      {
+        "title": "A general summary"
+      },
+      {
+        "title": "Notes and references."
+      }
+    ],
+    "notes": [
+      "Collection of and about gay erotic art."
+    ]
+  },
+  "213": {
+    "entry type": "target",
+    "anchor": "/rri/frri/fal.htm#mira",
+    "title": "Falardeau, Mira, 1948-",
+    "notes": [
+      "Writer about comics"
+    ],
+    "links": [],
+    "callNumber": "need to find programatically still"
+  }
+}
